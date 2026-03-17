@@ -4,7 +4,7 @@ title: "Site and Environment"
 
 ## Critical Areas Designation (CADS25-0076)
 
-King County completed a Critical Areas Designation for the primary parcel (3624079039) on July 18, 2025. The full report is not available through King County's online permit portal — [download it here](/assets/CAD25-0076-letter-and-map.pdf). Here's what they found:
+King County completed a Critical Areas Designation for the primary parcel ([3624079039](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079039)) on July 18, 2025. The full report is not available through King County's online permit portal — [download it here](/assets/CAD25-0076-letter-and-map.pdf). Here's what they found:
 
 | Critical Area | Location | Buffer | Building Setback |
 |---|---|---|---|
