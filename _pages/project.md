@@ -36,7 +36,7 @@ In 2025, Jupiter Power signed a [**$500 million / 4.75 GWh supply agreement with
 
 ## PSE tolling agreement
 
-PSE ran a voluntary All-Source RFP in July 2024 (UTC Docket UE-240532) for CETA-compliant resources and got 98 proposals. The Cascadia Ridge tolling agreement was signed August 22, 2025 and filed with the UTC on September 19, 2025. The financial terms are entirely confidential.
+PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/acquiring-energy/2024-Voluntary-All-Source-RFP) in July 2024 ([UTC Docket UE-240532](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=34&year=2024&docketNumber=240532)) for CETA-compliant resources and got 98 proposals. The Cascadia Ridge tolling agreement was signed August 22, 2025 and filed with the UTC on September 19, 2025. The financial terms are entirely confidential.
 
 PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh from clean resources by 2030, and up to 1,755 MW of summer peak capacity by 2029. The alternatives are overbuilding generation (expensive, and ratepayers pay for it) or keeping fossil fuel peakers online (which violates CETA).
 
