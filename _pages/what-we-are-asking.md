@@ -24,8 +24,10 @@ Critical area buffers protect the north and east edges. The west side — facing
 
 We've also proposed two amendments to [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) that would apply county-wide, not just at this site:
 
-1. **Add battery chemistry to the Condition 29 alternatives analysis.** The ordinance already requires applicants to evaluate alternative locations and demand management strategies. It should also require them to explain why they're not using a safer chemistry when one is commercially available. This doesn't ban lithium-ion — it requires the applicant to justify the choice.
+1. **Add battery chemistry to the alternatives analysis (Condition 29).** The ordinance already requires applicants to evaluate alternative locations and demand management strategies. It should also require them to explain why they're not using a safer chemistry when one is commercially available. This doesn't ban lithium-ion — it requires the applicant to justify the choice.
 
-2. **Scale the financial responsibility threshold.** Right now the ordinance sets a flat $1 million regardless of facility size or location. A 2 MWh system in an industrial park and a 520 MWh facility across from a residential neighborhood have the same liability floor. The proposed amendment ties the amount to capacity and adjusts for proximity to homes and sensitive habitat.
+2. **Scale the financial responsibility threshold (Section 17.B).** Right now the ordinance sets a flat $1 million regardless of facility size or location. A 2 MWh system in an industrial park and a 520 MWh facility across from a residential neighborhood have the same liability floor. The proposed amendment ties the amount to capacity and adjusts for proximity to homes and sensitive habitat.
 
-Both of these build on what's already in the ordinance.
+Both of these build on what's already in the ordinance. The ordinance itself (Section 19) requires a study report by approximately September 2027 evaluating whether the financial responsibility thresholds are adequate and whether technology changes warrant updates. We think that evaluation shouldn't wait — the gaps are clear now, and projects are already in the pipeline.
+
+We've shared these proposals with Councilmember Perry's office. We'll update this page as that conversation develops.
