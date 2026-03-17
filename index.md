@@ -22,7 +22,7 @@ But lithium-ion is the wrong battery for this location. The fire, noise, and env
 
 ## Why this matters
 
-EPRI's Stephanie Shaw, drawing on their [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database), puts the annual rate of fires with safety concerns at about 0.3% for utility-scale BESS. Over 15 years of operation, the chance of at least one fire at a given facility compounds to roughly **1 in 23**. At a more realistic 0.5% annual rate, it's about **1 in 14**. [Here's the math.](/fire-risk)
+EPRI's Stephanie Shaw, drawing on their [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database), puts the annual rate of fires with safety concerns at about 0.3% for utility-scale BESS. Over 15 years of operation, the chance of at least one fire at a given facility compounds to roughly **1 in 23 (4.4%)**. At a more realistic 0.5% annual rate, it's about **1 in 14 (7.2%)**. [Here's the math.](/fire-risk)
 
 This site is adjacent to thousands of homes on Snoqualmie Ridge, next to Fisher Creek (salmon habitat), in a ridge-bounded valley where temperature inversions can hold smoke close to the ground.
 
