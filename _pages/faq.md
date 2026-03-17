@@ -27,6 +27,14 @@ Residents also raised concerns about proximity to neighborhoods and parks, impac
 
 Councilmember Sarah Perry (District 3) sponsored the BESS ordinance. The City of Snoqualmie has identified this area as a potential annexation area — if annexed, the city's Comprehensive Plan would apply.
 
+## What happens to a lithium-ion BESS in an earthquake?
+
+The Snoqualmie Valley is exposed to three fault systems — the [Southern Whidbey Island Fault](https://washingtondnr.wpcomstaging.com/2009/09/11/southern-whidbey-island-fault-zone-mapped-through-snoqualmie-valley/) (mapped through the valley, M6.5–7.4), the Seattle Fault (M7.0–7.5), and the Cascadia Subduction Zone (M9.0+). Research shows that lithium-ion cells can develop internal short circuits — the initiating event for thermal runaway — from physical impacts as small as 4mm of compression.
+
+King County's ordinance requires IEEE 693 seismic qualification, which ensures equipment stays on its mounts. But it doesn't require modeling the compound hazard: earthquake shaking damages cells internally → thermal runaway → fire → contaminated runoff into Fisher Creek, all while evacuation routes may be earthquake-damaged. No utility-scale BESS has been tested by a major earthquake yet. See the [earthquake risk section](/fire-risk#earthquake-risk) of our fire risk analysis.
+
+Sodium-ion batteries eliminate this coupling entirely — no thermal runaway means an earthquake can't trigger a chemical fire.
+
 ## What can I do?
 
 See [Take Action](/take-action) for specific steps — who to contact, what to ask for, and how to make your voice heard.

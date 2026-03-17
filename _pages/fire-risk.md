@@ -73,3 +73,22 @@ Those numbers land a certain way when the facility is adjacent to thousands of h
 | Sodium-ion (NFPP) | None in testing | ~0% from this cause |
 
 Sodium-ion doesn't have thermal runaway. That's not an incremental safety improvement — it's a different category of risk.
+
+## Earthquake risk
+
+The Snoqualmie Valley sits at the intersection of three fault systems:
+
+- **[Southern Whidbey Island Fault (SWIF)](https://washingtondnr.wpcomstaging.com/2009/09/11/southern-whidbey-island-fault-zone-mapped-through-snoqualmie-valley/)** — mapped directly through the Snoqualmie Valley, capable of M6.5–7.4 shallow earthquakes
+- **Seattle Fault** — M7.0–7.5, very shallow (<25 km), highest shaking intensity
+- **Cascadia Subduction Zone** — M9.0+, minutes of sustained shaking
+
+King County's BESS ordinance requires [IEEE 693](https://standards.ieee.org/ieee/693/4996/) seismic qualification for structural and nonstructural components. That standard ensures equipment stays on its mounts during an earthquake. What it doesn't address:
+
+- **Internal cell damage.** Research shows lithium-ion cells can develop internal short circuits from [as little as 4mm of axial compression](https://www.sciencedirect.com/science/article/abs/pii/S0378775314007708). An internal short circuit is the initiating event for thermal runaway. IEEE 693 prevents racks from toppling — it doesn't prevent the vibration and shock that damages cells internally.
+- **Compound hazard analysis.** No requirement to model the earthquake → thermal runaway → fire → toxic runoff chain for this specific site. Fisher Creek is less than 10 vertical feet below the development area.
+- **Site-specific seismic assessment.** The SWIF runs through this valley. [KCC 21A.24.290](https://aqua.kingcounty.gov/council/clerk/code/24-30_Title_21A.pdf) addresses development in seismic hazard areas, but the BESS ordinance doesn't explicitly cross-reference those provisions.
+- **Post-earthquake response.** In a major earthquake, fire department access may be compromised, water supply disrupted, and evacuation routes damaged — exactly when a BESS fire would be most dangerous.
+
+No utility-scale BESS has been hit by a major earthquake yet. That's because the fleet is young and mostly deployed in low-seismicity areas — not because these systems are proven earthquake-safe.
+
+Again: sodium-ion eliminates the coupling. No thermal runaway means an earthquake can't trigger a chemical fire.
