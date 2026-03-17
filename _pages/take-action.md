@@ -2,7 +2,7 @@
 title: "Take Action"
 ---
 
-1. **Comment during SEPA review.** When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity. [**Sign up for updates**](/subscribe) so you don't miss it.
+1. **[Sign up for updates.](/subscribe)** We'll alert you when the SEPA comment window opens, when new permits are filed, and when community meetings are scheduled. If you do one thing, do this.
 
 2. **Write to the Snoqualmie City Council.** The site is in the city's Southwest Potential Annexation Area. The City of Snoqualmie has no jurisdiction today, but it could. We've already written to the Mayor and Council asking them to act. You can reinforce that message:
    - Snoqualmie City Council — [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
@@ -12,8 +12,10 @@ title: "Take Action"
      3. **Engage King County during SEPA review** with a formal city comment when Jupiter Power refiles.
      4. **Consider whether the Comprehensive Plan addresses** the risk of incompatible land use decisions on adjacent unincorporated parcels — this won't be the last proposal of its kind.
 
-3. **King County ordinance amendments — in progress.** We've proposed two amendments to [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) to Councilmember Sarah Perry's office (District 3) — a battery chemistry alternatives analysis requirement and scaled financial responsibility. See [what we're asking for](/what-we-are-asking) for details. We'll update this page when there's something specific to act on.
+3. **Get informed.** Understanding the [permitting process](/permitting), the [technology](/battery-technology), the [fire risk](/fire-risk), and [what we're asking for](/what-we-are-asking) makes your voice more effective when the time comes.
 
 4. **Attend community meetings.** King County's BESS ordinance requires a community meeting before a permit can be filed. Jupiter Power held one on March 17, 2026. Future meetings will be announced.
 
-5. **Stay informed.** Understanding the [permitting process](/permitting), the [technology](/battery-technology), and [what we're asking for](/what-we-are-asking) makes your comments more effective.
+5. **Comment during SEPA review.** When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity for public input. We'll send an alert when it opens.
+
+6. **King County ordinance amendments — in progress.** We've proposed two amendments to [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) to Councilmember Sarah Perry's office (District 3) — a battery chemistry alternatives analysis requirement and scaled financial responsibility. See [what we're asking for](/what-we-are-asking) for details. We'll update this page when there's something specific to act on.
