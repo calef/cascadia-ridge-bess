@@ -2,58 +2,74 @@
 title: "Fire Risk Analysis"
 ---
 
-The battery industry's safety argument comes down to one number: 0.3% of utility-scale BESS had a fire with safety concerns in a given year, per [EPRI's Stephanie Shaw](https://science.feedback.org/are-grid-battery-storage-systems-fire-prone/), drawing on their [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database).
+There are two ways to measure how often lithium-ion BESS facilities have fires. Both come from EPRI. They tell different stories — and neither one is reassuring for a 130 MW facility next to thousands of homes.
 
-That's for a single year. These facilities operate for 15–20 years. The compound probability over an actual operating life tells a different story.
+## Two metrics
+
+**Metric 1: Per-project rate.** [EPRI's Stephanie Shaw](https://science.feedback.org/are-grid-battery-storage-systems-fire-prone/) said 0.3% of projects experienced a failure leading to a fire with potential safety concerns in 2024, drawing on their [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database). This treats every project the same regardless of size — a 2 MW system and a 300 MW system each count as one project.
+
+**Metric 2: Per-GW rate.** EPRI's [published failure data](https://www.energy-storage.news/battery-storage-failure-incident-rate-dropped-97-between-2018-and-2023/) shows 0.2–0.3 failures per GW of deployed capacity per year as of 2023–2024. This scales with facility size — larger facilities, with more cells and more potential failure points, contribute more to the denominator and carry proportionally more risk.
+
+The per-project rate is a single-year observation from a fleet of roughly 431 projects. The per-GW rate is EPRI's published, normalizable metric. They measure different things: Shaw's number is specifically "fires with potential safety concerns," while the per-GW metric covers all failures.
 
 ## The math
 
-Probability of at least one fire over N years at annual rate r:
+Probability of at least one incident over N years at annual rate r:
 
 **P = 1 - (1 - r)<sup>N</sup>**
 
-### Using the industry's 0.3% annual rate
+### Using the per-project rate (0.3%/yr)
+
+This is the industry's preferred number. It doesn't account for facility size.
 
 | Years | Cumulative Probability | Odds |
 |---|---|---|
-| 1 | 0.3% | 1 in 333 |
 | 5 | 1.5% | 1 in 67 |
 | 10 | 3.0% | 1 in 33 |
 | 15 | 4.4% | 1 in 23 |
 | 20 | 5.8% | 1 in 17 |
 
-Over 15 years at the industry's own rate: about **1 in 23.**
+### Using the per-GW rate for a 130 MW facility
 
-### At higher rates
+0.3 failures/GW/yr × 0.13 GW = **3.9% annual rate.** This accounts for the fact that a 130 MW facility is roughly twice the fleet average (~63 MW).
 
-| Years | 0.3%/yr | 0.5%/yr | 1.0%/yr |
-|---|---|---|---|
-| 5 | 1.5% | 2.5% | 4.9% |
-| 10 | 3.0% | 4.9% | 9.6% |
-| 15 | 4.4% | 7.2% | 14.0% |
-| 20 | 5.8% | 9.5% | 18.2% |
+| Years | Cumulative Probability | Odds |
+|---|---|---|
+| 5 | 18.1% | 1 in 6 |
+| 10 | 32.9% | 1 in 3 |
+| 15 | 45.0% | 1 in 2 |
+| 20 | 54.7% | better than even |
 
-## Why the real number is probably higher
+### Side by side
 
-The 0.3% figure comes from a fleet that's mostly new. Almost no utility-scale lithium-ion BESS has been running 10 years, let alone 20. We don't actually know what failure rates look like for aged systems.
+| Years | Per-project (0.3%/yr) | Per-GW for 130 MW (3.9%/yr) |
+|---|---|---|
+| 5 | 1.5% | 18.1% |
+| 10 | 3.0% | 32.9% |
+| 15 | 4.4% | 45.0% |
+| 20 | 5.8% | 54.7% |
+
+The truth is somewhere in between. The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires with safety concerns. But even the low end — a 1-in-23 chance over 15 years — is not a number most people would accept next to their homes.
+
+## Why the real number is probably higher than either
+
+The fleet is mostly new. Almost no utility-scale lithium-ion BESS has been running 10 years, let alone 20. We don't actually know what failure rates look like for aged systems.
 
 Lithium-ion cells degrade over time — internal resistance goes up, dendrites form, thermal stability drops. These are well-understood mechanisms in battery science. The failure rate for a 15-year-old facility is not going to be the same as for a new one.
 
-EPRI's database has about 81 reported incidents with root cause information for roughly 26 of them. Thermal events that didn't result in a major fire or make the news are probably underrepresented.
+EPRI's database has about 120 reported incidents total. Thermal events that didn't result in a major fire or make the news are probably underrepresented. EPRI itself notes it "cannot guarantee that the database captures every relevant BESS failure incident."
 
-A 130 MW / 520 MWh facility is also a lot bigger than most of what's in the fleet data. More cells, more modules, more battery management systems, more points where something can go wrong.
-
-And thermal runaway doesn't always stay in one container. It can cascade. The 0.3% figure treats all fires the same — it doesn't distinguish a contained single-container event from a Moss Landing-scale fire that destroyed 55–80% of the facility and evacuated the surrounding community.
+And thermal runaway doesn't always stay in one container. It can cascade. Neither metric distinguishes a contained single-container event from a Moss Landing-scale fire that destroyed 55–80% of the facility and evacuated the surrounding community.
 
 ## For this site
 
-Someone buying a house next to a lithium-ion BESS is looking at a 1-in-23 chance of fire over 15 years, at minimum. Probably closer to 1-in-14.
+By either measure, the risk over a 15–20 year operating life is not small. At the low end, it's 1-in-23. Accounting for facility size, it could be far higher.
 
 Those numbers land a certain way when the facility is adjacent to thousands of homes, next to salmon-bearing streams, in a ridge-bounded valley where inversions can trap smoke, with two ways out of the neighborhood.
 
-| Chemistry | Thermal Runaway? | 15-year fire probability |
+| Chemistry | Thermal Runaway? | 15-year risk range |
 |---|---|---|
-| Lithium-ion (NMC/LFP) | Yes | 4.4%–14.0% |
+| Lithium-ion (NMC/LFP) | Yes | 4.4%–45.0% |
 | Sodium-ion (NFPP) | None in testing | ~0% from this cause |
 
 Sodium-ion doesn't have thermal runaway. That's not an incremental safety improvement — it's a different category of risk.
