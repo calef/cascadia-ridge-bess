@@ -3,7 +3,7 @@ layout: default
 title: "Cascadia Ridge BESS — Community Research"
 ---
 
-Jupiter Power LLC wants to build a 130 MW lithium-ion battery storage facility on about 45 acres in unincorporated King County, directly across Snoqualmie Parkway from Snoqualmie Ridge. It would connect to PSE's Mt. Si substation via a 115kV tie-line.
+Jupiter Power LLC wants to build a 130 MW lithium-ion battery storage facility on about 45 acres in unincorporated King County, on Snoqualmie Ridge. It would connect to PSE's Mt. Si substation via a 115kV tie-line.
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-121.8680%2C47.5220%2C-121.8490%2C47.5330&layer=mapnik&marker=47.5271%2C-121.8586" style="border: 1px solid #ddd; border-radius: 4px; margin: 1rem 0;"></iframe>
 <small><a href="https://www.openstreetmap.org/?mlat=47.5271&mlon=-121.8586#map=15/47.5271/-121.8586" target="_blank">View larger map</a> — Marker shows approximate center of the proposed site.</small>
