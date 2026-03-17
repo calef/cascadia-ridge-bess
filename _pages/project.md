@@ -16,11 +16,11 @@ title: "Project Overview"
 | Operations target | Late 2028 |
 | Fire district | King County FPD No. 38 / Eastside Fire & Rescue |
 | Projected tax revenue | $783,000–$1,130,000/year in years 3–12 |
-| Contact | Gage Fuller, cascadiaridge@jupiterpower.io |
+| Contact | Gage Fuller, [cascadiaridge@jupiterpower.io](mailto:cascadiaridge@jupiterpower.io) |
 
 ## What the facility would include
 
-- Lithium-ion batteries in storage containers
+- Lithium-ion battery modules housed in prefabricated enclosures (standard utility-scale BESS design)
 - Thermal management / cooling systems (fans, HVAC — these run 24/7)
 - Fire detection and suppression equipment
 - Inverters, transformers, and substation
@@ -29,17 +29,17 @@ title: "Project Overview"
 
 ## Jupiter Power
 
-Founded 2017, acquired by BlackRock (Diversified Infrastructure) in late 2022. About 8,000 MWh operating or under construction, 11,000+ MW pipeline.
+Founded 2017, acquired by BlackRock (Diversified Infrastructure) in late 2022. About 8,000 MWh of battery storage operating or under construction, 11,000+ MW battery storage pipeline.
 
-They're also behind the Blackberry Grove project (100 MW) near Hillsboro, Oregon — the most contested land use case in Washington County history, opposed by the No Batteries In Backyards group.
+They're also behind the Blackberry Grove project (100 MW) near Hillsboro, Oregon — the most contested land use case in Washington County history, opposed by the [No Batteries In Backyards](https://nobatteriesinbackyards.org/) group.
 
-In 2025, Jupiter Power signed a **$500 million / 4.75 GWh supply agreement with Peak Energy for sodium-ion batteries** — a chemistry with no thermal runaway, no toxic off-gassing, and passive cooling. CEO Andy Bowman said it "checks every box" for safety and cost. That's worth sitting with: the company proposing lithium-ion for Snoqualmie Ridge is spending half a billion dollars on the technology that would fix the problems Snoqualmie Ridge is worried about.
+In 2025, Jupiter Power signed a [**$500 million / 4.75 GWh supply agreement with Peak Energy for sodium-ion batteries**](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) — a chemistry with no thermal runaway, no toxic off-gassing, and passive cooling. CTO Mike Geier called it a "potential game changer." The company proposing lithium-ion for Snoqualmie Ridge is spending half a billion dollars on the technology that would fix the problems Snoqualmie Ridge is worried about.
 
 ## PSE tolling agreement
 
 PSE ran a voluntary All-Source RFP in July 2024 (UTC Docket UE-240532) for CETA-compliant resources and got 98 proposals. The Cascadia Ridge tolling agreement was signed August 22, 2025 and filed with the UTC on September 19, 2025. The financial terms are entirely confidential.
 
-PSE needs storage to hit its CETA targets: up to 2.3 million annual MWh from clean resources by 2030, and up to 1,755 MW of summer peak capacity by 2029. The alternatives are overbuilding generation (expensive, and ratepayers pay for it) or keeping fossil fuel peakers online (which violates CETA).
+PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh from clean resources by 2030, and up to 1,755 MW of summer peak capacity by 2029. The alternatives are overbuilding generation (expensive, and ratepayers pay for it) or keeping fossil fuel peakers online (which violates CETA).
 
 ## Community response
 

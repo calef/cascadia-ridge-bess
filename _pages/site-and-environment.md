@@ -4,7 +4,7 @@ title: "Site and Environment"
 
 ## Critical Areas Designation (CADS25-0076)
 
-King County completed a Critical Areas Designation for the primary parcel (3624079039) on July 18, 2025. Here's what they found:
+King County completed a Critical Areas Designation for the primary parcel (3624079039) on July 18, 2025. The full report is not available through King County's online permit portal — [download it here](/assets/CAD25-0076-letter-and-map.pdf). Here's what they found:
 
 | Critical Area | Location | Buffer | Building Setback |
 |---|---|---|---|
@@ -27,7 +27,7 @@ The wildlife picture may also be incomplete. The CAD report identified two large
 
 ## Visual screening
 
-Critical area buffers will preserve vegetation on the north and east sides. But the **west side — facing Snoqualmie Parkway** — has no buffer protection at all. That's the side every resident, commuter, and visitor sees. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
+Critical area buffers will preserve vegetation on the north and east sides. But the **west side — facing the backyards of homes on Bracken Place SE and SE Center Street** — has no buffer protection at all. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
 
 ## Parcels
 

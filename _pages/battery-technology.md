@@ -10,9 +10,9 @@ Thermal runaway is an uncontrolled temperature rise inside a battery cell that f
 
 | Date | Facility | Capacity | What happened |
 |---|---|---|---|
-| Apr 2019 | McMicken, AZ | 2 MW | Explosion injured 8 firefighters |
-| May 2024 | Gateway, San Diego | 250 MW | Burned 11 days, EPA-ordered cleanup |
-| Jan 2025 | Moss Landing, CA | 300 MW | 1,200–1,500 evacuated, largest EPA lithium-ion cleanup in history |
+| Apr 2019 | [McMicken, AZ](https://www.utilitydive.com/news/aps-says-runaway-thermal-event-caused-2019-battery-explosion-outlines-4-st/582475/) | 2 MW | Explosion injured 8 firefighters |
+| May 2024 | [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) | 250 MW | Burned 11 days, EPA-ordered cleanup |
+| Jan 2025 | [Moss Landing, CA](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) | 300 MW | 1,200–1,500 evacuated, largest EPA lithium-ion cleanup in history |
 
 ### What comes out of a lithium-ion battery fire
 
@@ -27,7 +27,7 @@ These fires come back. Undamaged cells in a partially burned facility still hold
 
 ### Why this site is different
 
-The Snoqualmie Valley is ridge-bounded. Temperature inversions trap smoke and gas close to the ground here — nothing like a coastal site such as Moss Landing where wind disperses emissions.
+The Snoqualmie Valley is ridge-bounded. Temperature inversions in western Washington valleys can trap smoke and gas close to the ground — nothing like a coastal site such as Moss Landing where wind disperses emissions.
 
 Fisher Creek runs through the parcel with an unmapped floodplain less than 10 vertical feet from the development area. Contaminated firefighting runoff would reach the creek.
 
@@ -50,6 +50,6 @@ Snoqualmie Ridge has limited ways out: Snoqualmie Parkway and SR-18. Moss Landin
 - Targeting cost parity with LFP
 - Commercial scale 2026–2027
 
-Jupiter Power signed a $500M / 4.75 GWh deal with Peak Energy for this technology. Their CEO said it "checks every box."
+Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer."
 
 The Cascadia Ridge facility won't be online until late 2028 — well after sodium-ion is commercially available. So why isn't Jupiter Power using it here?

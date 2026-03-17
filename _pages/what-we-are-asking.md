@@ -2,13 +2,13 @@
 title: "What We're Asking"
 ---
 
-PSE needs grid storage. Washington's CETA targets require it, and the Mt. Si substation next door makes this a reasonable site. We get that. We're not trying to kill this project.
+PSE needs grid storage. Washington's [CETA](/ceta) targets require it, and the Mt. Si substation next door makes this a reasonable site. We get that. We're not trying to kill this project.
 
 But we think the community has a right to ask for two specific things.
 
 ## 1. Sodium-ion or equivalent non-lithium-ion chemistry
 
-Jupiter Power's own $500M Peak Energy contract tells you where the industry is headed. Sodium-ion gets rid of:
+Jupiter Power's own [$500M Peak Energy contract](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) tells you where the industry is headed. Sodium-ion gets rid of:
 
 - Thermal runaway — the mechanism behind every major BESS fire
 - Hydrogen fluoride and heavy metal emissions
@@ -18,7 +18,7 @@ The facility won't be operational until late 2028. Sodium-ion will be commercial
 
 ## 2. Tree retention on the west (Parkway-facing) side
 
-Critical area buffers protect the north and east edges. The west side — facing Snoqualmie Parkway, facing all of us — has nothing. The trees are already there. Leaving them alone costs Jupiter Power nothing and preserves the visual buffer between the facility and the neighborhood.
+Critical area buffers protect the north and east edges. The west side — facing the backyards of homes on Bracken Place SE and SE Center Street — has nothing. The trees are already there. Leaving them alone costs Jupiter Power nothing and preserves the visual buffer between the facility and the neighborhood.
 
 ## Proposed changes to King County's BESS ordinance
 

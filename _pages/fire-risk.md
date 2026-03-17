@@ -2,7 +2,7 @@
 title: "Fire Risk Analysis"
 ---
 
-The battery industry's safety argument comes down to one number: 0.3% of utility-scale BESS had a fire with safety concerns in a given year, per EPRI's failure database.
+The battery industry's safety argument comes down to one number: 0.3% of utility-scale BESS had a fire with safety concerns in a given year, per EPRI's Stephanie Shaw, drawing on their [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database).
 
 That's for a single year. These facilities operate for 15–20 years. The compound probability over an actual operating life tells a different story.
 
@@ -47,9 +47,9 @@ And thermal runaway doesn't always stay in one container. It can cascade. The 0.
 
 ## For this site
 
-Someone buying a house across the parkway from a lithium-ion BESS is looking at a 1-in-23 chance of fire over 15 years, at minimum. Probably closer to 1-in-14.
+Someone buying a house next to a lithium-ion BESS is looking at a 1-in-23 chance of fire over 15 years, at minimum. Probably closer to 1-in-14.
 
-Those numbers land a certain way when the facility is next to thousands of homes, next to salmon-bearing streams, in a valley where inversions trap smoke, with two ways out of the neighborhood.
+Those numbers land a certain way when the facility is adjacent to thousands of homes, next to salmon-bearing streams, in a ridge-bounded valley where inversions can trap smoke, with two ways out of the neighborhood.
 
 | Chemistry | Thermal Runaway? | 15-year fire probability |
 |---|---|---|
