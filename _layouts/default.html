@@ -28,5 +28,13 @@
     <p>Research compiled by Chris Alef, Snoqualmie Valley resident and former City of Snoqualmie Planning Commissioner.</p>
     <p>Contact: <a href="mailto:chris@crickertech.com">chris@crickertech.com</a></p>
   </footer>
+  <script>
+    document.querySelectorAll('a[href^="http"]').forEach(function(a) {
+      if (a.hostname !== location.hostname) {
+        a.target = '_blank';
+        a.rel = 'noopener';
+      }
+    });
+  </script>
 </body>
 </html>
