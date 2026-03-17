@@ -30,6 +30,14 @@
     <p>Contact: <a href="mailto:chris@crickertech.com">chris@crickertech.com</a></p>
   </footer>
   <script>
+    document.querySelectorAll('main h2[id]').forEach(function(h) {
+      var a = document.createElement('a');
+      a.className = 'anchor-link';
+      a.href = '#' + h.id;
+      a.textContent = '#';
+      a.title = 'Link to this section';
+      h.appendChild(a);
+    });
     document.querySelectorAll('a[href^="http"]').forEach(function(a) {
       if (a.hostname !== location.hostname) {
         a.target = '_blank';
