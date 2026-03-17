@@ -4,7 +4,7 @@ title: "Site and Environment"
 
 ## Critical Areas Designation (CADS25-0076)
 
-King County completed a Critical Areas Designation for the primary parcel ([3624079039](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079039)) on July 18, 2025. The full report is not available through King County's online permit portal — [download it here](/assets/CAD25-0076-letter-and-map.pdf). Here's what they found:
+King County completed a Critical Areas Designation for the primary parcel ([3624079039](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079039)) in July 2025. The full report is not available through King County's online permit portal — [download it here](/assets/CAD25-0076-letter-and-map.pdf). Here's what they found:
 
 | Critical Area | Location | Buffer | Building Setback |
 |---|---|---|---|
@@ -23,7 +23,7 @@ Jupiter Power also has to file a separate Floodplain Development Application bef
 
 Between the steep slopes on the east, the wetland buffer on the northeast, and Fisher Creek on the northwest, the buildable footprint is a lot smaller than "45 acres" makes it sound.
 
-The wildlife picture may also be incomplete. The CAD report identified two large hollow trees or snags where Vaux's swifts could nest, and noted that western toad may use the site. But Jupiter Power isn't the property owner, so they couldn't get the full sensitive species PHS report from WDFW. The ecologists worked with partial data.
+The wildlife picture is incomplete. The CAD report identified two large hollow trees or snags where Vaux's swifts could nest, and noted that western toad may use the site. But Jupiter Power isn't the property owner, so they couldn't get the full sensitive species PHS report from WDFW. The ecologists worked with partial data.
 
 ## Visual screening
 

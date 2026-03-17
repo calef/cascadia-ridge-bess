@@ -16,13 +16,13 @@ But lithium-ion is the wrong battery for this location. The fire, noise, and env
 
 ## What we're asking for
 
-1. **Sodium-ion or equivalent non-lithium-ion chemistry.** Jupiter Power signed a [$500 million sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) last year. Their CTO called it a "potential game changer." Sodium-ion doesn't have thermal runaway, doesn't produce hydrogen fluoride gas, and uses passive cooling instead of fans running around the clock. The facility won't be online until late 2028 — sodium-ion will be on the market well before then.
+1. **Sodium-ion or equivalent non-lithium-ion chemistry.** Jupiter Power signed a [$500 million sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) last year. Their CTO called it a "potential game changer." Sodium-ion doesn't have thermal runaway, produces far less hydrogen fluoride, and uses passive cooling instead of fans running around the clock. This facility won't be built until late 2028 — sodium-ion will be on the market before then.
 
 2. **Keep the trees on the west side of the site.** Critical area buffers protect the north and east edges, but the west side — facing the backyards of homes on Bracken Place SE and SE Center Street — has no buffer protection. Leaving the existing trees alone costs the project nothing.
 
 ## Why this matters
 
-EPRI tracks two failure metrics. Their per-project rate (0.3%/yr) puts the 15-year compound probability at **1 in 23 (4.4%)**. Their per-GW rate (0.3 failures/GW/yr), which accounts for facility size, puts a 130 MW facility like Cascadia Ridge at **3.9% per year — compounding to 45% over 15 years.** The truth is somewhere in between, but neither number is small. [Here's the full analysis.](/fire-risk)
+EPRI tracks two failure metrics. Their per-project rate (0.3%/yr) puts the 15-year compound probability at **1 in 23 (4.4%)**. Their per-GW rate (0.3 failures/GW/yr), which accounts for facility size, puts a 130 MW facility like Cascadia Ridge at **3.9% per year — compounding to 45% over 15 years.** Neither number is small. [Here's the full analysis.](/fire-risk)
 
 This site is adjacent to thousands of homes on Snoqualmie Ridge, next to Fisher Creek (salmon habitat), in a ridge-bounded valley where temperature inversions can hold smoke close to the ground.
 

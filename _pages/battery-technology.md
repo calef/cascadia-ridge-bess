@@ -10,14 +10,14 @@ Thermal runaway is an uncontrolled temperature rise inside a battery cell that f
 
 | Date | Facility | Capacity | What happened |
 |---|---|---|---|
-| Apr 2019 | [McMicken, AZ](https://www.utilitydive.com/news/aps-says-runaway-thermal-event-caused-2019-battery-explosion-outlines-4-st/582475/) | 2 MW | Explosion injured 8 firefighters |
+| Apr 2019 | [McMicken, AZ](https://www.utilitydive.com/news/aps-says-runaway-thermal-event-caused-2019-battery-explosion-outlines-4-st/582475/) | 2 MW | Explosion injured 4 firefighters seriously, 8+ first responders total |
 | May 2024 | [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) | 250 MW | Burned 11 days, EPA-ordered cleanup |
 | Jan 2025 | [Moss Landing, CA](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) | 300 MW | 1,200–1,500 evacuated, largest EPA lithium-ion cleanup in history |
 
 ### What comes out of a lithium-ion battery fire
 
 - **Hydrogen fluoride (HF):** 20–200 mg per Wh of capacity. Causes deep tissue burns and pulmonary edema.
-- **Heavy metals:** Researchers at Moss Landing found nickel, manganese, and cobalt in surrounding soil and wetlands at 10–1,000x pre-fire levels.
+- **Heavy metals:** Researchers at Moss Landing found nickel, manganese, and cobalt deposited in surrounding marsh soil at hundreds to over a thousand times pre-fire concentrations at some sampling locations.
 - **PFAS:** A 2025 study found per- and polyfluoroalkyl substances in lithium-ion battery fire soot.
 - Carbon monoxide, hydrogen cyanide, sulfur dioxide, and various volatile organic compounds.
 
@@ -39,25 +39,19 @@ Snoqualmie Ridge has limited ways out: Snoqualmie Parkway and SR-18. Moss Landin
 |---|---|---|---|---|
 | Lithium-ion (NMC) | High | High (HF, heavy metals) | High (active cooling 24/7) | Yes |
 | Lithium-ion (LFP) | Moderate | Moderate (HF still produced) | High (active cooling 24/7) | Yes |
-| **Sodium-ion** | **Very low** | **Low (no heavy metals, no HF)** | **Low (passive cooling)** | **2026–2027** |
+| **Sodium-ion** | **Very low** | **Low (no heavy metals, much less HF)** | **Low (passive cooling)** | **2026–2027** |
 
 ### Abuse testing {#abuse-testing}
 
 Sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire — and they don't ignite:
 
-- **Nail penetration:** CATL publicly demonstrated nail penetration, drill, and metal saw tests on sodium-ion packs without ignition. In comparative testing, sodium-ion shows a 0% ignition rate vs. 23% for lithium-ion, where 85% of cells exceeded 200°C.
-- **Crush testing:** Cells remain stable under mechanical compression — no thermal runaway, no fire.
-- **UL 9540A:** [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) was the first sodium-ion company to publish full UL 9540A results — cells passed without needing additional safety controls.
+- **Nail penetration and mechanical abuse:** CATL publicly demonstrated nail penetration, drill, and metal saw tests on sodium-ion packs without ignition. Cells also remain stable under crush testing. In comparative testing (CATARC), sodium-ion showed a 0% ignition rate vs. 23% for lithium-ion, where 85% of cells exceeded 200°C.
+- **UL 9540A:** [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) was the first sodium-ion company to publish full UL 9540A results. Cells passed without needing additional safety controls.
 
-### Peak Energy NFPP (Non-Flammable Prussian Blue)
+### Peak Energy
 
-- No thermal runaway in nail penetration, overcharge, or crush testing
-- Non-flammable electrolyte
-- Passive cooling — no fans, no HVAC, no noise
-- No cobalt, nickel, or manganese — no hydrofluoric acid
-- Targeting cost parity with LFP
-- Commercial scale 2026–2027
+Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyrophosphate) with a non-flammable electrolyte. They've passed nail penetration, overcharge, and crush testing without thermal runaway. No cobalt, nickel, or manganese. Passive cooling only — no fans, no HVAC, no 24/7 noise. They're targeting cost parity with LFP and commercial-scale production in 2026–2027.
 
 Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer."
 
-The Cascadia Ridge facility won't be online until late 2028 — well after sodium-ion is commercially available. So why isn't Jupiter Power using it here?
+Cascadia Ridge isn't scheduled to come online until late 2028, after sodium-ion hits commercial scale. So why isn't Jupiter Power using it here?
