@@ -14,7 +14,7 @@ title: "Permitting Status"
 
 ## Regulatory framework
 
-**King County Ordinance 19824** (September 2024, sponsored by Councilmember Sarah Perry) is the BESS development code for unincorporated King County. It permits BESS on 97% of the county's unincorporated land.
+**[King County Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F)** (September 2024, sponsored by Councilmember Sarah Perry) is the BESS development code for unincorporated King County. It permits BESS on 97% of the county's unincorporated land.
 
 Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input.
 

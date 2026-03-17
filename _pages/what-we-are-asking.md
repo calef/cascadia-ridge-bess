@@ -22,7 +22,7 @@ Critical area buffers protect the north and east edges. The west side — facing
 
 ## Proposed changes to King County's BESS ordinance
 
-We've also proposed two amendments to Ordinance 19824 that would apply county-wide, not just at this site:
+We've also proposed two amendments to [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) that would apply county-wide, not just at this site:
 
 1. **Add battery chemistry to the Condition 29 alternatives analysis.** The ordinance already requires applicants to evaluate alternative locations and demand management strategies. It should also require them to explain why they're not using a safer chemistry when one is commercially available. This doesn't ban lithium-ion — it requires the applicant to justify the choice.
 
