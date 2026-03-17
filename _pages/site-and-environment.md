@@ -40,4 +40,4 @@ Critical area buffers will preserve vegetation on the north and east sides. But 
 | 3624079037 | ~3.7 | Abbott | UR |
 | **Total** | **~44.1** | | |
 
-Adjacent: Snoqualmie Indian Tribe (~15.8 ac, parcel 3624079104), PSE transmission corridor (~14.5 ac).
+Adjacent: Snoqualmie Indian Tribe (~15.8 ac, parcel [3624079104](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079104)), PSE transmission corridor (~14.5 ac).
