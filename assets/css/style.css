@@ -55,9 +55,19 @@ body {
   color: var(--accent);
 }
 
+.site-header a.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
 .site-header a.nav-cta {
   color: #c0392b;
   font-weight: 700;
+}
+
+.site-header a.nav-cta.active {
+  color: #c0392b;
+  text-decoration: underline;
 }
 
 /* Main content */

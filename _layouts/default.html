@@ -11,11 +11,11 @@
     <nav>
       <a href="{{ '/' | relative_url }}" class="site-title">Cascadia Ridge BESS</a>
       <ul>
-        <li><a href="{{ '/project' | relative_url }}">Project</a></li>
-        <li><a href="{{ '/faq' | relative_url }}">FAQ</a></li>
-        <li><a href="{{ '/what-we-are-asking' | relative_url }}">What We're Asking</a></li>
-        <li><a href="{{ '/take-action' | relative_url }}">Take Action</a></li>
-        <li><a href="{{ '/subscribe' | relative_url }}" class="nav-cta">Stay Informed</a></li>
+        <li><a href="{{ '/project' | relative_url }}"{% if page.url == '/project/' %} class="active"{% endif %}>Project</a></li>
+        <li><a href="{{ '/faq' | relative_url }}"{% if page.url == '/faq/' %} class="active"{% endif %}>FAQ</a></li>
+        <li><a href="{{ '/what-we-are-asking' | relative_url }}"{% if page.url == '/what-we-are-asking/' %} class="active"{% endif %}>What We're Asking</a></li>
+        <li><a href="{{ '/take-action' | relative_url }}"{% if page.url == '/take-action/' %} class="active"{% endif %}>Take Action</a></li>
+        <li><a href="{{ '/subscribe' | relative_url }}" class="nav-cta{% if page.url == '/subscribe/' %} active{% endif %}">Stay Informed</a></li>
       </ul>
     </nav>
   </header>
