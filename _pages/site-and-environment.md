@@ -13,7 +13,7 @@ King County completed a Critical Areas Designation for the primary parcel ([3624
 | Type F Aquatic Area (Fisher Creek) | Northwest portion — fish habitat | 115 ft | +15 ft |
 | Unmapped Floodplain | Associated with Fisher Creek | Requires Floodplain Development Application |
 
-King County classified the project as **high-impact** under KCC 21A.24.325A.2.a — the designation that triggers the widest buffers.
+King County classified the project as **high-impact** under [KCC 21A.24.325A.2.a](https://aqua.kingcounty.gov/council/clerk/code/24-30_Title_21A.pdf) — the designation that triggers the widest buffers.
 
 ## Why this matters
 

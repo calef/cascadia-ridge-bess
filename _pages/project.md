@@ -6,7 +6,7 @@ title: "Project Overview"
 |---|---|
 | Developer | [Jupiter Power LLC](https://jupiterpower.io/) (owned by [BlackRock](https://www.blackrock.com/), Austin TX) |
 | Prior developer | [Accelergen Energy](https://accelergen.com/) ("Snoqualmie Energy Storage") |
-| Landowner | Snoqualmie 55 LLC — Burnstead Construction / Pine Forest Properties |
+| Landowner | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888) — Burnstead Construction / Pine Forest Properties |
 | Type | Lithium-ion battery energy storage (BESS) |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
 | Site | ~45 acres across 5 parcels, unincorporated King County |

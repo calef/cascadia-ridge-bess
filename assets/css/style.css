@@ -55,6 +55,11 @@ body {
   color: var(--accent);
 }
 
+.site-header a.nav-cta {
+  color: #c0392b;
+  font-weight: 700;
+}
+
 /* Main content */
 main {
   max-width: var(--max-width);
