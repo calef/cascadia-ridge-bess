@@ -8,7 +8,7 @@ title: "Permitting Status"
 |---|---|---|---|
 | PREA24-0129 | Pre-Application | 05/15/2024 | Complete |
 | CADS25-0076 | Critical Areas Designation | 03/24/2025 | Completed 07/22/2025 |
-| CMST25-0005 | Commercial Site Development | 12/01/2025 | **Canceled** 02/18/2026 |
+| [CMST25-0005](https://aca-prod.accela.com/kingco/Default.aspx) | Commercial Site Development | 12/01/2025 | **Canceled** 02/18/2026 |
 
 Accelergen Energy filed the original pre-application. Jupiter Power / Cascadia Ridge Resiliency LLC took over the project and expanded from one ~25-acre parcel to five parcels totaling ~45 acres. They filed a Commercial Site Development permit in December 2025, then canceled it in February 2026. Ordinance 19824 requires a community meeting before filing — the open house on March 17 may have been needed before resubmitting.
 
