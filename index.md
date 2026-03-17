@@ -30,4 +30,12 @@ This site is adjacent to thousands of homes on Snoqualmie Ridge, next to Fisher 
 
 No active permit application as of March 2026. Jupiter Power filed a Commercial Site Development permit in December 2025 and canceled it in February 2026. King County's [BESS ordinance](/permitting) requires a community meeting before filing a permit application — Jupiter Power held an open house on March 17, which may have been needed before resubmitting.
 
+## Get involved
+
+Want to do something about it? There are concrete steps you can take right now — from contacting your representatives to preparing for the SEPA comment period.
+
+**[Take action](/take-action)** · [Sign up for updates](/subscribe)
+
+---
+
 [Project details](/project) · [Site and environment](/site-and-environment) · [Battery technology](/battery-technology) · [CETA and grid storage](/ceta) · [Permitting](/permitting)
