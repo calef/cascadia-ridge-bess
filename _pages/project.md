@@ -14,6 +14,7 @@ title: "Project Overview"
 | Interconnection | 115kV tie-line to PSE Mt. Si substation |
 | PSE agreement | Tolling agreement executed August 22, 2025 |
 | Operations target | Late 2028 |
+| Fire district | [King County Fire Protection District No. 38](https://district-conditions-report.kingcounty.gov/?PIN=3624079039) |
 | Projected tax revenue | $783,000–$1,130,000/year in years 3–12 |
 | Contact | Gage Fuller, [cascadiaridge@jupiterpower.io](mailto:cascadiaridge@jupiterpower.io) |
 
