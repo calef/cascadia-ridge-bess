@@ -2,7 +2,7 @@
 title: "Fire Risk Analysis"
 ---
 
-The battery industry's safety argument comes down to one number: 0.3% of utility-scale BESS had a fire with safety concerns in a given year, per EPRI's Stephanie Shaw, drawing on their [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database).
+The battery industry's safety argument comes down to one number: 0.3% of utility-scale BESS had a fire with safety concerns in a given year, per [EPRI's Stephanie Shaw](https://science.feedback.org/are-grid-battery-storage-systems-fire-prone/), drawing on their [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database).
 
 That's for a single year. These facilities operate for 15–20 years. The compound probability over an actual operating life tells a different story.
 
