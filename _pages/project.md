@@ -4,7 +4,7 @@ title: "Project Overview"
 
 | Detail | Value |
 |---|---|
-| Developer | [Jupiter Power LLC](https://jupiterpower.io/) (owned by BlackRock, Austin TX) |
+| Developer | [Jupiter Power LLC](https://jupiterpower.io/) (owned by [BlackRock](https://www.blackrock.com/), Austin TX) |
 | Prior developer | Accelergen Energy ("Snoqualmie Energy Storage") |
 | Landowner | Snoqualmie 55 LLC — Burnstead Construction / Pine Forest Properties |
 | Type | Lithium-ion battery energy storage (BESS) |
@@ -29,7 +29,7 @@ title: "Project Overview"
 
 ## Jupiter Power
 
-Founded 2017, acquired by BlackRock (Diversified Infrastructure) in late 2022. About 8,000 MWh of battery storage operating or under construction, 11,000+ MW battery storage pipeline.
+Founded 2017, acquired by [BlackRock](https://www.blackrock.com/) (Diversified Infrastructure) in late 2022. About 8,000 MWh of battery storage operating or under construction, 11,000+ MW battery storage pipeline.
 
 They're also behind the Blackberry Grove project (100 MW) near Hillsboro, Oregon — the most contested land use case in Washington County history, opposed by the [No Batteries In Backyards](https://nobatteriesinbackyards.org/) group.
 
