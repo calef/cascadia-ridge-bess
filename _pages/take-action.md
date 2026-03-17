@@ -17,5 +17,3 @@ title: "Take Action"
 4. **Attend community meetings.** King County's BESS ordinance requires a community meeting before a permit can be filed. Jupiter Power held one on March 17, 2026. Future meetings will be announced.
 
 5. **Comment during SEPA review.** When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity for public input. We'll send an alert when it opens.
-
-6. **King County ordinance amendments — in progress.** We've proposed two amendments to [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) to Councilmember Sarah Perry's office (District 3) — a battery chemistry alternatives analysis requirement and scaled financial responsibility. See [what we're asking for](/what-we-are-asking) for details. We'll update this page when there's something specific to act on.
