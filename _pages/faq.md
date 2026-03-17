@@ -35,6 +35,14 @@ King County's ordinance requires IEEE 693 seismic qualification, which ensures e
 
 Sodium-ion batteries eliminate this coupling entirely — no thermal runaway means an earthquake can't trigger a chemical fire.
 
+## If lithium-ion batteries are sensitive to vibration, why are they safe in cars and planes? {#ev-vibration}
+
+Different kind of stress. Driving and flying produce low-amplitude, high-frequency vibration. EV and aircraft battery packs are purpose-built for that — cells are locked into rigid, crash-tested enclosures with vibration isolation and per-cell monitoring. The cells don't move relative to each other.
+
+Earthquake shaking is the opposite: high-amplitude, low-frequency. It's more like a car crash than road vibration. And lithium-ion EV crashes *do* cause fires — that's well documented.
+
+The packaging matters too. An EV battery is a sealed, crash-engineered unit. A utility-scale BESS is rack-mounted modules in shipping containers, designed for stationary use. IEEE 693 keeps the racks on their mounts, but the cell-level containment inside the modules isn't crash-tested the way an EV pack is. Nobody has tested whether utility-scale BESS enclosures protect cells during seismic shaking the way an EV pack protects them during a crash.
+
 ## What can I do? {#take-action}
 
 See [Take Action](/take-action) for specific steps — who to contact, what to ask for, and how to make your voice heard.
