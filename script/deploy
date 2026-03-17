@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+
+set -e
+
+SITE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+DEPLOY_REPO="${DEPLOY_REPO:-git@github.com:calef/cascadia-ridge-bess.git}"
+DEPLOY_BRANCH="main"
+DEPLOY_DIR=$(mktemp -d)
+
+echo "Deploying site to $DEPLOY_REPO"
+
+# Clone the deploy repo (or init if it doesn't exist yet)
+if git ls-remote "$DEPLOY_REPO" &>/dev/null; then
+  git clone --depth 1 --branch "$DEPLOY_BRANCH" "$DEPLOY_REPO" "$DEPLOY_DIR" 2>/dev/null || \
+    git clone "$DEPLOY_REPO" "$DEPLOY_DIR"
+else
+  echo "Remote repo not found. Create it first:"
+  echo "  gh repo create cascadia-ridge-bess --public"
+  rm -rf "$DEPLOY_DIR"
+  exit 1
+fi
+
+# Sync site contents, excluding private/dev files
+rsync -av --delete \
+  --exclude '.git' \
+  --exclude '_site' \
+  --exclude '.jekyll-cache' \
+  --exclude '.jekyll-metadata' \
+  --exclude 'vendor' \
+  "$SITE_DIR/" "$DEPLOY_DIR/"
+
+cd "$DEPLOY_DIR"
+
+# Commit and push if there are changes
+if git diff --quiet && git diff --cached --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+  echo "No changes to deploy."
+else
+  git add -A
+  git commit -m "Deploy site $(date +%Y-%m-%d-%H%M%S)"
+  git push origin "$DEPLOY_BRANCH"
+  echo "Deployed."
+fi
+
+rm -rf "$DEPLOY_DIR"

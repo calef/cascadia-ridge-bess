@@ -1,0 +1,38 @@
+title: "Cascadia Ridge BESS — Community Research"
+description: >-
+  Independent research on Jupiter Power's proposed 130 MW battery energy
+  storage facility in unincorporated King County, adjacent to Snoqualmie Ridge.
+author: Chris Alef
+email: chris@crickertech.com
+url: "https://calef.github.io"
+baseurl: "/cascadia-ridge-bess"
+
+timezone: America/Los_Angeles
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - script/
+  - mise.toml
+  - .ruby-version
+  - .ruby-gemset
+  - .bundler-version
+  - Vagrantfile

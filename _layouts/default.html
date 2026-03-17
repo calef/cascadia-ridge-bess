@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a href="{{ '/' | relative_url }}" class="site-title">Cascadia Ridge BESS</a>
+      <ul>
+        <li><a href="{{ '/project' | relative_url }}">Project</a></li>
+        <li><a href="{{ '/site-and-environment' | relative_url }}">Site</a></li>
+        <li><a href="{{ '/battery-technology' | relative_url }}">Battery Tech</a></li>
+        <li><a href="{{ '/fire-risk' | relative_url }}">Fire Risk</a></li>
+        <li><a href="{{ '/permitting' | relative_url }}">Permitting</a></li>
+        <li><a href="{{ '/what-we-are-asking' | relative_url }}">What We're Asking</a></li>
+        <li><a href="{{ '/subscribe' | relative_url }}">Stay Informed</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>Research compiled by Chris Alef, Snoqualmie Valley resident and former City of Snoqualmie Planning Commissioner.</p>
+    <p>Contact: <a href="mailto:chris@crickertech.com">chris@crickertech.com</a></p>
+  </footer>
+</body>
+</html>
