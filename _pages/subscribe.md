@@ -2,7 +2,7 @@
 title: "Stay Informed"
 ---
 
-Sign up for email updates on the Cascadia Ridge BESS project — permitting developments, SEPA comment opportunities, community meetings, and research updates.
+Get email updates on the Cascadia Ridge BESS project — permit filings, SEPA comment opportunities, community meetings, new research.
 
 <div class="subscribe-form">
   <form action="https://formsubmit.co/chris@crickertech.com" method="POST">
@@ -13,11 +13,11 @@ Sign up for email updates on the Cascadia Ridge BESS project — permitting deve
     <br>
     <button type="submit">Sign Up</button>
   </form>
-  <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #555;">Your email will only be used for project updates. No spam.</p>
+  <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #555;">Your email is only used for project updates.</p>
 </div>
 
-## Other ways to stay involved
+## Other ways to engage
 
-- **SEPA comment period:** When Jupiter Power refiles the permit application, King County will open a 21-day SEPA comment period. This is the primary formal opportunity for public input. We'll send an alert when it opens.
-- **King County Council:** Councilmember Sarah Perry (District 3) represents this area. Contact her office at sarah.perry@kingcounty.gov.
-- **City of Snoqualmie:** The site is in Snoqualmie's Potential Annexation Area. Councilmember Dan Murphy has been vocal on this issue: DMurphy@snoqualmiewa.gov.
+- **SEPA comment period:** When Jupiter Power refiles, King County will open a 21-day SEPA comment window. That's the main formal opportunity for public input. We'll send an alert.
+- **King County Council:** Councilmember Sarah Perry (District 3) — sarah.perry@kingcounty.gov
+- **City of Snoqualmie:** Councilmember Dan Murphy — DMurphy@snoqualmiewa.gov

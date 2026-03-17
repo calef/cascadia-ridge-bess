@@ -4,7 +4,7 @@ title: "Site and Environment"
 
 ## Critical Areas Designation (CADS25-0076)
 
-King County completed a Critical Areas Designation for the primary parcel (3624079039) on July 18, 2025. The following critical areas were confirmed:
+King County completed a Critical Areas Designation for the primary parcel (3624079039) on July 18, 2025. Here's what they found:
 
 | Critical Area | Location | Buffer | Building Setback |
 |---|---|---|---|
@@ -13,21 +13,21 @@ King County completed a Critical Areas Designation for the primary parcel (36240
 | Type F Aquatic Area (Fisher Creek) | Northwest portion — fish habitat | 115 ft | +15 ft |
 | Unmapped Floodplain | Associated with Fisher Creek | Requires Floodplain Development Application |
 
-King County classified this project as **high-impact** under KCC 21A.24.325A.2.a, which triggers the widest buffer categories.
+King County classified the project as **high-impact** under KCC 21A.24.325A.2.a — the designation that triggers the widest buffers.
 
-## What this means
+## Why this matters
 
-**Fisher Creek is salmon habitat.** It's a Type F (fish-bearing) stream running through the northwest portion of the parcel. The elevation change between the creek's ordinary high water mark and the proposed development area is less than 10 vertical feet. In a fire, contaminated runoff — heavy metals, fluoride compounds — would reach the creek and the Snoqualmie River watershed.
+Fisher Creek is a Type F stream — it has fish. It runs through the northwest portion of the parcel, and the elevation difference between its ordinary high water mark and the proposed development area is less than 10 feet. If there's a fire, runoff contaminated with heavy metals and fluoride compounds goes straight into the creek and from there into the Snoqualmie River watershed.
 
-**The floodplain is a gating requirement.** Jupiter Power must file a separate Floodplain Development Application before any development permit can be issued.
+Jupiter Power also has to file a separate Floodplain Development Application before they can even apply for a development permit. That's a gating requirement they haven't started yet.
 
-**The buildable area is constrained.** Between steep slopes on the east, wetland buffer on the northeast, and Fisher Creek buffer on the northwest, the usable footprint is significantly smaller than the raw 45-acre parcel count suggests.
+Between the steep slopes on the east, the wetland buffer on the northeast, and Fisher Creek on the northwest, the buildable footprint is a lot smaller than "45 acres" makes it sound.
 
-**Wildlife assessment may be incomplete.** Vaux's swifts have moderate potential to occur on site (two large hollow trees/snags identified). Western toad may use the site. Jupiter Power is not the property owner and could not obtain the full sensitive species PHS report from WDFW.
+The wildlife picture may also be incomplete. The CAD report identified two large hollow trees or snags where Vaux's swifts could nest, and noted that western toad may use the site. But Jupiter Power isn't the property owner, so they couldn't get the full sensitive species PHS report from WDFW. The ecologists worked with partial data.
 
 ## Visual screening
 
-Critical area buffers require preserving vegetation on the north (Fisher Creek) and east (wetland, steep slopes) sides. But the **west side facing Snoqualmie Parkway** — the side residents actually see — has no buffer protection. No commitment to tree retention or visual screening on the Parkway-facing side exists in any public document.
+Critical area buffers will preserve vegetation on the north and east sides. But the **west side — facing Snoqualmie Parkway** — has no buffer protection at all. That's the side every resident, commuter, and visitor sees. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
 
 ## Parcels
 

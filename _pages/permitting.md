@@ -10,25 +10,25 @@ title: "Permitting Status"
 | CADS25-0076 | Critical Areas Designation | 03/24/2025 | Completed 07/22/2025 |
 | CMST25-0005 | Commercial Site Development | 12/01/2025 | **Canceled** 02/18/2026 |
 
-The pre-application was filed by Accelergen Energy. Jupiter Power / Cascadia Ridge Resiliency LLC subsequently took over and expanded from one ~25-acre parcel to ~45 acres across five parcels. The Commercial Site Development permit was filed in December 2025 and canceled in February 2026.
+Accelergen Energy filed the original pre-application. Jupiter Power / Cascadia Ridge Resiliency LLC took over the project and expanded from one ~25-acre parcel to five parcels totaling ~45 acres. They filed a Commercial Site Development permit in December 2025, then canceled it in February 2026. Ordinance 19824 requires a community meeting before filing — the open house on March 17 may have been needed before resubmitting.
 
 ## Regulatory framework
 
-**King County Ordinance 19824** (September 2024, sponsored by Councilmember Sarah Perry) established the BESS development code for unincorporated King County. It permits BESS as an allowed use on 97% of unincorporated county land.
+**King County Ordinance 19824** (September 2024, sponsored by Councilmember Sarah Perry) is the BESS development code for unincorporated King County. It permits BESS on 97% of the county's unincorporated land.
 
-Under **UR zoning**, BESS is a permitted use with no Conditional Use Permit required — meaning no public hearing and limited formal public input.
+Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input.
 
-**SEPA environmental review** is the primary avenue for community input. The comment period is 21 days.
+**SEPA review** is the main avenue for community comment. The window is 21 days.
 
-## Key requirements under Ordinance 19824
+## What's in the ordinance
 
-- **Condition 29** requires an alternatives analysis covering location, demand management, social/economic impacts, environmental impacts, and public involvement — but does not explicitly require evaluation of battery chemistry alternatives.
-- **Section 17.B** requires $1 million in financial responsibility for BESS with thermal runaway risk. This threshold does not scale with facility size.
-- **Section 19** mandates an executive study report within 3 years of adoption (~September 2027) evaluating changes in battery technology and whether the financial responsibility levels are adequate.
+- **Condition 29** requires an alternatives analysis — location, demand management, social and economic impacts, environmental impacts, public involvement. It does not specifically mention battery chemistry.
+- **Section 17.B** sets financial responsibility at $1 million for BESS with thermal runaway risk. A 2 MWh system and a 520 MWh system have the same threshold.
+- **Section 19** requires a study report within 3 years (~September 2027) evaluating technology changes and whether the financial responsibility levels are working.
 - A community meeting is required before filing a permit application.
 
 ## Governance gap
 
-The City of Snoqualmie has no direct authority over this project despite Snoqualmie Ridge residents being the most affected community. The site is within Snoqualmie's **Southwest Potential Annexation Area** — if annexed, the city's Comprehensive Plan (which designates this site for business park and mixed use, not industrial storage) would apply.
+The City of Snoqualmie has no authority over this project even though Snoqualmie Ridge residents are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan — which designates this land for business park and mixed use, not industrial storage — would apply.
 
-Three other King County cities — Covington, Enumclaw, and Black Diamond — have enacted BESS moratoriums.
+Three other King County cities (Covington, Enumclaw, Black Diamond) have passed BESS moratoriums.
