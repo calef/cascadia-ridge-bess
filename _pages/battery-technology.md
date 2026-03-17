@@ -41,6 +41,14 @@ Snoqualmie Ridge has limited ways out: Snoqualmie Parkway and SR-18. Moss Landin
 | Lithium-ion (LFP) | Moderate | Moderate (HF still produced) | High (active cooling 24/7) | Yes |
 | **Sodium-ion** | **Very low** | **Low (no heavy metals, no HF)** | **Low (passive cooling)** | **2026–2027** |
 
+### Abuse testing {#abuse-testing}
+
+Sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire — and they don't ignite:
+
+- **Nail penetration:** CATL publicly demonstrated nail penetration, drill, and metal saw tests on sodium-ion packs without ignition. In comparative testing, sodium-ion shows a 0% ignition rate vs. 23% for lithium-ion, where 85% of cells exceeded 200°C.
+- **Crush testing:** Cells remain stable under mechanical compression — no thermal runaway, no fire.
+- **UL 9540A:** [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) was the first sodium-ion company to publish full UL 9540A results — cells passed without needing additional safety controls.
+
 ### Peak Energy NFPP (Non-Flammable Prussian Blue)
 
 - No thermal runaway in nail penetration, overcharge, or crush testing

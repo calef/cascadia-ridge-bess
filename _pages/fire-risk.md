@@ -91,4 +91,4 @@ King County's BESS ordinance requires [IEEE 693](https://standards.ieee.org/ieee
 
 No utility-scale BESS has been hit by a major earthquake yet. That's because the fleet is young and mostly deployed in low-seismicity areas — not because these systems are proven earthquake-safe.
 
-Again: sodium-ion eliminates the coupling. No thermal runaway means an earthquake can't trigger a chemical fire.
+Again: sodium-ion eliminates the coupling. Sodium-ion cells have been [nail-penetrated, crushed, and sawed](/battery-technology#abuse-testing) without ignition — a 0% ignition rate in testing vs. 23% for lithium-ion. No thermal runaway means an earthquake can't trigger a chemical fire.
