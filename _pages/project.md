@@ -10,7 +10,7 @@ title: "Project Overview"
 | Type | Lithium-ion battery energy storage (BESS) |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
 | Site | ~45 acres across 5 parcels, unincorporated King County |
-| Zoning | UR (Urban Reserve) — BESS is a permitted use, no CUP required |
+| Zoning | UR (Urban Reserve) — BESS is a permitted use, no Conditional Use Permit (CUP) required |
 | Interconnection | 115kV tie-line to PSE Mt. Si substation |
 | PSE agreement | Tolling agreement executed August 22, 2025 |
 | Operations target | Late 2028 |
