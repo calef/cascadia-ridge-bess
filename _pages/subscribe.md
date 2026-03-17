@@ -8,7 +8,7 @@ Get email updates on the Cascadia Ridge BESS project — permit filings, SEPA co
   <form action="https://formsubmit.co/chris@crickertech.com" method="POST">
     <input type="hidden" name="_subject" value="Cascadia Ridge BESS — email signup">
     <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="">
+    <input type="hidden" name="_next" value="https://cascadiaridgebess.org/thanks/">
     <input type="email" name="email" placeholder="you@example.com" required>
     <br>
     <button type="submit">Sign Up</button>
