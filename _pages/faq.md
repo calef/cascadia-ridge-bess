@@ -17,7 +17,7 @@ The proposed facility would use **lithium-ion batteries**. Community concerns in
 - **Fire:** Lithium-ion cells can undergo thermal runaway, an uncontrolled, self-sustaining temperature rise that can cascade through an entire facility. EPRI tracks two failure metrics. For a 130 MW facility like Cascadia Ridge, the [15-year compound probability ranges from 4.4% to 45%](/fire-risk) depending on which metric you use. Recent incidents at [Moss Landing, CA](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) and [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) required evacuations and EPA-ordered cleanups.
 - **Toxic emissions:** Lithium-ion battery fires produce hydrogen fluoride, heavy metals, and other hazardous compounds. The site is adjacent to Fisher Creek (salmon habitat) and thousands of homes on Snoqualmie Ridge.
 - **Noise:** Lithium-ion systems require active cooling: fans and HVAC running around the clock.
-- **Battery chemistry:** Jupiter Power has signed a [$500M sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. Sodium-ion does not have thermal runaway and uses passive cooling. It will be commercially available before this facility is built.
+- **Battery chemistry:** Jupiter Power has signed a [$500M sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. Peak Energy's NFPP chemistry has shown no thermal runaway in abuse testing and uses passive cooling. It will be commercially available before this facility is built.
 - **Proximity** to neighborhoods, parks, and schools, and potential impacts on property values.
 - **Land use:** Snoqualmie's Comprehensive Plan designates this land for business park and mixed use, not industrial battery storage.
 
@@ -33,7 +33,7 @@ The Snoqualmie Valley is exposed to the [Southern Whidbey Island Fault](https://
 
 King County's ordinance requires IEEE 693 seismic qualification, which keeps equipment on its mounts. But nobody has tested whether utility-scale BESS enclosures protect cells the way crash-tested EV packs do. And there's no requirement to model the full chain: earthquake damages cells → thermal runaway → fire → contaminated runoff into Fisher Creek, all while evacuation routes may be damaged. No utility-scale BESS has been tested by a major earthquake. See the [earthquake risk section](/fire-risk#earthquake-risk) of our fire risk analysis.
 
-Sodium-ion does not have thermal runaway, so the earthquake-to-fire chain does not apply to that chemistry.
+Sodium-ion chemistries like Peak Energy's NFPP have shown no thermal runaway in abuse testing, so the earthquake-to-fire chain would not apply.
 
 ## If lithium-ion batteries are sensitive to vibration, why are they safe in cars and planes? {#ev-vibration}
 

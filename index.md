@@ -18,7 +18,7 @@ PSE needs grid storage for [CETA](/ceta) compliance, and the Mt. Si substation n
 
 **Site.** Adjacent to thousands of homes on Snoqualmie Ridge. Fisher Creek (salmon habitat) runs through the parcel with a floodplain less than 10 vertical feet below the development area. Ridge-bounded valley where temperature inversions can hold smoke close to the ground. [Site details.](/site-and-environment)
 
-**Battery chemistry.** Lithium-ion carries thermal runaway risk. Sodium-ion does not. It has passed nail penetration, crush, and saw testing without ignition. Jupiter Power is investing in sodium-ion for other projects but proposing lithium-ion here. [Technology comparison.](/battery-technology)
+**Battery chemistry.** Lithium-ion carries thermal runaway risk. Sodium-ion has significantly higher thermal stability, and specific formulations (like Peak Energy's NFPP) have passed nail penetration, crush, and saw testing without ignition. Jupiter Power is investing in sodium-ion for other projects but proposing lithium-ion here. [Technology comparison.](/battery-technology)
 
 **Governance.** The site is in unincorporated King County. The City of Snoqualmie has no jurisdiction, even though Snoqualmie Ridge residents are the most affected. BESS is a permitted use under the site's UR zoning, with no public hearing required. [Permitting details.](/permitting)
 

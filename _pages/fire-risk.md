@@ -62,9 +62,9 @@ This facility would be adjacent to thousands of homes, next to salmon-bearing st
 | Chemistry | Thermal Runaway? | 15-year risk range |
 |---|---|---|
 | Lithium-ion (NMC/LFP) | Yes | 4.4%–45.0% |
-| Sodium-ion | None in testing | ~0% from this cause |
+| Sodium-ion (Peak Energy NFPP) | None in abuse testing | ~0% from this cause |
 
-Sodium-ion does not have thermal runaway.
+Sodium-ion batteries have significantly higher thermal stability than lithium-ion. Peak Energy's NFPP chemistry, which Jupiter Power has contracted for other projects, has shown no thermal runaway in nail penetration, crush, overcharge, and saw testing. [Peer-reviewed research](https://www.mdpi.com/2313-0105/10/10/370) confirms that sodium-ion as a class has higher thermal runaway onset temperatures and lower pressure buildup than lithium-ion, though the degree of improvement varies by chemistry.
 
 ## Earthquake risk
 
@@ -82,4 +82,4 @@ Beyond cell damage, there's no requirement to model the full chain for this site
 
 No utility-scale BESS has been hit by a major earthquake. That's because the fleet is young and mostly deployed in low-seismicity areas, not because these systems are proven earthquake-safe.
 
-Sodium-ion cells have been [nail-penetrated, crushed, and sawed](/battery-technology#abuse-testing) without ignition: 0% ignition rate vs. 23% for lithium-ion. Without thermal runaway, the earthquake-to-fire chain does not apply.
+Peak Energy's sodium-ion cells have been [nail-penetrated, crushed, and sawed](/battery-technology#abuse-testing) without ignition: 0% ignition rate vs. 23% for lithium-ion. For chemistries that don't exhibit thermal runaway, the earthquake-to-fire chain does not apply.

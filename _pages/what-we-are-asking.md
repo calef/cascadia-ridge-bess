@@ -8,7 +8,7 @@ These are the questions we think should be answered before this project moves fo
 
 ## Battery chemistry
 
-Jupiter Power's own [$500M Peak Energy contract](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) is for sodium-ion batteries. Sodium-ion eliminates:
+Jupiter Power's own [$500M Peak Energy contract](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) is for sodium-ion batteries. Peak Energy's NFPP chemistry has shown no thermal runaway in abuse testing and would eliminate or significantly reduce:
 
 - Thermal runaway, the mechanism behind every major BESS fire
 - Hydrogen fluoride and heavy metal emissions

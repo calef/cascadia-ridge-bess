@@ -35,15 +35,19 @@ Snoqualmie Ridge has limited ways out: Snoqualmie Parkway and SR-18. Moss Landin
 
 ## Sodium-ion
 
+Sodium-ion is a class of battery chemistries, not a single technology. Safety characteristics vary by formulation. [Peer-reviewed research](https://www.mdpi.com/2313-0105/10/10/370) shows sodium-ion as a class has higher thermal runaway onset temperatures and lower pressure buildup than lithium-ion, but some sodium-ion chemistries can still experience thermal runaway under extreme conditions. The degree of improvement depends on the specific cathode, electrolyte, and cell design.
+
+The comparison below reflects Peak Energy's NFPP chemistry, which is what Jupiter Power has contracted for other projects.
+
 | Technology | Fire Risk | Toxic Emissions | Noise | Grid-Scale Ready? |
 |---|---|---|---|---|
 | Lithium-ion (NMC) | High | High (HF, heavy metals) | High (active cooling 24/7) | Yes |
 | Lithium-ion (LFP) | Moderate | Moderate (HF still produced) | High (active cooling 24/7) | Yes |
-| **Sodium-ion** | **Very low** | **Low (no heavy metals, much less HF)** | **Low (passive cooling)** | **2026–2027** |
+| **Sodium-ion (NFPP)** | **Very low** | **Low (no heavy metals, much less HF)** | **Low (passive cooling)** | **2026–2027** |
 
 ### Abuse testing {#abuse-testing}
 
-Sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire, and they don't ignite:
+Peak Energy's sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire, and they don't ignite:
 
 - **Nail penetration and mechanical abuse:** CATL publicly demonstrated nail penetration, drill, and metal saw tests on sodium-ion packs without ignition. Cells also remain stable under crush testing. In comparative testing (CATARC), sodium-ion showed a 0% ignition rate vs. 23% for lithium-ion, where 85% of cells exceeded 200°C.
 - **UL 9540A:** [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) was the first sodium-ion company to publish full UL 9540A results. Cells passed without needing additional safety controls.

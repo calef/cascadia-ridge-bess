@@ -33,7 +33,7 @@ Founded 2017, acquired by [BlackRock](https://www.blackrock.com/) (Diversified I
 
 They're also behind the [Blackberry Grove project](https://blackberrygroveenergy.com/) (100 MW) near Hillsboro, Oregon, the most contested land use case in Washington County history, opposed by the [No Batteries In Backyards](https://nobatteriesinbackyards.org/) group.
 
-In 2025, Jupiter Power signed a [**$500 million / 4.75 GWh supply agreement with Peak Energy for sodium-ion batteries**](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html), a chemistry with no thermal runaway, no toxic off-gassing, and passive cooling. CTO Mike Geier called it a "potential game changer." The company proposing lithium-ion for Snoqualmie Ridge is spending half a billion dollars on the technology that would fix the problems Snoqualmie Ridge is worried about.
+In 2025, Jupiter Power signed a [**$500 million / 4.75 GWh supply agreement with Peak Energy for sodium-ion batteries**](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html), a chemistry that has shown no thermal runaway in abuse testing, with reduced toxic emissions and passive cooling. CTO Mike Geier called it a "potential game changer." The company proposing lithium-ion for Snoqualmie Ridge is spending half a billion dollars on the technology that would fix the problems Snoqualmie Ridge is worried about.
 
 ## PSE tolling agreement
 
