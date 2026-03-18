@@ -23,7 +23,7 @@ Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Perm
 The ordinance is new and Cascadia Ridge is an early test. Some of its provisions may need adjustment as real projects reveal how the framework works in practice.
 
 - **Condition 29** requires an alternatives analysis: location, demand management, social and economic impacts, environmental impacts, public involvement. It does not currently address battery chemistry.
-- **Section 17.B** sets financial responsibility at $1 million for BESS with thermal runaway risk. The same threshold applies regardless of facility size.
+- **Section 17.B** sets financial responsibility at $1 million for BESS with thermal runaway risk. The same threshold applies regardless of facility size. See [insurance and financial responsibility](/insurance) for context on what that covers.
 - **Section 19** builds in a review. It requires a study report within 3 years (~September 2027) evaluating technology changes and whether the financial responsibility levels are working.
 - A community meeting is required before filing a permit application.
 
