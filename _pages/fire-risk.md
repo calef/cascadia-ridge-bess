@@ -66,6 +66,35 @@ This facility would be adjacent to thousands of homes, next to salmon-bearing st
 
 Sodium-ion batteries have significantly higher thermal stability than lithium-ion. Peak Energy's NFPP chemistry, which Jupiter Power has contracted for other projects, has shown no thermal runaway in nail penetration, crush, overcharge, and saw testing. [Peer-reviewed research](https://www.mdpi.com/2313-0105/10/10/370) confirms that sodium-ion as a class has higher thermal runaway onset temperatures and lower pressure buildup than lithium-ion, though the degree of improvement varies by chemistry.
 
+## Safety standards
+
+Three overlapping standards govern BESS fire safety. None of them sets a national siting standard for where utility-scale facilities can be built relative to homes.
+
+### NFPA 855
+
+The National Fire Protection Association's [Standard for the Installation of Stationary Energy Storage Systems](https://www.nfpa.org/codes-and-standards/nfpa-855-standard-development/855). Covers design, installation, commissioning, operation, and decommissioning. The 2023 edition mandates fire suppression for nearly all ESS installations and requires battery management systems monitoring temperature, voltage, and state of charge. Referenced by the International Fire Code and many local jurisdictions.
+
+### UL 9540A
+
+Underwriters Laboratories' [test method for evaluating thermal runaway fire propagation](https://www.ul.com/services/ul-9540a-test-method) in BESS. The only consensus standard in the U.S. and Canada explicitly cited in NFPA 855 for large-scale fire testing. Tests progress from individual cell through module, unit, and full installation levels. Jupiter Power says their batteries are "fire safety tested according to strict Underwriters Laboratory protocols" — this likely refers to UL 9540A.
+
+### IFC 1207
+
+The [International Fire Code Section 1207](https://codes.iccsafe.org/s/IFC2024P1/chapter-12-energy-systems/IFC2024P1-Pt03-Ch12-Sec1207), adopted via Washington State Building Code Council. For remote outdoor installations, it requires a minimum **100-foot setback** from other buildings, lot lines, public ways, and exposure hazards. It requires evaluation of thermal runaway, mechanical failures, management system failures, and failures of external protection systems.
+
+### Detection and suppression
+
+Current detection options include VESDA (Very Early Smoke Detection Apparatus, laser-based air sampling), gas sensors for off-gases that precede thermal runaway (CO, H2, VOCs), and thermal imaging. Suppression options include water-based systems (effective at cooling but don't stop the electrochemical reaction), water mist, aerosol systems, and hybrid approaches.
+
+All of these have limitations. The Moss Landing fire began after its fire suppression system failed. Water application can cause electrical shorts. Aerosol systems work best before ignition in tight enclosures. No suppression technology has been proven to reliably stop cascade propagation once thermal runaway is deeply established at scale.
+
+### Regulatory gaps
+
+- **No federal siting standards.** BESS siting is governed by local land use and building codes, which vary enormously. Some jurisdictions have no BESS-specific ordinances.
+- **Inconsistent setbacks.** Ranges from 10 feet (IFC egress minimum) to 150 feet (some county ordinances) with no national consensus for utility-scale facilities near residential areas.
+- **No standard air monitoring requirement.** At Moss Landing, EPA deployed monitoring stations reactively after the fire started. No BESS facility is required to have permanent fenceline air quality monitoring.
+- **Post-incident cleanup is reactive.** EPA had to order cleanups at both Gateway and Moss Landing. Whether operators carry adequate financial assurance for worst-case cleanup is unclear.
+
 ## Earthquake risk
 
 The Snoqualmie Valley sits at the intersection of three fault systems:

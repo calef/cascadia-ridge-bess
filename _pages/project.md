@@ -41,6 +41,20 @@ PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/
 
 PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh from clean resources by 2030, and up to 1,755 MW of summer peak capacity by 2029. The alternatives are overbuilding generation (expensive, and ratepayers pay for it) or keeping fossil fuel peakers online (which violates CETA).
 
+## What Jupiter Power has not disclosed
+
+As of March 2026, the following have not been publicly disclosed for the Cascadia Ridge project:
+
+- **Battery chemistry.** LFP or NMC? This is the single most important safety variable. It determines thermal runaway risk, toxic emission profile, and whether active cooling (and its 24/7 noise) is required.
+- **Fire suppression system type.** Water, aerosol, hybrid? The Moss Landing fire began after a suppression system failed.
+- **Setback distances** from property lines and the nearest residences on Snoqualmie Ridge.
+- **Deflagration venting design.** The McMicken explosion in Arizona occurred when flammable gas accumulated in an unvented container.
+- **Emergency response plan.** What mutual aid agreements exist with local fire departments? Has a tabletop exercise been conducted?
+- **Decommissioning plan.** How will batteries be removed and the site restored at end of life?
+- **Environmental monitoring plan.** Will there be permanent air quality monitoring at the fenceline? Soil and water monitoring near Fisher Creek?
+
+Jupiter Power's project website and open house materials focused on general BESS safety statistics and code compliance. Site-specific details were not provided.
+
 ## Community response
 
 **March 9, 2026.** Residents spoke against the project at the Snoqualmie City Council meeting. Concerns included proximity to neighborhoods and parks, fire risk, noise, air and light pollution, and impacts on fish-bearing streams. Councilmember Dan Murphy: "Industrial battery storage doesn't belong in the middle of a neighborhood."

@@ -27,6 +27,33 @@ The ordinance is new and Cascadia Ridge is an early test. Some of its provisions
 - **Section 19** builds in a review. It requires a study report within 3 years (~September 2027) evaluating technology changes and whether the financial responsibility levels are working.
 - A community meeting is required before filing a permit application.
 
+## SEPA process
+
+The State Environmental Policy Act (SEPA) requires environmental review before King County can approve the project. Jupiter Power must submit a SEPA Environmental Checklist covering impacts to earth, air, water, plants, animals, environmental health, land use, transportation, and public services.
+
+King County then issues a **threshold determination**:
+
+- **Determination of Non-Significance (DNS):** No significant adverse impacts; project proceeds.
+- **Mitigated DNS (MDNS):** Impacts can be mitigated with conditions attached to the permit.
+- **Determination of Significance (DS):** Requires a full **Environmental Impact Statement (EIS)** — a detailed, public study of all environmental impacts and alternatives.
+
+A DS and full EIS is the strongest outcome for the community. It means independent analysis of fire risk, toxic emissions, noise, traffic, stormwater, habitat impacts, and cumulative effects. It also means additional public comment periods (21 days for scoping, 30 days for the draft EIS).
+
+The threshold determination has a **21-day public comment period**. This is when residents can argue that a DNS or MDNS is inadequate for a 130 MW lithium-ion facility adjacent to thousands of homes, salmon-bearing streams, and parkland. Comments should be specific and cite environmental impacts the checklist underestimates.
+
+Given the scale and site sensitivity, pushing for a full EIS is the most impactful thing residents can do during the SEPA window.
+
+## EFSEC opt-in
+
+Washington's Energy Facility Site Evaluation Council ([EFSEC](https://efsec.wa.gov/battery-energy-storage-system-bess)) provides a "one-stop" siting process for energy facilities. Standalone BESS facilities don't require EFSEC, but developers can **voluntarily opt in**. If Jupiter Power opts into EFSEC:
+
+- King County permitting would be **preempted entirely**
+- The decision would route to the governor's office
+- Local jurisdiction, including Ordinance 19824's requirements, would not apply
+- The process would still include public comment but at the state level
+
+Jupiter Power's current language ("county permit application") suggests they intend to go through King County. But the Kingfisher BESS project near Covington pursued EFSEC certification after local opposition intensified. Residents should be aware this is a possibility.
+
 ## Governance gap
 
 The City of Snoqualmie has no authority over this project even though Snoqualmie Ridge residents are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan, which designates this land for business park and mixed use rather than industrial storage, would apply.

@@ -36,6 +36,24 @@ Both projects are in unincorporated King County where the adjacent city has no d
 
 Key differences: Kingfisher is adjacent to a middle school with ~900 students. Cascadia Ridge is larger (45 acres / 130 MW vs. 14.1 acres). Covington passed a moratorium within its city limits. Snoqualmie has not. Ordinance 19824 was drafted partly in response to Kingfisher. Cascadia Ridge is one of the first projects to move through it.
 
+## Oyster Bay, NY — Jupiter Power (withdrawn)
+
+Same developer as Cascadia Ridge. Jupiter Power proposed a 275 MW BESS ("Oyster Shore") in Oyster Bay, NY. The town enacted a moratorium in February 2024 and extended it serially, making the permit path unviable. Jupiter Power [withdrew in May 2025](https://www.liherald.com/stories/jupiter-power-pulls-plug-on-oyster-shore-project,215238), citing "no viable permit path." The town subsequently made its BESS ban permanent.
+
+Opposition was led by the Glen Head-Glenwood Civics Council, the Greenvale Civic Association, and the local school district.
+
+## Morro Bay, CA — Vistra 600 MW (withdrawn)
+
+Vistra proposed a 600 MW BESS in Morro Bay, CA. Citizens for Estero Bay Preservation organized a ballot initiative that passed ~60-40% in November 2024, removing the city council's zoning jurisdiction over the project. After the [Moss Landing fire](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) in January 2025, the council voted 5-0 for a moratorium. Vistra [formally withdrew](https://esterobaynews.com/featured-stories/vistra-formally-withdraws-battery-project/) in April 2025.
+
+## Gillespie County, TX — 145 MW (court-blocked)
+
+A [court injunction](https://texasscorecard.com/local/court-order-blocks-battery-storage-system-construction-in-central-texas/) halted construction of a 145 MW BESS less than 2,000 feet from a school with 600+ students and less than 100 feet from the Pedernales River. The county passed a formal resolution opposing the project. Opposition was organized by [Fight BESS Texas](https://fightbesstexas.org/).
+
+## National context
+
+As of March 2026, [150+ local governments across 17 states](https://www.globenewswire.com/news-release/2026/03/10/3252888/0/en/150-Local-Governments-Have-Moved-to-Block-Battery-Storage-Development-New-Database-Reveals.html) have enacted BESS restrictions. The [EticaAG BESS Restrictions Database](https://eticaag.com/bess-moratorium-database/) tracks moratoriums, bans, and other restrictions nationwide. The most common triggers are fire risk (especially after the Moss Landing fire), proximity to schools and residences, and inadequate setbacks.
+
 ## BESS moratoriums in King County
 
 Three King County cities have passed moratoriums on BESS within their city limits:
