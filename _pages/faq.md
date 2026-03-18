@@ -10,6 +10,12 @@ A Battery Energy Storage System (BESS) is a facility that stores electricity in 
 
 Washington's [Clean Energy Transformation Act (CETA)](/ceta) requires utilities to be greenhouse gas neutral by 2030 and supply 100% clean electricity by 2045. Wind and solar don't generate power on demand. They produce when conditions are right, not necessarily when people need electricity. Storage bridges that gap: charge when renewables are overproducing, discharge during peak demand. Without storage, PSE either overbuilds generation (expensive for ratepayers) or keeps fossil fuel peakers running (which violates CETA). PSE's Mt. Si substation sits adjacent to the proposed site, making it a logical interconnection point.
 
+## Why not put storage near the wind farms and solar farms instead? {#why-here}
+
+Storage needs to be near where power is consumed, not where it's generated. Transmitting stored power long distances means energy losses both ways, and building new long-distance transmission lines is expensive, slow to permit, and faces its own opposition. The value of storage is that it can discharge locally during peak demand without new transmission infrastructure.
+
+The Mt. Si substation is why this site exists. It's an existing grid interconnection point where PSE needs capacity, and it sits adjacent to the proposed parcels. That's a legitimate grid planning rationale. The location makes sense. The question is what kind of battery goes there.
+
 ## What are the concerns? {#concerns}
 
 The proposed facility would use **lithium-ion batteries**. Community concerns include:
