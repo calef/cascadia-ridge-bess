@@ -56,6 +56,14 @@ Jupiter Power's current language ("county permit application") suggests they int
 
 ## Governance gap
 
-The City of Snoqualmie has no authority over this project even though Snoqualmie Ridge residents are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan, which designates this land for business park and mixed use rather than industrial storage, would apply.
+The City of Snoqualmie has no authority over this project even though Snoqualmie Ridge residents are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan would apply instead of King County's.
+
+The city's own [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/1070/Snoqualmie-Comprehensive-Plan-2044), adopted unanimously by City Council on December 9, 2024, includes policies that were designed to prevent exactly this situation:
+
+- **Goal LU-3:** "Pursue annexations that implement the future land use map designations."
+- **Policy LU-3.1:** "Enter into interlocal agreements with King County for annexations when feasible, including the application of contingent zoning to potential annexation areas."
+- **Policy ED-3.9:** "Preserve the Master Planned Business Park land use designation, focused on office, research and development, and light manufacturing/industrial uses, within the City's potential annexation area (PAA)."
+
+The Planning Commission developed these policies during the 2023 comp plan update, forwarded them to City Council, and Council adopted them. But none have been implemented. No interlocal annexation agreement has been pursued. No contingent zoning has been applied to the PAA. The land the city designated for business park use is now the subject of a King County permit application for industrial battery storage, and the city has no authority over the decision.
 
 Three other King County cities (Covington, Enumclaw, Black Diamond) have passed BESS moratoriums. See [other BESS projects in King County](/other-projects) for context on what happened near Covington.
