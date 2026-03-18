@@ -6,11 +6,11 @@ title: "Project Overview"
 |---|---|
 | Developer | [Jupiter Power LLC](https://jupiterpower.io/) (Austin, TX; owned by [BlackRock](https://www.blackrock.com/)) |
 | Prior developer | [Accelergen Energy](https://accelergen.com/) ("Snoqualmie Energy Storage") |
-| Landowner | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888) — Burnstead Construction / Pine Forest Properties |
+| Landowner | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Burnstead Construction / Pine Forest Properties |
 | Type | Lithium-ion battery energy storage (BESS) |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
 | Site | ~45 acres across 5 parcels, unincorporated King County |
-| Zoning | UR (Urban Reserve) — BESS is a permitted use, no Conditional Use Permit (CUP) required |
+| Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
 | Interconnection | 115kV tie-line to PSE Mt. Si substation |
 | PSE agreement | Tolling agreement executed August 22, 2025 |
 | Operations target | Late 2028 |
@@ -21,7 +21,7 @@ title: "Project Overview"
 ## What the facility would include
 
 - Lithium-ion battery modules housed in prefabricated enclosures (standard utility-scale BESS design)
-- Thermal management / cooling systems (fans, HVAC — these run 24/7)
+- Thermal management / cooling systems (fans, HVAC, running 24/7)
 - Fire detection and suppression equipment
 - Inverters, transformers, and substation
 - Perimeter fencing and security gates
@@ -31,9 +31,9 @@ title: "Project Overview"
 
 Founded 2017, acquired by [BlackRock](https://www.blackrock.com/) (Diversified Infrastructure) in late 2022. About 8,000 MWh of battery storage operating or under construction, 12,000+ MW battery storage pipeline.
 
-They're also behind the [Blackberry Grove project](https://blackberrygroveenergy.com/) (100 MW) near Hillsboro, Oregon — the most contested land use case in Washington County history, opposed by the [No Batteries In Backyards](https://nobatteriesinbackyards.org/) group.
+They're also behind the [Blackberry Grove project](https://blackberrygroveenergy.com/) (100 MW) near Hillsboro, Oregon, the most contested land use case in Washington County history, opposed by the [No Batteries In Backyards](https://nobatteriesinbackyards.org/) group.
 
-In 2025, Jupiter Power signed a [**$500 million / 4.75 GWh supply agreement with Peak Energy for sodium-ion batteries**](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) — a chemistry with no thermal runaway, no toxic off-gassing, and passive cooling. CTO Mike Geier called it a "potential game changer." The company proposing lithium-ion for Snoqualmie Ridge is spending half a billion dollars on the technology that would fix the problems Snoqualmie Ridge is worried about.
+In 2025, Jupiter Power signed a [**$500 million / 4.75 GWh supply agreement with Peak Energy for sodium-ion batteries**](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html), a chemistry with no thermal runaway, no toxic off-gassing, and passive cooling. CTO Mike Geier called it a "potential game changer." The company proposing lithium-ion for Snoqualmie Ridge is spending half a billion dollars on the technology that would fix the problems Snoqualmie Ridge is worried about.
 
 ## PSE tolling agreement
 
@@ -47,7 +47,7 @@ Residents spoke against the project at the March 9, 2026 Snoqualmie City Council
 
 Councilmember Dan Murphy: "Industrial battery storage doesn't belong in the middle of a neighborhood."
 
-Jupiter Power held a community open house on March 17, 2026 at The Club at Snoqualmie Ridge. The turnout exceeded the venue's capacity — traffic backed up into the parking lot, and the sign-in line was eventually bypassed. Jupiter Power used an open house format with individual information stations rather than a public forum. The crowd was large enough that the format broke down. Residents outside the venue held signs ("Who pays when it burns?") and distributed flyers.
+Jupiter Power held a community open house on March 17, 2026 at The Club at Snoqualmie Ridge. The turnout exceeded the venue's capacity. Traffic backed up into the parking lot, and the sign-in line was eventually bypassed. Jupiter Power used an open house format with individual information stations rather than a public forum. The crowd was large enough that the format broke down. Residents outside the venue held signs ("Who pays when it burns?") and distributed flyers.
 
 Jupiter Power's presentation boards focused on generic BESS safety data (97% failure rate drop since 2018, NFPA 855 compliance) but did not address battery chemistry alternatives, the company's own sodium-ion investments, or site-specific environmental risks (Fisher Creek, wetlands, floodplain, seismic hazard).
 

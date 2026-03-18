@@ -2,7 +2,7 @@
 title: "Stay Informed"
 ---
 
-Get email updates on the Cascadia Ridge BESS project — permit filings, SEPA comment opportunities, community meetings, new research.
+Get email updates on the Cascadia Ridge BESS project: permit filings, SEPA comment opportunities, community meetings, new research.
 
 <div class="subscribe-form">
   <form action="https://formsubmit.co/45b1352c79fae3a0c14a4d9f30734de0" method="POST">
@@ -18,4 +18,4 @@ Get email updates on the Cascadia Ridge BESS project — permit filings, SEPA co
 
 ## Other ways to engage {#other-ways-to-engage}
 
-See [Take Action](/take-action) for specific steps — who to contact, what to ask for, and how to make your voice heard.
+See [Take Action](/take-action) for specific steps: who to contact, what to ask for, and how to make your voice heard.

@@ -27,7 +27,7 @@ These fires come back. Undamaged cells in a partially burned facility still hold
 
 ### Why this site is different
 
-The Snoqualmie Valley is ridge-bounded. Temperature inversions in western Washington valleys can trap smoke and gas close to the ground — nothing like a coastal site such as Moss Landing where wind disperses emissions.
+The Snoqualmie Valley is ridge-bounded. Temperature inversions in western Washington valleys can trap smoke and gas close to the ground, nothing like a coastal site such as Moss Landing where wind disperses emissions.
 
 Fisher Creek runs through the parcel with an unmapped floodplain less than 10 vertical feet from the development area. Contaminated firefighting runoff would reach the creek.
 
@@ -43,14 +43,14 @@ Snoqualmie Ridge has limited ways out: Snoqualmie Parkway and SR-18. Moss Landin
 
 ### Abuse testing {#abuse-testing}
 
-Sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire — and they don't ignite:
+Sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire, and they don't ignite:
 
 - **Nail penetration and mechanical abuse:** CATL publicly demonstrated nail penetration, drill, and metal saw tests on sodium-ion packs without ignition. Cells also remain stable under crush testing. In comparative testing (CATARC), sodium-ion showed a 0% ignition rate vs. 23% for lithium-ion, where 85% of cells exceeded 200°C.
 - **UL 9540A:** [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) was the first sodium-ion company to publish full UL 9540A results. Cells passed without needing additional safety controls.
 
 ### Peak Energy
 
-Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyrophosphate) with a non-flammable electrolyte. They've passed nail penetration, overcharge, and crush testing without thermal runaway. No cobalt, nickel, or manganese. Passive cooling only — no fans, no HVAC, no 24/7 noise. They're targeting cost parity with LFP and commercial-scale production in 2026–2027.
+Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyrophosphate) with a non-flammable electrolyte. They've passed nail penetration, overcharge, and crush testing without thermal runaway. No cobalt, nickel, or manganese. Passive cooling only: no fans, no HVAC, no 24/7 noise. They're targeting cost parity with LFP and commercial-scale production in 2026–2027.
 
 Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer."
 

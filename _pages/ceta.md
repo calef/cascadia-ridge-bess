@@ -22,10 +22,10 @@ Battery energy storage systems (BESS) fill that gap. They charge when renewables
 
 PSE's 2025 Integrated Resource Plan calls for up to **2.3 million annual MWh** from clean resources by 2030 and up to **1,755 MW of summer peak capacity** by 2029. Meeting those targets requires significant new storage.
 
-PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/acquiring-energy/2024-Voluntary-All-Source-RFP) in July 2024 ([UTC Docket UE-240532](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=34&year=2024&docketNumber=240532)) and received 98 proposals. The Cascadia Ridge tolling agreement was one result — signed August 22, 2025 and filed with the UTC on September 19, 2025.
+PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/acquiring-energy/2024-Voluntary-All-Source-RFP) in July 2024 ([UTC Docket UE-240532](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=34&year=2024&docketNumber=240532)) and received 98 proposals. The Cascadia Ridge tolling agreement was one result, signed August 22, 2025 and filed with the UTC on September 19, 2025.
 
 ## Our position
 
-We support grid storage. CETA compliance requires it, and the Mt. Si substation next to the Cascadia Ridge site makes this a logical interconnection point. The question isn't whether to build storage — it's what kind of battery to put in it.
+We support grid storage. CETA compliance requires it, and the Mt. Si substation next to the Cascadia Ridge site makes this a logical interconnection point. The question isn't whether to build storage. It's what kind of battery to put in it.
 
 [What we're asking for](/what-we-are-asking) · [Battery technology](/battery-technology)

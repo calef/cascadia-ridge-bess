@@ -4,20 +4,20 @@ title: "Site and Environment"
 
 ## Critical Areas Designation (CADS25-0076)
 
-King County completed a Critical Areas Designation for the primary parcel ([3624079039](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079039)) in July 2025. The full report is not available through King County's online permit portal — [download it here](/assets/CAD25-0076-letter-and-map.pdf). Here's what they found:
+King County completed a Critical Areas Designation for the primary parcel ([3624079039](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079039)) in July 2025. The full report is not available through King County's online permit portal. [Download it here](/assets/CAD25-0076-letter-and-map.pdf). Here's what they found:
 
 | Critical Area | Location | Buffer | Building Setback |
 |---|---|---|---|
 | Steep Slope Hazard | Eastern portion (10–55 ft vertical rise) | 50 ft | +15 ft |
 | Category III Wetland | Northeast corner (habitat score 7) | 150 ft (high-impact) | +15 ft |
-| Type F Aquatic Area (Fisher Creek) | Northwest portion — fish habitat | 115 ft | +15 ft |
+| Type F Aquatic Area (Fisher Creek) | Northwest portion, fish habitat | 115 ft | +15 ft |
 | Unmapped Floodplain | Associated with Fisher Creek | Requires Floodplain Development Application |
 
-King County classified the project as **high-impact** under [KCC 21A.24.325A.2.a](https://aqua.kingcounty.gov/council/clerk/code/24-30_Title_21A.pdf) — the designation that triggers the widest buffers.
+King County classified the project as **high-impact** under [KCC 21A.24.325A.2.a](https://aqua.kingcounty.gov/council/clerk/code/24-30_Title_21A.pdf), the designation that triggers the widest buffers.
 
 ## Why this matters
 
-Fisher Creek is a Type F stream — it has fish. It runs through the northwest portion of the parcel, and the elevation difference between its ordinary high water mark and the proposed development area is less than 10 feet. If there's a fire, runoff contaminated with heavy metals and fluoride compounds goes straight into the creek and from there into the Snoqualmie River watershed.
+Fisher Creek is a Type F stream. It has fish. It runs through the northwest portion of the parcel, and the elevation difference between its ordinary high water mark and the proposed development area is less than 10 feet. If there's a fire, runoff contaminated with heavy metals and fluoride compounds goes straight into the creek and from there into the Snoqualmie River watershed.
 
 Jupiter Power also has to file a separate Floodplain Development Application before they can even apply for a development permit. That's a gating requirement they haven't started yet.
 
@@ -27,7 +27,7 @@ The wildlife picture is incomplete. The CAD report identified two large hollow t
 
 ## Visual screening
 
-Critical area buffers will preserve vegetation on the north and east sides. But the **west side — facing the backyards of homes on Bracken Place SE and SE Center Street** — has no buffer protection at all. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
+Critical area buffers will preserve vegetation on the north and east sides. But the **west side, facing the backyards of homes on Bracken Place SE and SE Center Street**, has no buffer protection at all. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
 
 ## Parcels
 
