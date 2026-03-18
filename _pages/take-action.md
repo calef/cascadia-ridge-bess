@@ -14,6 +14,6 @@ title: "Take Action"
 
 3. **Get informed.** Understanding the [permitting process](/permitting), the [technology](/battery-technology), the [fire risk](/fire-risk), and [what we're asking for](/what-we-are-asking) makes your voice more effective when the time comes.
 
-4. **Attend community meetings.** King County's BESS ordinance requires a community meeting before a permit can be filed. Jupiter Power held one on March 17, 2026. Future meetings will be announced.
+4. **Attend community meetings.** Jupiter Power held an open house on March 17, 2026 that drew a standing-room-only crowd. At the event, Jupiter Power staff indicated that King County Councilmember Sarah Perry plans to hold her own community meeting on the project. Date and details haven't been announced yet. [Sign up](/subscribe) and we'll share that information as soon as it's available.
 
 5. **Comment during SEPA review.** When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity for public input. We'll send an alert when it opens.
