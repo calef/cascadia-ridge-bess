@@ -2,22 +2,36 @@
 title: "Take Action"
 ---
 
-1. **[Sign up for updates.](/subscribe)** We'll alert you when the SEPA comment window opens, when new permits are filed, and when community meetings are scheduled. If you do one thing, do this.
+## Sign up for updates
 
-2. **Write to the Snoqualmie City Council.** The site is in the city's Southwest Potential Annexation Area. The City of Snoqualmie has no jurisdiction today, but it could. We've already written to the Mayor and Council asking them to act. You can reinforce that message:
-   - Snoqualmie City Council: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
-   - Ask them to:
-     1. **Request formal notification from King County** on all Cascadia Ridge permit actions and SEPA determinations so the city isn't caught off guard.
-     2. **Direct staff to evaluate annexation feasibility** for the project parcels or the broader Southwest Potential Annexation Area. Annexation would bring the project under the city's Comprehensive Plan, which designates this land for business park and mixed use, not industrial battery storage.
-     3. **Engage King County during SEPA review** with a formal city comment when Jupiter Power refiles.
-     4. **Consider whether the Comprehensive Plan addresses** the risk of incompatible land use decisions on adjacent unincorporated parcels. This won't be the last proposal of its kind.
+We'll alert you when the SEPA comment window opens, when new permits are filed, and when community meetings are scheduled. If you do one thing, [do this](/subscribe).
 
-3. **Get informed.** Understanding the [permitting process](/permitting), the [technology](/battery-technology), the [fire risk](/fire-risk), and [what we're asking for](/what-we-are-asking) makes your voice more effective when the time comes.
+## Write to the Snoqualmie City Council
 
-4. **Attend community meetings.** Jupiter Power held an open house on March 17, 2026 that drew a standing-room-only crowd. At the event, Jupiter Power staff indicated that King County Councilmember Sarah Perry plans to hold her own community meeting on the project. Date and details haven't been announced yet. [Sign up](/subscribe) and we'll share that information as soon as it's available.
+The site is in the city's Southwest Potential Annexation Area. The City of Snoqualmie has no jurisdiction today, but it could. We've already written to the Mayor and Council asking them to act. You can reinforce that message.
 
-5. **Upcoming public meetings:**
-   - **[Snoqualmie City Council](https://www.snoqualmiewa.gov/Calendar.aspx?EID=3178&month=3&year=2026&day=17&calType=0)**, Monday, March 23, 7:00 PM. City Hall, 38624 SE River Street, Snoqualmie, WA 98065.
-   - **[King County Council](https://mkcclegisearch.kingcounty.gov/MeetingDetail.aspx?ID=1402100&GUID=B326BB88-B101-4EB2-9979-3112F1047CB1&Options=info|&Search=)**, Tuesday, March 24, 9:30 AM. 516 3rd Avenue, Room 1001 (10th Floor), Seattle, WA 98104. This is the fourth Tuesday of the month, when public comment is open on any county matter. The meeting is also available remotely.
+Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
 
-6. **Comment during SEPA review.** When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity for public input. We'll send an alert when it opens.
+Ask them to:
+
+- **Request formal notification from King County** on all Cascadia Ridge permit actions and SEPA determinations so the city isn't caught off guard.
+- **Direct staff to evaluate annexation feasibility** for the project parcels or the broader Southwest Potential Annexation Area. Annexation would bring the project under the city's Comprehensive Plan, which designates this land for business park and mixed use, not industrial battery storage.
+- **Engage King County during SEPA review** with a formal city comment when Jupiter Power refiles.
+- **Consider whether the Comprehensive Plan addresses** the risk of incompatible land use decisions on adjacent unincorporated parcels. This won't be the last proposal of its kind.
+
+## Attend community meetings
+
+Jupiter Power held an open house on March 17, 2026 that drew a standing-room-only crowd. At the event, Jupiter Power staff indicated that King County Councilmember Sarah Perry plans to hold her own community meeting on the project. Date and details haven't been announced yet. [Sign up](/subscribe) and we'll share that information as soon as it's available.
+
+## Upcoming public meetings
+
+- **[Snoqualmie City Council](https://www.snoqualmiewa.gov/Calendar.aspx?EID=3178&month=3&year=2026&day=17&calType=0)**, Monday, March 23, 7:00 PM. City Hall, 38624 SE River Street, Snoqualmie, WA 98065.
+- **[King County Council](https://mkcclegisearch.kingcounty.gov/MeetingDetail.aspx?ID=1402100&GUID=B326BB88-B101-4EB2-9979-3112F1047CB1&Options=info|&Search=)**, Tuesday, March 24, 9:30 AM. 516 3rd Avenue, Room 1001 (10th Floor), Seattle, WA 98104. This is the fourth Tuesday of the month, when public comment is open on any county matter. The meeting is also available remotely.
+
+## Get informed
+
+Understanding the [permitting process](/permitting), the [technology](/battery-technology), the [fire risk](/fire-risk), and [what we're asking for](/what-we-are-asking) makes your voice more effective when the time comes.
+
+## Comment during SEPA review
+
+When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity for public input. We'll send an alert when it opens.
