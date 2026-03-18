@@ -24,6 +24,27 @@ PSE's 2025 Integrated Resource Plan calls for up to **2.3 million annual MWh** f
 
 PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/acquiring-energy/2024-Voluntary-All-Source-RFP) in July 2024 ([UTC Docket UE-240532](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=34&year=2024&docketNumber=240532)) and received 98 proposals. The Cascadia Ridge tolling agreement was one result, signed August 22, 2025 and filed with the UTC on September 19, 2025.
 
+## What PSE was offered
+
+The [aggregated proposal summary](https://www.utc.wa.gov/casedocket/2024/240532/docsets) (docID 16, filed October 17, 2024) lists all 98 proposals:
+
+| Resource type | Proposals | States |
+|---|---|---|
+| Storage: Battery Li-ion 4hr | 47 | WA (41), OR (4), MT (2) |
+| Solar: PV | 18 | WA (10), OR (5), ID (2), MT (1) |
+| Hybrid: Solar + Storage | 15 | WA (11), OR (2), MT (2) |
+| Wind | 11 | MT (5), OR (3), WA (3) |
+| Flex Capacity: Gas | 5 | WA (5) |
+| Storage: Pumped Hydro | 3 | OR (2), MT (1) |
+
+Every single battery storage proposal was lithium-ion, 4-hour duration. All 47 standalone storage proposals. All 15 solar+storage hybrids. Not one sodium-ion proposal. Not one alternative chemistry.
+
+That's because the RFP closed in September 2024, before sodium-ion reached commercial scale. PSE selected from what was offered. They didn't have a chemistry choice.
+
+But the Cascadia Ridge tolling agreement was signed in August 2025 and the facility won't come online until late 2028. Peak Energy's sodium-ion technology will be commercially available before then, and Jupiter Power has already contracted for it on other projects. The contract was based on 2024 options. The technology landscape has changed.
+
+WA standalone battery proposals ranged from 40 MW to 400 MW. Cascadia Ridge at 130 MW is mid-range. Five gas plant proposals (171-215 MW) were also submitted, the fossil peakers CETA is supposed to replace.
+
 ## RFP process and oversight
 
 PSE's 2024 RFP was **voluntary** under WAC 480-107-021(1). That means the UTC does not formally approve or disapprove the RFP or the resulting contracts. Agreements are filed for informational purposes only.
