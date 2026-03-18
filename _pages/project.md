@@ -43,16 +43,14 @@ PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh
 
 ## Community response
 
-Residents spoke against the project at the March 9, 2026 Snoqualmie City Council meeting. Concerns included proximity to neighborhoods and parks, fire risk, noise, air and light pollution, and impacts on fish-bearing streams.
+**March 9, 2026.** Residents spoke against the project at the Snoqualmie City Council meeting. Concerns included proximity to neighborhoods and parks, fire risk, noise, air and light pollution, and impacts on fish-bearing streams. Councilmember Dan Murphy: "Industrial battery storage doesn't belong in the middle of a neighborhood."
 
-Councilmember Dan Murphy: "Industrial battery storage doesn't belong in the middle of a neighborhood."
+**March 16, 2026.** The City of Snoqualmie [posted a statement](https://www.snoqualmiewa.gov/m/NewsFlash/Home/Detail/1821) saying it is "monitoring this proposal closely" and will "provide input at the points in the County's review process where that input can be most effective."
 
-Jupiter Power held a community open house on March 17, 2026 at The Club at Snoqualmie Ridge. The turnout exceeded the venue's capacity. Traffic backed up into the parking lot, and the sign-in line was eventually bypassed. Jupiter Power used an open house format with individual information stations rather than a public forum. The crowd was large enough that the format broke down. Residents outside the venue held signs ("Who pays when it burns?") and distributed flyers.
+**March 17, 2026.** Jupiter Power held a community open house at The Club at Snoqualmie Ridge. The turnout exceeded the venue's capacity. Traffic backed up into the parking lot, and the sign-in line was eventually bypassed. Jupiter Power used an open house format with individual information stations rather than a public forum. The crowd was large enough that the format broke down. Residents outside the venue held signs ("Who pays when it burns?") and distributed flyers.
 
 Jupiter Power's presentation boards focused on generic BESS safety data (97% failure rate drop since 2018, NFPA 855 compliance) but did not address battery chemistry alternatives, the company's own sodium-ion investments, or site-specific environmental risks (Fisher Creek, wetlands, floodplain, seismic hazard).
 
-The City of Snoqualmie [posted a statement](https://www.snoqualmiewa.gov/m/NewsFlash/Home/Detail/1821) on March 16 saying it is "monitoring this proposal closely" and will "provide input at the points in the County's review process where that input can be most effective."
-
-KOMO News [covered the event](https://komonews.com/news/local/snoqualmie-ridge-lithium-battery-storage-project-draws-scrutiny-as-permit-process-begins-community-fire-safety-toxic-environment-jupiter-power-king-county), reporting that Jupiter Power is preparing a revised permit proposal. City officials told KOMO: "Residents care deeply about safety, environmental protection, and the character of our community. The city will provide input at key points."
+**March 17, 2026.** KOMO News [covered the event](https://komonews.com/news/local/snoqualmie-ridge-lithium-battery-storage-project-draws-scrutiny-as-permit-process-begins-community-fire-safety-toxic-environment-jupiter-power-king-county), reporting that Jupiter Power is preparing a revised permit proposal. City officials told KOMO: "Residents care deeply about safety, environmental protection, and the character of our community. The city will provide input at key points."
 
 Snoqualmie's Comprehensive Plan designates this site for "master-planned business park" and "innovative mixed use." Not industrial battery storage. The Comp Plan puts utility and power generation uses near the city's sewer treatment plant off Millpond Road, near SR 202.
