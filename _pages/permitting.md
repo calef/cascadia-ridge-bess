@@ -14,7 +14,7 @@ title: "Permitting Status"
 
 ## Regulatory framework
 
-**[King County Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F)** (September 2024, sponsored by Councilmember Sarah Perry) established the first regulatory framework for BESS in unincorporated King County, covering 97% of the county's unincorporated land. It was the first ordinance of its kind in the region. Cascadia Ridge is one of the first projects to move through it.
+**[King County Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F)** ([announcement](https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2024/9-24-regulatory-framework-battery-storage-approved), September 2024, sponsored by Councilmember Sarah Perry) established the first regulatory framework for BESS in unincorporated King County, covering 97% of the county's unincorporated land. It was the first ordinance of its kind in the region. Cascadia Ridge is one of the first projects to move through it.
 
 Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input. SEPA review is the main avenue for community comment. The window is 21 days.
 
