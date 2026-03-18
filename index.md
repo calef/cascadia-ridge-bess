@@ -8,9 +8,9 @@ title: "Cascadia Ridge BESS — Community Research"
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-121.8680%2C47.5220%2C-121.8490%2C47.5330&layer=mapnik&marker=47.5271%2C-121.8586" style="border: 1px solid #ddd; border-radius: 4px; margin: 1rem 0;"></iframe>
 <small><a href="https://www.openstreetmap.org/?mlat=47.5271&mlon=-121.8586#map=15/47.5271/-121.8586" target="_blank">View larger map</a> — Marker shows approximate center of the proposed site.</small>
 
-## The basics
-
-PSE needs grid storage for [CETA](/ceta) compliance, and the Mt. Si substation next door makes this a logical interconnection point. The proposed facility would use lithium-ion batteries. Jupiter Power has also signed a [$500 million sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. The facility isn't scheduled to come online until late 2028.
+<div class="callout" markdown="1">
+PSE needs grid storage for [CETA](/ceta) compliance, and the Mt. Si substation next door makes this a logical site. But lithium-ion is the wrong battery for this location. The fire, noise, and environmental risks are real — and they're avoidable. Jupiter Power has signed a [$500 million sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. This facility isn't scheduled to come online until late 2028 — after sodium-ion is commercially available.
+</div>
 
 ## Key facts
 
