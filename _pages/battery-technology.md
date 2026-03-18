@@ -55,3 +55,10 @@ Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyroph
 Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer."
 
 Cascadia Ridge isn't scheduled to come online until late 2028, after sodium-ion hits commercial scale. So why isn't Jupiter Power using it here?
+
+### Further reading
+
+- [Safety of sodium-ion batteries: prospective analysis from first generation towards more advanced systems](https://www.mdpi.com/2313-0105/10/10/370) (MDPI Batteries, 2024)
+- [Thermal runaway hazards comparison between sodium-ion and lithium-ion batteries](https://www.sciencedirect.com/science/article/abs/pii/S095758202400716X) (ScienceDirect, 2024)
+- [Faradion: superior safety testing summary](https://faradion.co.uk/technology-benefits/superior-safety/)
+- [Natron Energy UL 9540A module test report](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) (PDF)
