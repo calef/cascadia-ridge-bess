@@ -29,7 +29,3 @@ No active permit application as of March 2026. Jupiter Power filed a Commercial 
 ## Get involved
 
 **[Take action](/take-action)** · [Sign up for updates](/subscribe)
-
----
-
-[Project details](/project) · [Site and environment](/site-and-environment) · [Battery technology](/battery-technology) · [CETA and grid storage](/ceta) · [Permitting](/permitting)
