@@ -10,16 +10,16 @@ A Battery Energy Storage System (BESS) is a facility that stores electricity in 
 
 Washington's [Clean Energy Transformation Act (CETA)](/ceta) requires utilities to be greenhouse gas neutral by 2030 and supply 100% clean electricity by 2045. Wind and solar don't generate power on demand — they produce when conditions are right, not necessarily when people need electricity. Storage bridges that gap: charge when renewables are overproducing, discharge during peak demand. Without storage, PSE either overbuilds generation (expensive for ratepayers) or keeps fossil fuel peakers running (which violates CETA). PSE's Mt. Si substation sits adjacent to the proposed site, making it a logical interconnection point.
 
-## Why are some people opposed to building a BESS in our area? {#opposition}
+## What are the concerns? {#concerns}
 
-The proposed facility would use **lithium-ion batteries**, which carry risks specific to that chemistry:
+The proposed facility would use **lithium-ion batteries**. Community concerns include:
 
-- **Fire:** Lithium-ion cells can undergo thermal runaway — an uncontrolled, self-sustaining temperature rise that can cascade through an entire facility. EPRI tracks two failure metrics: a per-project rate (0.3%/yr) and a per-GW rate that scales with facility size. For a 130 MW facility like Cascadia Ridge, the [15-year compound probability ranges from 4.4% to 45%](/fire-risk) depending on which metric you use. Recent incidents at [Moss Landing, CA](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) and [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) required evacuations and EPA-ordered cleanups.
+- **Fire:** Lithium-ion cells can undergo thermal runaway — an uncontrolled, self-sustaining temperature rise that can cascade through an entire facility. EPRI tracks two failure metrics. For a 130 MW facility like Cascadia Ridge, the [15-year compound probability ranges from 4.4% to 45%](/fire-risk) depending on which metric you use. Recent incidents at [Moss Landing, CA](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) and [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) required evacuations and EPA-ordered cleanups.
 - **Toxic emissions:** Lithium-ion battery fires produce hydrogen fluoride, heavy metals, and other hazardous compounds. The site is adjacent to Fisher Creek (salmon habitat) and thousands of homes on Snoqualmie Ridge.
 - **Noise:** Lithium-ion systems require active cooling — fans and HVAC running around the clock.
-- **Alternatives exist:** [Jupiter Power](/project) is already spending half a billion dollars on sodium-ion for other projects — a [$500M deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html). Sodium-ion has no thermal runaway and uses passive cooling. It'll be on the market before this facility is built.
-
-Residents also raised concerns about proximity to neighborhoods and parks, impacts on property values, and the fact that Snoqualmie's Comprehensive Plan designates this land for business park and mixed use, not industrial battery storage.
+- **Battery chemistry:** Jupiter Power has signed a [$500M sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. Sodium-ion does not have thermal runaway and uses passive cooling. It will be commercially available before this facility is built.
+- **Proximity** to neighborhoods, parks, and schools, and potential impacts on property values.
+- **Land use:** Snoqualmie's Comprehensive Plan designates this land for business park and mixed use, not industrial battery storage.
 
 ## Who will decide whether the proposed BESS project will be approved? {#who-decides}
 
@@ -33,7 +33,7 @@ The Snoqualmie Valley is exposed to the [Southern Whidbey Island Fault](https://
 
 King County's ordinance requires IEEE 693 seismic qualification, which keeps equipment on its mounts. But nobody has tested whether utility-scale BESS enclosures protect cells the way crash-tested EV packs do. And there's no requirement to model the full chain: earthquake damages cells → thermal runaway → fire → contaminated runoff into Fisher Creek, all while evacuation routes may be damaged. No utility-scale BESS has been tested by a major earthquake. See the [earthquake risk section](/fire-risk#earthquake-risk) of our fire risk analysis.
 
-With sodium-ion, an earthquake can't trigger a chemical fire — there's no thermal runaway to trigger.
+Sodium-ion does not have thermal runaway, so the earthquake-to-fire chain does not apply to that chemistry.
 
 ## If lithium-ion batteries are sensitive to vibration, why are they safe in cars and planes? {#ev-vibration}
 

@@ -43,7 +43,7 @@ The industry's preferred number. Doesn't account for facility size.
 | 15 | 4.4% | 45.0% |
 | 20 | 5.8% | 54.7% |
 
-Neither metric is perfect. The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. But even at the low end, 1-in-23 over 15 years is not a number most people would accept next to their homes.
+The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. The actual risk for a specific facility is somewhere in this range.
 
 ## Why the real number is probably higher
 
@@ -57,16 +57,14 @@ Thermal runaway doesn't always stay in one container. It can cascade. Neither me
 
 ## For this site
 
-By either measure, the risk over 15–20 years is not small. At the low end, 1-in-23. Accounting for facility size, far higher.
-
-Those are different numbers when the facility is adjacent to thousands of homes, next to salmon-bearing streams, in a ridge-bounded valley where inversions trap smoke, with two ways out of the neighborhood.
+This facility would be adjacent to thousands of homes, next to salmon-bearing streams, in a ridge-bounded valley where inversions trap smoke, with two ways out of the neighborhood.
 
 | Chemistry | Thermal Runaway? | 15-year risk range |
 |---|---|---|
 | Lithium-ion (NMC/LFP) | Yes | 4.4%–45.0% |
 | Sodium-ion | None in testing | ~0% from this cause |
 
-Sodium-ion doesn't have thermal runaway. That doesn't make the fire risk smaller. It removes it.
+Sodium-ion does not have thermal runaway.
 
 ## Earthquake risk
 
@@ -84,4 +82,4 @@ Beyond cell damage, there's no requirement to model the full chain for this site
 
 No utility-scale BESS has been hit by a major earthquake. That's because the fleet is young and mostly deployed in low-seismicity areas, not because these systems are proven earthquake-safe.
 
-Sodium-ion takes this risk off the table. Sodium-ion cells have been [nail-penetrated, crushed, and sawed](/battery-technology#abuse-testing) without ignition — 0% ignition rate vs. 23% for lithium-ion. No thermal runaway means an earthquake can't start a chemical fire.
+Sodium-ion cells have been [nail-penetrated, crushed, and sawed](/battery-technology#abuse-testing) without ignition — 0% ignition rate vs. 23% for lithium-ion. Without thermal runaway, the earthquake-to-fire chain does not apply.

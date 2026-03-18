@@ -2,32 +2,32 @@
 title: "What We're Asking"
 ---
 
-PSE needs grid storage. Washington's [CETA](/ceta) targets require it, and the Mt. Si substation next door makes this a reasonable site. We get that. We're not trying to kill this project.
+PSE needs grid storage. Washington's [CETA](/ceta) targets require it, and the Mt. Si substation next door makes this a reasonable interconnection point.
 
-But we think the community has a right to ask for two specific things.
+These are the questions we think should be answered before this project moves forward.
 
-## 1. Sodium-ion or equivalent non-lithium-ion chemistry
+## Battery chemistry
 
-Jupiter Power's own [$500M Peak Energy contract](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) tells you where the industry is headed. Sodium-ion gets rid of:
+Jupiter Power's own [$500M Peak Energy contract](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) is for sodium-ion batteries. Sodium-ion eliminates:
 
 - Thermal runaway — the mechanism behind every major BESS fire
 - Hydrogen fluoride and heavy metal emissions
 - Round-the-clock cooling fan noise (sodium-ion uses passive cooling)
 
-The facility won't be operational until late 2028. Sodium-ion will be commercially available before then.
+The facility won't be operational until late 2028. Sodium-ion will be commercially available before then. Why isn't it being used here?
 
-## 2. Tree retention on the west (Parkway-facing) side
+## Tree retention
 
-Critical area buffers protect the north and east edges. The west side — facing the backyards of homes on Bracken Place SE and SE Center Street — has nothing. The trees are already there. Leaving them alone costs Jupiter Power nothing and preserves the visual buffer between the facility and the neighborhood.
+Critical area buffers protect the north and east edges. The west side — facing the backyards of homes on Bracken Place SE and SE Center Street — has no buffer protection. The existing trees provide a visual and physical screen between the facility and the neighborhood. Will they be retained?
 
-## Proposed changes to King County's BESS ordinance
+## Ordinance gaps
 
-We've also proposed two amendments to [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) that would apply county-wide, not just at this site:
+We've proposed two amendments to [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) that would apply county-wide:
 
-1. **Add battery chemistry to the alternatives analysis (Condition 29).** The ordinance already requires applicants to evaluate alternative locations and demand management strategies. It should also require them to explain why they're not using a safer chemistry when one is commercially available. This doesn't ban lithium-ion — it requires the applicant to justify the choice.
+1. **Add battery chemistry to the alternatives analysis (Condition 29).** The ordinance requires applicants to evaluate alternative locations and demand management strategies. It does not require them to evaluate alternative battery chemistries, even when safer options are commercially available.
 
-2. **Scale the financial responsibility threshold (Section 17.B).** Right now the ordinance sets a flat $1 million regardless of facility size or location. A 2 MWh system in an industrial park and a 520 MWh facility across from a residential neighborhood have the same liability floor. The proposed amendment ties the amount to capacity and adjusts for proximity to homes and sensitive habitat.
+2. **Scale the financial responsibility threshold (Section 17.B).** The ordinance sets a flat $1 million regardless of facility size or location. A 2 MWh system in an industrial park and a 520 MWh facility across from a residential neighborhood have the same liability floor.
 
-Both of these build on what's already in the ordinance. The ordinance itself (Section 19) requires a study report by approximately September 2027 evaluating whether the financial responsibility thresholds are adequate and whether technology changes warrant updates. We think that evaluation shouldn't wait — the gaps are clear now, and projects are already in the pipeline.
+The ordinance itself (Section 19) requires a study report by approximately September 2027 evaluating whether the financial responsibility thresholds are adequate and whether technology changes warrant updates.
 
 We've shared these proposals with Councilmember Perry's office. We'll update this page as that conversation develops.
