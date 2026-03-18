@@ -26,7 +26,6 @@ Jupiter Power held an open house on March 17, 2026 that drew a standing-room-onl
 ## Upcoming public meetings
 
 - **[Snoqualmie City Council](https://www.snoqualmiewa.gov/Calendar.aspx?EID=3178&month=3&year=2026&day=17&calType=0)**, Monday, March 23, 7:00 PM. City Hall, 38624 SE River Street, Snoqualmie, WA 98065.
-- **King County Council**, check the [meeting calendar](https://mkcclegisearch.kingcounty.gov/Calendar.aspx) for upcoming full Council meetings. Public comment on any topic is accepted on the fourth Tuesday of each month. 516 3rd Avenue, Room 1001 (10th Floor), Seattle, WA 98104.
 
 ## Get informed
 
