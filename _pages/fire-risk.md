@@ -112,3 +112,20 @@ Beyond cell damage, there's no requirement to model the full chain for this site
 No utility-scale BESS has been hit by a major earthquake. That's because the fleet is young and mostly deployed in low-seismicity areas, not because these systems are proven earthquake-safe.
 
 Peak Energy's sodium-ion cells have been [nail-penetrated, crushed, and sawed](/battery-technology#abuse-testing) without ignition: 0% ignition rate vs. 23% for lithium-ion. For chemistries that don't exhibit thermal runaway, the earthquake-to-fire chain does not apply.
+
+## Evacuation
+
+Snoqualmie Ridge has two primary egress routes: Snoqualmie Parkway and SR-18. Moss Landing evacuated 1,200 to 1,500 people from a smaller community with more ways out. Snoqualmie Ridge is bigger.
+
+The City of Snoqualmie's own [Comprehensive Emergency Management Plan (ESF #16, November 2017)](https://www.snoqualmiewa.gov/DocumentCenter/View/17031/ESF-16---Evacuation-PDF) identifies several constraints:
+
+- The **police department has very limited on-duty personnel** for a large-scale evacuation, and may need to rely on statewide mutual aid from areas not affected by the event.
+- The city is **heavily dependent on roads, bridges, and assets it doesn't own or operate**, including King County and WSDOT infrastructure.
+- In a major earthquake, "**such severe damage to critical infrastructure** that elements of evacuation pre-planning is impractical to determine prior to an actual evacuation."
+- The plan **assumes the city will have enough accurate and adequate notice** to implement an evacuation. "There may be times were there is too little or too late of notice to successfully evacuate all or certain parts of the population."
+- Private ambulance services **would not be available** to Snoqualmie due to commitments to higher-population areas like Seattle.
+- School buses and Metro buses are in the city but **may not have staffing to operate them** during an evacuation.
+
+The plan lists trigger events: earthquakes, mudslides, floods, volcanic activity, fires, dam failure, terrorism. It does not contemplate an **industrial toxic release** from a battery storage facility. The plan predates Ordinance 19824 by seven years. No BESS-specific evacuation scenario has been studied for this community.
+
+The population numbers in the plan (11,000+ residents, 3,200 students, plus thousands of casino and hotel visitors) are from 2017. Snoqualmie Ridge has grown since then.
