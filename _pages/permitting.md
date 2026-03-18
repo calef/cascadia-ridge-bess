@@ -31,4 +31,4 @@ The ordinance is new and Cascadia Ridge is an early test. Some of its provisions
 
 The City of Snoqualmie has no authority over this project even though Snoqualmie Ridge residents are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan, which designates this land for business park and mixed use rather than industrial storage, would apply.
 
-Three other King County cities (Covington, Enumclaw, Black Diamond) have passed BESS moratoriums.
+Three other King County cities (Covington, Enumclaw, Black Diamond) have passed BESS moratoriums. See [other BESS projects in King County](/other-projects) for context on what happened near Covington.
