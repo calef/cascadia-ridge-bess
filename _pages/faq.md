@@ -4,7 +4,7 @@ title: "FAQ"
 
 ## What is a BESS? {#what-is-a-bess}
 
-A Battery Energy Storage System (BESS) is a facility that stores electricity in large banks of batteries and releases it back to the grid when needed. The proposed Cascadia Ridge facility would be 130 MW / 520 MWh — enough to power roughly 100,000 homes for four hours. At utility scale, a BESS consists of battery modules housed in prefabricated enclosures, along with inverters, transformers, cooling systems, fire suppression equipment, and a substation connecting to the transmission grid.
+A Battery Energy Storage System (BESS) is a facility that stores electricity in large banks of batteries and releases it back to the grid when needed. The proposed Cascadia Ridge facility would be 130 MW / 520 MWh — enough to power roughly 100,000 homes for four hours. In practice, it's rows of battery modules in prefabricated enclosures, plus inverters (to convert DC to AC), transformers (to step up voltage), cooling systems, fire suppression equipment, and switchgear connecting to the transmission grid. This project would connect to PSE's existing Mt. Si substation via a 115kV tie-line.
 
 ## Why is PSE interested in having a BESS? {#why-pse}
 
