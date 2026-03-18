@@ -47,4 +47,8 @@ Residents spoke against the project at the March 9, 2026 Snoqualmie City Council
 
 Councilmember Dan Murphy: "Industrial battery storage doesn't belong in the middle of a neighborhood."
 
+Jupiter Power held a community open house on March 17, 2026 at The Club at Snoqualmie Ridge. The turnout exceeded the venue's capacity — traffic backed up into the parking lot, and the sign-in line was eventually bypassed. Jupiter Power used an open house format with individual information stations rather than a public forum. The crowd was large enough that the format broke down. Residents outside the venue held signs ("Who pays when it burns?") and distributed flyers.
+
+Jupiter Power's presentation boards focused on generic BESS safety data (97% failure rate drop since 2018, NFPA 855 compliance) but did not address battery chemistry alternatives, the company's own sodium-ion investments, or site-specific environmental risks (Fisher Creek, wetlands, floodplain, seismic hazard).
+
 Snoqualmie's Comprehensive Plan designates this site for "master-planned business park" and "innovative mixed use." Not industrial battery storage. The Comp Plan puts utility and power generation uses near the city's sewer treatment plant off Millpond Road, near SR 202.
