@@ -49,6 +49,24 @@ Earthquake shaking is the opposite: high-amplitude, low-frequency. It's more lik
 
 The packaging matters too. An EV battery is a sealed, crash-engineered unit. A utility-scale BESS is rack-mounted modules in shipping containers, designed for stationary use. IEEE 693 keeps the racks on their mounts, but the cell-level containment inside the modules isn't crash-tested the way an EV pack is. Nobody has tested whether utility-scale BESS enclosures protect cells during seismic shaking the way an EV pack protects them during a crash.
 
+## If lithium-ion and sodium-ion were both researched since the 1970s, why did lithium-ion get commercialized first? {#why-lithium-first}
+
+Energy density. Lithium is the lightest metal on the periodic table and has the highest electrochemical potential, which means more energy in a smaller, lighter package. When Sony commercialized the first lithium-ion battery in 1991, the market was portable electronics: laptops, camcorders, eventually phones. For those applications, energy density is everything. Sodium-ion couldn't compete on that metric and the research funding followed lithium-ion. The EV market in the 2010s reinforced the same dynamic: range anxiety means weight and size matter.
+
+Sodium-ion got left behind because there was no market where its advantages mattered. It's heavier and lower energy density, which is disqualifying for anything you carry or drive.
+
+What changed is stationary grid storage. A BESS sits on the ground. Nobody cares what it weighs. The metrics that matter are cost, safety, cycle life, and supply chain stability. Sodium-ion is competitive or better on all four. Sodium is the sixth most abundant element on earth, with no cobalt, nickel, or lithium supply chain risk. The market for utility-scale stationary storage at this scale basically didn't exist until renewable mandates like CETA created demand for it. That's why sodium-ion is reaching commercial scale now.
+
+## Is sodium-ion unproven? {#sodium-ion-proven}
+
+Sodium-ion doesn't have a long operational track record at grid scale. That's true. But the safety case for sodium-ion is fundamentally different from lithium-ion's.
+
+Lithium-ion's risk comes from thermal runaway, and you can only learn how often that happens by running facilities for years and counting incidents. That's why the failure rate data matters and why the lack of data on aged systems is concerning.
+
+Sodium-ion's safety case comes from the fact that the cells don't thermally run away in the first place. That's testable in a lab, and it's been tested. Peak Energy's NFPP cells have been through the same abuse testing protocols used for lithium-ion (nail penetration, crush, overcharge, saw) with a 0% ignition rate vs. 23% for lithium-ion. [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) published full UL 9540A results for sodium-ion before any commercial deployment, which is more pre-deployment safety data than lithium-ion BESS had when the industry started deploying it at scale.
+
+The operational unknowns for sodium-ion are real: cycle degradation at scale, long-term maintenance costs, supply chain reliability. Those are commercial risks, not safety risks. A sodium-ion cell that degrades loses capacity. A lithium-ion cell that degrades can catch fire.
+
 ## What can I do? {#take-action}
 
 See [Take Action](/take-action) for specific steps: who to contact, what to ask for, and how to make your voice heard.
