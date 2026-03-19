@@ -6,7 +6,7 @@ title: "Battery Technology"
 
 The first generation of utility-scale battery storage was built with what was available: high-density lithium-ion cells designed for consumer electronics and electric vehicles, scaled up to grid size despite known safety trade-offs. The industry accepted thermal runaway risk, toxic emissions, and active cooling requirements because there was no alternative at scale.
 
-The second generation addresses those problems directly. Sodium-ion eliminates thermal runaway, uses passive cooling, and avoids the toxic heavy metals in lithium-ion cathodes. It's commercially viable before Cascadia Ridge is scheduled to come online. We want the second generation at this site.
+The second generation addresses those problems directly. Sodium-ion eliminates thermal runaway, uses passive cooling, and avoids the toxic heavy metals in lithium-ion cathodes. [MIT Technology Review named sodium-ion one of the 10 Breakthrough Technologies of 2026.](https://www.technologyreview.com/2026/01/12/1129991/sodium-ion-batteries-2026-breakthrough-technology/) CATL, the world's largest battery manufacturer, is deploying sodium-ion at scale in 2026. It's commercially viable before Cascadia Ridge is scheduled to come online. We want the second generation at this site.
 
 ## Lithium-ion risks
 
