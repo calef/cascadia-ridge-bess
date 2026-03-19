@@ -16,7 +16,7 @@ Storage needs to be near where power is consumed, not where it's generated. You 
 
 PSE's Mt. Si substation sits right next to this site. It's an existing grid interconnection point where PSE needs capacity. Grid storage belongs near substations and load centers. The location makes sense.
 
-The real question is why Jupiter Power chose lithium-ion cells for a site 1,500 feet from homes and a school bus route. Sodium-ion batteries can do the same job at this location without the thermal runaway risk. PSE's RFP didn't specify lithium. Jupiter Power did. What doesn't belong next to homes is a chemistry that can produce uncontrollable fires and toxic hydrogen fluoride gas when it fails.
+The real question is why Jupiter Power chose lithium-ion cells for a site 1,500 feet from homes and a school bus route. Sodium-ion batteries can do the same job at this location without the thermal runaway risk. Lithium-ion was the standard when PSE's RFP was issued, but sodium-ion is now commercially available and Jupiter Power has already signed a [$500M sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. What doesn't belong next to homes is a chemistry that can produce uncontrollable fires and toxic hydrogen fluoride gas when it fails.
 
 ## What are the concerns? {#concerns}
 
