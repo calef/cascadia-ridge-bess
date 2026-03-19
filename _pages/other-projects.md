@@ -56,9 +56,8 @@ Jupiter Power's approach at Hillsboro followed a pattern:
 - Hold a community meeting (poster stations, no presentation, no Q&A) to check the box
 - Don't engage publicly with the opposition
 - Let the planning staff recommend approval and the hearings officer apply the code
-- Wait
 
-This is the same approach playing out at Cascadia Ridge. The community meeting format on March 17 was identical. The key difference: King County's Ordinance 19824 makes BESS a permitted use with no public hearing at all.
+This is the same approach playing out at Cascadia Ridge. The community meeting format on March 17 was identical. The key difference: King County's Ordinance 19824 makes BESS a permitted use with no public hearing. The only formal public input is the 21-day SEPA comment period, which makes that window critical.
 
 ### The lesson
 
