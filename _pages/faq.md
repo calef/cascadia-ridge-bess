@@ -10,11 +10,13 @@ A Battery Energy Storage System (BESS) is a facility that stores electricity in 
 
 Washington's [Clean Energy Transformation Act (CETA)](/ceta) requires utilities to be greenhouse gas neutral by 2030 and supply 100% clean electricity by 2045. Wind and solar don't generate power on demand. They produce when conditions are right, not necessarily when people need electricity. Storage bridges that gap: charge when renewables are overproducing, discharge during peak demand. Without storage, PSE either overbuilds generation (expensive for ratepayers) or keeps fossil fuel peakers running (which violates CETA). PSE's Mt. Si substation sits adjacent to the proposed site, making it a logical interconnection point.
 
-## Why not put storage near the wind farms and solar farms instead? {#why-here}
+## Why not build it somewhere away from residential areas? {#why-here}
 
-Storage needs to be near where power is consumed, not where it's generated. Transmitting stored power long distances means energy losses both ways, and building new long-distance transmission lines is expensive, slow to permit, and faces its own opposition. The value of storage is that it can discharge locally during peak demand without new transmission infrastructure.
+Storage needs to be near where power is consumed, not where it's generated. You can't put a battery next to a wind farm in Eastern Washington and expect it to help the Eastside during peak demand without expensive new transmission lines. Transmitting stored power long distances means energy losses both ways, and building new long-distance transmission is slow to permit and faces its own opposition.
 
-The Mt. Si substation is why this site exists. It's an existing grid interconnection point where PSE needs capacity, and it sits adjacent to the proposed parcels. That's a legitimate grid planning rationale. The location makes sense. The question is what kind of battery goes there.
+PSE's Mt. Si substation sits right next to this site. It's an existing grid interconnection point where PSE needs capacity. Grid storage belongs near substations and load centers. The location makes sense.
+
+The real question is why Jupiter Power chose lithium-ion cells for a site 1,500 feet from homes and a school bus route. Sodium-ion batteries can do the same job at this location without the thermal runaway risk. PSE's RFP didn't specify lithium. Jupiter Power did. What doesn't belong next to homes is a chemistry that can produce uncontrollable fires and toxic hydrogen fluoride gas when it fails.
 
 ## What are the concerns? {#concerns}
 
