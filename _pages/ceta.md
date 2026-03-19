@@ -63,8 +63,16 @@ The financial lever comes later. When PSE seeks to recover Cascadia Ridge costs 
 
 If the project faces significant community opposition or permitting complications, those factors could weigh against a finding of prudence.
 
+## Storage is coming regardless
+
+CETA creates a specific timeline for PSE, but grid storage is being built across the country even in states with no clean energy mandate. Texas has no state clean energy requirement and is one of the largest BESS markets in the country. Jupiter Power is based there and does most of its business there. The driver is economics: solar is now the cheapest form of new electricity generation, and storage makes it dispatchable. Solar plus storage undercuts new gas peakers on cost in most markets without any mandate.
+
+Battery costs have dropped roughly 90% in the last decade. The federal Inflation Reduction Act provides standalone storage tax credits. FERC Order 841 opened wholesale electricity markets to storage. These trends don't depend on CETA.
+
+This matters because the debate isn't whether to build storage. Storage is inevitable. The debate is what chemistry goes in it. That question applies whether the driver is CETA compliance or market economics.
+
 ## Our position
 
-We support grid storage. CETA compliance requires it, and the Mt. Si substation next to the Cascadia Ridge site makes this a logical interconnection point. The question isn't whether to build storage. It's what kind of battery to put in it.
+We support grid storage. It's needed for CETA compliance, it makes economic sense, and the Mt. Si substation next to the Cascadia Ridge site makes this a logical interconnection point. The question isn't whether to build storage. It's what kind of battery to put in it.
 
 [What we're asking for](/what-we-are-asking) · [Battery technology](/battery-technology)
