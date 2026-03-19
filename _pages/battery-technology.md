@@ -2,6 +2,12 @@
 title: "Battery Technology"
 ---
 
+## Two generations of grid storage
+
+The first generation of utility-scale battery storage was built with what was available: high-density lithium-ion cells designed for consumer electronics and electric vehicles, scaled up to grid size despite known safety trade-offs. The industry accepted thermal runaway risk, toxic emissions, and active cooling requirements because there was no alternative at scale.
+
+The second generation addresses those problems directly. Sodium-ion eliminates thermal runaway, uses passive cooling, and avoids the toxic heavy metals in lithium-ion cathodes. It's commercially viable before Cascadia Ridge is scheduled to come online. We want the second generation at this site.
+
 ## Lithium-ion risks
 
 Thermal runaway is an uncontrolled temperature rise inside a battery cell that feeds itself. Once one cell goes, it can cascade through an entire container. The process generates large volumes of flammable and toxic gas.
