@@ -36,6 +36,34 @@ Both projects are in unincorporated King County where the adjacent city has no d
 
 Key differences: Kingfisher is adjacent to a middle school with ~900 students. Cascadia Ridge is larger (45 acres / 130 MW vs. 14.1 acres). Covington passed a moratorium within its city limits. Snoqualmie has not. Ordinance 19824 was drafted partly in response to Kingfisher. Cascadia Ridge is one of the first projects to move through it.
 
+## Hillsboro, OR — Jupiter Power "Blackberry Grove" (approved despite record opposition)
+
+Same developer as Cascadia Ridge. Jupiter Power proposed a 100 MW BESS on 10 acres of agricultural land in unincorporated Washington County, Oregon, near the West Union substation. The project generated 350+ letters of opposition, making it the most contested land use case in Washington County history. An organized group, [No Batteries In Backyards](https://nobatteriesinbackyards.org/), formed to fight it.
+
+It was approved anyway. Hearings Officer Joe Turner approved the project on December 17, 2025, concurring with Planning Director Stephen Roberts' recommendation. The appeal window to Oregon's Land Use Board of Appeals closed January 7, 2026.
+
+### Why the opposition failed
+
+Washington County's code classifies BESS as a "public utility" special use in the Agriculture/Forest zone. Under Oregon land use law, the hearings officer evaluates whether the application meets the code's specific criteria, not whether the community wants it. Jupiter Power filed a compliant application, and 350 letters of opposition didn't change the legal analysis.
+
+The opposition raised fire risk, toxic emissions, noise, proximity to homes, notice problems (vague notice language, inaccessible documents, contradictory deadlines), and the argument that a privately owned battery farm shouldn't qualify as a "public utility." The hearings officer wasn't persuaded.
+
+### Jupiter Power's playbook
+
+Jupiter Power's approach at Hillsboro followed a pattern:
+
+- File a compliant application under the existing code
+- Hold a community meeting (poster stations, no presentation, no Q&A) to check the box
+- Don't engage publicly with the opposition
+- Let the planning staff recommend approval and the hearings officer apply the code
+- Wait
+
+This is the same approach playing out at Cascadia Ridge. The community meeting format on March 17 was identical. The key difference: King County's Ordinance 19824 makes BESS a permitted use with no public hearing at all.
+
+### The lesson
+
+Public comment alone does not stop these projects when the code allows them. The path to a different outcome runs through changing the regulatory framework (ordinance amendments, annexation) and using SEPA to force conditions the project can't meet. That's what we're focused on.
+
 ## Oyster Bay, NY — Jupiter Power (withdrawn)
 
 Same developer as Cascadia Ridge. Jupiter Power proposed a 275 MW BESS ("Oyster Shore") in Oyster Bay, NY. The town enacted a moratorium in February 2024 and extended it serially, making the permit path unviable. Jupiter Power [withdrew in May 2025](https://www.liherald.com/stories/jupiter-power-pulls-plug-on-oyster-shore-project,215238), citing "no viable permit path." The town subsequently made its BESS ban permanent.
