@@ -62,7 +62,7 @@ This is the same approach playing out at Cascadia Ridge. The community meeting f
 
 ### The lesson
 
-Public comment alone does not stop these projects when the code allows them. The path to a different outcome runs through changing the regulatory framework (ordinance amendments, annexation) and using SEPA to force conditions the project can't meet. That's what we're focused on.
+Public comment alone does not stop these projects when the code allows them. The path to a different outcome runs through changing the regulatory framework (ordinance amendments, annexation) and using SEPA to force conditions the project cannot meet in its current form. That's what we're focused on.
 
 ## Oyster Bay, NY — Jupiter Power (withdrawn)
 
