@@ -14,10 +14,10 @@ Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
 
 Ask them to:
 
-- **Request formal notification from King County** on all Cascadia Ridge permit actions and SEPA determinations so the city isn't caught off guard.
-- **Direct staff to evaluate annexation feasibility** for the project parcels or the broader Southwest Potential Annexation Area. Annexation would bring the project under the city's Comprehensive Plan, which designates this land for business park and mixed use, not industrial battery storage.
-- **Engage King County during SEPA review** with a formal city comment when Jupiter Power refiles.
-- **Consider whether the Comprehensive Plan addresses** the risk of incompatible land use decisions on adjacent unincorporated parcels. This won't be the last proposal of its kind.
+- **Pass a resolution** requesting King County prohibit battery chemistries with thermal runaway risk or active cooling requirements for BESS facilities sited within or adjacent to Snoqualmie city limits.
+- **Direct staff to formally participate in SEPA review** when Jupiter Power files a new permit application.
+- **Direct staff to evaluate annexation feasibility** for the project parcels within the Southwest Potential Annexation Area. The [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/1070/Snoqualmie-Comprehensive-Plan-2044) already designates this land for master-planned business park and innovative mixed use, not industrial battery storage. Annexation would make that designation enforceable.
+- **Update the ESF #16 evacuation plan** to address industrial toxic release scenarios. The current plan (November 2017) does not contemplate a chemical fire producing hydrogen fluoride adjacent to Snoqualmie Ridge.
 
 ## Attend community meetings
 

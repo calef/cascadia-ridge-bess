@@ -67,4 +67,6 @@ Jupiter Power's presentation boards focused on generic BESS safety data (97% fai
 
 **March 17, 2026.** KOMO News [covered the event](https://komonews.com/news/local/snoqualmie-ridge-lithium-battery-storage-project-draws-scrutiny-as-permit-process-begins-community-fire-safety-toxic-environment-jupiter-power-king-county), reporting that Jupiter Power is preparing a revised permit proposal. City officials told KOMO: "Residents care deeply about safety, environmental protection, and the character of our community. The city will provide input at key points."
 
+**March 23, 2026.** The Snoqualmie City Council cleared its regular agenda to take public comment on the proposed BESS facility.
+
 Snoqualmie's Comprehensive Plan designates this site for "master-planned business park" and "innovative mixed use." Not industrial battery storage. The Comp Plan puts utility and power generation uses near the city's sewer treatment plant off Millpond Road, near SR 202.
