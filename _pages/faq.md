@@ -51,6 +51,28 @@ Earthquake shaking is the opposite: high-amplitude, low-frequency. It's more lik
 
 The packaging matters too. An EV battery is a sealed, crash-engineered unit. A utility-scale BESS is rack-mounted modules in shipping containers, designed for stationary use. IEEE 693 keeps the racks on their mounts, but the cell-level containment inside the modules isn't crash-tested the way an EV pack is. Nobody has tested whether utility-scale BESS enclosures protect cells during seismic shaking the way an EV pack protects them during a crash.
 
+## Getting the facts right {#fact-check}
+
+Our community's opposition is strongest when it's accurate. Some claims circulating in public comment and social media need correction. The real facts are alarming enough.
+
+### McMicken, Arizona (2019): firefighters were injured, not killed
+
+Four firefighters were hospitalized (one critically) when an unvented battery container exploded at the McMicken BESS facility in Surprise, Arizona. None died. The explosion occurred when first responders opened the container door and flammable gas that had accumulated inside ignited. The real lesson is about deflagration venting and gas accumulation, and Jupiter Power has not disclosed their venting design for Cascadia Ridge. That's worth raising. But claiming firefighters died weakens the argument when someone checks.
+
+### Moss Landing evacuation: 1,200-1,500 people, not 15,000
+
+The January 2025 Moss Landing fire evacuated approximately 1,200 to 1,500 people. The larger number may reflect the broader area population, but it wasn't the evacuation count. The accurate comparison is actually worse for us: Moss Landing is a smaller community with more ways out, and the evacuation still took over 25 hours. Snoqualmie Ridge is bigger, has two primary egress routes, and demonstrated gridlock during the December 2025 floods. The real numbers make the case.
+
+### Monitoring: automated systems exist, but the gaps are real
+
+BESS facilities have continuous automated monitoring through battery management systems (BMS) that track temperature, voltage, and state of charge around the clock. Saying "there is no monitoring" is easy to rebut and makes the community look uninformed.
+
+The real gap is different and worth pressing on: there is no requirement for permanent **fenceline air quality monitoring** at BESS facilities. At Moss Landing, EPA deployed monitoring stations reactively, after the fire started. There is also no requirement for soil or water monitoring near adjacent waterways. And "monitoring" through a BMS is not the same as having trained personnel on site. Jupiter Power has indicated the facility would not be permanently staffed. These are the questions that matter, and they don't require exaggeration to be alarming.
+
+### Failure rates: use the range, not just the high number
+
+EPRI data supports two failure rate metrics. The per-project rate (0.3%/year, treating all facilities equally regardless of size) yields a 15-year probability of about 4.4%. The per-GW rate (0.2-0.3 failures/GW/year, adjusted for the 130 MW capacity) yields about 45%. The actual risk is somewhere in that range. Citing only the 45% number without context invites a rebuttal that discredits the entire argument. Presenting both numbers and explaining the difference is more persuasive and harder to dismiss. See [fire risk](/fire-risk) for the full analysis.
+
 ## What can I do? {#take-action}
 
 See [Take Action](/take-action) for specific steps: who to contact, what to ask for, and how to make your voice heard.
