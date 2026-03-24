@@ -30,7 +30,7 @@ At the March 23 council meeting, roughly two-thirds of the concerns raised by sp
 
 So why not just ask Jupiter Power to use sodium-ion?
 
-Because there is no enforcement mechanism for a voluntary commitment. What a developer says at an open house or writes on a website is not a permit condition. The permit application and the PSE tolling agreement both specify lithium-ion. If the code doesn't require a chemistry alternatives analysis, there is no formal checkpoint where anyone evaluates whether a safer technology should be used. If the code doesn't restrict thermal-runaway chemistries near residential areas, there is nothing stopping this or any future developer from choosing the cheapest option regardless of the community next door.
+Because there is no enforcement mechanism for a voluntary commitment. What a developer says at an open house or writes on a website is not a permit condition. The permit application and the PSE tolling agreement both specify lithium-ion. If the code doesn't require a chemistry alternatives analysis, there is no formal checkpoint where anyone evaluates whether a safer technology should be used. If the code doesn't restrict thermal-runaway chemistries near residential areas, there is nothing stopping this or any future developer from using a chemistry with known safety risks next to a residential community.
 
 Voluntary commitments are not enforceable. Code requirements are. That is why the ordinance amendments below matter: they turn "why aren't you using sodium-ion?" from a question nobody has to answer into a question the permit process requires them to answer.
 
