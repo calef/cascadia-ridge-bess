@@ -29,6 +29,18 @@ The wildlife picture is incomplete. The CAD report identified two large hollow t
 
 Critical area buffers will preserve vegetation on the north and east sides. But the **west side, facing the backyards of homes on Bracken Place SE and SE Center Street**, has no buffer protection at all. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
 
+## Seismic hazard
+
+The Snoqualmie Valley sits in one of the most seismically active regions in the continental United States. Three independent earthquake sources threaten this site:
+
+- **Deep intraslab earthquakes** (like the 2001 Nisqually quake): 85% chance of M6.5+ in the Puget Sound region in the next 50 years
+- **Crustal fault earthquakes** (Southern Whidbey Island Fault, mapped through the valley; Seattle Fault): 17% chance of M6.5+ in the next 50 years
+- **Cascadia Subduction Zone megathrust**: 10-15% chance of an approximately M9 earthquake in the next 50 years
+
+These probabilities come from [USGS Fact Sheet 2025-3050](https://doi.org/10.3133/fs20253050) (Wirth et al., "Earthquake Probabilities and Hazards in the U.S. Pacific Northwest," September 2025).
+
+No site-specific seismic hazard assessment has been submitted for the Cascadia Ridge project. No published study exists on how utility-scale BESS facilities perform during seismic events. King County's ordinance requires IEEE 693 seismic qualification for equipment mounting, but that standard does not address the full failure chain: earthquake damages cells, thermal runaway ignites, toxic emissions spread through a valley prone to atmospheric inversions, and contaminated fire suppression runoff drains into Fisher Creek.
+
 ## Parcels
 
 | Parcel | Acres | Owner | Zoning |
