@@ -77,6 +77,18 @@ Vistra proposed a 600 MW BESS in Morro Bay, CA. Citizens for Estero Bay Preserva
 
 A [court injunction](https://texasscorecard.com/local/court-order-blocks-battery-storage-system-construction-in-central-texas/) halted construction of a 145 MW BESS less than 2,000 feet from a school with 600+ students and less than 100 feet from the Pedernales River. The county passed a formal resolution opposing the project. Opposition was organized by [Fight BESS Texas](https://fightbesstexas.org/).
 
+## Vacaville, CA — lithium-ion prohibition (adopted March 2026)
+
+On March 11, 2026, the Vacaville City Council [unanimously adopted a BESS ordinance](https://www.pressdemocrat.com/2026/03/11/vacaville-adopts-battery-energy-storage-systems-ordinance/) that explicitly **prohibits lithium-ion battery chemistry** throughout the city. The ordinance allows non-lithium alternatives such as vanadium redox flow batteries (VRFB) based on a technology assessment by consultants Larsen and Toubroo.
+
+Other provisions include a 500-foot buffer from sensitive uses (increased from 300 feet in the draft) and required financial assurance plans from operators.
+
+The rationale mirrors the concerns at Cascadia Ridge: thermal runaway risk, toxic gas potential, and proximity to homes and sensitive uses. Community advocates argued that "safer commercially available and longer duration alternatives exist" compared to lithium-ion.
+
+This is the first U.S. jurisdiction to move from a moratorium to a permanent ordinance that restricts battery chemistry rather than banning BESS outright. It demonstrates that the "pro-storage, anti-lithium-ion" position is legislatively viable.
+
+Note: multiple BESS projects are advancing through California's AB 205 alternate permitting pathway at the state level, which could override local restrictions. Washington's equivalent is EFSEC.
+
 ## National context
 
 As of March 2026, [150+ local governments across 17 states](https://www.globenewswire.com/news-release/2026/03/10/3252888/0/en/150-Local-Governments-Have-Moved-to-Block-Battery-Storage-Development-New-Database-Reveals.html) have enacted BESS restrictions. The [EticaAG BESS Restrictions Database](https://eticaag.com/bess-moratorium-database/) tracks moratoriums, bans, and other restrictions nationwide. The most common triggers are fire risk (especially after the Moss Landing fire), proximity to schools and residences, and inadequate setbacks.
