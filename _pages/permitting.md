@@ -10,11 +10,13 @@ title: "Permitting Status"
 | CADS25-0076 | Critical Areas Designation | 03/24/2025 | Completed 07/22/2025 |
 | [CMST25-0005](https://aca-prod.accela.com/kingco/Default.aspx) | Commercial Site Development | 12/01/2025 | **Canceled** 02/18/2026 |
 
-[Accelergen Energy](https://accelergen.com/) filed the original pre-application. Jupiter Power / Cascadia Ridge Resiliency LLC took over the project and expanded from one ~25-acre parcel to five parcels totaling ~45 acres. They filed a Commercial Site Development permit in December 2025, then canceled it in February 2026. Ordinance 19824 requires a community meeting before filing, and the open house on March 17 may have been needed before resubmitting.
+[Accelergen Energy](https://accelergen.com/) filed the original pre-application. Jupiter Power / Cascadia Ridge Resiliency LLC took over the project and expanded from one ~25-acre parcel to five parcels totaling ~45 acres. They filed a Commercial Site Development permit in December 2025, then canceled it in February 2026. Jupiter Power held a voluntary community open house on March 17, 2026 that drew a standing-room-only crowd. No new application has been filed.
 
 ## Regulatory framework
 
 **[King County Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F)** ([announcement](https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2024/9-24-regulatory-framework-battery-storage-approved), September 2024, sponsored by Councilmember Sarah Perry) established the first regulatory framework for BESS in unincorporated King County, covering 97% of the county's unincorporated land. It was the first ordinance of its kind in the region. Cascadia Ridge is one of the first projects to move through it.
+
+Before this ordinance, BESS fell under the generic "Utility Facility" category in King County Code, which was a permitted use in all zones with no BESS-specific development conditions or safety standards. Facilities could be placed up to the property line. The ordinance added setbacks, fire code requirements, financial responsibility, fire district coordination, and other conditions that would not otherwise have applied.
 
 Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input. SEPA review is the main avenue for community comment. The window is 21 days.
 
@@ -25,7 +27,7 @@ The ordinance is new and Cascadia Ridge is an early test. Some of its provisions
 - **Condition 29** requires an alternatives analysis: location, demand management, social and economic impacts, environmental impacts, public involvement. It does not currently address battery chemistry.
 - **Section 17.B** sets financial responsibility at $1 million for BESS with thermal runaway risk. The same threshold applies regardless of facility size. See [insurance and financial responsibility](/insurance) for context on what that covers.
 - **Section 19** builds in a review. It requires a study report within 3 years (~September 2027) evaluating technology changes and whether the financial responsibility levels are working.
-- A community meeting is required before filing a permit application.
+- There is no community meeting requirement. A proposed amendment (Amendment 1 to Striking Amendment S3) would have required one under K.C.C. 20.20.035, but it was not offered at the full council vote and is not part of the adopted ordinance.
 
 ## SEPA process
 

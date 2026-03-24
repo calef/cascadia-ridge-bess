@@ -24,7 +24,7 @@ PSE needs grid storage for [CETA](/ceta) compliance, and the Mt. Si substation n
 
 ## Where things stand
 
-No active permit application as of March 2026. Jupiter Power filed a Commercial Site Development permit in December 2025 and canceled it in February 2026. King County's [BESS ordinance](/permitting) requires a community meeting before filing. Jupiter Power held an open house on March 17 that drew a standing-room-only crowd.
+No active permit application as of March 2026. Jupiter Power filed a Commercial Site Development permit in December 2025 and canceled it in February 2026. Jupiter Power held a voluntary community open house on March 17 that drew a standing-room-only crowd. There is no community meeting requirement in King County's [BESS ordinance](/permitting). SEPA review is the only formal public input opportunity.
 
 ## Get involved
 

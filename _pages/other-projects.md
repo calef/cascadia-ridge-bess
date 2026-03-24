@@ -53,7 +53,7 @@ The opposition raised fire risk, toxic emissions, noise, proximity to homes, not
 Jupiter Power's approach at Hillsboro followed a pattern:
 
 - File a compliant application under the existing code
-- Hold a community meeting (poster stations, no presentation, no Q&A) to check the box
+- Hold a voluntary community meeting (poster stations, no presentation, no Q&A)
 - Don't engage publicly with the opposition
 - Let the planning staff recommend approval and the hearings officer apply the code
 
