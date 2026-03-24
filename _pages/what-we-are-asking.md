@@ -24,6 +24,16 @@ Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day
 
 The City of Snoqualmie's ESF #16 Evacuation Plan (November 2017) does not contemplate an industrial toxic release from an adjacent facility. Its listed trigger events are earthquakes, floods, mudslides, dam failure, and terrorism. The plan acknowledges limited police staffing for large-scale evacuations and dependence on infrastructure the city doesn't control. Snoqualmie Ridge has two primary evacuation routes. Has anyone evaluated whether the existing evacuation infrastructure can handle a toxic release from a 130 MW lithium-ion facility 1,500 feet from this community?
 
+## Why the code matters more than promises
+
+At the March 23 council meeting, roughly two-thirds of the concerns raised by speakers were directly tied to lithium-ion chemistry: thermal runaway, hydrogen fluoride exposure, contaminated runoff, noise from active cooling, evacuation from a toxic release, earthquake-to-fire risk, emergency response to a chemical event. All of these go away or are substantially reduced with sodium-ion.
+
+So why not just ask Jupiter Power to use sodium-ion?
+
+Because there is no enforcement mechanism for a voluntary commitment. What a developer says at an open house or writes on a website is not a permit condition. The permit application and the PSE tolling agreement both specify lithium-ion. If the code doesn't require a chemistry alternatives analysis, there is no formal checkpoint where anyone evaluates whether a safer technology should be used. If the code doesn't restrict thermal-runaway chemistries near residential areas, there is nothing stopping this or any future developer from choosing the cheapest option regardless of the community next door.
+
+Voluntary commitments are not enforceable. Code requirements are. That is why the ordinance amendments below matter: they turn "why aren't you using sodium-ion?" from a question nobody has to answer into a question the permit process requires them to answer.
+
 ## Ordinance amendments
 
 [Ordinance 19824](/permitting) was a strong first step. It passed 8-1 and established the first BESS regulatory framework in unincorporated King County. But the battery industry has changed since it was drafted in 2023. When the Council passed the ordinance, lithium-ion was effectively the only commercially available option for utility-scale storage. That is no longer the case. The ordinance should be updated to reflect the current state of the technology.
