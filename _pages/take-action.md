@@ -6,6 +6,22 @@ title: "Take Action"
 
 We'll alert you when the SEPA comment window opens, when new permits are filed, and when community meetings are scheduled. If you do one thing, [do this](/subscribe).
 
+## Write to the King County Council
+
+King County has jurisdiction over the project site. [Ordinance 19824](/permitting) established the BESS regulatory framework, but the battery industry has changed since it was drafted in 2023. Second-generation chemistries like sodium-ion are now commercially available and eliminate thermal runaway entirely. The ordinance should be updated to reflect that shift.
+
+Email Councilmember Sarah Perry (District 3, sponsor of the ordinance): [sarah.perry@kingcounty.gov](mailto:sarah.perry@kingcounty.gov)
+
+Email the full council: [clerk.council@kingcounty.gov](mailto:clerk.council@kingcounty.gov)
+
+Ask them to amend Ordinance 19824 to:
+
+- **Require a chemistry alternatives analysis** in Condition 29. Developers should evaluate non-flammable chemistry alternatives and justify any decision to use a chemistry with thermal runaway risk.
+- **Scale financial responsibility with facility size** in Section 17.B. The current $1 million threshold is the same for a 5 MW system and a 130 MW system adjacent to thousands of homes. If the chemistry carries thermal runaway risk, financial responsibility should reflect the scale.
+- **Require permanent fenceline air quality monitoring** for BESS facilities adjacent to residential areas.
+- **Require terrain-specific dispersion modeling** for sites in constrained valleys where temperature inversions can trap emissions.
+- **Require seismic risk assessment** that accounts for the Southern Whidbey Island Fault, mapped directly through the Snoqualmie Valley, and models the full chain from earthquake shaking through thermal runaway to contaminated runoff.
+
 ## Write to the Snoqualmie City Council
 
 The site is in the city's Southwest Potential Annexation Area. The City of Snoqualmie has no jurisdiction today, but it could. We've already written to the Mayor and Council asking them to act. You can reinforce that message.

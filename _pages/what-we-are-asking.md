@@ -24,6 +24,18 @@ Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day
 
 The City of Snoqualmie's ESF #16 Evacuation Plan (November 2017) does not contemplate an industrial toxic release from an adjacent facility. Its listed trigger events are earthquakes, floods, mudslides, dam failure, and terrorism. The plan acknowledges limited police staffing for large-scale evacuations and dependence on infrastructure the city doesn't control. Snoqualmie Ridge has two primary evacuation routes. Has anyone evaluated whether the existing evacuation infrastructure can handle a toxic release from a 130 MW lithium-ion facility 1,500 feet from this community?
 
+## Ordinance amendments
+
+[Ordinance 19824](/permitting) was a strong first step. It passed 8-1 and established the first BESS regulatory framework in unincorporated King County. But the battery industry has changed since it was drafted in 2023. When the Council passed the ordinance, lithium-ion was effectively the only commercially available option for utility-scale storage. That is no longer the case. The ordinance should be updated to reflect the current state of the technology.
+
+**Condition 29** requires an alternatives analysis covering location, demand management, social and economic impacts, environmental impacts, and public involvement. It does not address battery chemistry. For a site adjacent to thousands of homes, the choice between a chemistry that can produce uncontrollable fires and toxic gas and one that cannot is the most consequential design decision. The ordinance should require developers to evaluate non-flammable chemistry alternatives and justify any decision to use a chemistry with thermal runaway risk.
+
+**Section 17.B** sets financial responsibility at $1 million for any BESS with thermal runaway risk. That threshold is the same for a 5 MW facility and a 130 MW facility next to a residential community. The Moss Landing cleanup alone cost millions, and EPA had to order it. Financial responsibility should scale with facility capacity and proximity to residential areas.
+
+**Section 19** requires a study report within three years (~September 2027) evaluating technology changes and whether the financial responsibility levels are adequate. Cascadia Ridge is providing that answer ahead of schedule. The first major project through the ordinance is demonstrating exactly the gaps the study was designed to find.
+
+The ordinance also has no requirement for **permanent fenceline air quality monitoring**, **terrain-specific dispersion modeling** for constrained valleys where inversions trap emissions, or **seismic risk assessment** that models the full chain from earthquake through thermal runaway to contaminated runoff into adjacent waterways.
+
 ## Tree retention
 
 Critical area buffers protect the north and east edges. The west side, facing the backyards of homes on Bracken Place SE and SE Center Street, has no buffer protection. The existing trees provide a visual and physical screen between the facility and the neighborhood. Will they be retained?
