@@ -15,8 +15,11 @@ title: "Project Overview"
 | PSE agreement | Tolling agreement executed August 22, 2025 |
 | Operations target | Late 2028 |
 | Fire district | [King County Fire Protection District No. 38](https://district-conditions-report.kingcounty.gov/?PIN=3624079039) |
-| Projected tax revenue | $783,000–$1,130,000/year in years 3–12 |
+| Projected tax revenue | $783,000–$1,130,000/year in years 3–12* |
+| Development footprint | ~30 of the 45 acres (per Jupiter Power's March 17 presentation) |
 | Contact | Gage Fuller, [cascadiaridge@jupiterpower.io](mailto:cascadiaridge@jupiterpower.io) |
+
+*Tax revenue estimate depends on pending state legislation [HB 1960 (Ramel)](https://app.leg.wa.gov/billsummary?BillNumber=1960&Year=2025). If the bill does not pass, these numbers do not apply.*
 
 ## What the facility would include
 
@@ -45,7 +48,7 @@ PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh
 
 As of March 2026, the following have not been publicly disclosed for the Cascadia Ridge project:
 
-- **Battery chemistry.** LFP or NMC? This is the single most important safety variable. It determines thermal runaway risk, toxic emission profile, and whether active cooling (and its 24/7 noise) is required.
+- **Battery chemistry.** LFP or NMC? This is the single most important safety variable. It determines thermal runaway risk, toxic emission profile, and whether active cooling (and its 24/7 noise) is required. Jupiter Power's 16-page open house handout does not mention lithium-ion once. Staff told attendees the chemistry "hadn't been decided." The PSE tolling agreement (UTC Docket UE-240532, August 2025) and the original King County permit application (ENFP-2024-00524) both specify lithium-ion.
 - **Fire suppression system type.** Water, aerosol, hybrid? The Moss Landing fire began after a suppression system failed.
 - **Setback distances** from property lines and the nearest residences on Snoqualmie Ridge.
 - **Deflagration venting design.** The McMicken explosion in Arizona occurred when flammable gas accumulated in an unvented container.
@@ -53,7 +56,7 @@ As of March 2026, the following have not been publicly disclosed for the Cascadi
 - **Decommissioning plan.** How will batteries be removed and the site restored at end of life?
 - **Environmental monitoring plan.** Will there be permanent air quality monitoring at the fenceline? Soil and water monitoring near Fisher Creek?
 
-Jupiter Power's project website and open house materials focused on general BESS safety statistics and code compliance. Site-specific details were not provided.
+Jupiter Power's project website and open house handout focused on general BESS safety statistics and code compliance. The 16-slide presentation covered industry growth, generic safety layers, and community benefits (tax revenue, park land, construction jobs) but provided no site-specific details on chemistry, noise, setbacks, or environmental risk. Site-specific details were not provided.
 
 ## Community response
 

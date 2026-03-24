@@ -6,6 +6,12 @@ EPRI publishes a failure rate normalized by deployed capacity: [0.2–0.3 failur
 
 Both come from EPRI's [BESS Failure Incident Database](https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database). They measure different things: Shaw's number is specifically "fires with potential safety concerns," while the per-GW metric covers all failures. Neither is reassuring for a 130 MW facility next to thousands of homes.
 
+## "97% failure rate drop"
+
+Jupiter Power's open house presentation claimed a "97% drop" in global grid-scale BESS failure rates between 2018 and 2023, citing EPRI data. This is the per-GWh rate: failures divided by total deployed capacity. It drops because deployment is growing exponentially (the denominator gets huge). Their own chart tells a different story. The absolute number of failure incidents is not declining. EPRI's database shows 8 incidents in 2024, which is among the highest annual counts on the chart. More batteries with a lower rate per GWh still means more fires.
+
+The 97% number is also backward-looking. It's dominated by older, smaller systems. The fleet is getting younger and larger. A 130 MW facility built in 2028 will have more cells, more potential failure points, and no long-term operating history to draw on.
+
 ## The math
 
 Probability of at least one incident over N years at annual rate r:
