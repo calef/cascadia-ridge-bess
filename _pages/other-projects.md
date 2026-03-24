@@ -79,13 +79,15 @@ A [court injunction](https://texasscorecard.com/local/court-order-blocks-battery
 
 ## Vacaville, CA — lithium-ion prohibition (adopted March 2026)
 
-On March 11, 2026, the Vacaville City Council [unanimously adopted a BESS ordinance](https://www.pressdemocrat.com/2026/03/11/vacaville-adopts-battery-energy-storage-systems-ordinance/) that explicitly **prohibits lithium-ion battery chemistry** throughout the city. The ordinance allows non-lithium alternatives such as vanadium redox flow batteries (VRFB) based on a technology assessment by consultants Larsen and Toubroo.
+On March 11, 2026, the Vacaville City Council [unanimously adopted a BESS ordinance](https://www.pressdemocrat.com/2026/03/11/vacaville-adopts-battery-energy-storage-systems-ordinance/) that explicitly **prohibits lithium-ion battery chemistry** throughout the city. The ordinance nominally allows non-lithium alternatives such as vanadium redox flow batteries (VRFB) based on a technology assessment by consultants Larsen and Toubroo.
 
-Other provisions include a 500-foot buffer from sensitive uses (increased from 300 feet in the draft) and required financial assurance plans from operators.
+Vacaville is the first U.S. jurisdiction to enact a permanent ordinance restricting battery chemistry rather than banning BESS outright. It proves the concept is legislatively viable. But the implementation is closer to a ban than a standard.
 
-The rationale mirrors the concerns at Cascadia Ridge: thermal runaway risk, toxic gas potential, and proximity to homes and sensitive uses. Community advocates argued that "safer commercially available and longer duration alternatives exist" compared to lithium-ion.
+After increasing setbacks from 300 to 500 feet, the city's own suitability analysis found only one parcel in the entire city that qualifies: the former Gibson Canyon Creek Wastewater Treatment Plant. The council had already voted against a BESS project on that same site. The technology assessment recommended vanadium redox flow batteries, which have never been deployed at utility scale in the U.S. and cost roughly twice as much as lithium-ion. Sodium-ion, which is commercially available and eliminates thermal runaway risk, was not evaluated.
 
-This is the first U.S. jurisdiction to move from a moratorium to a permanent ordinance that restricts battery chemistry rather than banning BESS outright. It demonstrates that the "pro-storage, anti-lithium-ion" position is legislatively viable.
+The result: lithium-ion is banned, the recommended alternative is impractical, and the only eligible site has already been rejected. That's a de facto ban, not a technology standard.
+
+**Our position is different.** We support building grid storage at this site. We're asking Jupiter Power to use the safer chemistry they're already investing in. Vacaville shows that chemistry-specific regulation can survive a council vote. What it doesn't show is how to do it in a way that actually allows storage to get built.
 
 Note: multiple BESS projects are advancing through California's AB 205 alternate permitting pathway at the state level, which could override local restrictions. Washington's equivalent is EFSEC.
 
