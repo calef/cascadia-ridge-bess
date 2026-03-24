@@ -18,7 +18,7 @@ The facility won't be operational until late 2028. Sodium-ion will be commercial
 
 ## Noise
 
-Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day, 7 days a week, for the life of the facility. King County's nighttime noise limit at the residential property line is 45 dBA (40 dBA with the pure tone penalty likely applicable to cooling equipment). Comparable facilities produce 45-60 dBA. Sodium-ion uses passive cooling only, with no fans and no HVAC. Will this facility comply with King County's nighttime noise limits?
+Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day, 7 days a week, for the life of the facility. Two overlapping noise standards apply to this site. King County Code 12.86 limits nighttime noise in residential districts to 42 dBA. Washington state's WAC 173-60-040 limits industrial-to-residential noise to 50 dBA at night, reduced to 45 dBA when the pure tone penalty applies (likely with cooling equipment). The more restrictive county standard of 42 dBA governs. Comparable BESS facilities produce 45-60 dBA. Sodium-ion uses passive cooling only, with no fans and no HVAC. No noise study has been submitted. Will this facility comply with King County's nighttime noise limits?
 
 ## Evacuation plan
 
@@ -30,7 +30,7 @@ The City of Snoqualmie's ESF #16 Evacuation Plan (November 2017) does not contem
 
 **Condition 29** requires an alternatives analysis covering location, demand management, social and economic impacts, environmental impacts, and public involvement. It does not address battery chemistry. For a site adjacent to thousands of homes, the choice between a chemistry that can produce uncontrollable fires and toxic gas and one that cannot is the most consequential design decision. The ordinance should require developers to evaluate non-flammable chemistry alternatives and justify any decision to use a chemistry with thermal runaway risk.
 
-**Section 17.B** sets financial responsibility at $1 million for any BESS with thermal runaway risk. That threshold is the same for a 5 MW facility and a 130 MW facility next to a residential community. The Moss Landing cleanup alone cost millions, and EPA had to order it. Financial responsibility should scale with facility capacity and proximity to residential areas.
+**Section 17.B** sets financial responsibility at $1 million for any BESS with thermal runaway risk. That threshold is the same for a 5 MW facility and a 130 MW facility next to a residential community. The Moss Landing cleanup required EPA to invoke CERCLA (Superfund) authority and order Vistra to remove approximately 100,000 battery modules, roughly 55% of which were damaged. The total cost has not been disclosed, but the scale of the federal response makes clear it is orders of magnitude above $1 million. Financial responsibility should scale with facility capacity and proximity to residential areas.
 
 **Section 19** requires a study report within three years (~September 2027) evaluating technology changes and whether the financial responsibility levels are adequate. Cascadia Ridge is providing that answer ahead of schedule. The first major project through the ordinance is demonstrating exactly the gaps the study was designed to find.
 
