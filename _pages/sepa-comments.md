@@ -16,16 +16,21 @@ SEPA (RCW 43.21C) requires government agencies to consider environmental impacts
 
 Public comments during the 21-day window inform that decision. The responsible official must consider them.
 
-## Why a Determination of Significance matters
+## What a good outcome looks like
 
-A DS and full EIS is the strongest outcome for the community. It means:
+The core problem is lithium-ion chemistry at this site. Lithium-ion thermal runaway produces hydrogen fluoride gas, requires active cooling (24/7 noise), and creates contamination risks for Fisher Creek and domestic wells. Sodium-ion batteries do the same job with no thermal runaway, passive cooling, and no toxic emission profile. Jupiter Power has already signed a [$500M sodium-ion contract with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. The technology exists. The question is whether the permit process requires it here.
+
+Either of these SEPA outcomes gets the batteries changed:
+
+**Determination of Significance (DS) / full EIS.** This is the strongest outcome. A DS triggers a full Environmental Impact Statement, which requires a formal **alternatives analysis** covering alternative technologies, alternative sites, and the no-action alternative. That puts the chemistry choice on the record and forces Jupiter Power to justify using lithium-ion when a non-thermal-runaway alternative is commercially available. A full EIS also means:
 
 - Independent analysis of fire risk, toxic emissions, noise, stormwater, habitat, seismic hazard, and cumulative effects
-- A formal **alternatives analysis**, including alternative sites, alternative technologies, and the no-action alternative
 - Additional public comment periods (21 days for scoping, 30 days for the draft EIS)
 - Disclosure of information Jupiter Power has not provided: battery chemistry, setback distances, fire suppression design, emergency response plan, decommissioning plan, and atmospheric dispersion modeling
 
-Without a DS, the project can proceed on the basis of the developer's own Environmental Checklist with whatever conditions King County attaches.
+**Mitigated DNS (MDNS) with chemistry conditions.** If King County issues an MDNS instead of a DS, the outcome depends on the conditions. An MDNS that requires a non-thermal-runaway chemistry (like sodium-ion) with passive cooling would address the primary risks this community has raised. Most of the concerns voiced at the March 23 council meeting, thermal runaway, hydrogen fluoride exposure, contaminated runoff, noise from active cooling, earthquake-to-fire risk, go away with the right chemistry.
+
+A DNS with no meaningful conditions, or an MDNS that only nibbles at the margins, leaves lithium-ion in place with all of its associated risks. That is the outcome the SEPA comments are designed to prevent.
 
 ## The legal standard
 
@@ -88,7 +93,7 @@ Fire district capacity: King County Fire Protection District No. 38. No tabletop
 4. The probable adverse impact, stated with as much specificity as you can
 5. Evidence supporting your concern (data, studies, professional credentials)
 6. What you're asking King County to require (specific study, analysis, or disclosure)
-7. Your request: a Determination of Significance and full Environmental Impact Statement
+7. Your request: a Determination of Significance and full Environmental Impact Statement, or at minimum an MDNS conditioned on non-thermal-runaway battery chemistry
 
 ## What NOT to do
 
