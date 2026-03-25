@@ -94,7 +94,7 @@ Fire district capacity: King County Fire Protection District No. 38. No tabletop
 
 - **Don't submit form letters.** Ten identical comments count as one. Write in your own words, even if they're brief.
 - **Don't make claims you can't support.** Our community's position is strongest when it's accurate. See our [fact-check section](/faq#fact-check) for claims that need correction.
-- **Don't argue that BESS shouldn't exist.** BESS is needed for Washington's clean energy transition. The argument is that *this chemistry at this site* has unacceptable risks, and that the environmental review should be thorough enough to evaluate those risks.
+- **Don't undermine the case for grid storage.** Battery storage is essential infrastructure. Solar is the cheapest available generation source, but it only produces power when the sun is shining. Storage makes it available on demand, when people actually need it. Without storage, PSE either overbuilds generation at ratepayer expense or keeps fossil fuel peakers running in violation of Washington's [clean energy law](/ceta). The argument that works in SEPA is not "no BESS anywhere" but "this chemistry at this site has specific, unaddressed environmental risks." If you believe no BESS belongs here regardless of chemistry, say so in your own words. But the comments most likely to influence King County's threshold determination are the ones that identify specific probable impacts the Environmental Checklist fails to address.
 - **Don't send your comment before the window opens.** Comments submitted outside the official comment period are not part of the administrative record. Wait for our alert.
 
 ## When you're ready
