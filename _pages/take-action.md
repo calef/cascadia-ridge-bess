@@ -50,3 +50,5 @@ Understanding the [permitting process](/permitting), the [technology](/battery-t
 ## Comment during SEPA review
 
 When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity for public input. We'll send an alert when it opens.
+
+**[Read our guide on how to write an effective SEPA comment](/sepa-comments).** It covers the legal standard, the checklist elements relevant to this project, what makes a comment effective, and what to avoid. Start drafting now so you're ready the day the window opens.

@@ -43,7 +43,7 @@ A DS and full EIS is the strongest outcome for the community. It means independe
 
 The threshold determination has a **21-day public comment period**. This is when residents can argue that a DNS or MDNS is inadequate for a 130 MW lithium-ion facility adjacent to thousands of homes, salmon-bearing streams, and parkland. Comments should be specific and cite environmental impacts the checklist underestimates.
 
-Given the scale and site sensitivity, pushing for a full EIS is the most impactful thing residents can do during the SEPA window.
+Given the scale and site sensitivity, pushing for a full EIS is the most impactful thing residents can do during the SEPA window. **[Read our guide on how to write an effective SEPA comment](/sepa-comments).**
 
 ## EFSEC opt-in
 
