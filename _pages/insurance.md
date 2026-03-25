@@ -4,7 +4,7 @@ title: "Insurance and Financial Responsibility"
 
 ## What King County requires
 
-[Ordinance 19824](/permitting) sets a flat $1 million financial responsibility threshold for BESS facilities with thermal runaway risk, regardless of facility size or location. A 2 MWh system and a 520 MWh facility have the same floor.
+[Ordinance 19824](/permitting) sets a flat $1 million financial responsibility threshold for BESS facilities with thermal runaway risk, regardless of facility size or location. A 2 MWh system and a 520 MWh facility have the same floor. An earlier draft of the ordinance required financial responsibility based on a study of maximum potential damages. The adopted version replaced that with a flat cap.
 
 ## What that costs
 
