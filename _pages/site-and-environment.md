@@ -29,6 +29,32 @@ The wildlife picture is incomplete. The CAD report identified two large hollow t
 
 Critical area buffers will preserve vegetation on the north and east sides. But the **west side, facing the backyards of homes on Bracken Place SE and SE Center Street**, has no buffer protection at all. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
 
+## Wildlife and habitat
+
+### ESA-listed species
+
+Fisher Creek flows into the Snoqualmie River, which supports three species listed as threatened under the federal Endangered Species Act:
+
+| Species | ESA Status | Listed |
+|---|---|---|
+| [Puget Sound Chinook salmon](https://www.fisheries.noaa.gov/species/pacific-salmon-and-steelhead/esa-protected-species) | Threatened | 1999 |
+| [Puget Sound steelhead](https://www.fisheries.noaa.gov/species/pacific-salmon-and-steelhead/esa-protected-species) | Threatened | 2007 |
+| [Bull trout](https://ecos.fws.gov/ecp/species/8212) | Threatened | 1999 |
+
+Chinook populations in the Snoqualmie watershed have declined to approximately 10% of historic levels. The [Snoqualmie Watershed Forum](https://www.govlink.org/watersheds/7/), a partnership including the Snoqualmie Tribe, Tulalip Tribes, King County, and the cities of North Bend, Snoqualmie, Carnation, and Duvall, has allocated over $13.3 million to 270 habitat restoration projects since 1998. The Snoqualmie Tribe's [Environmental and Natural Resources Department](https://enr.snoqualmietribe.us/snoqualmie-river/) is actively working to restore riparian habitat along the Snoqualmie River.
+
+Contaminated fire suppression runoff from a lithium-ion BESS fire would drain from Fisher Creek directly into this watershed. The creek is less than 10 feet below the proposed development area.
+
+### On-site species
+
+The Critical Areas Designation identified two large hollow trees or snags where [Vaux's swifts](https://wdfw.wa.gov/species-habitats/species/chaetura-vauxi) could nest. Vaux's swift is a WDFW Priority Species whose populations have declined an estimated 50% since the late 1960s, primarily from loss of old-growth nesting habitat. The CAD also noted that western toad may use the site.
+
+Both findings came with a caveat: Jupiter Power is not the property owner, so the ecologists could not access the full WDFW Priority Habitats and Species (PHS) report. The wildlife assessment was done with partial data. A full biological assessment has not been conducted.
+
+### What a full EIS would require
+
+If SEPA review produces a Determination of Significance, the resulting Environmental Impact Statement would require a complete biological assessment of the site, including species surveys conducted during appropriate seasons. If there is a federal nexus (federal funding, federal permits, or federal land), ESA Section 7 consultation with NOAA Fisheries (for salmon and steelhead) and US Fish and Wildlife Service (for bull trout) could be triggered. No such assessment or consultation has been initiated.
+
 ## Seismic hazard
 
 The Snoqualmie Valley sits in one of the most seismically active regions in the continental United States. Three independent earthquake sources threaten this site:
