@@ -37,5 +37,5 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 - Sent 11 questions to Jupiter Power (Gage Fuller, cascadiaridge@jupiterpower.io) about battery chemistry, setbacks, fire suppression, noise, decommissioning, and environmental monitoring. No response.
 - Sent letter to Councilmember Sarah Perry about public records access for the Critical Areas Designation. Perry's office escalated to the Department of Local Services. King County delivered the CAD report the same day (2-hour turnaround).
 - Critical Areas Designation (CADS25-0076) confirmed: Fisher Creek (fish-bearing) runs through the parcel, Category III wetland with 150-ft buffer, steep slope hazard, unmapped floodplain. King County classified the project as high-impact. [Site and environment.](/site-and-environment)
-- Notified the Snoqualmie Indian Tribe about the proposed facility adjacent to their land. No response.
+- Notified the Snoqualmie Indian Tribe about the proposed facility near their land in the Snoqualmie Valley. No response.
 - Sent letter to the City of Snoqualmie (Mayor, Council, Planning Commission) about the governance gap and annexation. Councilmember Dan Murphy responded the same day and spoke with us for 35 minutes.
