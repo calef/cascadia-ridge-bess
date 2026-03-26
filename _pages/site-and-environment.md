@@ -87,4 +87,4 @@ Jupiter Power is using two legal entities for these deals. The main parcel (3624
 
 Parcel 3624079093 is notable: it's a 5-acre vacant lot with a transmission line easement, owned by the same Nause LLC that owns the adjacent parcel 3624079100. Jupiter Power secured an option on it the same day they signed the main purchase agreement (March 4, 2024), but it was not listed in the original permit application. It may be intended for access, buffer, or additional infrastructure.
 
-King County filed a **Notice of Sensitive Area** on parcel 3624079037 (Abbott) on January 20, 2026. The Abbott parcel is the only one with no recorded Jupiter Power agreement.
+King County recorded a **Critical Areas Notice on Title** on parcel 3624079037 (Abbott) on January 20, 2026 (permit FLOD26-0013), designating it as a **Flood Hazard Area** under KCC 21A.24. The notice runs with the land and cannot be removed without written King County authorization. The Abbott parcel is also the only one with no recorded Jupiter Power agreement.
