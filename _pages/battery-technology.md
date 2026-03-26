@@ -65,7 +65,7 @@ Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyroph
 
 Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer."
 
-Jupiter Power will receive ~720 MWh of Peak Energy sodium-ion systems in 2027, with 4.75 GWh through 2030. Cascadia Ridge isn't scheduled to come online until late 2028. Jupiter Power is already deploying sodium-ion at scale on other projects. So why isn't Jupiter Power using it here?
+Jupiter Power will receive ~720 MWh of Peak Energy sodium-ion systems in 2027, with 4.75 GWh through 2030. Cascadia Ridge isn't scheduled to come online until late 2028. Sodium-ion grid storage is already deployed and operating in the US. Jupiter Power is investing in it at scale for other projects. So why isn't Jupiter Power using it here?
 
 ## Why did lithium-ion get commercialized first? {#why-lithium-first}
 
