@@ -69,6 +69,8 @@ No site-specific seismic hazard assessment has been submitted for the Cascadia R
 
 ## Parcels and land deals {#parcels}
 
+![Annotated parcel map showing BESS parcels (blue), PSE corridor parcels (red), and Mt. Si substation (purple)](/assets/parcel-map-annotated.png)
+
 Jupiter Power has recorded purchase or option agreements on five parcels totaling approximately 45 acres. All agreements were found through the [King County Recorder's Office](https://recordsearch.kingcounty.gov/LandmarkWeb/search/index?theme=.blue&section=searchCriteriaParcelId&quickSearchSelection=) and are public record.
 
 | Parcel | Acres | Owner | Zoning | Jupiter Power Deal |
