@@ -80,10 +80,10 @@ Jupiter Power has recorded purchase or option agreements on five parcels totalin
 | 3624079103 | ~5.0 | Arnold | UR | Memorandum recorded Nov 2025 |
 | **Total** | **~45** | | | |
 
-Adjacent: Snoqualmie Indian Tribe (~15.8 ac, parcel [3624079104](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079104)), PSE transmission corridor (~14.5 ac), Abbott (~3.7 ac, parcel 3624079037).
+Adjacent: Snoqualmie Indian Tribe (~15.8 ac, parcel [3624079104](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079104)), PSE transmission corridor (~14.5 ac).
 
 Jupiter Power is using two legal entities for these deals. The main parcel (3624079039) was acquired through **Snoqualmie Energy Storage LLC**, a Delaware LLC whose sole member is Accelergen Development LLC. The surrounding residential parcels were acquired through **Cascadia Ridge Resiliency LLC**, a Delaware LLC registered to 1108 Lavaca St, Austin, TX. Both trace back to Jupiter Power.
 
 Parcel 3624079093 is notable: it's a 5-acre vacant lot with a transmission line easement, owned by the same Nause LLC that owns the adjacent parcel 3624079100. Jupiter Power secured an option on it the same day they signed the main purchase agreement (March 4, 2024), but it was not listed in the original permit application. It may be intended for access, buffer, or additional infrastructure.
 
-The adjacent Abbott parcel (3624079037, ~3.7 ac) has no recorded Jupiter Power agreement. King County recorded a **Critical Areas Notice on Title** on it on January 20, 2026 (permit FLOD26-0013), designating it as a **Flood Hazard Area** under KCC 21A.24. The notice runs with the land and cannot be removed without written King County authorization. The flood hazard designation is relevant to the project site regardless of ownership, as it confirms floodplain conditions in the immediate area.
+The Snoqualmie Indian Tribe parcel (3624079104, ~15.8 ac) has no recorded Jupiter Power agreement. The Tribe acquired it through a deed in lieu of foreclosure from the Michael Mastro bankruptcy estate in 2011. Multiple King County covenants and a PSE utility easement encumber the property.
