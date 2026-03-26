@@ -166,58 +166,10 @@ PSE owns four parcels forming the transmission corridor adjacent to the BESS sit
 
 | Recorded | Type | Recording # | Pages | Description | PDF |
 |---|---|---|---|---|---|
-| 2008-02-29 | Warranty Deed | 20080229000791 | — | Cascade Associates to PSE. Purchase price: $580,000. | *Not yet retrieved* |
-| 2008-06-25 | Survey | 20080625900015 | — | PSE to King County. Covers parcels 9030, 9091, 9098, 9102. | *Not yet retrieved* |
+| **2008-02-29** | **Warranty Deed** | **20080229000791** | **4** | **PSE acquires parcel from Cascade Associates (Conner Homes joint venture) for $580,000.** Includes 1969 Harry H. Olson mineral rights reservation (#6512634), 60-foot ingress/egress easements, and underground utility easement to Puget Sound Power & Light. | [PDF](/assets/recorded-documents/3624079030_20080229000791_WARRANTY-DEED.pdf) |
+| 2008-06-25 | Survey | 20080625900015 | 2 | Record of Survey for PSE by David Evans and Associates. Covers parcels 9030, 9091, 9098, 9102. Documents PSE's infrastructure corridor and easement positions. | [PDF](/assets/recorded-documents/3624079030_20080625900015_SURVEY.pdf) |
 | **2010-07-21** | **Survey** | **20100721900002** | **2** | **PSE/David Evans survey.** Same survey as Landgraf parcel. Shows all project parcels within proposed annexation area. | [PDF](/assets/recorded-documents/3624079101_20100721900002_SURVEY.pdf) |
 | **2011-04-29** | **Covenant and Easement** | **20110429001446** | **69** | **City of Snoqualmie Covenant and Grant of Easement.** Perpetual environmental covenants on five PSE corridor parcels. | [PDF](/assets/recorded-documents/PSE-corridor_20110429001446_COVENANT-AND-EASEMENT.pdf) |
-
-**Note:** The 2008 warranty deed and 2008 survey were identified in the LandmarkWeb search but individual PDFs were not downloaded. The recording numbers are provided for retrieval from the [King County Recorder's Office](https://recordsearch.kingcounty.gov/LandmarkWeb/search/index?theme=.blue&section=searchCriteriaParcelId&quickSearchSelection=).
-
----
-
-## Non-project parcels {#non-project}
-
-Two parcels share the same section prefix (3624079xxx) but are **not part of the BESS project**. They are geographically separated from the project site, confirmed by King County Parcel Viewer mapping. Documents are included for completeness.
-
-### Parcel 3624079037 — Abbott property (former gravel pit) {#parcel-9037}
-
-**Owner:** Thomas and Mary Kaye Abbott
-**Jupiter Power instrument:** None.
-**Note:** Former gravel pit with environmental contamination (MTCA Pit Site A-291). Flood hazard area designation as of January 2026. Not adjacent to the BESS project.
-**Documents found:** 5
-
-| Recorded | Type | Recording # | Pages | Description | PDF |
-|---|---|---|---|---|---|
-| 2010-09-23 | Easement | 20100923000161 | 2 | PSE utility easement. | [PDF](/assets/recorded-documents/3624079037_20100923000161_EASEMENT.pdf) |
-| 2018-08-07 | Warranty Deed | 20180807000197 | 4 | References "Pit Site A-291" and MTCA Innocent Purchaser Status Request (environmental contamination). | [PDF](/assets/recorded-documents/3624079037_20180807000197_WARRANTY-DEED.pdf) |
-| 2021-03-25 | Warranty Deed | 20210325001440 | 5 | Dillon Keith to Abbott. | [PDF](/assets/recorded-documents/3624079037_20210325001440_WARRANTY-DEED.pdf) |
-| 2023-07-11 | Quit Claim Deed | 20230711000145 | 3 | Loveless & Dillon Inc to Abbott. Clearing residual corporate interest. | [PDF](/assets/recorded-documents/3624079037_20230711000145_QUIT-CLAIM-DEED.pdf) |
-| 2026-01-20 | Notice of Sensitive Area | 20260120000515 | 2 | Critical Area: Flood Hazard Area (KCC 21A.24). Permit FLOD26-0013. | [PDF](/assets/recorded-documents/3624079037_20260120000515_NOTICE-OF-SENSITIVE-AREA.pdf) |
-
-### Parcel 3624079104 — Snoqualmie Indian Tribe property (~15.8 ac) {#parcel-9104}
-
-**Owner:** Snoqualmie Indian Tribe
-**Jupiter Power instrument:** None.
-**Note:** Acquired through the Michael Mastro bankruptcy estate (2011). Multiple King County covenants and a PSE easement encumber the property. Not adjacent to the BESS project.
-**Documents found:** 15
-
-| Recorded | Type | Recording # | Pages | Description | PDF |
-|---|---|---|---|---|---|
-| 2006-04-10 | Warranty Deed | 20060410001545 | 3 | Prior owner acquisition. | [PDF](/assets/recorded-documents/3624079104_20060410001545_WARRANTY-DEED.pdf) |
-| 2006-04-10 | Deed of Trust | 20060410001546 | 4 | Original financing. | [PDF](/assets/recorded-documents/3624079104_20060410001546_DEED-OF-TRUST.pdf) |
-| 2006-06-22 | Covenant | 20060622000485 | 3 | King County covenant. Likely well setback or critical area buffer. | [PDF](/assets/recorded-documents/3624079104_20060622000485_COVENANT.pdf) |
-| 2006-09-28 | Covenant | 20060928000852 | 3 | King County covenant. | [PDF](/assets/recorded-documents/3624079104_20060928000852_COVENANT.pdf) |
-| 2007-02-16 | Covenant | 20070216000323 | 2 | King County covenant. | [PDF](/assets/recorded-documents/3624079104_20070216000323_COVENANT.pdf) |
-| 2007-03-09 | Survey | 20070309900001 | 1 | Property survey. | [PDF](/assets/recorded-documents/3624079104_20070309900001_SURVEY.pdf) |
-| 2007-10-03 | Deed of Trust | 20071003001222 | 12 | Refinance. | [PDF](/assets/recorded-documents/3624079104_20071003001222_DEED-OF-TRUST.pdf) |
-| 2008-04-23 | Easement | 20080423000463 | 2 | PSE utility easement. | [PDF](/assets/recorded-documents/3624079104_20080423000463_EASEMENT.pdf) |
-| 2008-05-06 | Covenant | 20080506001048 | 3 | King County covenant. | [PDF](/assets/recorded-documents/3624079104_20080506001048_COVENANT.pdf) |
-| 2008-07-03 | Lien | 20080703001323 | 2 | Lien filed against property. | [PDF](/assets/recorded-documents/3624079104_20080703001323_LIEN.pdf) |
-| 2009-01-08 | Lien | 20090108000651 | 1 | Additional lien. Financial distress of prior owner. | [PDF](/assets/recorded-documents/3624079104_20090108000651_LIEN.pdf) |
-| 2010-02-26 | Assumption Agreement | 20100226000515 | 4 | Loan assumption. | [PDF](/assets/recorded-documents/3624079104_20100226000515_ASSUMPTION-AGREEMENT.pdf) |
-| 2010-05-25 | Notice of Trustee Sale | 20100525000216 | 9 | First foreclosure notice. | [PDF](/assets/recorded-documents/3624079104_20100525000216_NOTICE-OF-TRUSTEE-SALE.pdf) |
-| 2011-02-10 | Notice of Trustee Sale | 20110210001329 | 5 | Second foreclosure notice. | [PDF](/assets/recorded-documents/3624079104_20110210001329_NOTICE-OF-TRUSTEE-SALE.pdf) |
-| **2011-06-30** | **Warranty Deed** | **20110630000507** | **6** | **Snoqualmie Indian Tribe acquires the property.** Deed in lieu of foreclosure from Mastro bankruptcy estate. | [PDF](/assets/recorded-documents/3624079104_20110630000507_WARRANTY-DEED.pdf) |
 
 ---
 
