@@ -69,7 +69,7 @@ No site-specific seismic hazard assessment has been submitted for the Cascadia R
 
 ## Parcels and land deals {#parcels}
 
-Jupiter Power has recorded purchase or option agreements on at least five of the six parcels below. All agreements were found through the [King County Recorder's Office](https://recordsearch.kingcounty.gov/LandmarkWeb/search/index?theme=.blue&section=searchCriteriaParcelId&quickSearchSelection=) and are public record.
+Jupiter Power has recorded purchase or option agreements on five parcels totaling approximately 45 acres. All agreements were found through the [King County Recorder's Office](https://recordsearch.kingcounty.gov/LandmarkWeb/search/index?theme=.blue&section=searchCriteriaParcelId&quickSearchSelection=) and are public record.
 
 | Parcel | Acres | Owner | Zoning | Jupiter Power Deal |
 |---|---|---|---|---|
@@ -78,13 +78,12 @@ Jupiter Power has recorded purchase or option agreements on at least five of the
 | 3624079101 | ~5.0 | Landgraf | UR | Option to purchase (Jul 2025), 5-year term |
 | 3624079100 | ~5.0 | Nause LLC | UR | Memorandum recorded Aug 2025 |
 | 3624079103 | ~5.0 | Arnold | UR | Memorandum recorded Nov 2025 |
-| 3624079037 | ~3.7 | Abbott | UR | **No recorded agreement** |
-| **Total** | **~49** | | | |
+| **Total** | **~45** | | | |
 
-Adjacent: Snoqualmie Indian Tribe (~15.8 ac, parcel [3624079104](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079104)), PSE transmission corridor (~14.5 ac).
+Adjacent: Snoqualmie Indian Tribe (~15.8 ac, parcel [3624079104](https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=3624079104)), PSE transmission corridor (~14.5 ac), Abbott (~3.7 ac, parcel 3624079037).
 
 Jupiter Power is using two legal entities for these deals. The main parcel (3624079039) was acquired through **Snoqualmie Energy Storage LLC**, a Delaware LLC whose sole member is Accelergen Development LLC. The surrounding residential parcels were acquired through **Cascadia Ridge Resiliency LLC**, a Delaware LLC registered to 1108 Lavaca St, Austin, TX. Both trace back to Jupiter Power.
 
 Parcel 3624079093 is notable: it's a 5-acre vacant lot with a transmission line easement, owned by the same Nause LLC that owns the adjacent parcel 3624079100. Jupiter Power secured an option on it the same day they signed the main purchase agreement (March 4, 2024), but it was not listed in the original permit application. It may be intended for access, buffer, or additional infrastructure.
 
-King County recorded a **Critical Areas Notice on Title** on parcel 3624079037 (Abbott) on January 20, 2026 (permit FLOD26-0013), designating it as a **Flood Hazard Area** under KCC 21A.24. The notice runs with the land and cannot be removed without written King County authorization. The Abbott parcel is also the only one with no recorded Jupiter Power agreement.
+The adjacent Abbott parcel (3624079037, ~3.7 ac) has no recorded Jupiter Power agreement. King County recorded a **Critical Areas Notice on Title** on it on January 20, 2026 (permit FLOD26-0013), designating it as a **Flood Hazard Area** under KCC 21A.24. The notice runs with the land and cannot be removed without written King County authorization. The flood hazard designation is relevant to the project site regardless of ownership, as it confirms floodplain conditions in the immediate area.

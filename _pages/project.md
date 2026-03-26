@@ -10,7 +10,7 @@ title: "Project Overview"
 | Landowners | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Nause LLC, Landgraf, Arnold, Abbott |
 | Type | Lithium-ion battery energy storage (BESS) |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
-| Site | ~49 acres across [6 parcels](/site-and-environment#parcels), unincorporated King County |
+| Site | ~45 acres across [5 parcels](/site-and-environment#parcels), unincorporated King County |
 | Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
 | Interconnection | 115kV tie-line to PSE Mt. Si substation |
 | PSE agreement | Tolling agreement executed August 22, 2025 |
