@@ -123,6 +123,8 @@ li { margin-bottom: 0.35rem; }
 
 a { color: var(--accent); }
 
+img { max-width: 100%; height: auto; }
+
 strong { font-weight: 600; }
 
 /* Tables */
