@@ -80,7 +80,7 @@ Jupiter Power has recorded purchase or option agreements on five parcels totalin
 | 3624079103 | ~5.0 | Arnold | UR | Memorandum recorded Nov 2025 |
 | **Total** | **~45** | | | |
 
-Adjacent: PSE transmission corridor (~14.5 ac, parcels 3624079098, 3624079099, 3624079102).
+Adjacent: PSE transmission corridor (~19.5 ac, parcels 3624079030, 3624079098, 3624079099, 3624079102).
 
 Jupiter Power is using two legal entities for these deals. The main parcel (3624079039) was acquired through **Snoqualmie Energy Storage LLC**, a Delaware LLC whose sole member is Accelergen Development LLC. The surrounding residential parcels were acquired through **Cascadia Ridge Resiliency LLC**, a Delaware LLC registered to 1108 Lavaca St, Austin, TX. Both trace back to Jupiter Power.
 
