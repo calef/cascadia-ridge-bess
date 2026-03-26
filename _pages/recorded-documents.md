@@ -21,10 +21,11 @@ These are the most significant recorded instruments for understanding the BESS p
 | Aug 2025 | 3624079093 & 3624079100 (both Nause) | Memorandum, supersedes 2024 option | Cascadia Ridge Resiliency LLC | [PDF](/assets/recorded-documents/3624079093_20250820000288_MEMORANDUM.pdf) |
 | Nov 2025 | 3624079103 (Arnold) | Memorandum | Cascadia Ridge Resiliency LLC | [PDF](/assets/recorded-documents/3624079103_20251104000942_MEMORANDUM.pdf) |
 
-**PSE corridor and interconnection constraints:**
+**PSE corridor, annexation, and interconnection constraints:**
 
 | Date | Document | Significance | PDF |
 |---|---|---|---|
+| Feb 2011 | Pre-Annexation Development Agreement (Rec# 20110202001508) | The foundational agreement between PSE and the City of Snoqualmie for the Mount Si Substation. Governs development of the "Substation Area" and designates parcel 9102 as a "Future Development Area" requiring full-scope Annexation Implementation Plan before any development. Specifically limits parcels 9098 and 9099 to transmission line construction. Requires PAUE approval for any development altering wetland or stream buffer areas. 15+ pages of agreement text plus exhibits with maps, legal descriptions, and the Covenant and Easement template. | [PDF](/assets/recorded-documents/3624079098_20110202001508_AGREEMENT.pdf) |
 | Apr 2011 | City of Snoqualmie Covenant and Grant of Easement (Rec# 20110429001446) | Perpetual environmental covenants on five PSE corridor parcels. Vegetation Maintenance Area, Native Growth Protection Area, wetland buffers, and perimeter buffer. The BESS 115kV tie-line must cross these parcels. 69 pages. | [PDF](/assets/recorded-documents/PSE-corridor_20110429001446_COVENANT-AND-EASEMENT.pdf) |
 | Jun 2010 | PSE Easement on Landgraf parcel (Rec# 20100610000254) | Perpetual utility easement acquired via eminent domain. 220-foot BPA corridor (1.68 ac) plus 43-foot strip. **300-foot construction setback from PSE facilities.** | [PDF](/assets/recorded-documents/3624079101_20100610000254_EASEMENT.pdf) |
 | Mar 2010 | PSE v. Dutczak Lis Pendens (Rec# 20100318000352) | Eminent domain proceeding for utility easements on the Landgraf parcel. Case No. 10-2-09978-6 SEA. | [PDF](/assets/recorded-documents/3624079101_20100318000352_LIS-PENDENS.pdf) |
@@ -155,13 +156,21 @@ This parcel has the most complex recorded history of any project parcel. PSE use
 
 ## PSE Corridor Parcels {#pse-corridor}
 
-PSE owns four parcels forming the transmission corridor adjacent to the BESS site, including the Mt. Si substation: **3624079030**, **3624079091**, **3624079098**, **3624079099**, and **3624079102**. The City of Snoqualmie holds perpetual environmental covenants across all of these parcels (see key documents above).
+PSE owns five parcels forming the transmission corridor adjacent to the BESS site, including the Mt. Si substation: **3624079030**, **3624079091**, **3624079098**, **3624079099**, and **3624079102**. The City of Snoqualmie holds perpetual environmental covenants across all of these parcels (see key documents above). No Jupiter Power agreements are recorded on any of these parcels; access is likely governed by the PSE tolling agreement (UTC Docket UE-240532).
+
+The Pre-Annexation Development Agreement (PADA, Rec# 20110202001508) is the foundational document governing these parcels. It was executed between PSE and the City of Snoqualmie in 2010 to authorize annexation and development of the Mount Si Substation. Key provisions:
+
+- **Parcel 9102 is designated a "Future Development Area"** requiring a full-scope Annexation Implementation Plan (AIP) before any utility connections, short plat, subdivision, or other development
+- Development is limited to the substation, transmission lines, and related electrical utility uses
+- The PAUE (Public Agency or Utility Exception, SMC 19.12.030C) is required for any development altering wetland or stream buffer areas
+- **Section 6.10 specifically limits parcels 9098 and 9099 to transmission line construction**, with King County as the permitting authority
+- A Mitigated Determination of Non-Significance (MDNS) was issued February 12, 2010 for the substation and transmission lines
+- Exhibit 12 contains the Covenant and Grant of Easement (recorded separately as Rec# 20110429001446)
 
 ### Parcel 3624079030 — PSE property (~5.0 ac) {#parcel-9030}
 
 **Owner:** Puget Sound Energy Inc.
 **Legal:** Lot 3, KC Short Plat 675002
-**Jupiter Power instrument:** None recorded. Access likely governed by the PSE tolling agreement (UTC Docket UE-240532).
 **Documents found:** 4
 
 | Recorded | Type | Recording # | Pages | Description | PDF |
@@ -170,6 +179,83 @@ PSE owns four parcels forming the transmission corridor adjacent to the BESS sit
 | 2008-06-25 | Survey | 20080625900015 | 2 | Record of Survey for PSE by David Evans and Associates. Covers parcels 9030, 9091, 9098, 9102. Documents PSE's infrastructure corridor and easement positions. | [PDF](/assets/recorded-documents/3624079030_20080625900015_SURVEY.pdf) |
 | **2010-07-21** | **Survey** | **20100721900002** | **2** | **PSE/David Evans survey.** Same survey as Landgraf parcel. Shows all project parcels within proposed annexation area. | [PDF](/assets/recorded-documents/3624079101_20100721900002_SURVEY.pdf) |
 | **2011-04-29** | **Covenant and Easement** | **20110429001446** | **69** | **City of Snoqualmie Covenant and Grant of Easement.** Perpetual environmental covenants on five PSE corridor parcels. | [PDF](/assets/recorded-documents/PSE-corridor_20110429001446_COVENANT-AND-EASEMENT.pdf) |
+
+---
+
+### Parcel 3624079091 — PSE substation parcel (~19.4 ac) {#parcel-9091}
+
+**Owner:** Puget Sound Energy Inc.
+**Legal:** N half of SW 1/4 of NW 1/4, Section 36, T24N, R7E (Tax Account 362407-9091-04)
+**Documents found:** 7
+
+| Recorded | Type | Recording # | Pages | Description | PDF |
+|---|---|---|---|---|---|
+| **2008-02-29** | **Warranty Deed** | **20080229000792** | **2** | **PSE acquires parcel from Lake Alice Plateau Associates (Conner Homes joint venture) for $3,370,000.** The main substation parcel. Subject to exceptions in Exhibit A including ingress/egress easement (Rec# 6703497). | [PDF](/assets/recorded-documents/3624079091_20080229000792_WARRANTY-DEED.pdf) |
+| 2008-06-25 | Survey | 20080625900015 | 2 | Record of Survey (same as parcel 9030). | |
+| **2011-02-02** | **Agreement** | **20110202001508** | **15** | **Pre-Annexation Development Agreement (PADA).** The foundational agreement between PSE and City of Snoqualmie for the Mount Si Substation. Governs development standards, zoning, mitigation, and SE Douglas Street extension. | [PDF](/assets/recorded-documents/3624079098_20110202001508_AGREEMENT.pdf) |
+| **2011-04-14** | **Warranty Deed** | **20110414000323** | **1** | **SE Douglas Street ROW dedication.** PSE to City of Snoqualmie. Dedication of street right-of-way as required by PADA Section 6.1.4. (Partial download; full document is 4 pages.) | [PDF](/assets/recorded-documents/3624079091_20110414000323_WARRANTY-DEED.pdf) |
+| 2011-04-29 | Covenant and Easement | 20110429001446 | 69 | City of Snoqualmie Covenant and Grant of Easement (same as parcel 9030). | |
+| **2011-12-28** | **Agreement** | **20111228000526** | **3** | **Developer Extension Agreement (DEA).** PSE and City of Snoqualmie. Relates to SE Douglas Street construction and surface water dispersion. Signed by Mayor Matt Larson and PSE's R.S. McNulty. (Partial download; signature and exhibit pages only.) | [PDF](/assets/recorded-documents/3624079091_20111228000526_AGREEMENT.pdf) |
+| **2012-05-07** | **Easement** | **20120507001193** | **3** | **Surface water dispersion easement.** PSE grants City easement for storm water dispersion trenches (two 70-foot strips, 1,400 sq ft and 328 sq ft). Includes Exhibit F: template for future termination of easement upon completion of SE Douglas Street extension. References PADA. (Partial download; exhibit pages only.) | [PDF](/assets/recorded-documents/3624079091_20120507001193_EASEMENT.pdf) |
+| **2012-11-09** | **Partial Release** | **20121109001597** | **1** | **BPA partial release of right-of-way** (Tract APP-1-A-5). Releases BPA's interest in a portion of the parcel under the Contract and Grant of Easement (Document 20010410000791). Reserves rights under the 1967 Transmission Line Easement (Instrument 6173180). BPA Case File 20130022. | [PDF](/assets/recorded-documents/3624079091_20121109001597_PARTIAL-RELEASE-REAL-ESTATE-RELATED.pdf) |
+
+---
+
+### Parcel 3624079098 — PSE corridor, western portion {#parcel-9098}
+
+**Owner:** Puget Sound Energy Inc.
+**Documents found:** 5
+
+This parcel is part of the PSE transmission corridor. The PADA (Section 6.10) specifically addresses parcels 9098 and 9099 as sites for transmission line construction, with King County (not the City of Snoqualmie) as the permitting authority since these parcels were not being annexed.
+
+| Recorded | Type | Recording # | Pages | Description | PDF |
+|---|---|---|---|---|---|
+| **2008-02-29** | **Warranty Deed** | **20080229000788** | **1** | **PSE acquires parcel from West Cascade Associates.** Only the title exceptions exhibit was downloaded. Key exceptions: PSE underground utility easement (1975, Rec# 7512150865, prohibits structures over easement), BPA transmission easement (2001, Rec# 20010410000793), 1969 Harry H. Olson mineral rights reservation (Rec# 6512634), Snoqualmie 55 Associates developer extension agreement (1998, Rec# 9806051330). | [PDF](/assets/recorded-documents/3624079098_20080229000788_WARRANTY-DEED.pdf) |
+| 2008-06-25 | Survey | 20080625900015 | 2 | Record of Survey (same as parcel 9030). | |
+| 2010-07-21 | Survey | 20100721900002 | 2 | PSE/David Evans survey (same as parcel 9030). | |
+| **2011-02-02** | **Agreement** | **20110202001508** | **15** | **Pre-Annexation Development Agreement (PADA).** Same agreement as parcel 9091. | [PDF](/assets/recorded-documents/3624079098_20110202001508_AGREEMENT.pdf) |
+| 2011-04-29 | Covenant and Easement | 20110429001446 | 69 | City of Snoqualmie Covenant and Grant of Easement (same as parcel 9030). | |
+
+---
+
+### Parcel 3624079099 — PSE corridor, Baisden parcel {#parcel-9099}
+
+**Owner:** Puget Sound Energy Inc.
+**Legal:** N half of NW 1/4 of NW 1/4, Section 36, T24N, R7E (also known as Lot 2 of KC Short Plat 675001)
+**Documents found:** 7
+
+This parcel was originally owned by the Baisden family, sold to Weyerhaeuser Real Estate Co. in 1995, and subsequently acquired by PSE. The PADA addresses this parcel alongside 9098 for transmission line construction.
+
+| Recorded | Type | Recording # | Pages | Description | PDF |
+|---|---|---|---|---|---|
+| **1995-06-07** | **Warranty Deed** | **199506070812** | **1** | **Baisden to Weyerhaeuser Real Estate Co.** Only the title exceptions exhibit was downloaded. Key exceptions: 1969 Harry H. Olson mineral rights reservation (Rec# 6512634), 1985 code violation notice (Rec# 8505100925, File 79-1490). | [PDF](/assets/recorded-documents/3624079099_199506070812_WARRANTY-DEED.pdf) |
+| **1999-08-11** | **Easement** | **19990811001847** | **2** | **PSE overhead utility easement from Weyerhaeuser.** Covers portions of SW 1/4 of Section 25 and NW 1/4 of Section 36. Signed by Edwin G. Vetter (General Manager, Snoqualmie Ridge, Weyerhaeuser) and Howard A. Strong (Manager Real Estate, PSE). (Partial download; notary and Exhibit A legal description pages only. Full document is 7 pages.) | [PDF](/assets/recorded-documents/3624079099_19990811001847_EASEMENT.pdf) |
+| **1999-10-21** | **Agreement** | **19991021001630** | **1** | **Memorandum of Agreement.** Only Attachment A (Baisden Parcel legal description) was downloaded. Parcel described as N half of NW 1/4 of NW 1/4, Section 36, subject to ingress/egress easements (Rec# 7508220654 and 7508220653). (Full document is 4 pages.) | [PDF](/assets/recorded-documents/3624079099_19991021001630_AGREEMENT.pdf) |
+| **1999-11-24** | **Agreement** | **19991124001250** | **1** | **Agreement between Weyerhaeuser Real Estate Co. and PSE.** Only notary pages were downloaded. Signed November 1999 by Edwin G. Vetter (VP, Weyerhaeuser) and Howard A. Strong (Manager Real Estate, PSE). | [PDF](/assets/recorded-documents/3624079099_19991124001250_AGREEMENT.pdf) |
+| **2011-02-02** | **Agreement** | **20110202001508** | **15** | **Pre-Annexation Development Agreement (PADA).** Same agreement as parcel 9091. | [PDF](/assets/recorded-documents/3624079099_20110202001508_AGREEMENT.pdf) |
+| 2011-04-29 | Covenant and Easement | 20110429001446 | 69 | City of Snoqualmie Covenant and Grant of Easement (same as parcel 9030). | |
+| **2012-11-09** | **Partial Release** | **20121109001598** | **1** | **BPA partial release of three right-of-way tracts:** APP-1-A-1 (Lot 2, Short Plat 675001), APP-1-A-2 (Lot 1, Short Plat 675001), and APP-1-A-4 (Lot 2, Short Plat 675002). Reserves BPA rights under the 1967 Transmission Line Easement (Instrument 6183192). BPA Case File 20130023. | [PDF](/assets/recorded-documents/3624079099_20121109001598_PARTIAL-RELEASE-REAL-ESTATE-RELATED.pdf) |
+
+---
+
+### Parcel 3624079102 — PSE "Future Development Area" {#parcel-9102}
+
+**Owner:** Puget Sound Energy Inc.
+**Legal:** Portions of Lots 1 and 2, KC Short Plat 675001, and Lot 2, KC Short Plat 675002
+**Documents found:** 8
+
+The PADA designates this parcel as a **"Future Development Area"** (Exhibit 6), subject to a zoning condition that requires completion of a full-scope Annexation Implementation Plan (Section 4.3) before any new utility connections, short plat, subdivision, or other development. Development on this parcel vests to whatever regulations are in effect when a complete application is filed, not to the PADA-era standards.
+
+| Recorded | Type | Recording # | Pages | Description | PDF |
+|---|---|---|---|---|---|
+| **2008-02-29** | **Warranty Deed** | **20080229000789** | **3** | **PSE acquires parcel from West Cascade Associates.** | [PDF](/assets/recorded-documents/3624079102_20080229000789_WARRANTY-DEED.pdf) |
+| 2008-06-25 | Survey | 20080625900015 | 2 | Record of Survey (same as parcel 9030). | |
+| 2010-07-21 | Survey | 20100721900002 | 2 | PSE/David Evans survey (same as parcel 9030). | |
+| **2011-02-02** | **Agreement** | **20110202001508** | **16** | **Pre-Annexation Development Agreement (PADA).** Same agreement as parcel 9091. (This parcel's copy has 16 pages vs. 15 for the other copies, likely including an additional parcel-specific exhibit page.) | [PDF](/assets/recorded-documents/3624079102_20110202001508_AGREEMENT.pdf) |
+| **2011-04-14** | **Warranty Deed** | **20110414000323** | **1** | **SE Douglas Street ROW dedication.** Same document as parcel 9091. | [PDF](/assets/recorded-documents/3624079102_20110414000323_WARRANTY-DEED.pdf) |
+| 2011-04-29 | Covenant and Easement | 20110429001446 | 69 | City of Snoqualmie Covenant and Grant of Easement (same as parcel 9030). | |
+| **2011-12-28** | **Agreement** | **20111228000526** | **4** | **Developer Extension Agreement (DEA).** Same document as parcel 9091. | [PDF](/assets/recorded-documents/3624079102_20111228000526_AGREEMENT.pdf) |
+| **2012-05-07** | **Easement** | **20120507001193** | **4** | **Surface water dispersion easement.** Same document as parcel 9091. | [PDF](/assets/recorded-documents/3624079102_20120507001193_EASEMENT.pdf) |
 
 ---
 
