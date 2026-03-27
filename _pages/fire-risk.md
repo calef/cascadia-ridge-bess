@@ -92,7 +92,7 @@ The [International Fire Code Section 1207](https://codes.iccsafe.org/s/IFC2024P1
 
 Current detection options include VESDA (Very Early Smoke Detection Apparatus, laser-based air sampling), gas sensors for off-gases that precede thermal runaway (CO, H2, VOCs), and thermal imaging. Suppression options include water-based systems (effective at cooling but don't stop the electrochemical reaction), water mist, aerosol systems, and hybrid approaches.
 
-All of these have limitations. The Moss Landing fire began after its fire suppression system failed. Water application can cause electrical shorts and [temporarily increases peak HF production by 35%](https://www.nature.com/articles/s41598-017-09784-z). Aerosol systems work best before ignition in tight enclosures. No suppression technology has been proven to reliably stop cascade propagation once thermal runaway is deeply established at scale.
+All of these have limitations. The Moss Landing fire began after its fire suppression system failed. Water application can cause electrical shorts and [temporarily increases the peak HF production rate by 35%](https://www.nature.com/articles/s41598-017-09784-z), though total HF produced is unchanged. Aerosol systems work best before ignition in tight enclosures. No suppression technology has been proven to reliably stop cascade propagation once thermal runaway is deeply established at scale.
 
 ### How much HF?
 
