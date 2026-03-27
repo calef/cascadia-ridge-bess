@@ -100,6 +100,18 @@ All of these have limitations. The Moss Landing fire began after its fire suppre
 
 No atmospheric dispersion modeling has been done for this site. Nobody has studied what HF concentrations would look like at Cascade View Elementary (approximately half a mile away), along school bus routes on Snoqualmie Parkway (0.1 miles away), or in the surrounding neighborhoods during a lithium-ion battery fire. The Snoqualmie Valley's topography traps airborne emissions close to the ground during temperature inversions rather than dispersing them. These quantities are large enough that dispersion modeling should be required before this project is approved.
 
+### Isolation and evacuation distances
+
+Two federal sources reference isolation distances for lithium battery incidents, but neither was designed for a facility of this scale.
+
+The [EPA's BESS guidance](https://www.epa.gov/electronics-batteries-management/battery-energy-storage-systems-main-considerations-safe) says to "set an isolation zone for large commercial BESS that is at least 330 feet, depending on the site." This is an emergency response isolation zone, the area first responders should clear during an active fire. It is not a siting standard or a permanent setback from homes and schools.
+
+The DOT's [Emergency Response Guidebook](https://www.phmsa.dot.gov/training/hazmat/erg/emergency-response-guidebook-erg) (ERG), Guide 147, covers lithium batteries in transportation. The 2020 edition recommended "initial downwind evacuation for at least 100 meters (330 feet)" for large spills. The [2024 edition](https://cameochemicals.noaa.gov/erg_guides/en/Guide_147.pdf) removed that specific distance and replaced it with "increase the immediate precautionary measure distance, in the downwind direction, as necessary." For fires involving a rail car or trailer of lithium batteries, the ERG recommends evacuating 500 meters (1/3 mile) in all directions.
+
+The ERG is explicitly designed for transportation incidents involving quantities many orders of magnitude smaller than a 130 MW BESS. Its modeled scenarios are a trailer or rail car of batteries, not a fixed installation with 520,000 kWh of capacity. The 2024 edition also reflects a shift in fire response strategy: for large lithium battery fires, the guidance now says to let the fire burn itself out and protect surroundings rather than attempt suppression.
+
+No federal agency has published isolation or evacuation distance guidance calibrated to utility-scale BESS facilities. The distances that exist are either emergency response minimums for much smaller quantities or have been removed from current guidance altogether.
+
 ### Regulatory gaps
 
 - **No federal siting standards.** BESS siting is governed by local land use and building codes, which vary enormously. Some jurisdictions have no BESS-specific ordinances.
