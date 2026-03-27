@@ -49,7 +49,7 @@ The industry's preferred number. Doesn't account for facility size.
 | 15 | 4.4% | 45.0% |
 | 20 | 5.8% | 54.7% |
 
-The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. The actual risk for a specific facility is somewhere in this range.
+Using the industry's own fire-specific rate, the cumulative probability of at least one fire over a 20-year facility life is approximately 6%. The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. The actual risk for a specific facility is somewhere in this range.
 
 ## Why the real number is probably higher
 
@@ -96,7 +96,9 @@ All of these have limitations. The Moss Landing fire began after its fire suppre
 
 ### How much HF?
 
-[Larsson et al. (2017)](https://www.nature.com/articles/s41598-017-09784-z), published in *Scientific Reports* (Nature portfolio), measured HF emissions from lithium-ion battery fires across 7 cell types and 39 fire tests using two independent measurement methods. They found **20 to 200 mg of HF per Wh** of battery capacity. The paper extrapolates: a 1,000 kWh system could produce 20-200 kg of HF. The proposed Cascadia Ridge facility is approximately 520,000 kWh, 520 times larger than that example. HF is immediately dangerous to life and health (IDLH) at just 30 ppm.
+[Larsson et al. (2017)](https://www.nature.com/articles/s41598-017-09784-z), published in *Scientific Reports* (Nature portfolio), measured HF emissions from lithium-ion battery fires across 7 cell types and 39 fire tests using two independent measurement methods. They found **20 to 200 mg of HF per Wh** of battery capacity. The paper extrapolates: a 1,000 kWh system could produce 20-200 kg of HF. The proposed Cascadia Ridge facility is approximately 520,000 kWh, 520 times larger than that example. Scaling the paper's findings: a full-facility fire could produce 10 to 104 metric tons of HF. Even a fire involving just 1% of the facility's capacity could produce over a metric ton. HF is immediately dangerous to life and health (IDLH) at just 30 ppm. It is colorless, has a pungent odor at higher concentrations but may not be detectable by smell at levels that still pose health risks, and symptoms of skin and lung exposure can be delayed by hours.
+
+No atmospheric dispersion modeling has been done for this site. Nobody has studied what HF concentrations would look like at Cascade View Elementary (approximately half a mile away), along school bus routes on Snoqualmie Parkway (0.1 miles away), or in the surrounding neighborhoods during a lithium-ion battery fire. The Snoqualmie Valley's topography traps airborne emissions close to the ground during temperature inversions rather than dispersing them. These quantities are large enough that dispersion modeling should be required before this project is approved.
 
 ### Regulatory gaps
 
