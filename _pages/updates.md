@@ -20,7 +20,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 
 ## March 23, 2026
 
-- Snoqualmie City Council cleared its regular agenda to take public comment on the BESS. Approximately 35-40 residents spoke over two hours. The room exceeded fire code capacity. Speakers included a seismologist, mechanical engineer, family physician, financial advisor, and environmental justice advocate. [Full summary.](/project#community-response)
+- Snoqualmie City Council cleared its regular agenda to take public comment on the BESS. Approximately 35-40 residents spoke over two hours. The room exceeded fire code capacity. Speakers included a seismologist, mechanical engineer, family physician, financial advisor, and environmental justice advocate. [Full meeting video.](https://www.youtube.com/watch?v=0N3RSaquon0) [Full summary.](/project#community-response)
 - Sent follow-up letter to Snoqualmie City Council asking for a resolution, formal SEPA participation, annexation evaluation, and ESF #16 update.
 - Identified a codification gap in Ordinance 19824: an amendment requiring a community meeting before permitting was drafted but never adopted. Perry's office confirmed the amendment was never offered at vote. Jupiter Power's March 17 open house was voluntary, as they stated.
 
