@@ -27,7 +27,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 ## March 17, 2026
 
 - Jupiter Power held a community open house at The Club at Snoqualmie Ridge. Turnout exceeded the venue's capacity. Jupiter Power's presentation focused on generic BESS safety statistics and did not address battery chemistry alternatives, the company's own sodium-ion investments, or site-specific environmental risks.
-- KOMO News [covered the event](https://komonews.com/news/local/snoqualmie-ridge-lithium-battery-storage-project-draws-scrutiny-as-permit-process-begins-community-fire-safety-toxic-environment-jupiter-power-king-county).
+- KOMO News [covered the event](https://komonews.com/news/local/snoqualmie-ridge-lithium-battery-storage-project-draws-scrutiny-as-permit-process-begins-community-fire-safety-toxic-environment-jupiter-power-king-county). KING 5 also [covered the open house](https://www.king5.com/article/news/local/snoqualmie-residents-clash-developers-over-proposed-lithium-battery-site-near-homes/281-b7eb192c-9447-4959-8908-0ab7c9391cf8), reporting that the meeting "erupted into chaos" and ended with attendees chanting "Step down" as Jupiter Power's Hans Detweiler exited.
 - Launched cascadiaridgebess.org with project overview, fire risk analysis, battery technology comparison, permitting status, FAQ, and take action page.
 - Sent letter to Councilmember Sarah Perry proposing ordinance amendments: chemistry alternatives in Condition 29, scaled financial responsibility, seismic risk assessment.
 - Sent email to Eastside Fire & Rescue (Chief Aho) with questions about pre-incident planning, training, and response capacity. No response as of March 25.
