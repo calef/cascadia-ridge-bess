@@ -57,7 +57,7 @@ As of March 2026, the following have not been publicly disclosed for the Cascadi
 - **Decommissioning plan.** How will batteries be removed and the site restored at end of life?
 - **Environmental monitoring plan.** Will there be permanent air quality monitoring at the fenceline? Soil and water monitoring near Fisher Creek?
 
-Jupiter Power's project website and open house handout focused on general BESS safety statistics and code compliance. The 16-slide presentation covered industry growth, generic safety layers, and community benefits (tax revenue, park land, construction jobs) but provided no site-specific details on chemistry, noise, setbacks, or environmental risk. The handout does not mention battery chemistry once.
+Jupiter Power's project website and [open house handout](/assets/jupiter-power-open-house-handout-2026-03-17.pdf) (16 pages, PDF) focused on general BESS safety statistics and code compliance. The presentation covered industry growth, generic safety layers, and community benefits (tax revenue, park land, construction jobs) but provided no site-specific details on chemistry, noise, setbacks, or environmental risk. The handout does not mention battery chemistry once.
 
 Jupiter Power provides a project email address (cascadiaridge@jupiterpower.io) but has not responded to questions from community members. As of March 27, 2026, 16 questions across three emails over two weeks have gone unanswered.
 
