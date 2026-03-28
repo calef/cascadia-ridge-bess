@@ -49,7 +49,7 @@ PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh
 
 In 2020-2021, PSE hired [Power Systems Consultants](https://www.pscconsulting.com/) (PSC, Kirkland, WA) to conduct a qualitative and quantitative analysis of where to site energy storage across PSE's transmission system. The study screened all ~382 PSE substations and identified the best candidates based on electrical capacity, substation configuration, surrounding land use, and environmental constraints. It was filed as Exhibit I in [UTC Docket UE-210220](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=7&year=2021&docketNumber=210220) (PSE's 2021 All-Source RFP). [Full study (PDF).](/assets/pse-ess-location-study-2021.pdf)
 
-**Mt. Si substation does not appear in the study at any stage.** It was not among the 36 candidates that passed initial screening, not among the 20 that received quantitative analysis, and not among the 15 final recommendations. The nearest Snoqualmie-area substation ("SNOQ SW") was evaluated and rated high risk (red), meaning it was unsuitable for ESS interconnection. The Snoqualmie Falls station was called out by name as an example of a location that met electrical requirements "but clearly it is not a desirable location for additional development."
+**Mt. Si substation was screened out on the merits.** The substation had been operational since 2012, eight years before the study was conducted. It was not among the 36 candidates that passed initial screening, not among the 20 that received quantitative analysis, and not among the 15 final recommendations. The study required either 230 kV non-radial service or more than 4 lines of 115 kV non-radial service; Mt. Si is 115 kV only and did not qualify. The nearest Snoqualmie-area substation ("SNOQ SW") was evaluated and rated high risk (red), meaning it was unsuitable for ESS interconnection. The Snoqualmie Falls station was called out by name as an example of a location that met electrical requirements "but clearly it is not a desirable location for additional development."
 
 The study's siting criteria included a "Good Neighbor" test that flagged residential proximity as a problem:
 
@@ -60,7 +60,7 @@ The study's siting criteria included a "Good Neighbor" test that flagged residen
 
 The study identified 15 substations across western Washington that passed both qualitative and quantitative screening, with total maximum ESS capacities ranging from 9 to 86 MW. The recommended locations include White River (86 MW), Tono (85 MW), Alderton (76 MW), Midway (56 MW), and Sammamish (46 MW). None are in the Snoqualmie Valley.
 
-Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation that didn't even make its own consultant's initial candidate list.
+Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation its own consultant screened out on the merits.
 
 ## What Jupiter Power has not disclosed
 

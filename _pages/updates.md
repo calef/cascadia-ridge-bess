@@ -6,7 +6,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 
 ## March 28, 2026
 
-- Published analysis of PSE's own ESS siting study (Power Systems Consultants, 2021). PSE screened all 382 substations in their system and identified 15 recommended ESS locations. Mt. Si was not among them at any stage. The nearest Snoqualmie-area substation was rated high risk and rejected. The study's siting criteria explicitly flag residential proximity, schools, and hospitals as making a location "less desirable." [Full analysis.](/project#siting-study) [Full study (PDF).](/assets/pse-ess-location-study-2021.pdf)
+- Published analysis of PSE's own ESS siting study (Power Systems Consultants, 2021). PSE screened all 382 substations in their system and identified 15 recommended ESS locations. Mt. Si had been operational since 2012 but was screened out on the merits. The nearest Snoqualmie-area substation was rated high risk and rejected. The study's siting criteria explicitly flag residential proximity, schools, and hospitals as making a location "less desirable." [Full analysis.](/project#siting-study) [Full study (PDF).](/assets/pse-ess-location-study-2021.pdf)
 
 ## March 25, 2026
 
