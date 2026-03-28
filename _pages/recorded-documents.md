@@ -65,18 +65,25 @@ The Pre-Annexation Development Agreement (PADA, Rec# 20110202001508) is the foun
 
 ### Construction access constraint {#access-road}
 
-The only road access to the BESS project parcels from a public road runs through the PSE transmission corridor. This access road traverses all five PSE corridor parcels: 9099, 9098, 9102, 9091, and 9030. It is currently used by residents of the Landgraf parcel (9101) and others for routine vehicle access, including to a property with several dozen RVs and a small egg-selling operation.
+There are two potential road access routes to the BESS project parcels:
 
-This existing residential use is lawful. The Covenant's motor vehicle prohibition (Section II) applies only to the 3.85-acre Wetland/Stream Buffer Area, not to the entire corridor. The access road does not cross that designated area.
+1. **Through the PSE transmission corridor.** An existing road traverses all five PSE corridor parcels (9099, 9098, 9102, 9091, 9030). It is currently used by residents of the Landgraf parcel (9101) and others for routine vehicle access.
+2. **Through private residential parcels to 364th Ave SE.** Parcel 9039's legal description includes "plus road easement," indicating an appurtenant easement across the Short Plat 775062 tracts (parcels 9129, 9130, 9131, 9132) to the east. This private road serves two occupied homes and has been in use since the early 1980s.
 
-Industrial construction traffic for a 130 MW BESS is a different question. The PADA and Covenant impose overlapping restrictions on the corridor parcels that the road crosses:
+Neither route was designed for industrial construction traffic. Each has its own constraints.
+
+**PSE corridor route:** The existing residential use is lawful; the Covenant's motor vehicle prohibition (Section II) applies only to the 3.85-acre Wetland/Stream Buffer Area, not the road itself. But the PADA and Covenant impose overlapping restrictions on the corridor parcels that would apply to BESS construction traffic:
 
 - **Parcels 9098 and 9099** are limited by the PADA (Section 6.10) to transmission line construction. Heavy equipment and materials transport for a battery storage facility is not transmission line construction.
 - **Parcel 9102** is designated a "Future Development Area" requiring a full-scope Annexation Implementation Plan before any development. No AIP has been completed.
 - **The Vegetation Maintenance Area** (12.95 acres across the corridor) requires prior written city approval for any vegetation alteration (Covenant Section III). Construction vehicle traffic on unpaved or marginally improved road surfaces through this area would damage vegetation.
 - **The Dutczak/Landgraf clause** (Covenant Section III, paragraph 9) extends the Covenant's vegetation and environmental protections to PSE's easement on the Landgraf parcel (9101), which the road also crosses.
 
-Jupiter Power cannot route BESS construction traffic through the PSE corridor without addressing each of these restrictions. The City of Snoqualmie is a party to both the PADA and the Covenant, and has standing to enforce their terms by injunction. No public document from Jupiter Power addresses how construction access to the site would work.
+Jupiter Power cannot route BESS construction traffic through the PSE corridor without addressing each of these restrictions. The City of Snoqualmie is a party to both the PADA and the Covenant, and has standing to enforce their terms by injunction.
+
+**364th Ave SE route:** The road easement appurtenant to parcel 9039 predates Jupiter Power's involvement and conveys with the land. The scope of this easement (whether it permits industrial construction traffic or only residential use) depends on the terms of the original instrument, likely recorded with Short Plat 775062 (Rec# 7710170832, 1977). The private road crosses parcels owned by individual homeowners who are not parties to the BESS project.
+
+No public document from Jupiter Power addresses how construction access to the site would work.
 
 | Parcel | Description | Owner | Docs | Key constraints | Details |
 |---|---|---|---|---|---|
