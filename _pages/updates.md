@@ -4,6 +4,10 @@ title: "Updates"
 
 What we've published, who we've contacted, and what's happened. Most recent first.
 
+## March 28, 2026
+
+- Published analysis of PSE's own ESS siting study (Power Systems Consultants, 2021). PSE screened all 382 substations in their system and identified 15 recommended ESS locations. Mt. Si was not among them at any stage. The nearest Snoqualmie-area substation was rated high risk and rejected. The study's siting criteria explicitly flag residential proximity, schools, and hospitals as making a location "less desirable." [Full analysis.](/project#siting-study) [Full study (PDF).](/assets/pse-ess-location-study-2021.pdf)
+
 ## March 25, 2026
 
 - Updated SEPA comment guide to clarify both paths to victory: a full EIS (Determination of Significance) that forces an alternatives analysis, or an MDNS conditioned on non-thermal-runaway battery chemistry like sodium-ion. Either outcome gets the batteries changed.

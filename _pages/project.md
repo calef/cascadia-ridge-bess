@@ -45,6 +45,23 @@ PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/
 
 PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh from clean resources by 2030, and up to 1,755 MW of summer peak capacity by 2029. The alternatives are overbuilding generation (expensive, and ratepayers pay for it) or keeping fossil fuel peakers online (which violates CETA).
 
+## PSE's own siting study did not recommend this location {#siting-study}
+
+In 2020-2021, PSE hired [Power Systems Consultants](https://www.pscconsulting.com/) (PSC, Kirkland, WA) to conduct a qualitative and quantitative analysis of where to site energy storage across PSE's transmission system. The study screened all ~382 PSE substations and identified the best candidates based on electrical capacity, substation configuration, surrounding land use, and environmental constraints. It was filed as Exhibit I in [UTC Docket UE-210220](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=7&year=2021&docketNumber=210220) (PSE's 2021 All-Source RFP). [Full study (PDF).](/assets/pse-ess-location-study-2021.pdf)
+
+**Mt. Si substation does not appear in the study at any stage.** It was not among the 36 candidates that passed initial screening, not among the 20 that received quantitative analysis, and not among the 15 final recommendations. The nearest Snoqualmie-area substation ("SNOQ SW") was evaluated and rated high risk (red), meaning it was unsuitable for ESS interconnection. The Snoqualmie Falls station was called out by name as an example of a location that met electrical requirements "but clearly it is not a desirable location for additional development."
+
+The study's siting criteria included a "Good Neighbor" test that flagged residential proximity as a problem:
+
+- "Highly residential areas, constraints for possible transmission rights-of-ways to the PSE station, schools, hospitals, and other notable land uses indicate that that specific PSE station was **less desirable** as a practical location to interconnect an ESS."
+- "Early involvement of the public in the development process is a must and the public should be encouraged to provide constructive input and alternative projects/locations."
+- "The public knows their neighbourhood best and can suggest minimum impact alternatives."
+- "Land use should be reasonably consistent with its present use."
+
+The study identified 15 substations across western Washington that passed both qualitative and quantitative screening, with total maximum ESS capacities ranging from 9 to 86 MW. The recommended locations include White River (86 MW), Tono (85 MW), Alderton (76 MW), Midway (56 MW), and Sammamish (46 MW). None are in the Snoqualmie Valley.
+
+Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation that didn't even make its own consultant's initial candidate list.
+
 ## What Jupiter Power has not disclosed
 
 As of March 2026, the following have not been publicly disclosed for the Cascadia Ridge project:

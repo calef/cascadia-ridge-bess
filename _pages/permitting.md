@@ -43,6 +43,8 @@ A DS and full EIS is the strongest outcome for the community. It means independe
 
 The threshold determination has a **21-day public comment period**. This is when residents can argue that a DNS or MDNS is inadequate for a 130 MW lithium-ion facility adjacent to thousands of homes, salmon-bearing streams, and parkland. Comments should be specific and cite environmental impacts the checklist underestimates.
 
+A full EIS requires analysis of alternatives (WAC 197-11-440), including alternative sites. PSE's own [Energy Storage System Location Study](/assets/pse-ess-location-study-2021.pdf) (2021, filed as Exhibit I in UTC Docket UE-210220) screened all ~382 PSE substations and identified 15 recommended ESS locations. Mt. Si was not among them at any stage. The nearest Snoqualmie-area substation was rated high risk and rejected. [See full analysis.](/project#siting-study)
+
 Given the scale and site sensitivity, pushing for a full EIS is the most impactful thing residents can do during the SEPA window. **[Read our guide on how to write an effective SEPA comment](/sepa-comments).**
 
 ## EFSEC opt-in
