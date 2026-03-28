@@ -63,6 +63,21 @@ The Pre-Annexation Development Agreement (PADA, Rec# 20110202001508) is the foun
 - The **Covenant and Grant of Easement** (Exhibit 12, recorded as Rec# 20110429001446) creates perpetual environmental restrictions across all five parcels: a 12.95-acre Vegetation Maintenance Area, a no-disturbance Native Growth Protection Area, 3.85 acres of wetland/stream buffers, and a 5.99-acre Perimeter Buffer (Exhibit C). Amendment requires written consent of both PSE and the City. The covenants run with the land and bind all successors and assigns.
 - The **Wetland Mitigation Plan** (Exhibit 13) references the "Proposed Mount Si Substation Wetland Impact Assessment and Mitigation Plan" prepared by AECOM (October 2009, with February 2010 addendum). A copy is available for review at the City of Snoqualmie Planning Department.
 
+### Construction access constraint {#access-road}
+
+The only road access to the BESS project parcels from a public road runs through the PSE transmission corridor. This access road traverses all five PSE corridor parcels: 9099, 9098, 9102, 9091, and 9030. It is currently used by residents of the Landgraf parcel (9101) and others for routine vehicle access, including to a property with several dozen RVs and a small egg-selling operation.
+
+This existing residential use is lawful. The Covenant's motor vehicle prohibition (Section II) applies only to the 3.85-acre Wetland/Stream Buffer Area, not to the entire corridor. The access road does not cross that designated area.
+
+Industrial construction traffic for a 130 MW BESS is a different question. The PADA and Covenant impose overlapping restrictions on the corridor parcels that the road crosses:
+
+- **Parcels 9098 and 9099** are limited by the PADA (Section 6.10) to transmission line construction. Heavy equipment and materials transport for a battery storage facility is not transmission line construction.
+- **Parcel 9102** is designated a "Future Development Area" requiring a full-scope Annexation Implementation Plan before any development. No AIP has been completed.
+- **The Vegetation Maintenance Area** (12.95 acres across the corridor) requires prior written city approval for any vegetation alteration (Covenant Section III). Construction vehicle traffic on unpaved or marginally improved road surfaces through this area would damage vegetation.
+- **The Dutczak/Landgraf clause** (Covenant Section III, paragraph 9) extends the Covenant's vegetation and environmental protections to PSE's easement on the Landgraf parcel (9101), which the road also crosses.
+
+Jupiter Power cannot route BESS construction traffic through the PSE corridor without addressing each of these restrictions. The City of Snoqualmie is a party to both the PADA and the Covenant, and has standing to enforce their terms by injunction. No public document from Jupiter Power addresses how construction access to the site would work.
+
 | Parcel | Description | Owner | Docs | Key constraints | Details |
 |---|---|---|---|---|---|
 | [3624079030](/parcel-9030/) | PSE property (~5.0 ac) | PSE | 4 | PADA, Covenant, 1969 mineral reservation | [View documents](/parcel-9030/) |
