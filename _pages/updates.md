@@ -16,7 +16,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 
 - Published SEPA comment guide with all 9 checklist elements relevant to this project, guidance on what makes a comment effective, and what to avoid. [How to write a SEPA comment.](/sepa-comments)
 - Contacted opposition groups fighting Jupiter Power's Blackberry Grove project in Hillsboro, OR and the Kingfisher BESS in Covington, WA. Waiting for responses.
-- Valley Record [covered the community opposition](https://www.valleyrecord.com/2026/03/24/trouble-in-snoqualmie-over-proposed-battery-storage-site/), reporting on the March 17 open house and the city's three news releases.
+- Valley Record [covered the community opposition](https://www.valleyrecord.com/2026/03/24/trouble-in-snoqualmie-over-proposed-battery-storage-site/), reporting on the March 17 open house and the city's three news releases. The article was [republished in the Issaquah Reporter](https://www.issaquahreporter.com/2026/03/26/trouble-in-snoqualmie-over-proposed-battery-storage-site/) on March 26.
 
 ## March 23, 2026
 
