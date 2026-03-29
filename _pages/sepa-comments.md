@@ -65,7 +65,7 @@ These are the categories in the Environmental Checklist where this project has p
 Seismic hazard. The Snoqualmie Valley is exposed to three independent earthquake sources. [USGS Fact Sheet 2025-3050](https://doi.org/10.3133/fs20253050) puts the 50-year probability of a M6.5+ earthquake in the Puget Sound at 85% (deep) and 17% (crustal). The Southern Whidbey Island Fault is mapped through the valley. No site-specific seismic hazard assessment has been submitted, and no study exists on utility-scale BESS performance during seismic events. See our [seismic hazard analysis](/site-and-environment#seismic-hazard).
 
 ### B.2 Air
-Hydrogen fluoride emissions from lithium-ion thermal runaway. HF is immediately dangerous to life and health at 30 ppm (NIOSH IDLH). No atmospheric dispersion modeling has been conducted for this site under valley inversion conditions. See our [fire risk analysis](/fire-risk).
+Hydrogen fluoride emissions from lithium-ion thermal runaway. [Larsson et al. (2017)](/assets/larsson-2017-hf-emissions.pdf) measured 20-200 mg of HF per Wh of battery capacity across 39 fire tests. HF is immediately dangerous to life and health at 30 ppm (NIOSH IDLH). No atmospheric dispersion modeling has been conducted for this site under valley inversion conditions. See our [fire risk analysis](/fire-risk).
 
 ### B.3 Water
 Fisher Creek (Type F, fish-bearing) runs through the northwest portion of the primary parcel. Contaminated fire suppression runoff (heavy metals, fluoride compounds) would drain directly into the creek and from there into the Snoqualmie River watershed. See our [site and environment analysis](/site-and-environment).

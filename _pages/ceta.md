@@ -57,6 +57,14 @@ The [Northwest & Intermountain Power Producers Coalition (NIPPC)](https://www.ut
 
 The UTC acknowledged but did not act on these concerns.
 
+### Transparency
+
+PSE designated the Cascadia Ridge tolling agreement as confidential in its entirety under WAC 480-07-160. The executed agreement filed with the UTC is fully redacted. No pricing, payment terms, technical specifications, or battery chemistry requirements are publicly available. The Dry Falls energy storage tolling agreement, the only other BESS agreement filed from this RFP, is also redacted in its entirety.
+
+UTC Commission Staff filed [comments on the 2021 RFP process](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=226&year=2021&docketNumber=210220) on March 20, 2025 that directly addressed this pattern. Staff wrote that "some information that PSE redacted in the IE's final report **does not appear to Staff to be commercially sensitive**" and encouraged PSE to be "*judicious in its redactions* to *ensure meaningful transparency* for customers, interested persons, and the public." NIPPC separately noted in its [March 24 comments](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=228&year=2021&docketNumber=210220) that it could not submit extensive comments because it "does not have access to the confidential information."
+
+The community adjacent to this facility cannot see the contract that governs what is being built next to their homes.
+
 ### Prudence review
 
 The financial lever comes later. When PSE seeks to recover Cascadia Ridge costs in customer rates (in a future general rate case), the UTC will conduct a **prudence review**. Intervenors — including Public Counsel, which represents ratepayers — can challenge whether the agreement was prudent: was it the lowest reasonable cost? Were alternatives adequately considered? Did community opposition, permitting delays, or environmental concerns affect the project's cost or viability?
