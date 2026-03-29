@@ -29,6 +29,15 @@ The industry's preferred number. Doesn't account for facility size.
 | 15 | 4.4% | 1 in 23 |
 | 20 | 5.8% | 1 in 17 |
 
+### With aging (0.5%/yr years 1-10, 1.0%/yr years 11-20)
+
+No utility-scale lithium-ion facility has operated long enough to measure aging-related failure rates. But the degradation mechanisms are well understood: internal resistance increases, dendrites form, thermal stability drops. This scenario models a modest increase in failure rate as the fleet ages.
+
+| Years | Cumulative Probability | Odds |
+|---|---|---|
+| 10 | 4.9% | 1 in 20 |
+| 20 | ~14% | 1 in 7 |
+
 ### Using the per-GW rate for a 130 MW facility
 
 0.3 failures/GW/yr × 0.13 GW = **3.9% annual rate.**
@@ -42,14 +51,18 @@ The industry's preferred number. Doesn't account for facility size.
 
 ### Side by side
 
-| Years | Per-project (0.3%/yr) | Per-GW for 130 MW (3.9%/yr) |
-|---|---|---|
-| 5 | 1.5% | 18.1% |
-| 10 | 3.0% | 32.9% |
-| 15 | 4.4% | 45.0% |
-| 20 | 5.8% | 54.7% |
+| Years | Per-project (0.3%/yr) | With aging | Per-GW for 130 MW (3.9%/yr) |
+|---|---|---|---|
+| 5 | 1.5% | 2.5% | 18.1% |
+| 10 | 3.0% | 4.9% | 32.9% |
+| 15 | 4.4% | 9.3% | 45.0% |
+| 20 | 5.8% | ~14% | 54.7% |
 
-Using the industry's own fire-specific rate, the cumulative probability of at least one fire over a 20-year facility life is approximately 6%. The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. The actual risk for a specific facility is somewhere in this range.
+Using the industry's own fire-specific rate, the cumulative probability of at least one fire over a 20-year facility life is approximately 6%. The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. Accounting for aging pushes the per-project estimate to roughly 14%. The actual risk for a specific facility is somewhere in this range.
+
+### For context
+
+A 100-year flood has an ~18% chance of occurring in any 20-year window. The mid-range BESS fire estimate (6%) and the aging-adjusted estimate (14%) are in the range of risks that jurisdictions routinely plan for and regulate.
 
 ## Why the real number is probably higher
 
@@ -60,6 +73,26 @@ Lithium-ion cells degrade: internal resistance goes up, dendrites form, thermal 
 EPRI's database has about 81 reported incidents with root cause data for roughly a quarter of them. Thermal events that didn't make the news are probably underrepresented. EPRI itself notes it "cannot guarantee that the database captures every relevant BESS failure incident."
 
 Thermal runaway doesn't always stay in one container. It can cascade. Neither metric distinguishes a contained single-container event from a Moss Landing-scale fire that destroyed 55–80% of the facility and evacuated the surrounding community.
+
+## Why the fleet-wide rate applies
+
+No current King County code or state regulation requires a specific battery chemistry. The developer may install NMC, NCA, LFP, or any commercially available lithium-ion chemistry, and may change chemistry during augmentation over the facility's lifetime. Because chemistry is not constrained, risk estimates cannot assume a favorable chemistry. The full fleet-wide incident rate applies.
+
+The developer may reference NFPA 855 or UL 9540A compliance, but these are not mandated under current King County permitting. Compliance is self-reported, not independently audited.
+
+## Who bears the risk
+
+The risk distribution is asymmetric. The developer bears financial risk: insured, tax-advantaged, with limited liability structures. The adjacent residential community bears safety risk: uninsured for BESS-specific hazards, with no control over facility operations, chemistry selection, or maintenance practices. Local fire departments bear response risk: BESS fires require specialized protocols and equipment that may not be available.
+
+Under current regulation, the community has no mechanism to:
+
+- Require a specific battery chemistry
+- Enforce ongoing compliance with voluntary safety standards
+- Compel augmentation with equivalent-safety replacement batteries
+- Prevent chemistry changes over the facility lifetime
+- Mandate independent third-party safety audits
+
+This is why [ordinance amendments](/what-we-are-asking#ordinance-amendments) matter. Voluntary commitments are not enforceable. Code requirements are.
 
 ## For this site
 
