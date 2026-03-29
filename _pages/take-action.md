@@ -38,7 +38,7 @@ Ask them:
 
 ## Write to the Snoqualmie City Council
 
-The site is in the city's Southwest Potential Annexation Area. The City of Snoqualmie has no jurisdiction today, but it has political leverage, annexation authority, and control over the PSE franchise agreement. The city is also a named party to the [Pre-Annexation Development Agreement and Covenant](/recorded-documents) that restrict what the PSE corridor parcels can be used for. Neither potential [construction access route](/recorded-documents/#access-road) to the project site was designed for industrial traffic, and both have legal constraints the city can enforce.
+The site is in the city's Southwest Potential Annexation Area. The City of Snoqualmie has no jurisdiction today, but it has political leverage and control over the PSE franchise agreement. The city is also a named party to the [Pre-Annexation Development Agreement and Covenant](/recorded-documents) that restrict what the PSE corridor parcels can be used for. Neither potential [construction access route](/recorded-documents/#access-road) to the project site was designed for industrial traffic, and both have legal constraints the city can enforce.
 
 Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
 
