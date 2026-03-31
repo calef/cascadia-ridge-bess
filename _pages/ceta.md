@@ -20,7 +20,12 @@ Battery energy storage systems (BESS) fill that gap. They charge when renewables
 
 ## PSE's situation
 
-PSE's 2025 Integrated Resource Plan calls for up to **2.3 million annual MWh** from clean resources by 2030 and up to **1,755 MW of summer peak capacity** by 2029. Meeting those targets requires significant new storage.
+PSE's 2024 RFP sought two things: up to **2.3 million annual MWh** of CETA-eligible clean energy, and up to **1,755 MW of summer peak capacity** and **1,573 MW of winter peak capacity**. These are related but distinct needs:
+
+- **Clean energy (CETA):** Replace fossil generation with renewable sources by the 2030 and 2045 targets. This is the policy-driven requirement.
+- **Peak capacity (reliability):** Have enough generation and storage available to meet demand on the hottest and coldest days of the year. This is a grid reliability requirement that exists regardless of CETA.
+
+Battery storage primarily serves the capacity need. It doesn't generate clean energy; it shifts it in time. PSE needs storage because peak demand exceeds what intermittent renewables can deliver at the moment people need it. That's a grid reliability problem that would exist with or without CETA. CETA constrains what type of resources can fill the gap (they must be clean), but the capacity gap itself is driven by demand growth and the retirement of aging generation.
 
 PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/acquiring-energy/2024-Voluntary-All-Source-RFP) in July 2024 ([UTC Docket UE-240532](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=34&year=2024&docketNumber=240532)) and received 98 proposals. The Cascadia Ridge tolling agreement was one result, signed August 22, 2025 and filed with the UTC on September 19, 2025.
 
