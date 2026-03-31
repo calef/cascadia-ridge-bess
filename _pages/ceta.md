@@ -62,6 +62,23 @@ The [Northwest & Intermountain Power Producers Coalition (NIPPC)](https://www.ut
 
 The UTC acknowledged but did not act on these concerns.
 
+### What PSE actually scored
+
+The evaluation rubric ([Exhibit A.1](https://www.utc.wa.gov/casedocket/2024/240532), filed July 1, 2024) is public. The non-price criteria, worth 50% of the total score, evaluated only project readiness:
+
+| Category | Weight | What it measures |
+|---|---|---|
+| Site Control | 5% | Does the developer control the land? |
+| Permitting and Studies | 15% | Are permits filed? Are environmental studies done? |
+| Interconnection Service | 10% | Is the project in the interconnection queue? |
+| Transmission Service | 20% | Is firm transmission secured? |
+
+Battery chemistry is not in the rubric. Community safety is not in the rubric. Proximity to residential areas, schools, or hospitals is not in the rubric. Consistency with PSE's own [ESS Location Study](/project#siting-study) is not in the rubric.
+
+There is one criterion worth a single point under Permitting: "Project has not received significant opposition from Tribes, interested parties or impacted local landowners." Opposition is treated as a schedule risk to the developer, not as a signal that the site may be wrong.
+
+PSE's evaluation literally did not ask what kind of battery would be installed next to 14,000 residents.
+
 ### Transparency
 
 PSE designated the Cascadia Ridge tolling agreement as confidential in its entirety under WAC 480-07-160. The executed agreement filed with the UTC is fully redacted. No pricing, payment terms, technical specifications, or battery chemistry requirements are publicly available. The Dry Falls energy storage tolling agreement, the only other BESS agreement filed from this RFP, is also redacted in its entirety.
