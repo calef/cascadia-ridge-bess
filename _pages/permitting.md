@@ -45,7 +45,7 @@ The threshold determination has a **21-day public comment period**. This is when
 
 A full EIS requires analysis of alternatives (WAC 197-11-440), including alternative sites. PSE's own [Energy Storage System Location Study](/assets/pse-ess-location-study-2021.pdf) (2021, filed as Exhibit I in UTC Docket UE-210220) screened all ~382 PSE substations and identified 15 recommended ESS locations. Mt. Si had been operational since 2012 but was screened out on the merits. The nearest Snoqualmie-area substation was rated high risk and rejected. [See full analysis.](/project#siting-study)
 
-Given the scale and site sensitivity, pushing for a full EIS is the most impactful thing residents can do during the SEPA window. **[Read our guide on how to write an effective SEPA comment](/sepa-comments).**
+Given the scale and site sensitivity, pushing for a full EIS is the most impactful thing residents can do during the SEPA window. **[Read our guide on how to write an effective SEPA comment](/sepa-comments).** For context on how SEPA has played out at other Washington BESS projects, see [SEPA outcomes for Washington BESS projects](/wa-bess-sepa).
 
 ## EFSEC opt-in
 

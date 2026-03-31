@@ -16,6 +16,8 @@ SEPA (RCW 43.21C) requires government agencies to consider environmental impacts
 
 Public comments during the 21-day window inform that decision. The responsible official must consider them.
 
+**No BESS project in Washington has ever been required to complete a full EIS.** Every project that reached a threshold determination was approved. But the conditions attached to those approvals varied dramatically based on the quality of public comments. [See what happened at other Washington BESS projects.](/wa-bess-sepa)
+
 ## What a good outcome looks like
 
 The core problem is lithium-ion chemistry at this site. Lithium-ion thermal runaway produces hydrogen fluoride gas, requires active cooling (24/7 noise), and creates contamination risks for Fisher Creek and domestic wells. Sodium-ion batteries do the same job with no thermal runaway, passive cooling, and no toxic emission profile. Jupiter Power has already signed a [$500M sodium-ion contract with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. The technology exists. The question is whether the permit process requires it here.
