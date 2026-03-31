@@ -55,6 +55,57 @@ Both findings came with a caveat: Jupiter Power is not the property owner, so th
 
 If SEPA review produces a Determination of Significance, the resulting Environmental Impact Statement would require a complete biological assessment of the site, including species surveys conducted during appropriate seasons. If there is a federal nexus (federal funding, federal permits, or federal land), ESA Section 7 consultation with NOAA Fisheries (for salmon and steelhead) and US Fish and Wildlife Service (for bull trout) could be triggered. No such assessment or consultation has been initiated.
 
+## Private wells and groundwater {#groundwater}
+
+### Recorded well on a project parcel
+
+A [Declaration of Covenant — Private Water Supply](/assets/recorded-documents/3624079100_199810141781_COVENANT.pdf) (Recording #199810141781, October 1998) documents an active domestic well on parcel 3624079100, one of Jupiter Power's five project parcels. The well is located 360 feet east of the west property line and 165 feet south of the north property line.
+
+The covenant establishes a **100-foot exclusion zone** around the well, prohibiting cesspools, sewers, septic tanks, drainfields, storm water facilities, and public roads. Sanitary and abandoned landfills are prohibited within 1,000 feet. The covenant runs with the land and binds all future owners as long as the well supplies potable water.
+
+### Dozens of domestic wells surround the site
+
+The [WA Department of Ecology well log database](https://appswr.ecology.wa.gov/WellConstruction/Map/WCLSWebMap/WellConstructionMapSearch.aspx) shows **58 water wells** in Section 36, T24N, R7E (the section containing the project parcels). The residential area downhill to the southwest has the highest concentration: 31 water wells in the SW quarter alone.
+
+| Quarter Section | Water Wells | Depth Range | Average Depth |
+|---|---|---|---|
+| NW (project area) | 9 | 152-460 ft | 280 ft |
+| NE | 3 | 88-393 ft | 214 ft |
+| SW (downhill residential) | 31 | 23-421 ft | 191 ft |
+| SE | 12 | 59-435 ft | 227 ft |
+
+The nearest well with recorded water level data is on SE 89th Place, close to the project parcels: 255 feet deep with a static water level at 216 feet below ground.
+
+Adjacent property owner Deborah Bellam (8620 356th Ave SE) is on private wells with no city water connection.
+
+### Why this matters
+
+Contaminated runoff from a lithium-ion battery fire (heavy metals, fluoride compounds, electrolyte) could migrate through soil to groundwater. At Moss Landing, researchers estimated 55,000 pounds of toxic metals entered surrounding wetlands, with nickel concentrations in nearby soil spiking to 15 times pre-fire levels. Groundwater contamination from fire suppression water is a documented pathway at BESS fire sites.
+
+No hydrogeologic assessment has been submitted for the Cascadia Ridge project. Groundwater flow direction, aquifer connectivity, and contaminant migration pathways to the surrounding domestic wells are unknown.
+
+### Sumner precedent
+
+When the City of Sumner reviewed a [200 MW BESS with a public water well on the project parcel](/wa-bess-sepa#greenwater), the well drove the three most aggressive MDNS conditions in any Washington BESS project:
+
+1. Site plans must show the well, its protective radius, and all public water infrastructure
+2. Property within the well protective radius must be deeded to the city with security fencing
+3. Hydrogeologic assessment required before development permits
+
+The city stated that even a driveway within the well's sanitary control area was "unacceptable."
+
+Cascadia Ridge has a recorded well covenant on a project parcel, plus dozens of domestic wells in the surrounding area. The factual basis for demanding well protection conditions is at least as strong as Sumner's.
+
+### Historical well logs
+
+Three sets of historical well logs in the Ecology database contain subsurface geology data for the project area that has not been analyzed:
+
+- **AESI wells (1998)** near 372nd Pl SE: four records contemporaneous with the well covenant on parcel 9100, likely related to the same investigation. Three water wells (160-220 ft) and one abandoned (200 ft).
+- **Weyerhaeuser monitoring wells (2000)** in the NW quarter: two resource protection wells (170 ft, 260 ft) and three abandoned wells, drilled during Snoqualmie Ridge development.
+- **Cascadia Ridge soil borings (January 2026)** on parcel 9103: six records filed under "Cascadia Ridge," three shallow borings (16-25 ft) with paired decommissioning records. These are geotechnical borings, not groundwater exploration. No water level data was recorded.
+
+The actual driller's logs (which describe soil layers, water-bearing zones, and aquifer characteristics) are available as scanned documents through the [Ecology well report viewer](https://appswr.ecology.wa.gov/WellConstruction/Map/WCLSWebMap/WellConstructionMapSearch.aspx). Navigate to Section 36, T24N, R7E to access them.
+
 ## Seismic hazard
 
 The Snoqualmie Valley sits in one of the most seismically active regions in the continental United States. Three independent earthquake sources threaten this site:
