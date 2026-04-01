@@ -4,6 +4,12 @@ title: "Updates"
 
 What we've published, who we've contacted, and what's happened. Most recent first.
 
+## April 1, 2026 {#april-1-2026}
+
+- **Jupiter Power responded.** After three emails and two weeks of silence, Colby Mask (Cascadia Ridge Resiliency Team) replied to our 16 questions. Jupiter answered one question (fire risk) with generic fire code compliance language and deferred the remaining 15 to "the final application materials." The response included an important admission: battery chemistry "has not yet been selected" but is expected to be **"lithium ion (LFP) or sodium ion."** This is the first time Jupiter Power has acknowledged sodium-ion as a possibility for this project in writing.
+- Jupiter Power confirmed they have met with the King County Fire Marshal, Eastside Fire District, and Snoqualmie Fire Department. We have been in contact with all three agencies.
+- Jupiter Power committed that "all project design, environmental diligence studies, and decommissioning plans will be made public during the SEPA checklist review."
+
 ## March 28, 2026
 
 - Published analysis of PSE's own ESS siting study (Power Systems Consultants, 2021). PSE screened all 382 substations in their system and identified 15 recommended ESS locations. Mt. Si had been operational since 2012 but was screened out on the merits. The nearest Snoqualmie-area substation was rated high risk and rejected. The study's siting criteria explicitly flag residential proximity, schools, and hospitals as making a location "less desirable." [Full analysis.](/project#siting-study) [Full study (PDF).](/assets/pse-ess-location-study-2021.pdf)
@@ -38,7 +44,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 
 ## March 13, 2026
 
-- Sent 11 questions to Jupiter Power (Gage Fuller, cascadiaridge@jupiterpower.io) about battery chemistry, setbacks, fire suppression, noise, decommissioning, and environmental monitoring. No response.
+- Sent 11 questions to Jupiter Power (Gage Fuller, cascadiaridge@jupiterpower.io) about battery chemistry, setbacks, fire suppression, noise, decommissioning, and environmental monitoring. Jupiter Power responded on April 1 with a partial answer to one question (fire risk) and deferred the remaining 15 to "the final application materials." See [April 1 update](#april-1-2026).
 - Sent letter to Councilmember Sarah Perry about public records access for the Critical Areas Designation. Perry's office escalated to the Department of Local Services. King County delivered the CAD report the same day (2-hour turnaround).
 - Critical Areas Designation (CADS25-0076) confirmed: Fisher Creek (fish-bearing) runs through the parcel, Category III wetland with 150-ft buffer, steep slope hazard, unmapped floodplain. King County classified the project as high-impact. [Site and environment.](/site-and-environment)
 - Notified the Snoqualmie Indian Tribe about the proposed facility near their land in the Snoqualmie Valley. No response.
