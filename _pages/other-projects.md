@@ -87,7 +87,7 @@ After increasing setbacks from 300 to 500 feet, the city's own suitability analy
 
 The result: lithium-ion is banned, the recommended alternative is impractical, and the only eligible site has already been rejected. That's a de facto ban, not a technology standard.
 
-**Our position is different.** We support building grid storage at this site. We're asking Jupiter Power to use the safer chemistry they're already investing in. Vacaville shows that chemistry-specific regulation can survive a council vote. What it doesn't show is how to do it in a way that actually allows storage to get built.
+**Our position is different.** The electrical interconnection at Mt. Si makes sense, but PSE's own siting consultant [screened it out](/project#siting-study) because of what surrounds it. With safer chemistry, the site becomes viable. We're asking Jupiter Power to use the sodium-ion technology they're already investing in. Vacaville shows that chemistry-specific regulation can survive a council vote. What it doesn't show is how to do it in a way that actually allows storage to get built.
 
 Note: multiple BESS projects are advancing through California's AB 205 alternate permitting pathway at the state level, which could override local restrictions. Washington's equivalent is EFSEC.
 
