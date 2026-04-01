@@ -103,6 +103,6 @@ This matters because the debate isn't whether to build storage. Storage is inevi
 
 ## Our position
 
-We support grid storage. It's needed for CETA compliance, and it makes economic sense. The Mt. Si substation next to the Cascadia Ridge site is a real interconnection point, but PSE's own [siting consultant screened it out](/project#siting-study) because of residential proximity, schools, and constrained land use. With safer chemistry, those concerns shrink. With lithium-ion, they don't. The question isn't whether to build storage. It's what kind of battery to put next to 14,000 residents.
+We support grid storage. It's needed for CETA compliance, and it makes economic sense. The Mt. Si substation next to the Cascadia Ridge site is a real interconnection point, but PSE's own [siting consultant screened it out](/project#siting-study) because of residential proximity, schools, and constrained land use. With a chemistry that eliminates thermal runaway and doesn't require active cooling, those concerns shrink. With lithium-ion, they don't. The question isn't whether to build storage. It's what kind of battery to put next to 14,000 residents.
 
 [What we're asking for](/what-we-are-asking) · [Battery technology](/battery-technology)
