@@ -68,7 +68,7 @@ A 100-year flood has an ~18% chance of occurring in any 20-year window. The mid-
 
 Almost no utility-scale lithium-ion BESS has been running 10 years. Nobody knows what failure rates look like for aged systems.
 
-Lithium-ion cells degrade: internal resistance goes up, dendrites form, thermal stability drops. These are well-understood mechanisms. The failure rate for a 15-year-old facility will not be the same as for a new one.
+Lithium-ion cells degrade: internal resistance goes up, dendrites form, thermal stability drops. These are well-understood mechanisms. The failure rate for a 20-year-old facility will not be the same as for a new one.
 
 EPRI's database has about 81 reported incidents with root cause data for roughly a quarter of them. Thermal events that didn't make the news are probably underrepresented. EPRI itself notes it "cannot guarantee that the database captures every relevant BESS failure incident."
 
@@ -98,9 +98,9 @@ This is why [ordinance amendments](/what-we-are-asking#ordinance-amendments) mat
 
 This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to fish-bearing streams that feed into the Snoqualmie River where ESA-listed Chinook salmon, steelhead, and bull trout are present, in a ridge-bounded valley where inversions trap smoke close to the ground.
 
-| Chemistry | Thermal Runaway? | 15-year risk range |
+| Chemistry | Thermal Runaway? | 20-year risk range |
 |---|---|---|
-| Lithium-ion (NMC/LFP) | Yes | 4.4%–45.0% |
+| Lithium-ion (NMC/LFP) | Yes | 5.8%–54.7% |
 | Sodium-ion (Peak Energy NFPP) | None in abuse testing | ~0% from this cause |
 
 Sodium-ion batteries have significantly higher thermal stability than lithium-ion. Peak Energy's NFPP chemistry, which Jupiter Power has contracted for other projects, has shown no thermal runaway in nail penetration, crush, overcharge, and saw testing. [Peer-reviewed research](https://www.mdpi.com/2313-0105/10/10/370) confirms that sodium-ion as a class has higher thermal runaway onset temperatures and lower pressure buildup than lithium-ion, though the degree of improvement varies by chemistry.

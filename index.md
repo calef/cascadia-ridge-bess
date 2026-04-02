@@ -13,7 +13,7 @@ PSE needs grid storage for [CETA](/ceta) compliance, and the Mt. Si substation n
 
 ## Key facts
 
-**Fire risk.** EPRI tracks two failure metrics for lithium-ion BESS. Their per-project rate (0.3%/yr) puts the 15-year compound probability at **1 in 23 (4.4%)**. Their per-GW rate, which accounts for facility size, puts a 130 MW facility at **3.9% per year, compounding to 45% over 15 years.** [Full analysis.](/fire-risk)
+**Fire risk.** EPRI tracks two failure metrics for lithium-ion BESS. Their per-project rate (0.3%/yr) puts the 20-year compound probability at **roughly 6%**. Their per-GW rate, which accounts for facility size, puts a 130 MW facility at **3.9% per year, compounding to 55% over 20 years.** [Full analysis.](/fire-risk)
 
 **Site.** Adjacent to thousands of homes on Snoqualmie Ridge. Fisher Creek (salmon habitat) runs through the parcel with a floodplain less than 10 vertical feet below the development area. Ridge-bounded valley where temperature inversions can hold smoke close to the ground. [Site details.](/site-and-environment)
 
