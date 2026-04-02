@@ -41,7 +41,7 @@ King County then issues a **threshold determination**:
 
 A DS and full EIS is the strongest outcome for the community. It means independent analysis of fire risk, toxic emissions, noise, traffic, stormwater, habitat impacts, and cumulative effects. It also means additional public comment periods (21 days for scoping, 30 days for the draft EIS).
 
-The threshold determination has a **21-day public comment period**. This is when residents can argue that a DNS or MDNS is inadequate for a 130 MW lithium-ion facility adjacent to thousands of homes, salmon-bearing streams, and parkland. Comments should be specific and cite environmental impacts the checklist underestimates.
+The threshold determination has a **21-day public comment period**. This is when residents can argue that a DNS or MDNS is inadequate for a 130 MW lithium-ion facility adjacent to thousands of homes, fish-bearing streams connected to a salmon-bearing watershed, and parkland. Comments should be specific and cite environmental impacts the checklist underestimates.
 
 A full EIS requires analysis of alternatives (WAC 197-11-440), including alternative sites. PSE's own [Energy Storage System Location Study](/assets/pse-ess-location-study-2021.pdf) (2021, filed as Exhibit I in UTC Docket UE-210220) screened all ~382 PSE substations and identified 15 recommended ESS locations. Mt. Si had been operational since 2012 but was screened out on the merits. The nearest Snoqualmie-area substation was rated high risk and rejected. [See full analysis.](/project#siting-study)
 
@@ -60,7 +60,7 @@ Jupiter Power's current language ("county permit application") suggests they int
 
 ## Governance gap
 
-The City of Snoqualmie has no authority over this project even though Snoqualmie Valley residents, on the Ridge and in the surrounding unincorporated area, are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan would apply instead of King County's.
+The City of Snoqualmie has no permitting authority over this project, even though Snoqualmie Valley residents, on the Ridge and in the surrounding unincorporated area, are the most directly affected. The city does have other leverage: it controls the PSE franchise agreement, is a party to development agreements on adjacent PSE corridor parcels, and can formally participate in the SEPA review. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan would apply instead of King County's.
 
 The city's own [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/1070/Snoqualmie-Comprehensive-Plan-2044), adopted unanimously by City Council on December 9, 2024, includes policies that were designed to prevent exactly this situation:
 
@@ -68,6 +68,6 @@ The city's own [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/107
 - **Policy LU-3.1:** "Enter into interlocal agreements with King County for annexations when feasible, including the application of contingent zoning to potential annexation areas."
 - **Policy ED-3.9:** "Preserve the Master Planned Business Park land use designation, focused on office, research and development, and light manufacturing/industrial uses, within the City's potential annexation area (PAA)."
 
-The Planning Commission developed these policies during the 2023 comp plan update, forwarded them to City Council, and Council adopted them. As of March 2026, no interlocal annexation agreement with King County is in place and no contingent zoning has been applied to the PAA. The comp plan envisions this land as a business park. King County zones it UR (Urban Reserve), where industrial battery storage is a permitted use. Jupiter Power is expected to file a new permit application with King County, and the city will have no authority over the decision.
+The Planning Commission developed these policies during the 2023 comp plan update, forwarded them to City Council, and Council adopted them. As of March 2026, no interlocal annexation agreement with King County is in place and no contingent zoning has been applied to the PAA. The comp plan envisions this land as a business park. King County zones it UR (Urban Reserve), where industrial battery storage is a permitted use. Jupiter Power is expected to file a new permit application with King County, and the city will have no role in the permitting decision.
 
 Three other King County cities (Covington, Enumclaw, Black Diamond) have passed BESS moratoriums. See [other BESS projects in King County](/other-projects) for context on what happened near Covington.

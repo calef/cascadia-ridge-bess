@@ -32,7 +32,7 @@ Stalled. The King County application appears inactive. The Army Corps wetland ap
 
 ### Parallels to Cascadia Ridge
 
-Both projects are in unincorporated King County where the adjacent city has no direct authority over permitting. Both involve salmon-bearing waterways with tribal significance. Both fall under Councilmember Perry's Ordinance 19824.
+Both projects are in unincorporated King County where the adjacent city has no permitting authority. Both involve waterways connected to salmon-bearing watersheds with tribal significance. Both fall under Councilmember Perry's Ordinance 19824.
 
 Key differences: Kingfisher is adjacent to a middle school with ~900 students. Cascadia Ridge is larger (45 acres / 130 MW vs. 14.1 acres). Covington passed a moratorium within its city limits. Snoqualmie has not. Ordinance 19824 was drafted partly in response to Kingfisher. Cascadia Ridge is one of the first projects to move through it.
 

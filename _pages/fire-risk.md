@@ -96,7 +96,7 @@ This is why [ordinance amendments](/what-we-are-asking#ordinance-amendments) mat
 
 ## For this site
 
-This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to salmon-bearing streams that feed the Snoqualmie River, in a ridge-bounded valley where inversions trap smoke close to the ground.
+This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to fish-bearing streams that feed into the Snoqualmie River where ESA-listed Chinook salmon, steelhead, and bull trout are present, in a ridge-bounded valley where inversions trap smoke close to the ground.
 
 | Chemistry | Thermal Runaway? | 15-year risk range |
 |---|---|---|

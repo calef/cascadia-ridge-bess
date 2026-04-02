@@ -26,7 +26,7 @@ The proposed facility would use **lithium-ion batteries**. Community concerns in
 - **Toxic emissions:** Lithium-ion battery fires produce hydrogen fluoride, heavy metals, and other hazardous compounds. [Larsson et al. (2017)](/assets/larsson-2017-hf-emissions.pdf) measured 20-200 mg of HF per Wh of capacity; scaled to Cascadia Ridge, even a fire involving 1% of the facility could produce over a metric ton of HF. The site is adjacent to Fisher Creek, which flows into the Snoqualmie River and supports ESA-listed salmon and steelhead, and surrounded by thousands of homes and dozens of private wells.
 - **Noise:** Lithium-ion systems require active cooling: fans and HVAC running around the clock.
 - **Battery chemistry:** Jupiter Power has signed a [$500M sodium-ion deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. Peak Energy's NFPP chemistry has shown no thermal runaway in abuse testing and uses passive cooling. Sodium-ion grid storage is already commercially available and deployed in the US.
-- **Proximity** to neighborhoods, parks, schools, private wells, and salmon-bearing streams.
+- **Proximity** to neighborhoods, parks, schools, private wells, and fish-bearing streams connected to the Snoqualmie River salmon watershed.
 - **Land use:** Snoqualmie's Comprehensive Plan designates this land for business park and mixed use, not industrial battery storage.
 
 ## Who will decide whether the proposed BESS project will be approved? {#who-decides}
