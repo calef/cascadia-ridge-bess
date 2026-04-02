@@ -64,6 +64,22 @@ Ask them to:
 - **Evaluate emergency preparedness** for a lithium-ion battery fire during school hours. If hydrogen fluoride is produced, what is the protocol for students and staff? Can school HVAC systems switch to recirculation-only mode? If shelter-in-place isn't viable, what are the evacuation options?
 - **Review the Kent School District's response** to the Kingfisher BESS proposal near Mattson Middle School. The Kent board passed a formal resolution opposing the project on student safety grounds.
 
+## Write to local fire agencies
+
+Three fire agencies cover this area. Jupiter Power has confirmed it is coordinating with all three on emergency response planning. These agencies can formally participate in the SEPA process and advocate for safety conditions as part of the environmental review.
+
+**King County Fire Marshal** Eric Urban: [eric.urban@kingcounty.gov](mailto:eric.urban@kingcounty.gov)
+
+**Eastside Fire & Rescue** Chief Willie Aho: [waho@esf-r.org](mailto:waho@esf-r.org)
+
+**City of Snoqualmie Fire Department** Chief Mike Bailey: [mbailey@snoqualmiewa.gov](mailto:mbailey@snoqualmiewa.gov)
+
+Ask them to:
+
+- **Formally participate in the SEPA review** when Jupiter Power refiles. Comments from fire agencies on emergency response gaps carry significant weight.
+- **Evaluate whether existing mutual aid agreements** are adequate for a multi-day lithium-ion battery fire producing hydrogen fluoride adjacent to a residential community.
+- **Assess fire suppression water supply.** The project parcels have no municipal water connection, no fire hydrants, and no water mains. What standard should apply for on-site fire suppression water storage?
+
 ## Comment during SEPA review
 
 When Jupiter Power refiles their permit, King County will open a 21-day public comment window. This is the primary formal opportunity for public input. The comments submitted during that period form the legal record. If an issue isn't raised during SEPA comments, it cannot be raised later in an appeal. We'll send an alert when the window opens.
