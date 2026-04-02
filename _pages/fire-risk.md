@@ -96,7 +96,7 @@ This is why [ordinance amendments](/what-we-are-asking#ordinance-amendments) mat
 
 ## For this site
 
-This facility would be adjacent to thousands of homes, next to salmon-bearing streams, in a ridge-bounded valley where inversions trap smoke, with two ways out of the neighborhood.
+This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to salmon-bearing streams that feed the Snoqualmie River, in a ridge-bounded valley where inversions trap smoke close to the ground.
 
 | Chemistry | Thermal Runaway? | 15-year risk range |
 |---|---|---|
@@ -183,6 +183,6 @@ The City of Snoqualmie's own [Comprehensive Emergency Management Plan (ESF #16, 
 - Private ambulance services **would not be available** to Snoqualmie due to commitments to higher-population areas like Seattle.
 - School buses and Metro buses are in the city but **may not have staffing to operate them** during an evacuation.
 
-The plan lists trigger events: earthquakes, mudslides, floods, volcanic activity, fires, dam failure, terrorism. It does not contemplate an **industrial toxic release** from a battery storage facility. The plan predates Ordinance 19824 by seven years. No BESS-specific evacuation scenario has been studied for this community.
+The plan lists trigger events: earthquakes, mudslides, floods, volcanic activity, fires, dam failure, terrorism. It does not contemplate an **industrial toxic release** from a battery storage facility. The plan predates Ordinance 19824 by seven years. No BESS-specific evacuation scenario has been studied for the Snoqualmie Valley.
 
-The population numbers in the plan (11,000+ residents, 3,200 students, plus thousands of casino and hotel visitors) are from 2017. Snoqualmie Ridge has grown since then.
+The population numbers in the plan (11,000+ residents, 3,200 students, plus thousands of casino and hotel visitors) are from 2017. The Snoqualmie Valley has grown since then.

@@ -76,13 +76,13 @@ Fisher Creek (Type F, fish-bearing) runs through the northwest portion of the pr
 ESA-listed Chinook salmon (threatened, 1999), steelhead (threatened, 2007), and bull trout (threatened, 1999) are present in the Snoqualmie River downstream of Fisher Creek. The Critical Areas Designation identified potential Vaux's swift nesting habitat and western toad on the site.
 
 ### B.7 Environmental health
-Toxic gas exposure risk to the adjacent residential population (15,000+). Hospital preparedness: Snoqualmie Valley Hospital is approximately 1.2 miles from the site and is a critical access hospital without HazMat capability. Evacuation capacity: the City of Snoqualmie's ESF #16 plan does not contemplate an industrial toxic release.
+Toxic gas exposure risk to the Snoqualmie Valley population (15,000+). Hospital preparedness: Snoqualmie Valley Hospital is approximately 1.2 miles from the site and is a critical access hospital without HazMat capability. Evacuation capacity: the City of Snoqualmie's ESF #16 plan does not contemplate an industrial toxic release.
 
 ### B.8 Land use
 The site is in the City of Snoqualmie's Southwest Potential Annexation Area. The city's Comprehensive Plan designates this land for "master-planned business park" and "innovative mixed use." King County's UR zoning allows BESS as a permitted use, but the SEPA checklist asks whether the proposal is consistent with existing land use plans.
 
 ### B.14 Transportation
-Evacuation route capacity during a toxic release. Snoqualmie Ridge has two primary evacuation routes (Snoqualmie Parkway and SR-18). Construction traffic impacts on residential streets.
+Evacuation route capacity during a toxic release. The Snoqualmie Valley has limited evacuation routes, and Snoqualmie Ridge (the closest residential area) has two primary options: Snoqualmie Parkway and SR-18. Construction traffic impacts on residential streets.
 
 ### B.15 Public services
 Fire district capacity: King County Fire Protection District No. 38. No tabletop exercise has been conducted. No mutual aid agreements have been disclosed. The district would need specialized HazMat capability it may not currently have.

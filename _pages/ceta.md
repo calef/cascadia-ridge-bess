@@ -77,7 +77,7 @@ Battery chemistry is not in the rubric. Community safety is not in the rubric. P
 
 There is one criterion worth a single point under Permitting: "Project has not received significant opposition from Tribes, interested parties or impacted local landowners." Opposition is treated as a schedule risk to the developer, not as a signal that the site may be wrong.
 
-PSE's evaluation literally did not ask what kind of battery would be installed next to more than 11,000 residents.
+PSE's evaluation literally did not ask what kind of battery would be installed in the middle of the Snoqualmie Valley, adjacent to more than 11,000 residents.
 
 ### Transparency
 
@@ -103,6 +103,6 @@ This matters because the debate isn't whether to build storage. Storage is inevi
 
 ## Our position
 
-We support grid storage. It's needed for CETA compliance, and it makes economic sense. The Mt. Si substation next to the Cascadia Ridge site is a real interconnection point, but PSE's own [siting consultant screened it out](/project#siting-study) on electrical criteria before community factors were even evaluated. The study's "Good Neighbor" test separately flagged residential areas, schools, and hospitals as making a location less desirable. With a chemistry that eliminates thermal runaway and doesn't require active cooling, those concerns shrink. With lithium-ion, they don't. The question isn't whether to build storage. It's what kind of battery to put next to more than 11,000 residents.
+We support grid storage. It's needed for CETA compliance, and it makes economic sense. The Mt. Si substation next to the Cascadia Ridge site is a real interconnection point, but PSE's own [siting consultant screened it out](/project#siting-study) on electrical criteria before community factors were even evaluated. The study's "Good Neighbor" test separately flagged residential areas, schools, and hospitals as making a location less desirable. With a chemistry that eliminates thermal runaway and doesn't require active cooling, those concerns shrink. With lithium-ion, they don't. The question isn't whether to build storage. It's what kind of battery to put in the Snoqualmie Valley, adjacent to more than 11,000 residents.
 
 [What we're asking for](/what-we-are-asking) · [Battery technology](/battery-technology)
