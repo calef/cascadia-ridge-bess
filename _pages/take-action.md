@@ -26,7 +26,7 @@ Ask them to amend Ordinance 19824 to:
 
 PSE selected this project and this developer. Their [own 2021 siting study](/project#siting-study) screened all 382 substations and identified 15 recommended locations for energy storage. Mt. Si was not one of them. It didn't even make the initial cut of 36 stations that received detailed analysis. The study's criteria explicitly flag residential areas, schools, and hospitals as making a location less desirable. Four years later, PSE signed a tolling agreement for a 130 MW facility at the location their own consultant rejected.
 
-The tolling agreement is confidential in its entirety. The UTC's own staff [criticized PSE for over-redacting](/ceta#transparency), writing that some information "does not appear to Staff to be commercially sensitive."
+The tolling agreement is confidential in its entirety. UTC Commission Staff [criticized PSE's redaction pattern in an earlier procurement](/ceta#transparency), writing that some information PSE redacted "does not appear to Staff to be commercially sensitive." PSE is applying the same approach to the Cascadia Ridge contract.
 
 Email: [communityengagement@pse.com](mailto:communityengagement@pse.com)
 
