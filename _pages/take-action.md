@@ -75,6 +75,18 @@ Ask them to:
 - **Evaluate emergency preparedness** for a battery fire during school hours. If hydrogen fluoride is produced, what is the protocol for students and staff? Can school HVAC systems switch to recirculation mode? What are the evacuation options?
 - **Review the Kent School District's response** to a similar proposal near Mattson Middle School. The Kent board passed a formal resolution opposing that project on student safety grounds.
 
+### Write to Snoqualmie Valley Hospital
+
+Snoqualmie Valley Hospital is the closest emergency facility to the project site. Hydrogen fluoride exposure causes deep tissue burns and pulmonary edema that require specialized treatment. The hospital would receive casualties from an HF release event.
+
+Email Ken Rudberg (Director of Quality, Risk & Compliance): [kenr@snoqualmiehospital.org](mailto:kenr@snoqualmiehospital.org)
+
+Ask them to:
+
+- **Participate in the SEPA review** when Jupiter Power refiles. A comment from the local hospital on patient safety and emergency capacity carries institutional weight.
+- **Evaluate whether the hospital can treat mass hydrogen fluoride exposure.** HF requires calcium gluconate and specialized decontamination protocols. Does the hospital stock these? How many patients can it handle simultaneously?
+- **Update the hospital's emergency operations plan** to include an industrial toxic release scenario from the adjacent BESS facility.
+
 ### Write to local fire agencies
 
 Three fire agencies cover this area. Jupiter Power has confirmed it is coordinating with all three on emergency response planning. These agencies can formally participate in the SEPA process and advocate for safety conditions.
