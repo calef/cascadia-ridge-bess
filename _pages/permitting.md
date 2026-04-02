@@ -60,7 +60,7 @@ Jupiter Power's current language ("county permit application") suggests they int
 
 ## Governance gap
 
-The City of Snoqualmie has no authority over this project even though Snoqualmie Ridge residents are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan would apply instead of King County's.
+The City of Snoqualmie has no authority over this project even though Snoqualmie Valley residents, on the Ridge and in the surrounding unincorporated area, are the most directly affected. The site sits in the city's **Southwest Potential Annexation Area**. If annexed, the city's Comprehensive Plan would apply instead of King County's.
 
 The city's own [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/1070/Snoqualmie-Comprehensive-Plan-2044), adopted unanimously by City Council on December 9, 2024, includes policies that were designed to prevent exactly this situation:
 

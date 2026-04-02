@@ -87,6 +87,14 @@ Ask them to:
 - **Evaluate whether the hospital can treat mass hydrogen fluoride exposure.** HF requires calcium gluconate and specialized decontamination protocols. Does the hospital stock these? How many patients can it handle simultaneously?
 - **Update the hospital's emergency operations plan** to include an industrial toxic release scenario from the adjacent BESS facility.
 
+### If you're on a private well
+
+The project site is surrounded by dozens of private domestic wells, with the highest concentration in the unincorporated residential area downhill to the southwest (31 water wells in that quarter section alone). The City of Snoqualmie also draws its municipal water from valley groundwater wells. Contaminated firefighting runoff from a lithium-ion battery fire (heavy metals, fluoride compounds, electrolyte) could migrate through soil to groundwater. No hydrogeologic assessment has been submitted for this project.
+
+If you're on a private well near the project site, you have a direct stake in the SEPA review. Your comment about groundwater risk carries weight that a general safety concern does not. See our [groundwater analysis](/site-and-environment#groundwater) for the data, including well locations, depth ranges, and the Sumner precedent where a public water well on a BESS project parcel triggered the strongest groundwater conditions in any Washington BESS project.
+
+When the SEPA comment window opens, submit a comment identifying your well and asking King County to require a hydrogeologic assessment before issuing a development permit. In the meantime, writing to King County Councilmember Sarah Perry (above) about the need for groundwater protections in the BESS ordinance helps build the case.
+
 ### Write to local fire agencies
 
 Three fire agencies cover this area. Jupiter Power has confirmed it is coordinating with all three on emergency response planning. These agencies can formally participate in the SEPA process and advocate for safety conditions.

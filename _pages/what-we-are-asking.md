@@ -22,7 +22,7 @@ Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day
 
 ## Evacuation plan
 
-The City of Snoqualmie's ESF #16 Evacuation Plan (November 2017) does not contemplate an industrial toxic release from an adjacent facility. Its listed trigger events are earthquakes, floods, mudslides, dam failure, and terrorism. The plan acknowledges limited police staffing for large-scale evacuations and dependence on infrastructure the city doesn't control. Snoqualmie Ridge has two primary evacuation routes. Has anyone evaluated whether the existing evacuation infrastructure can handle a toxic release from a 130 MW lithium-ion facility 1,500 feet from this community?
+The City of Snoqualmie's ESF #16 Evacuation Plan (November 2017) does not contemplate an industrial toxic release from an adjacent facility. Its listed trigger events are earthquakes, floods, mudslides, dam failure, and terrorism. The plan acknowledges limited police staffing for large-scale evacuations and dependence on infrastructure the city doesn't control. Snoqualmie Ridge has two primary evacuation routes, and unincorporated residents downhill of the site have even fewer options. A toxic plume trapped by a valley inversion would not stop at municipal boundaries. Has anyone evaluated whether the existing evacuation infrastructure can handle a toxic release from a 130 MW lithium-ion facility in the middle of this valley?
 
 ## Why the code matters more than promises
 

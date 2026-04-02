@@ -172,7 +172,7 @@ Peak Energy's sodium-ion cells have been [nail-penetrated, crushed, and sawed](/
 
 ## Evacuation
 
-Snoqualmie Ridge has two primary egress routes: Snoqualmie Parkway and SR-18. Moss Landing evacuated 1,200 to 1,500 people from a smaller community with more ways out. Snoqualmie Ridge is bigger.
+The Snoqualmie Valley has limited evacuation options. Snoqualmie Ridge, the closest residential area, has two primary egress routes: Snoqualmie Parkway and SR-18. Residents in unincorporated areas downhill of the site have even fewer options. Moss Landing evacuated 1,200 to 1,500 people from a smaller community with more ways out. The affected population here is larger and the routes are more constrained.
 
 The City of Snoqualmie's own [Comprehensive Emergency Management Plan (ESF #16, November 2017)](https://www.snoqualmiewa.gov/DocumentCenter/View/17031/ESF-16---Evacuation-PDF) identifies several constraints:
 
