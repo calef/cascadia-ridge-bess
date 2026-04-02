@@ -30,7 +30,7 @@ At the March 23 council meeting, roughly two-thirds of the concerns raised by sp
 
 So why not just ask Jupiter Power to use sodium-ion?
 
-Because there is no enforcement mechanism for a voluntary commitment. What a developer says at an open house or writes on a website is not a permit condition. The PSE tolling agreement specifies lithium-ion. Under current regulation, the community has no mechanism to:
+Because there is no enforcement mechanism for a voluntary commitment. What a developer says at an open house or writes on a website is not a permit condition. PSE's RFP categorized every battery storage proposal as "Battery Li-ion 4hr," and the tolling agreement is fully redacted, so the actual contract requirements are unknown. Under current regulation, the community has no mechanism to:
 
 - Require a specific battery chemistry
 - Enforce ongoing compliance with voluntary safety standards
