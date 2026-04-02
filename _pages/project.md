@@ -66,7 +66,7 @@ Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si
 
 As of March 2026, the following have not been publicly disclosed for the Cascadia Ridge project:
 
-- **Battery chemistry.** LFP or NMC? This is the single most important safety variable. It determines thermal runaway risk, toxic emission profile, and whether active cooling (and its 24/7 noise) is required. Jupiter Power's 16-page open house handout does not mention lithium-ion once. Staff told attendees the chemistry "hadn't been decided." The PSE tolling agreement (UTC Docket UE-240532, August 2025) specifies lithium-ion.
+- **Battery chemistry.** LFP or NMC? This is the single most important safety variable. It determines thermal runaway risk, toxic emission profile, and whether active cooling (and its 24/7 noise) is required. Jupiter Power's 16-page open house handout does not mention lithium-ion once. Staff told attendees the chemistry "hadn't been decided." The PSE tolling agreement (executed August 2025, filed with the UTC in September 2025 under Docket UE-240532) specifies lithium-ion.
 - **Fire suppression system type.** Water, aerosol, hybrid? The Moss Landing fire began after a suppression system failed.
 - **Setback distances** from property lines and the nearest residences on Snoqualmie Ridge.
 - **Deflagration venting design.** The McMicken explosion in Arizona occurred when flammable gas accumulated in an unvented container.
