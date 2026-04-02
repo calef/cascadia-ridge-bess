@@ -27,7 +27,7 @@ PSE's 2024 RFP sought two things: up to **2.3 million annual MWh** of CETA-eligi
 
 Battery storage primarily serves the capacity need. It doesn't generate clean energy; it shifts it in time. PSE needs storage because peak demand exceeds what intermittent renewables can deliver at the moment people need it. That's a grid reliability problem that would exist with or without CETA. CETA constrains what type of resources can fill the gap (they must be clean), but the capacity gap itself is driven by demand growth and the retirement of aging generation.
 
-PSE ran a voluntary [All-Source RFP](https://www.pse.com/en/pages/energy-supply/acquiring-energy/2024-Voluntary-All-Source-RFP) in July 2024 ([UTC Docket UE-240532](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=34&year=2024&docketNumber=240532)) and received 98 proposals. The Cascadia Ridge tolling agreement was one result, signed August 22, 2025 and filed with the UTC on September 19, 2025.
+PSE ran a voluntary [All-Source RFP](/assets/pse-2024-rfp-cover-letter.pdf) in July 2024 ([UTC Docket UE-240532](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=34&year=2024&docketNumber=240532)) and received 98 proposals. The Cascadia Ridge tolling agreement was one result, signed August 22, 2025 and filed with the UTC on September 19, 2025.
 
 ## What PSE was offered
 
