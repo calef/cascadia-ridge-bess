@@ -55,7 +55,7 @@ Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
 
 Ask them to:
 
-- **Pass a moratorium** on utility-scale battery chemistries with thermal runaway risk within city limits, and **send a letter to King County** requesting the same standard for unincorporated areas where this project is sited. Three other King County cities (Covington, Enumclaw, Black Diamond) have already passed BESS moratoriums.
+- **Pass a moratorium** on utility-scale battery chemistries with thermal runaway risk within city limits, and **send a letter to King County** requesting the same standard for unincorporated areas where this project is sited. Three other King County cities (Covington, Enumclaw, Black Diamond) have already passed total BESS moratoriums.
 - **Enforce the existing development agreement restrictions** on the PSE corridor parcels. Construction traffic for the BESS project is not authorized under those agreements, and the city has standing to say so.
 - **Direct staff to formally participate in the SEPA review** when Jupiter Power refiles.
 - **Evaluate whether the city should annex the project parcels.** The [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/1070/Snoqualmie-Comprehensive-Plan-2044) designates this land for business park and mixed use, not industrial battery storage. Annexation would make that designation enforceable.
