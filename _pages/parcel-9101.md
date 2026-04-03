@@ -8,7 +8,6 @@ description: "Recorded documents for parcel 3624079101, the Landgraf residential
 ## Parcel 3624079101 — Landgraf residential property (~5.0 ac) {#parcel-9101}
 
 **Owner:** Heather Landgraf (single person, as of Jan 2025 divorce transfer)
-**Address:** 35717 SE 82nd Street, Snoqualmie WA 98065
 **Zoning:** UR
 **Legal:** Lot 1, KC Short Plat 675002
 **Documents found:** 16
