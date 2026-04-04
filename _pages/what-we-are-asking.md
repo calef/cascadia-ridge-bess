@@ -18,7 +18,7 @@ The facility won't be operational until late 2028. Sodium-ion will be commercial
 
 ## Noise
 
-Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day, 7 days a week, for the life of the facility. Two overlapping noise standards apply to this site. King County Code 12.86 limits nighttime noise in residential districts to 42 dBA. Washington state's WAC 173-60-040 limits industrial-to-residential noise to 50 dBA at night, reduced to 45 dBA when the pure tone penalty applies (likely with cooling equipment). The more restrictive county standard of 42 dBA governs. Comparable BESS facilities produce 45-60 dBA. Sodium-ion uses passive cooling only, with no fans and no HVAC. No noise study has been submitted. Will this facility comply with King County's nighttime noise limits?
+Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day, 7 days a week, for the life of the facility. Under K.C.C. 12.86 and WAC 173-60-040, the nighttime noise limit for an industrial source at the nearest residential property line is 50 dBA, reduced to 45 dBA when the pure tone penalty applies (likely with inverters and cooling fans). Comparable BESS facilities produce 45-60 dBA. Sodium-ion uses passive cooling only, with no fans and no HVAC. No noise study has been submitted. Will this facility comply with King County's nighttime noise limits?
 
 ## Evacuation plan
 
