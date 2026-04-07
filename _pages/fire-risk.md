@@ -26,17 +26,18 @@ The industry's preferred number. Doesn't account for facility size.
 |---|---|---|
 | 5 | 1.5% | 1 in 67 |
 | 10 | 3.0% | 1 in 33 |
-| 15 | 4.4% | 1 in 23 |
 | 20 | 5.8% | 1 in 17 |
+| 30 | 8.6% | 1 in 12 |
 
-### With aging (0.5%/yr years 1-10, 1.0%/yr years 11-20)
+### With aging (0.5%/yr years 1-10, 1.0%/yr years 11-20, 1.5%/yr years 21-30)
 
-No utility-scale lithium-ion facility has operated long enough to measure aging-related failure rates. But the degradation mechanisms are well understood: internal resistance increases, dendrites form, thermal stability drops. This scenario models a modest increase in failure rate as the fleet ages.
+No utility-scale lithium-ion facility has operated long enough to measure aging-related failure rates. But the degradation mechanisms are well understood: internal resistance increases, dendrites form, thermal stability drops. This scenario models a modest increase in failure rate as the fleet ages. Jupiter Power's Blackberry Grove application (Hillsboro, OR) estimates a 30-year project life.
 
 | Years | Cumulative Probability | Odds |
 |---|---|---|
 | 10 | 4.9% | 1 in 20 |
 | 20 | ~14% | 1 in 7 |
+| 30 | ~26% | 1 in 4 |
 
 ### Using the per-GW rate for a 130 MW facility
 
@@ -46,8 +47,8 @@ No utility-scale lithium-ion facility has operated long enough to measure aging-
 |---|---|---|
 | 5 | 18.1% | 1 in 6 |
 | 10 | 32.9% | 1 in 3 |
-| 15 | 45.0% | 1 in 2 |
 | 20 | 54.7% | better than even |
+| 30 | 69.7% | 2 in 3 |
 
 ### Side by side
 
@@ -55,14 +56,14 @@ No utility-scale lithium-ion facility has operated long enough to measure aging-
 |---|---|---|---|
 | 5 | 1.5% | 2.5% | 18.1% |
 | 10 | 3.0% | 4.9% | 32.9% |
-| 15 | 4.4% | 9.3% | 45.0% |
 | 20 | 5.8% | ~14% | 54.7% |
+| 30 | 8.6% | ~26% | 69.7% |
 
-Using the industry's own fire-specific rate, the cumulative probability of at least one fire over a 20-year facility life is approximately 6%. The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. Accounting for aging pushes the per-project estimate to roughly 14%. The actual risk for a specific facility is somewhere in this range.
+Jupiter Power estimates a 30-year project life for its Blackberry Grove BESS in Hillsboro, Oregon (Case L2500161-SUDPLA). Using the industry's own fire-specific rate over 30 years, the cumulative probability of at least one fire is approximately 9%. The per-project rate undercounts risk for large facilities. The per-GW rate includes all failures, not just fires. Accounting for aging over a 30-year life pushes the per-project estimate to roughly 26%, or 1 in 4. The actual risk for a specific facility is somewhere in this range.
 
 ### For context
 
-A 100-year flood has an ~18% chance of occurring in any 20-year window. The mid-range BESS fire estimate (6%) and the aging-adjusted estimate (14%) are in the range of risks that jurisdictions routinely plan for and regulate.
+A 100-year flood has a ~26% chance of occurring in any 30-year window. The mid-range BESS fire estimate (9%) and the aging-adjusted estimate (26%) are in the range of risks that jurisdictions routinely plan for and regulate.
 
 ## Why the real number is probably higher
 
@@ -98,9 +99,9 @@ This is why [ordinance amendments](/what-we-are-asking#ordinance-amendments) mat
 
 This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to fish-bearing streams that feed into the Snoqualmie River where ESA-listed Chinook salmon, steelhead, and bull trout are present, in a ridge-bounded valley where inversions trap smoke close to the ground.
 
-| Chemistry | Thermal Runaway? | 20-year risk range |
+| Chemistry | Thermal Runaway? | 30-year risk range |
 |---|---|---|
-| Lithium-ion (NMC/LFP) | Yes | 5.8%–54.7% |
+| Lithium-ion (NMC/LFP) | Yes | 8.6%–69.7% |
 | Sodium-ion (Peak Energy NFPP) | None in abuse testing | ~0% from this cause |
 
 Sodium-ion batteries have significantly higher thermal stability than lithium-ion. Peak Energy's NFPP chemistry, which Jupiter Power has contracted for other projects, has shown no thermal runaway in nail penetration, crush, overcharge, and saw testing. [Peer-reviewed research](https://www.mdpi.com/2313-0105/10/10/370) confirms that sodium-ion as a class has higher thermal runaway onset temperatures and lower pressure buildup than lithium-ion, though the degree of improvement varies by chemistry.
