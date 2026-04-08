@@ -2,7 +2,7 @@
 title: "How to Write a SEPA Comment"
 ---
 
-When Jupiter Power files a new permit application with King County, the State Environmental Policy Act (SEPA) requires an environmental review. King County will open a **21-day public comment window**. This is the primary formal opportunity for public input on this project. There is no public hearing. If you want your concerns on the record, this is the moment.
+When Jupiter Power files a new permit application with King County, the State Environmental Policy Act (SEPA) requires an environmental review. King County reviews the developer's environmental checklist and issues a threshold determination (DNS, MDNS, or DS). A **21-day public comment window** then opens. This is the primary formal opportunity for public input on this project. There is no public hearing. If you want your concerns on the record, this is the moment.
 
 We don't know when the window will open. [Sign up for updates](/subscribe) and we'll alert you the day it does.
 
@@ -14,7 +14,7 @@ SEPA (RCW 43.21C) requires government agencies to consider environmental impacts
 - **Mitigated DNS (MDNS):** King County finds impacts can be addressed with permit conditions (noise limits, monitoring, setback adjustments, etc.).
 - **Determination of Significance (DS):** King County finds the project may cause significant adverse impacts. This triggers a full **Environmental Impact Statement (EIS)**, a detailed independent study of all environmental impacts and alternatives, with additional public comment periods.
 
-Public comments during the 21-day window inform that decision. The responsible official must consider them.
+The threshold determination is issued first, then the comment window opens. Comments submitted during that window go directly to the responsible official. A well-documented comment showing significant impacts the checklist overlooked can cause King County to withdraw a DNS and issue a DS instead. The responsible official must consider every substantive comment received.
 
 **No BESS project in Washington has ever been required to complete a full EIS.** Every project that reached a threshold determination was approved. But the conditions attached to those approvals varied dramatically based on the quality of public comments. [See what happened at other Washington BESS projects.](/wa-bess-sepa)
 
