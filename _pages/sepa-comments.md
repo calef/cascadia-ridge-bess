@@ -2,7 +2,7 @@
 title: "How to Write a SEPA Comment"
 ---
 
-When Jupiter Power files a new permit application with King County, the State Environmental Policy Act (SEPA) requires an environmental review. King County reviews the developer's environmental checklist and issues a threshold determination (DNS, MDNS, or DS). A **21-day public comment window** then opens. This is the primary formal opportunity for public input on this project. There is no public hearing. If you want your concerns on the record, this is the moment.
+When Jupiter Power files a new permit application with King County, the State Environmental Policy Act (SEPA) requires an environmental review. King County publishes a Notice of Application and opens a **14-day public comment window**. At the close of that window, King County issues a threshold determination (DNS, MDNS, or DS). There is no public hearing and no further comment period after the determination -- if King County issues a DNS over the community's objections, the only recourse is a court appeal. This is the primary formal opportunity for public input on this project. If you want your concerns on the record, this is the moment.
 
 We don't know when the window will open. [Sign up for updates](/subscribe) and we'll alert you the day it does.
 
@@ -14,7 +14,7 @@ SEPA (RCW 43.21C) requires government agencies to consider environmental impacts
 - **Mitigated DNS (MDNS):** King County finds impacts can be addressed with permit conditions (noise limits, monitoring, setback adjustments, etc.).
 - **Determination of Significance (DS):** King County finds the project may cause significant adverse impacts. This triggers a full **Environmental Impact Statement (EIS)**, a detailed independent study of all environmental impacts and alternatives, with additional public comment periods.
 
-The threshold determination is issued first, then the comment window opens. Comments submitted during that window go directly to the responsible official. A well-documented comment showing significant impacts the checklist overlooked can cause King County to withdraw a DNS and issue a DS instead. The responsible official must consider every substantive comment received.
+Public comments submitted during the 14-day window go directly to the responsible official and inform the threshold determination. A well-documented comment showing significant impacts can push King County toward a DS instead of a DNS. The responsible official must consider every substantive comment received.
 
 **No BESS project in Washington has ever been required to complete a full EIS.** Every project that reached a threshold determination was approved. But the conditions attached to those approvals varied dramatically based on the quality of public comments. [See what happened at other Washington BESS projects.](/wa-bess-sepa)
 
@@ -27,7 +27,7 @@ Either of these SEPA outcomes gets the batteries changed:
 **Determination of Significance (DS) / full EIS.** This is the strongest outcome. A DS triggers a full Environmental Impact Statement, which requires a formal **alternatives analysis** covering alternative technologies, alternative sites, and the no-action alternative. That puts the chemistry choice on the record and forces Jupiter Power to justify using lithium-ion when a non-thermal-runaway alternative is commercially available. A full EIS also means:
 
 - Independent analysis of fire risk, toxic emissions, noise, stormwater, habitat, seismic hazard, and cumulative effects
-- Additional public comment periods (21 days for scoping, 30 days for the draft EIS)
+- Additional public comment periods (scoping, and 30 days for the draft EIS)
 - Disclosure of information Jupiter Power has not provided: battery chemistry, setback distances, fire suppression design, emergency response plan, decommissioning plan, and atmospheric dispersion modeling
 
 **Mitigated DNS (MDNS) with chemistry conditions.** If King County issues an MDNS instead of a DS, the outcome depends on the conditions. An MDNS that requires a non-thermal-runaway chemistry (like sodium-ion) with passive cooling would address the primary risks this community has raised. Most of the concerns voiced at the March 23 council meeting, thermal runaway, hydrogen fluoride exposure, contaminated runoff, noise from active cooling, earthquake-to-fire risk, go away with the right chemistry.

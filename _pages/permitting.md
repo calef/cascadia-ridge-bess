@@ -18,7 +18,7 @@ title: "Permitting Status"
 
 Before this ordinance, BESS fell under the generic "Utility Facility" category in King County Code, which was a permitted use in all zones with no BESS-specific development conditions or safety standards. Facilities could be placed up to the property line. The ordinance added setbacks, fire code requirements, financial responsibility, fire district coordination, and other conditions that would not otherwise have applied.
 
-Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input. SEPA review is the main avenue for community comment. The window is 21 days.
+Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input. SEPA review is the main avenue for community comment. The window is 14 days.
 
 ## What's in the ordinance
 
@@ -39,9 +39,9 @@ King County then issues a **threshold determination**:
 - **Mitigated DNS (MDNS):** Impacts can be mitigated with conditions attached to the permit.
 - **Determination of Significance (DS):** Requires a full **Environmental Impact Statement (EIS)** — a detailed, public study of all environmental impacts and alternatives.
 
-A DS and full EIS is the strongest outcome for the community. It means independent analysis of fire risk, toxic emissions, noise, traffic, stormwater, habitat impacts, and cumulative effects. It also means additional public comment periods (21 days for scoping, 30 days for the draft EIS).
+A DS and full EIS is the strongest outcome for the community. It means independent analysis of fire risk, toxic emissions, noise, traffic, stormwater, habitat impacts, and cumulative effects. It also means additional public comment periods (scoping, and 30 days for the draft EIS).
 
-King County issues the threshold determination first, then opens a **21-day public comment period**. Comments submitted during that window can cause King County to withdraw a DNS and issue a DS instead -- but only if they document specific impacts the checklist overlooked. This is when residents can argue that a DNS or MDNS is inadequate for a 130 MW lithium-ion facility adjacent to thousands of homes, fish-bearing streams connected to a salmon-bearing watershed, and parkland. Comments should be specific and cite environmental impacts the checklist underestimates.
+King County publishes a Notice of Application and opens a **14-day public comment period**. At the close of that window, King County issues the threshold determination. There is no further comment period after the determination -- if King County issues an inadequate DNS, the comment record becomes the basis for a court appeal. Comments should be specific and cite environmental impacts the checklist underestimates. This is when residents can argue that a DNS or MDNS is inadequate for a 130 MW lithium-ion facility adjacent to thousands of homes, fish-bearing streams connected to a salmon-bearing watershed, and parkland.
 
 A full EIS requires analysis of alternatives (WAC 197-11-440), including alternative sites. PSE's own [Energy Storage System Location Study](/assets/pse-ess-location-study-2021.pdf) (2021, filed as Exhibit I in UTC Docket UE-210220) screened all ~382 PSE substations and identified 15 recommended ESS locations. Mt. Si had been operational since 2012 but was screened out on the merits. The nearest Snoqualmie-area substation was rated high risk and rejected. [See full analysis.](/project#siting-study)
 

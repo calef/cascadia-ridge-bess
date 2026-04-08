@@ -9,7 +9,7 @@ If you do one thing, [sign up for updates](/subscribe). We'll alert you when the
 After that, here's the sequence:
 
 1. **Now:** Write to the institutions below. Push them to prepare for the SEPA process and advocate for safety conditions. This is the groundwork.
-2. **When Jupiter refiles:** A 21-day State Environmental Policy Act (SEPA) comment window opens. This is the decisive moment. If an issue isn't raised during that window, it cannot be raised later in an appeal. [Read our SEPA comment guide](/sepa-comments) now so you're ready.
+2. **When Jupiter refiles:** A 14-day State Environmental Policy Act (SEPA) comment window opens. This is the decisive moment. If an issue isn't raised during that window, it cannot be raised later in an appeal. [Read our SEPA comment guide](/sepa-comments) now so you're ready.
 
 You don't need to contact everyone. Pick the one or two that matter most to you and write a short, specific email. The bullet points below give you exactly what to ask.
 
@@ -117,7 +117,7 @@ Ask them to:
 
 ### Submit a SEPA comment
 
-When Jupiter Power refiles their permit, King County will open a 21-day public comment window. The comments submitted during that period form the legal record. If an issue isn't raised during SEPA comments, it cannot be raised later in an appeal. We'll send an alert when the window opens.
+When Jupiter Power refiles their permit, King County will open a 14-day public comment window. The comments submitted during that period form the legal record. If an issue isn't raised during SEPA comments, it cannot be raised later in an appeal. We'll send an alert when the window opens.
 
 **[Read our guide on how to write an effective SEPA comment](/sepa-comments).** It covers the legal standard, the checklist elements relevant to this project, what makes a comment effective, and what to avoid. You don't need to cover everything. One well-supported comment on a single topic is more valuable than a vague letter touching all of them. Start reading now so you're ready the day the window opens.
 
