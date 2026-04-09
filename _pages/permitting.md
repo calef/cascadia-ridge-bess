@@ -2,7 +2,7 @@
 title: "Permitting Status"
 ---
 
-**No active permit application as of March 2026.**
+**No active permit application as of April 2026.** Jupiter Power has indicated they plan to file a clearing and grading permit within approximately one month, which will initiate SEPA review.
 
 | Record | Type | Filed | Status |
 |---|---|---|---|
@@ -10,7 +10,7 @@ title: "Permitting Status"
 | CADS25-0076 | Critical Areas Designation | 03/24/2025 | Completed 07/22/2025 |
 | [CMST25-0005](https://aca-prod.accela.com/kingco/Default.aspx) | Commercial Site Development | 12/01/2025 | **Canceled** 02/18/2026 |
 
-[Accelergen Energy](https://accelergen.com/) filed the original pre-application. Jupiter Power / Cascadia Ridge Resiliency LLC took over the project and expanded from one ~25-acre parcel to five parcels totaling ~45 acres. They filed a Commercial Site Development permit in December 2025, then canceled it in February 2026. Jupiter Power held a voluntary community open house on March 17, 2026 that drew a standing-room-only crowd. No new application has been filed.
+[Accelergen Energy](https://accelergen.com/) filed the original pre-application. Jupiter Power / Cascadia Ridge Resiliency LLC took over the project and expanded from one ~25-acre parcel to five parcels totaling ~45 acres, plus a sixth PSE-owned parcel (9030) providing the generation tie-line corridor. They filed a Commercial Site Development permit in December 2025, then canceled it in February 2026 because King County required issued-for-construction drawings that Jupiter could not produce within the county's timeline. Jupiter Power held a voluntary community open house on March 17, 2026 that drew a standing-room-only crowd. No new application has been filed. Jupiter Power has indicated a clearing and grading permit is forthcoming, which will initiate SEPA.
 
 ## Regulatory framework
 

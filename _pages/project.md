@@ -10,7 +10,7 @@ title: "Project Overview"
 | Landowners | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Nause LLC, Landgraf, Arnold |
 | Type | Lithium-ion battery energy storage (BESS) |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
-| Site | ~45 acres across [5 parcels](/site-and-environment#parcels), unincorporated King County |
+| Site | ~45 acres across [5 parcels](/site-and-environment#parcels), unincorporated King County. A sixth parcel, [3624079030](/recorded-documents/3624079030) (PSE-owned, ~5 ac), provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
 | Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
 | Interconnection | 115kV tie-line to PSE Mt. Si substation |
 | PSE agreement | Tolling agreement executed August 22, 2025 |
@@ -77,6 +77,16 @@ As of March 2026, the following have not been publicly disclosed for the Cascadi
 Jupiter Power's project website and [open house handout](/assets/jupiter-power-open-house-handout-2026-03-17.pdf) (16 pages, PDF) focused on general BESS safety statistics and code compliance. The presentation covered industry growth, generic safety layers, and community benefits (tax revenue, park land, construction jobs) but provided no site-specific details on chemistry, noise, setbacks, or environmental risk. The handout does not mention battery chemistry once.
 
 Jupiter Power provides a project email address (cascadiaridge@jupiterpower.io). On April 1, 2026, Jupiter Power responded to questions submitted before and after the open house. The response addressed fire safety measures (monitoring, suppression, spacing, code compliance, fire agency coordination) and stated that battery chemistry "has not yet been selected" but is expected to be "lithium ion (LFP) or sodium ion." This is the first time Jupiter Power has acknowledged sodium-ion as a possibility for this project in writing. Questions on setbacks, noise, the canceled permit, financial assurance, parcels, decommissioning, critical areas, and other site-specific details were deferred to "the final application materials." Jupiter Power committed that "all project design, environmental diligence studies, and decommissioning plans will be made public during the SEPA checklist review."
+
+On April 6, 2026, Jupiter Power's VP of Development Hans Detweiler and lead engineer Tom Walkinshaw met with a community researcher. Key disclosures from that call:
+
+- **Permit cancellation reason:** King County required "issued-for-construction" drawings that Jupiter could not produce within the county's timeline. They plan to file a clearing and grading permit instead, which will also initiate SEPA.
+- **Duration:** Either four or six hours (undecided).
+- **Gen-tie parcel:** Parcel 9030 (PSE-owned) provides the generation tie-line corridor to the substation. This is a sixth parcel subject to the project, in addition to the five BESS parcels.
+- **Noise:** Site-specific modeling shows 50 dBA or less at the property lines. The noise study will be included in the SEPA application package.
+- **Water supply:** On-site water storage tanks plus a nearby fire hydrant, described as a "belt-and-suspenders" approach being finalized with Eastside Fire & Rescue.
+- **Chemistry:** Jupiter cited sodium-ion as "not yet proven in utility-scale projects in the United States" as a factor in the decision, despite their own $500M sodium-ion supply agreement with Peak Energy.
+- **Ownership transfer:** If the project changes hands, the project company (Cascadia Ridge Resiliency LLC) would be sold as an entity, keeping financial responsibility within the project company.
 
 Lithium-ion is the industry's current preferred technology for utility-scale storage, and no existing King County regulation prevents its installation at this site. The BESS ordinance (Ordinance 19824) does not restrict battery chemistry. The [SEPA environmental review](/sepa-comments) is the mechanism that can change this.
 
