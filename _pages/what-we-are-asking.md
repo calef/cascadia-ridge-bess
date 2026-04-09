@@ -38,7 +38,7 @@ Because there is no enforcement mechanism for a voluntary commitment. What a dev
 - Prevent chemistry changes over the facility lifetime
 - Mandate independent third-party safety audits
 
-The developer may reference NFPA 855 or UL 9540A compliance, but these are not mandated under current King County permitting. Compliance is self-reported, not independently audited. And because no regulation constrains the chemistry, the developer could install NMC, NCA, LFP, or any commercially available lithium-ion variant, and change it during augmentation over the facility's 20-year life.
+The developer may reference NFPA 855 or UL 9540A compliance, but these are not mandated under current King County permitting. Compliance is self-reported, not independently audited. And because no regulation constrains the chemistry, the developer could install NMC, NCA, LFP, or any commercially available lithium-ion variant, and change it during augmentation over the facility's 30-year life.
 
 Voluntary commitments are not enforceable. Code requirements are. That is why the ordinance amendments below matter: they turn "why aren't you using sodium-ion?" from a question nobody has to answer into a question the permit process requires them to answer.
 
