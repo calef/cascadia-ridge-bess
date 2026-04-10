@@ -34,6 +34,24 @@ What is changing:
 
 King County's $1 million threshold would not cover a fraction of either cleanup.
 
+## Who pays when something goes wrong
+
+The project entity for Cascadia Ridge is **Cascadia Ridge Resiliency LLC**, a Delaware limited liability company formed December 19, 2023 (originally under the name "Snoqualmie Energy Storage LLC," renamed June 2025). It is a single-purpose entity created solely for this project. Its sole governor, as of a June 2025 amendment, is another entity: **Cascadia Ridge Resiliency Holdings LLC**, which is not registered in Washington.
+
+Jupiter Power LLC, the parent developer, was acquired by BlackRock Alternatives in November 2022. At least five corporate layers separate BlackRock from the project entity. Each layer is a separate legal entity that serves as a liability firewall. The project entity's capitalization is not publicly disclosed.
+
+Jupiter Power's project financing for other BESS projects (a $286M package for projects in Michigan and Texas) pledges all project assets to construction lenders. If the same structure is used here, construction lenders have first claim on everything the project entity owns. Environmental remediation claims and community damages are structurally subordinate to project debt.
+
+For comparison, PSE's other 2024 RFP counterparties are NextEra Energy (NYSE: NEE, Fortune 200, approximately $190B market cap) and Avangrid, a subsidiary of Iberdrola (publicly traded multinational utility). Both have public financial reporting and investment-grade credit. Jupiter Power has neither. It is the only counterparty in PSE's current procurement portfolio where the public cannot verify the project entity's capitalization, insurance adequacy, or financial staying power.
+
+No federal regulator has ever reviewed Jupiter Power's corporate structure. The company does not hold FERC market-based rate authority (because it operates under tolling agreements, not wholesale power sales), so the corporate organization disclosures that FERC requires of wholesale sellers have never been made.
+
+King County does not require BESS developers to demonstrate financial capacity, post a decommissioning bond, provide a parent company guarantee, or disclose the capitalization of the project entity. The $1 million bond is the entire financial accountability framework.
+
+The tolling agreement between PSE and Cascadia Ridge Resiliency LLC is fully redacted in the UTC filing (Docket UE-240532). The insurance requirements, indemnification clauses, parent company guarantees (if any), and decommissioning obligations are not publicly available. PSE filed suit on April 9, 2026 (PSE v. WUTC, Thurston County Superior Court) to prevent disclosure of the unredacted agreement.
+
+**Sources:** Washington Secretary of State ([CCFS](https://ccfs.sos.wa.gov/), UBI 605 601 677), SEC EDGAR ([Lazard 8-K](https://www.sec.gov/Archives/edgar/data/1311370/000156459023001312/laz-ex991_6.htm), [BlackRock 8-K](https://www.sec.gov/Archives/edgar/data/1364742/000095017024004107/blk-ex99_4.htm)), [Jupiter Power $286M financing announcement](https://www.prnewswire.com/news-releases/jupiter-power-secures-286-million-construction-financing-to-advance-two-utility-scale-battery-energy-storage-projects-302404512.html), UTC Docket UE-240532.
+
 ## Sources
 
 - [Beyond the headlines: The BESS insurance market after Moss Landing](https://www.energy-storage.news/beyond-the-headlines-the-bess-insurance-market-after-moss-landing/) (Energy-Storage.News)
