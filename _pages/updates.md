@@ -4,6 +4,28 @@ title: "Updates"
 
 What we've published, who we've contacted, and what's happened. Most recent first.
 
+## April 9, 2026
+
+- Sent letter to King County Department of Local Services (Director Leon Richardson) asking two procedural questions about SEPA: (1) whether the clearing and grading permit will trigger SEPA review for the full BESS project, and (2) when Condition 29 documentation enters the record. These answers determine whether environmental review covers fire risk, noise, and emissions, or just soil disturbance.
+- Met with SVSD liaison Dr. Allie Schiavone to discuss school district engagement with SEPA process. Provided briefing materials covering Eastside Fire's preparedness statement, school proximity, and how the district can participate in SEPA review.
+
+## April 8, 2026
+
+- Published analysis of the PSE tolling agreement correspondence. PSE's Director of Regulatory Policy (Wendy Gerlitz) confirmed that the tolling agreement lists a specific battery brand and model number but includes "or similar technology" language. PSE interprets this as consistent with Jupiter's statement that chemistry "has not yet been selected."
+- PSE confirmed that **all 47 standalone battery storage proposals** received in the 2024 RFP were lithium-ion. Zero proposals used sodium-ion, iron-air, flow batteries, or any other alternative chemistry. No non-lithium-ion proposals were submitted for the Mt. Si substation interconnection.
+- Updated [parcel 9030 page](/parcel-9030) with PADA covenant analysis. Jupiter Power's planned gen-tie route across PSE-owned parcel 9030 may require city consent under the 2011 Covenant, which limits use to PSE utility infrastructure.
+
+## April 7, 2026
+
+- Published analysis of Jupiter Power's Blackberry Grove BESS application in Hillsboro, Oregon (100 MW, approved December 2025 despite 350+ opposition letters). Added [conditions imposed by the hearings officer](/other-projects#conditions-imposed-at-hillsboro) and a site comparison showing how Cascadia Ridge differs on every factor that made Hillsboro defensible: terrain, streams, wetlands, fire district readiness, water supply, and atmospheric conditions.
+- Updated Critical Areas Ordinance analysis: [Ordinance 20024](/site-and-environment#updated-riparian-buffers-february-2026) (effective February 18, 2026) increased the Fisher Creek riparian buffer from 100-165 ft to 180 ft, with up to 360 ft where steep slopes overlap.
+
+## April 6, 2026
+
+- **Eastside Fire & Rescue responded.** Chief Will Aho provided a written statement: "Eastside Fire & Rescue cannot confirm that we are fully prepared today to mitigate an incident of this type and scale." He validated water supply, site access, evacuation, and chemistry concerns as "valid and directly relevant." [Full analysis on the fire risk page.](/fire-risk#local-fire-district-cannot-confirm-preparedness)
+- Published critical review of [Jupiter Power's four fire safety studies](/fire-risk#jupiter-powers-fire-safety-studies). All four have significant gaps: small-scale fires only (1-2 containers vs. 130 MW), no valley terrain analysis, no continuous HF monitoring, no aquatic life standards applied, and the industry's own literature review excluded the largest US BESS fire (Moss Landing). The industry's own sources acknowledge the research is "still somewhat limited."
+- Phone call with Jupiter Power (Hans Detweiler, Tom Walkinshaw). Chemistry narrowed to LFP or sodium-ion but not committed. Permit filing expected early May (clearing and grading). Duration may be 6-hour (780 MWh) rather than 4-hour. Jupiter claims 50 dBA at property line and no contamination beyond property line for containerized fires.
+
 ## April 1, 2026 {#april-1-2026}
 
 - **Jupiter Power responded** to questions submitted before and after the open house. The response addressed fire safety measures and confirmed coordination with the King County Fire Marshal, Eastside Fire District, and Snoqualmie Fire Department. Most site-specific questions (setbacks, noise, parcels, financial assurance, critical areas, decommissioning) were deferred to the permit application materials. The response included an important statement: battery chemistry "has not yet been selected" but is expected to be **"lithium ion (LFP) or sodium ion."** This is the first time Jupiter Power has acknowledged sodium-ion as a possibility for this project in writing.

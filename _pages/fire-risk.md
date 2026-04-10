@@ -81,6 +81,18 @@ No current King County code or state regulation requires a specific battery chem
 
 The developer may reference NFPA 855 or UL 9540A compliance, but these are not mandated under current King County permitting. Compliance is self-reported, not independently audited.
 
+## Local fire district: "cannot confirm preparedness"
+
+On April 6, 2026, **Chief Will Aho of Eastside Fire & Rescue** (the district that would respond to a fire at this site) provided a written statement in response to questions about the district's readiness:
+
+> "Eastside Fire & Rescue cannot confirm that we are fully prepared today to mitigate an incident of this type and scale."
+
+Chief Aho's statement validated water supply, site access, evacuation, and chemistry concerns as "valid and directly relevant to both community safety and environmental protection." He added that "it would be inaccurate to suggest that all fire and life safety questions have been answered."
+
+Eastside Fire deferred jurisdiction to King County Permitting and the Fire Marshal's office for site-specific review, but the statement is clear: the fire district that would actually respond to this facility says the safety questions remain open.
+
+No tabletop exercise for a BESS fire in the Snoqualmie Valley has been disclosed. No BESS-specific mutual aid agreements have been made public.
+
 ## Who bears the risk
 
 The risk distribution is asymmetric. The developer bears financial risk: insured, tax-advantaged, with limited liability structures. The adjacent residential community bears safety risk: uninsured for BESS-specific hazards, with no control over facility operations, chemistry selection, or maintenance practices. Local fire departments bear response risk: BESS fires require specialized protocols and equipment that may not be available.
@@ -105,6 +117,31 @@ This facility would be adjacent to thousands of homes in the Snoqualmie Valley, 
 | Sodium-ion (Peak Energy NFPP) | None in abuse testing | ~0% from this cause |
 
 Sodium-ion batteries have significantly higher thermal stability than lithium-ion. Peak Energy's NFPP chemistry, which Jupiter Power has contracted for other projects, has shown no thermal runaway in nail penetration, crush, overcharge, and saw testing. [Peer-reviewed research](https://www.mdpi.com/2313-0105/10/10/370) confirms that sodium-ion as a class has higher thermal runaway onset temperatures and lower pressure buildup than lithium-ion, though the degree of improvement varies by chemistry.
+
+## Jupiter Power's fire safety studies
+
+On April 6, 2026, Jupiter Power provided a four-study bibliography titled "Battery Energy Storage System (BESS) Fire Safety Impact Studies," framed as evidence that containerized BESS fires produce "no harmful levels of contamination beyond the property line." All four studies have significant gaps relevant to this site.
+
+**New York Inter-Agency Fire Safety Report (Dec 2023):** Reviewed four lithium-ion BESS fires in New York. The largest was roughly 1/25th to 1/50th of Cascadia Ridge's proposed capacity. At East Hampton, no outdoor sampling was conducted; the report itself says "no conclusions could be made" from wipe samples. At Warwick (adjacent to a school district), no soil or water samples were taken at all because no water was used in suppression. At Chaumont, soil directly under the fire was never tested because failed equipment had not been removed. The report is explicitly an interim product with ongoing investigation.
+
+**SDG&E Gateway Water Runoff Report (Sep 2024):** Two water samples collected five minutes apart, six hours after ignition. No follow-up sampling. No pre-fire baseline. No testing for HF (hydrogen fluoride), the primary toxic concern from lithium-ion thermal runaway. No fluoride, VOC, SVOC, or lithium testing. Copper was detected at 2-3 times freshwater aquatic life thresholds, but the report compared results only against drinking water standards. For Cascadia Ridge, where runoff flows toward Fisher Creek and the Snoqualmie River (both fish-bearing, with ESA-listed species), aquatic life criteria are the relevant benchmark. SDG&E's own contractor conducted the analysis.
+
+**SDG&E Gateway Air Quality Report (Sep 2024):** The fire burned for 11 days. Actual air monitoring covered roughly 2 of those 11 days. The first 2.5 hours of thermal runaway (the most intense emissions phase) went completely unmonitored. HF testing used low-sensitivity paper strips, not continuous instruments. No PM2.5 or PM10 monitoring. No weather data was recorded, making readings uninterpretable for exposure assessment. No plume tracking; monitors were at fixed locations that may not have been downwind. SDG&E's own contractor conducted the monitoring.
+
+**ACP Literature Review (Aug 2025):** Commissioned and funded by the American Clean Power Association, the clean energy industry's trade group. Authored by Fire & Risk Alliance, a consulting firm that works for BESS developers. The most significant US BESS fire (Moss Landing, 1,200 MWh, January 2025, with ongoing EPA/CERCLA investigation) was excluded from the main analysis and relegated to an appendix as "unique, globally." All seven detailed case studies involved fires in 1-2 containers. The report itself acknowledges that "much research is still needed," emissions data is "still somewhat limited," and waterborne contamination from BESS fires "is not well studied."
+
+### What none of these studies address
+
+Every study in Jupiter's bibliography shares the same structural gaps:
+
+- **No complex terrain or valley analysis.** All sites were flat, open terrain. The Snoqualmie Valley regularly traps emissions close to the ground during temperature inversions.
+- **No aquatic life standards applied.** Fisher Creek and the Snoqualmie River support ESA-listed Chinook salmon, steelhead, and bull trout. Aquatic life criteria are more stringent than drinking water MCLs.
+- **No continuous HF monitoring.** HF is the primary toxic product of LFP thermal runaway. Paper strips and excluded instruments are not adequate.
+- **Small-scale fires only.** A 130 MW facility contains dozens of containers. No study addresses multi-container fire propagation.
+- **No private well groundwater modeling.** Residences adjacent to the Cascadia Ridge site rely on private wells.
+- **No PM2.5/PM10 monitoring.** Particulate matter is the primary health-relevant emission from battery fires and was not measured in any air study.
+
+Under WAC 197-11-330(d), the SEPA responsible official must weigh uncertainty about environmental impacts toward a finding of significance. Jupiter's own sources acknowledge the research gaps. When the applicant's best evidence contains those admissions, a Determination of Non-Significance is difficult to defend.
 
 ## Safety standards
 

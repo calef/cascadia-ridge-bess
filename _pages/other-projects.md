@@ -59,6 +59,41 @@ Jupiter Power's approach at Hillsboro followed a pattern:
 
 This is the same approach playing out at Cascadia Ridge. The community meeting format on March 17 was identical. The key difference: King County's Ordinance 19824 makes BESS a permitted use with no public hearing. The only formal public input is the 14-day SEPA comment period, which makes that window critical.
 
+### Conditions imposed at Hillsboro
+
+The hearings officer imposed conditions beyond what Jupiter offered. These were won through detailed technical testimony:
+
+| Condition | What it requires |
+|---|---|
+| Post-construction noise study | Within 120 days of operation, by a registered acoustical engineer, subject to public review |
+| Compliance reviews | 2-year and 5-year reviews where conditions may be modified based on findings |
+| Firebreak | 30-foot fuel-free zone around all battery enclosures |
+| Indemnification | Full indemnification of the county by the applicant, owner, and operator |
+| Facility locked to substation | No repurposing of the facility without new land use review |
+| No expansion | Battery yard area and spacing cannot change without new review |
+| Decommissioning plan | Required before operation |
+| Emergency response plan | Required, with first responder training |
+
+Conditions that were **not** imposed at Hillsboro but are relevant to Cascadia Ridge given site differences:
+- Battery chemistry specification (Jupiter did not commit to a chemistry in the application)
+- Fire suppression water containment (Hillsboro had no streams; Cascadia Ridge has Fisher Creek)
+- Scaled financial responsibility (Hillsboro had no dollar figure)
+- On-site water storage (Hillsboro had municipal hydrants; Cascadia Ridge does not)
+- Annual fire authority review
+- Atmospheric dispersion modeling (Hillsboro is flat, open terrain; the Snoqualmie Valley traps emissions)
+
+### Site comparison
+
+| Factor | Hillsboro | Cascadia Ridge |
+|---|---|---|
+| Capacity | 100 MW | 130 MW |
+| Terrain | Flat pasture | Sloped, ravine along Fisher Creek |
+| Streams/wetlands | None | Fisher Creek (fish-bearing), hydric soils, 24+ wetland polygons within 0.5 mi |
+| ESA species | 2+ miles away | Chinook, steelhead, bull trout downstream |
+| Water supply | Municipal hydrants | Private wells, no hydrants confirmed |
+| Fire district response | "Adequate" (checkbox) | "Cannot confirm preparedness" (Chief Aho, April 6, 2026) |
+| Atmospheric conditions | Open terrain, coastal influence | Valley with temperature inversions |
+
 ### The lesson
 
 Public comment alone does not stop these projects when the code allows them. The path to a different outcome runs through changing the regulatory framework (ordinance amendments, annexation) and using SEPA to force conditions the project cannot meet in its current form. That's what we're focused on.

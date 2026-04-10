@@ -15,6 +15,16 @@ King County completed a Critical Areas Designation for the primary parcel ([3624
 
 King County classified the project as **high-impact** under [KCC 21A.24.325A.2.a](https://aqua.kingcounty.gov/council/clerk/code/24-30_Title_21A.pdf), the designation that triggers the widest buffers.
 
+## Updated riparian buffers (February 2026)
+
+King County's Critical Areas Ordinance was amended by **Ordinance 20024**, adopted December 15, 2025 and effective February 18, 2026. The new ordinance designates riparian areas as their own critical area category and significantly increases buffer widths.
+
+For Type F streams (like Fisher Creek) in the Urban Growth Area, the riparian area width is now **180 feet** from the ordinary high water mark, up from the prior 100-165 foot range. Where the riparian area overlaps with a steep slope or landslide hazard area, the buffer extends to the top of that hazard, capped at twice the base width: **360 feet maximum**.
+
+Fisher Creek runs along the project's northern boundary where steep slope hazard polygons are mapped. That overlap triggers the extended protection.
+
+This matters because the Critical Areas Designation for this site was completed in July 2025, before Ordinance 20024 took effect. Any site planning Jupiter Power conducted under the prior buffer standards is outdated. The applicant must use the current riparian area widths, which further constrain the buildable footprint.
+
 ## Why this matters
 
 Fisher Creek is a Type F stream. It has fish. It runs through the northwest portion of the parcel, and the elevation difference between its ordinary high water mark and the proposed development area is less than 10 feet. If there's a fire, runoff contaminated with heavy metals and fluoride compounds goes straight into the creek and from there into the Snoqualmie River watershed.
