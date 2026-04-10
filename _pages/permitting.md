@@ -33,6 +33,8 @@ The ordinance is new and Cascadia Ridge is an early test. Some of its provisions
 
 The State Environmental Policy Act (SEPA) requires environmental review before King County can approve the project. Jupiter Power must submit a SEPA Environmental Checklist covering impacts to earth, air, water, plants, animals, environmental health, land use, transportation, and public services.
 
+King County's Acting Permitting Division Director confirmed on April 10, 2026 that if the clearing and grading permit triggers SEPA, the review will cover the full scope of the 130 MW BESS project, not just the grading work. The SEPA checklist and comment window will address fire risk, toxic emissions, noise, water contamination, and all other project-level impacts.
+
 King County then issues a **threshold determination**:
 
 - **Determination of Non-Significance (DNS):** No significant adverse impacts; project proceeds.
