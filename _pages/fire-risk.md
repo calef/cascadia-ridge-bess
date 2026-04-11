@@ -79,8 +79,6 @@ Thermal runaway doesn't always stay in one container. It can cascade. Neither me
 
 No current King County code or state regulation requires a specific battery chemistry. The developer may install NMC, NCA, LFP, or any commercially available lithium-ion chemistry, and may change chemistry during augmentation over the facility's lifetime. Because chemistry is not constrained, risk estimates cannot assume a favorable chemistry. The full fleet-wide incident rate applies.
 
-The developer may reference NFPA 855 or UL 9540A compliance, but these are not mandated under current King County permitting. Compliance is self-reported, not independently audited.
-
 ## Local fire district: "cannot confirm preparedness"
 
 On April 6, 2026, **Chief Will Aho of Eastside Fire & Rescue** (the district that would respond to a fire at this site) provided a written statement in response to questions about the district's readiness:
@@ -105,18 +103,13 @@ Under current regulation, the community has no mechanism to:
 - Prevent chemistry changes over the facility lifetime
 - Mandate independent third-party safety audits
 
-This is why [ordinance amendments](/what-we-are-asking#ordinance-amendments) matter. Voluntary commitments are not enforceable. Code requirements are.
+This is why we are asking King County to require a [full Environmental Impact Statement](/what-we-are-asking) before permitting this project. An EIS would require evaluation of these risks and the alternatives available to address them.
 
 ## For this site
 
 This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to fish-bearing streams that feed into the Snoqualmie River where ESA-listed Chinook salmon, steelhead, and bull trout are present, in a ridge-bounded valley where inversions trap smoke close to the ground.
 
-| Chemistry | Thermal Runaway? | 30-year risk range |
-|---|---|---|
-| Lithium-ion (NMC/LFP) | Yes | 8.6%–69.7% |
-| Sodium-ion (Peak Energy NFPP) | None in abuse testing | ~0% from this cause |
-
-Sodium-ion batteries have significantly higher thermal stability than lithium-ion. Peak Energy's NFPP chemistry, which Jupiter Power has contracted for other projects, has shown no thermal runaway in nail penetration, crush, overcharge, and saw testing. [Peer-reviewed research](https://www.mdpi.com/2313-0105/10/10/370) confirms that sodium-ion as a class has higher thermal runaway onset temperatures and lower pressure buildup than lithium-ion, though the degree of improvement varies by chemistry.
+No atmospheric dispersion modeling, hydrogeologic assessment, or seismic risk analysis has been conducted for this site. The fire risk estimates above, the [HF quantities modeled below](#how-much-hf), the [earthquake-to-fire chain](#earthquake-risk), and the [fire district's statement](#local-fire-district-cannot-confirm-preparedness) that it "cannot confirm preparedness" all point to the same conclusion: a SEPA checklist cannot credibly evaluate these risks. A [full Environmental Impact Statement](/what-we-are-asking) is the process designed to answer them.
 
 ## Jupiter Power's fire safety studies
 
@@ -204,9 +197,7 @@ Lab testing shows lithium-ion cells can develop internal short circuits, the ini
 
 Beyond cell damage, there's no requirement to model the full chain for this site: earthquake shaking damages cells → thermal runaway → fire → contaminated runoff into Fisher Creek, less than 10 vertical feet below the development area. The SWIF runs through this valley, but the BESS ordinance doesn't cross-reference [KCC 21A.24.290](https://aqua.kingcounty.gov/council/clerk/code/24-30_Title_21A.pdf)'s seismic hazard area provisions. And in a major earthquake, fire department access, water supply, and evacuation routes may all be compromised, exactly when a BESS fire would be most dangerous.
 
-No utility-scale BESS has been hit by a major earthquake. That's because the fleet is young and mostly deployed in low-seismicity areas, not because these systems are proven earthquake-safe.
-
-Peak Energy's sodium-ion cells have been [nail-penetrated, crushed, and sawed](/battery-technology#abuse-testing) without ignition: 0% ignition rate vs. 23% for lithium-ion. For chemistries that don't exhibit thermal runaway, the earthquake-to-fire chain does not apply.
+No utility-scale BESS has been hit by a major earthquake. That's because the fleet is young and mostly deployed in low-seismicity areas, not because these systems are proven earthquake-safe. An EIS alternatives analysis would require evaluation of [battery chemistries](/battery-technology) that do not exhibit thermal runaway, which would eliminate the earthquake-to-fire chain entirely.
 
 ## Evacuation
 
