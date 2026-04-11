@@ -30,7 +30,7 @@ These are the most significant recorded instruments for understanding the BESS p
 | Jul 2010 | PSE/David Evans Survey (Rec# 20100721900002) | Shows all project parcels within proposed City of Snoqualmie annexation area, BPA transmission towers on parcel 9102, existing easement layout. | [PDF](/assets/recorded-documents/3624079101_20100721900002_SURVEY.pdf) |
 | Nov 2012 | BPA Partial Release (Rec# 20121109001596) | BPA releases easement strip outside the Echo Lake-Monroe 500kV corridor. Main corridor easement remains. | [PDF](/assets/recorded-documents/3624079101_20121109001596_PARTIAL-RELEASE-Real-Estate-Related.pdf) |
 
-**Corporate structure:** Jupiter Power uses two entities. The main parcel was acquired through **Snoqualmie Energy Storage LLC** (sole member: Accelergen Development LLC). All later options were through **Cascadia Ridge Resiliency LLC** (1108 Lavaca St, Austin TX). Both trace back to Jupiter Power.
+**Corporate structure:** Jupiter Power uses two entities. The 2024 agreements were through **Snoqualmie Energy Storage LLC** (sole member: Accelergen Development LLC). All 2025 agreements were through **Cascadia Ridge Resiliency LLC** (1108 Lavaca St, Austin TX). Both trace back to Jupiter Power.
 
 ---
 
@@ -93,13 +93,3 @@ No public document from Jupiter Power addresses how construction access to the s
 | [3624079099](/parcel-9099/) | Corridor, Baisden | PSE | 7 | PADA, Covenant, BPA, limited to transmission lines | [View documents](/parcel-9099/) |
 | [3624079102](/parcel-9102/) | Future Development Area | PSE | 8 | PADA (not vested, survives expiration), Covenant, BPA | [View documents](/parcel-9102/) |
 
----
-
-## How to retrieve documents yourself
-
-All documents are public records available from the [King County Recorder's Office](https://recordsearch.kingcounty.gov/LandmarkWeb/search/index?theme=.blue&section=searchCriteriaParcelId&quickSearchSelection=):
-
-1. Go to LandmarkWeb and select "Parcel ID" search
-2. Enter the 13-digit parcel number (e.g., 3624079039)
-3. Click on the recording number to view the document
-4. Documents recorded before approximately 1991 are not available through LandmarkWeb. For older records, contact the King County Recorder's Office directly at 206-477-6620.
