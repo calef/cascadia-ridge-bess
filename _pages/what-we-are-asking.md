@@ -4,7 +4,7 @@ title: "What We're Asking"
 
 We support Washington's clean energy goals and recognize that battery storage is part of the state's strategy for meeting the [Clean Energy Transformation Act (CETA)](/ceta) requirements. PSE needs grid storage, and the Mt. Si substation next door is a real interconnection point.
 
-But this site has serious problems. From constrained valley topography and seismic hazards to limited evacuation routes, unproven emergency response capacity, and proximity to schools and thousands of homes, the questions about whether a battery storage facility can operate safely here are too significant for a checklist-level environmental review to answer. That is why we are asking King County to issue a **Determination of Significance** and require a **full Environmental Impact Statement (EIS)** before making a threshold determination on this project.
+But this site has serious problems. PSE's own [2021 siting study](/project#siting-study) screened all 382 substations and did not recommend Mt. Si. It did not even pass initial screening. Four years later, PSE signed a tolling agreement for a 130 MW facility at the location its own consultant rejected. From constrained valley topography and seismic hazards to limited evacuation routes, unproven emergency response capacity, and proximity to schools and thousands of homes, the questions about whether a battery storage facility can operate safely here are too significant for a checklist-level environmental review to answer. That is why we are asking King County to issue a **Determination of Significance** and require a **full Environmental Impact Statement (EIS)** before making a threshold determination on this project.
 
 We are not asking King County to deny the project. We are asking for the level of review that a project of this scale, in this location, requires. An EIS is the process designed to answer these questions. A SEPA checklist is not.
 
@@ -37,10 +37,6 @@ The Snoqualmie Valley is exposed to the [Southern Whidbey Island Fault](https://
 ### Groundwater and private wells
 
 The project site is surrounded by dozens of private domestic wells (31 in the quarter section downhill to the southwest alone). Contaminated firefighting runoff from a battery fire could migrate through soil to groundwater. No hydrogeologic assessment has been submitted.
-
-### PSE's own siting study screened out this location
-
-PSE's [2021 siting study](/project#siting-study) screened all 382 substations and identified 15 recommended locations for energy storage. Mt. Si was not one of them. It did not even pass initial screening. Four years later, PSE signed a tolling agreement for a 130 MW facility at the location its own consultant rejected on the merits.
 
 ## What we are asking King County to do
 
