@@ -17,27 +17,11 @@ You don't need to contact everyone. Pick the one or two that matter most to you 
 
 ## What you can do now
 
-### Write to King County Councilmember Sarah Perry
-
-King County has jurisdiction over the project site. The site raises questions about toxic gas dispersion, emergency response, seismic risk, and groundwater that a SEPA checklist cannot credibly evaluate. King County should issue a Determination of Significance and require a full Environmental Impact Statement before making a threshold determination on this project.
-
-Email Councilmember Sarah Perry (District 3, sponsor of the [BESS ordinance](/permitting)): [sarah.perry@kingcounty.gov](mailto:sarah.perry@kingcounty.gov)
-
-Email the full council: [clerk.council@kingcounty.gov](mailto:clerk.council@kingcounty.gov)
-
-Ask them to:
-
-- **Require a full Environmental Impact Statement** for the Cascadia Ridge project, including atmospheric dispersion modeling for toxic gases under valley inversion conditions.
-- **Require an alternatives analysis** covering battery chemistry, site configuration, and alternative locations.
-- **Scale financial responsibility with facility size.** The current requirement is the same $1 million whether the facility is 5 MW or 130 MW adjacent to thousands of homes.
-- **Require permanent fenceline air quality monitoring** for facilities adjacent to residential areas.
-- **Require seismic risk assessment** for the Southern Whidbey Island Fault, which is mapped directly through the valley.
-
 ### Write to Puget Sound Energy
 
 PSE selected this project and this developer. Their [own 2021 siting study](/project#siting-study) screened all 382 substations and identified 15 recommended locations for energy storage. Mt. Si was not one of them. It didn't even make the initial cut of 36 stations that received detailed analysis. The study's criteria explicitly flag residential areas, schools, and hospitals as making a location less desirable. Four years later, PSE signed a tolling agreement for a 130 MW facility at the location their own consultant rejected.
 
-The tolling agreement is confidential in its entirety. UTC Commission Staff [criticized PSE's redaction pattern in an earlier procurement](/ceta#transparency), writing that some information PSE redacted "does not appear to Staff to be commercially sensitive." PSE is applying the same approach to the Cascadia Ridge contract.
+PSE originally filed the [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) with the UTC redacted in its entirety, and has [sued the UTC](/ceta#transparency) to prevent further disclosure. UTC Commission Staff criticized PSE's redaction pattern in an earlier procurement, writing that some information PSE redacted "does not appear to Staff to be commercially sensitive."
 
 Email: [communityengagement@pse.com](mailto:communityengagement@pse.com)
 
@@ -58,7 +42,6 @@ Ask them to:
 - **Send a letter to King County requesting a full Environmental Impact Statement** for the Cascadia Ridge project. Three other King County cities (Covington, Enumclaw, Black Diamond) have already passed BESS moratoriums. A formal EIS request is a measured step that does not prejudge the outcome.
 - **Enforce the existing development agreement restrictions** on the PSE corridor parcels. Construction traffic for the BESS project is not authorized under those agreements, and the city has standing to say so.
 - **Direct staff to formally participate in the SEPA review** when Jupiter Power refiles.
-- **Evaluate whether the city should annex the project parcels.** The [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/1070/Snoqualmie-Comprehensive-Plan-2044) designates this land for business park and mixed use, not industrial battery storage. Annexation would make that designation enforceable.
 - **Update the city's evacuation plan** to address an industrial toxic release scenario. The current plan (November 2017) does not contemplate a chemical fire producing hydrogen fluoride adjacent to Snoqualmie Ridge.
 
 ### Write to the Snoqualmie Valley School District
@@ -84,7 +67,8 @@ Email Ken Rudberg (Director of Quality, Risk & Compliance): [kenr@snoqualmiehosp
 
 Ask them to:
 
-- **Participate in the SEPA review** when Jupiter Power refiles. A comment from the local hospital on patient safety and emergency capacity carries institutional weight.
+- **Request a full Environmental Impact Statement** from King County. A comment from the local hospital on patient safety and emergency capacity carries institutional weight that individual comments cannot.
+- **Participate in the SEPA review** when Jupiter Power refiles.
 - **Evaluate whether the hospital can treat mass hydrogen fluoride exposure.** HF requires calcium gluconate and specialized decontamination protocols. Does the hospital stock these? How many patients can it handle simultaneously?
 - **Update the hospital's emergency operations plan** to include an industrial toxic release scenario from the adjacent BESS facility.
 
@@ -94,7 +78,7 @@ The project site is surrounded by dozens of private domestic wells, with the hig
 
 If you're on a private well near the project site, you have a direct stake in the SEPA review. Your comment about groundwater risk carries weight that a general safety concern does not. See our [groundwater analysis](/site-and-environment#groundwater) for the data, including well locations, depth ranges, and the Sumner precedent where a public water well on a BESS project parcel triggered the strongest groundwater conditions in any Washington BESS project.
 
-When the SEPA comment window opens, submit a comment identifying your well and asking King County to require a hydrogeologic assessment before issuing a development permit. In the meantime, writing to King County Councilmember Sarah Perry (above) about the need for groundwater protections in the BESS ordinance helps build the case.
+When the SEPA comment window opens, submit a comment identifying your well and asking King County to require a hydrogeologic assessment before issuing a development permit.
 
 ### Write to local fire agencies
 
@@ -108,7 +92,8 @@ Three fire agencies cover this area. Jupiter Power has confirmed it is coordinat
 
 Ask them to:
 
-- **Prepare to participate in the SEPA review** when Jupiter Power refiles. Comments from fire agencies on emergency response gaps carry significant weight.
+- **Request a full Environmental Impact Statement** from King County. Eastside Fire & Rescue has already stated it "cannot confirm" preparedness for an incident of this type and scale. A formal EIS request from fire agencies carries significant weight.
+- **Prepare to participate in the SEPA review** when Jupiter Power refiles.
 - **Evaluate whether existing mutual aid agreements** can handle a multi-day battery fire producing hydrogen fluoride adjacent to a residential community.
 - **Assess fire suppression water supply.** The project parcels have no municipal water connection, no fire hydrants, and no water mains.
 
