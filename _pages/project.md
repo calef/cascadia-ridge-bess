@@ -12,7 +12,7 @@ title: "Project Overview"
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
 | Site | ~50 acres across [6 parcels](/site-and-environment#parcels), unincorporated King County. Includes parcel [3624079030](/recorded-documents/3624079030) (PSE-owned, ~5 ac), which provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
 | Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
-| Interconnection | 115kV tie-line to PSE Mt. Si substation |
+| Interconnection | 115kV tie-line to PSE Mt. Si substation via parcel [3624079030](/recorded-documents/3624079030) (PSE-owned, subject to [PADA](/recorded-documents) use restrictions) |
 | PSE agreement | Tolling agreement executed August 22, 2025 |
 | Operations target | Late 2028 |
 | Fire district | [King County Fire Protection District No. 38](https://district-conditions-report.kingcounty.gov/?PIN=3624079039) |
