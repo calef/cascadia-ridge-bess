@@ -8,7 +8,7 @@ title: "Cascadia Ridge BESS: Community Research"
 [![Annotated parcel map showing BESS parcels, PSE corridor, and Mt. Si substation](/assets/parcel-map-annotated.png)](/site-and-environment#parcels)
 
 <div class="callout" markdown="1">
-We support Washington's clean energy goals and the need for grid storage. But this site has serious problems that a SEPA checklist cannot answer: a constrained valley where temperature inversions trap toxic emissions, a school half a mile away, a fire district that [cannot confirm preparedness](/fire-risk#local-fire-district-cannot-confirm-preparedness), limited evacuation routes, seismic hazards, and dozens of private wells. We are asking King County to require a **full Environmental Impact Statement** before permitting this project. [Here's why.](/what-we-are-asking)
+We support Washington's clean energy goals and the need for grid storage. But this site has serious problems that a SEPA checklist cannot answer: a constrained valley where temperature inversions trap toxic emissions, thousands of homes and a school nearby with limited evacuation routes, a fire district that [cannot confirm preparedness](/fire-risk#local-fire-district-cannot-confirm-preparedness), seismic hazards, and dozens of private wells. We are asking King County to require a **full Environmental Impact Statement** before permitting this project. [Here's why.](/what-we-are-asking)
 </div>
 
 ## Key facts
