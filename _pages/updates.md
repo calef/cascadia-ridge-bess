@@ -4,8 +4,14 @@ title: "Updates"
 
 What we've published, who we've contacted, and what's happened. Most recent first.
 
+## April 11, 2026
+
+- Sent letter to Mayor Mayhew and the full city council analyzing predetermination risk under RCW 42.36, EFSEC jurisdiction, and a recommended path forward. The letter recommends the council frame any resolution around a Determination of Significance and full EIS based on site-specific environmental concerns, rather than project opposition, to avoid predetermination risk. It also analyzes why an EFSEC opt-in is slower and less favorable than the King County SEPA process, and identifies city leverage (PADA enforcement, political voice) that exists regardless of permitting pathway.
+- Reframed the entire site from advocating for sodium-ion battery chemistry to requesting a full Environmental Impact Statement based on site-specific challenges. The community's ask is now: King County should issue a Determination of Significance and require an EIS before permitting this project. Updated all pages to reflect this framing.
+
 ## April 9, 2026
 
+- **PSE filed suit** against the Washington Utilities and Transportation Commission (PSE v. WUTC, Thurston County Superior Court) to prevent disclosure of the unredacted tolling agreement. [Transparency analysis.](/ceta#transparency)
 - Sent letter to King County Department of Local Services (Director Leon Richardson) asking two procedural questions about SEPA: (1) whether the clearing and grading permit will trigger SEPA review for the full BESS project, and (2) when Condition 29 documentation enters the record. These answers determine whether environmental review covers fire risk, noise, and emissions, or just soil disturbance.
 - Met with SVSD liaison Dr. Allie Schiavone to discuss school district engagement with SEPA process. Provided briefing materials covering Eastside Fire's preparedness statement, school proximity, and how the district can participate in SEPA review.
 
