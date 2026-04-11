@@ -16,11 +16,9 @@ title: "Project Overview"
 | PSE agreement | [Tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) (PDF, partially redacted) executed August 22, 2025. PSE originally filed it with the UTC redacted in its entirety; a partially redacted version was secured through correspondence. [Transparency analysis.](/ceta#transparency) |
 | Operations target | Late 2028 |
 | Fire district | [King County Fire Protection District No. 38](https://district-conditions-report.kingcounty.gov/?PIN=3624079039) |
-| Projected tax revenue | $783,000–$1,130,000/year in years 3–12* |
+| Projected tax revenue | $783,000–$1,130,000/year in years 3–12 (per [HB 1960](https://app.leg.wa.gov/billsummary?BillNumber=1960&Year=2025), signed into law April 1, 2026) |
 | Development footprint | ~30 of the 45 acres (per Jupiter Power's March 17 presentation) |
 | Contact | Gage Fuller, [cascadiaridge@jupiterpower.io](mailto:cascadiaridge@jupiterpower.io) |
-
-*Tax revenue estimate is based on [HB 1960](https://app.leg.wa.gov/billsummary?BillNumber=1960&Year=2025), signed into law April 1, 2026.*
 
 ## What the facility would include
 
