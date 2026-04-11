@@ -36,7 +36,7 @@ Community concerns span multiple categories:
 
 **King County.** The site is in unincorporated King County, so the City of Snoqualmie has no permitting authority even though Snoqualmie Valley residents, including those on Snoqualmie Ridge and in surrounding unincorporated areas, are the most directly affected. Under the site's UR zoning and [King County Ordinance 19824](/permitting), BESS is a permitted use. No Conditional Use Permit and no public hearing are required. The main avenue for public input is the **14-day SEPA comment period** that opens when Jupiter Power files a new permit application.
 
-Councilmember Sarah Perry (District 3) sponsored the BESS ordinance. The City of Snoqualmie has identified this area as a potential annexation area. If annexed, the city's Comprehensive Plan would apply.
+The City of Snoqualmie has identified this area as a potential annexation area. If annexed, the city's Comprehensive Plan would apply, and it designates this land for business park and mixed use, not industrial battery storage.
 
 ## What happens to a lithium-ion BESS in an earthquake? {#earthquake}
 
