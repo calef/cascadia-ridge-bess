@@ -7,7 +7,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 ## April 11, 2026
 
 - Sent letter to Mayor Mayhew and the full city council analyzing predetermination risk under RCW 42.36, EFSEC jurisdiction, and a recommended path forward. The letter recommends the council frame any resolution around a Determination of Significance and full EIS based on site-specific environmental concerns, rather than project opposition, to avoid predetermination risk. It also analyzes why an EFSEC opt-in is slower and less favorable than the King County SEPA process, and identifies city leverage (PADA enforcement, political voice) that exists regardless of permitting pathway.
-- Reframed the entire site from advocating for sodium-ion battery chemistry to requesting a full Environmental Impact Statement based on site-specific challenges. The community's ask is now: King County should issue a Determination of Significance and require an EIS before permitting this project. Updated all pages to reflect this framing.
+- Updated site content across all pages to reflect the community's core ask: King County should issue a Determination of Significance and require a full EIS before permitting this project.
 
 ## April 9, 2026
 
@@ -46,20 +46,17 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 - Updated SEPA comment guide to focus on the case for a full EIS (Determination of Significance). The site's challenges, from valley topography and seismic hazard to school proximity and unconfirmed fire district preparedness, require the depth of analysis only an EIS provides.
 - Published recorded land deal analysis for all 6 project parcels. Jupiter Power is using two legal entities: Snoqualmie Energy Storage LLC for the main parcel and Cascadia Ridge Resiliency LLC for the surrounding residential parcels. A sixth parcel (5 vacant acres with a transmission line easement) has been under option since March 2024 but was not in the original permit application. [Site and environment.](/site-and-environment#parcels)
 - Sent follow-up email to Jupiter Power. Third email, second follow-up. 16 questions across three emails since March 13 with zero response.
-- Recruiting credentialed experts for SEPA comment tracks: environmental engineer (groundwater/contamination), family physician (health/air quality), mechanical engineer (failure analysis), financial advisor (economic impact).
 - Sent letters to Snoqualmie Valley School District board and Snoqualmie Valley Hospital board requesting they participate in SEPA review. SVSD board responded the same day.
 
 ## March 24, 2026
 
 - Published SEPA comment guide with all 9 checklist elements relevant to this project, guidance on what makes a comment effective, and what to avoid. [How to write a SEPA comment.](/sepa-comments)
-- Contacted opposition groups fighting Jupiter Power's Blackberry Grove project in Hillsboro, OR and the Kingfisher BESS in Covington, WA. Waiting for responses.
 - Valley Record [covered the community opposition](https://www.valleyrecord.com/2026/03/24/trouble-in-snoqualmie-over-proposed-battery-storage-site/), reporting on the March 17 open house and the city's three news releases. The article was [republished in the Issaquah Reporter](https://www.issaquahreporter.com/2026/03/26/trouble-in-snoqualmie-over-proposed-battery-storage-site/) on March 26.
 
 ## March 23, 2026
 
 - Snoqualmie City Council cleared its regular agenda to take public comment on the BESS. Approximately 35-40 residents spoke over two hours. The room exceeded fire code capacity. Speakers included a seismologist, mechanical engineer, family physician, financial advisor, and environmental justice advocate. [Full meeting video.](https://www.youtube.com/watch?v=0N3RSaquon0) [Full summary.](/project#community-response)
-- Sent follow-up letter to Snoqualmie City Council asking for a resolution, formal SEPA participation, annexation evaluation, and ESF #16 update.
-- Identified a codification gap in Ordinance 19824: an amendment requiring a community meeting before permitting was drafted but never adopted. Perry's office confirmed the amendment was never offered at vote. Jupiter Power's March 17 open house was voluntary, as they stated.
+- Sent follow-up letter to Snoqualmie City Council asking for a resolution, formal SEPA participation, and ESF #16 update.
 
 ## March 17, 2026
 
