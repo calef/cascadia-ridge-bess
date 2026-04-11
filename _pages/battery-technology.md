@@ -2,11 +2,11 @@
 title: "Battery Technology"
 ---
 
-## Two generations of grid storage
+## Why battery chemistry matters for this site
 
-The first generation of utility-scale battery storage was built with what was available: high-density lithium-ion cells designed for consumer electronics and electric vehicles, scaled up to grid size despite known safety trade-offs. The industry accepted thermal runaway risk, toxic emissions, and active cooling requirements because there was no alternative at scale.
+The safety profile of a battery storage facility depends heavily on its chemistry. Lithium-ion cells can undergo thermal runaway, producing hydrogen fluoride and other toxic gases. Sodium-ion cells have shown no thermal runaway in abuse testing. The difference between these chemistries determines the fire risk, toxic emission profile, cooling requirements, and noise of the facility.
 
-The second generation addresses those problems directly. Sodium-ion eliminates thermal runaway, uses passive cooling, and avoids the toxic heavy metals in lithium-ion cathodes. [MIT Technology Review named sodium-ion one of the 10 Breakthrough Technologies of 2026.](https://www.technologyreview.com/2026/01/12/1129991/sodium-ion-batteries-2026-breakthrough-technology/) CATL, the world's largest battery manufacturer, is deploying sodium-ion at scale in 2026. It's commercially viable before Cascadia Ridge is scheduled to come online. We want the second generation at this site.
+Jupiter Power has stated that battery chemistry "has not yet been selected" but is expected to be "lithium ion (LFP) or sodium ion." In practice, PSE's [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) is structured around lithium-ion BESS operations, and [all 47 standalone battery storage proposals](/ceta#transparency) PSE received in its 2024 RFP were lithium-ion. A full [Environmental Impact Statement](/what-we-are-asking) with an alternatives analysis would put the chemistry question on the public record and require evaluation of whether a safer chemistry is feasible at this site.
 
 ## Lithium-ion risks
 
@@ -50,7 +50,7 @@ The comparison below reflects Peak Energy's NFPP chemistry, which is what Jupite
 |---|---|---|---|---|
 | Lithium-ion (NMC) | High | High (HF, heavy metals) | High (active cooling 24/7) | Yes |
 | Lithium-ion (LFP) | Moderate | Moderate (HF still produced) | High (active cooling 24/7) | Yes |
-| **Sodium-ion (NFPP)** | **Very low** | **Low (no heavy metals, much less HF)** | **Low (passive cooling)** | **Yes (first US grid-scale system delivered Sept 2025)** |
+| Sodium-ion (NFPP) | Very low | Low (no heavy metals, much less HF) | Low (passive cooling) | Yes (first US grid-scale system delivered Sept 2025) |
 
 ### Abuse testing {#abuse-testing}
 
@@ -63,9 +63,9 @@ Peak Energy's sodium-ion cells have been tested under the same mechanical abuse 
 
 Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyrophosphate) with a non-flammable electrolyte. They've passed nail penetration, overcharge, and crush testing without thermal runaway. No cobalt, nickel, or manganese. Passive cooling only: no fans, no HVAC, no 24/7 noise. Peak Energy [delivered the first grid-scale sodium-ion battery storage system in the US](https://www.prnewswire.com/news-releases/peak-energy-delivers-first-grid-scale-sodium-ion-battery-storage-system-in-the-us-302519228.html) in September 2025 and is building its first domestic giga-scale manufacturing facility.
 
-Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer."
+Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer." Jupiter Power will receive ~720 MWh of Peak Energy sodium-ion systems in 2027, with 4.75 GWh through 2030. Cascadia Ridge isn't scheduled to come online until late 2028.
 
-Jupiter Power will receive ~720 MWh of Peak Energy sodium-ion systems in 2027, with 4.75 GWh through 2030. Cascadia Ridge isn't scheduled to come online until late 2028. Sodium-ion grid storage is already deployed and operating in the US. Jupiter Power is investing in it at scale for other projects. So why isn't Jupiter Power using it here?
+A full EIS alternatives analysis would require Jupiter Power to evaluate whether sodium-ion is feasible at this site, given the proximity to thousands of homes, a school, limited evacuation routes, and a fire district that [cannot confirm preparedness](/fire-risk#local-fire-district-cannot-confirm-preparedness) for a lithium-ion fire. Without an alternatives analysis, the chemistry question never enters the public record.
 
 ## Why did lithium-ion get commercialized first? {#why-lithium-first}
 
