@@ -30,7 +30,7 @@ These are the most significant recorded instruments for understanding the BESS p
 | Jul 2010 | PSE/David Evans Survey (Rec# 20100721900002) | Shows all project parcels within proposed City of Snoqualmie annexation area, BPA transmission towers on parcel 9102, existing easement layout. | [PDF](/assets/recorded-documents/3624079101_20100721900002_SURVEY.pdf) |
 | Nov 2012 | BPA Partial Release (Rec# 20121109001596) | BPA releases easement strip outside the Echo Lake-Monroe 500kV corridor. Main corridor easement remains. | [PDF](/assets/recorded-documents/3624079101_20121109001596_PARTIAL-RELEASE-Real-Estate-Related.pdf) |
 
-**Corporate structure:** Jupiter Power uses two entities. The 2024 agreements were through **Snoqualmie Energy Storage LLC** (sole member: Accelergen Development LLC). All 2025 agreements were through **Cascadia Ridge Resiliency LLC** (1108 Lavaca St, Austin TX). Both trace back to Jupiter Power.
+**Corporate structure:** Jupiter Power's project entity is **Cascadia Ridge Resiliency LLC** (1108 Lavaca St, Austin TX), a Delaware LLC originally formed as "Snoqualmie Energy Storage LLC" in December 2023 and renamed in June 2025. The 2024 agreements were recorded under the original name (with Accelergen Development LLC as sole member); the 2025 agreements use the current name.
 
 ---
 

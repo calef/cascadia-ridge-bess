@@ -44,7 +44,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 ## March 25, 2026
 
 - Updated SEPA comment guide to focus on the case for a full EIS (Determination of Significance). The site's challenges, from valley topography and seismic hazard to school proximity and unconfirmed fire district preparedness, require the depth of analysis only an EIS provides.
-- Published recorded land deal analysis for all 6 project parcels. Jupiter Power is using two legal entities: Snoqualmie Energy Storage LLC for the main parcel and Cascadia Ridge Resiliency LLC for the surrounding residential parcels. A sixth parcel (5 vacant acres with a transmission line easement) has been under option since March 2024 but was not in the original permit application. [Site and environment.](/site-and-environment#parcels)
+- Published recorded land deal analysis for all 6 project parcels. Jupiter Power's project entity (Cascadia Ridge Resiliency LLC, originally formed as "Snoqualmie Energy Storage LLC" and renamed June 2025) holds agreements on five parcels. A sixth parcel (5 vacant acres with a transmission line easement) has been under option since March 2024 but was not in the original permit application. [Site and environment.](/site-and-environment#parcels)
 - Sent follow-up email to Jupiter Power. Third email, second follow-up. 16 questions across three emails since March 13 with zero response.
 - Sent letters to Snoqualmie Valley School District board and Snoqualmie Valley Hospital board requesting they participate in SEPA review. SVSD board responded the same day.
 

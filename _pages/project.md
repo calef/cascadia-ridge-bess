@@ -6,7 +6,7 @@ title: "Project Overview"
 |---|---|
 | Developer | [Jupiter Power LLC](https://jupiterpower.io/) (Austin, TX; owned by [BlackRock](https://www.blackrock.com/)) |
 | Prior developer | [Accelergen Energy](https://accelergen.com/) ("Snoqualmie Energy Storage") |
-| Project entities | Snoqualmie Energy Storage LLC (main parcel), Cascadia Ridge Resiliency LLC (residential parcels). Both Delaware LLCs, Austin TX. |
+| Project entity | Cascadia Ridge Resiliency LLC (Delaware LLC, Austin TX). Originally formed as "Snoqualmie Energy Storage LLC" in December 2023, renamed June 2025. |
 | Landowners | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Nause LLC, Landgraf, Arnold |
 | Type | Battery energy storage system (BESS). Jupiter Power has stated chemistry is "expected to be lithium ion (LFP) or sodium ion" but has not committed. |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |

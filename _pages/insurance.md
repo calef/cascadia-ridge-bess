@@ -14,8 +14,6 @@ Financial responsibility bonds are priced at roughly 30-40 cents per $100 of ins
 
 Lithium-ion BESS facility insurance runs 0.3-1.2% of total project value annually. For a $100M facility, that's $300,000-1.2 million per year. Pricing depends on battery chemistry, system design, monitoring, spacing between units, and fire department coordination.
 
-Sodium-ion insurance rates have not been published yet. Insurers need several years of operational data before setting rates for a new technology. Based on the lower risk profile (no thermal runaway, passive cooling), rates are expected to be lower once data accumulates.
-
 ## The insurance market after Moss Landing
 
 Vistra wrote off $400 million from the Moss Landing fire (January 2025) and expects to recover a significant portion through property damage and business interruption insurance. Despite this, industry insurers characterize Moss Landing as "impactful but not defining," and rates have remained stable at 30-40 cents per $100 of insured value.
@@ -48,7 +46,7 @@ No federal regulator has ever reviewed Jupiter Power's corporate structure. The 
 
 King County does not require BESS developers to demonstrate financial capacity, post a decommissioning bond, provide a parent company guarantee, or disclose the capitalization of the project entity. The $1 million bond is the entire financial accountability framework.
 
-The tolling agreement between PSE and Cascadia Ridge Resiliency LLC is fully redacted in the UTC filing (Docket UE-240532). The insurance requirements, indemnification clauses, parent company guarantees (if any), and decommissioning obligations are not publicly available. PSE filed suit on April 9, 2026 (PSE v. WUTC, Thurston County Superior Court) to prevent disclosure of the unredacted agreement.
+PSE originally filed the [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) with the UTC redacted in its entirety (Docket UE-240532). A partially redacted version was later secured, but the insurance requirements, indemnification clauses, parent company guarantees (if any), and decommissioning obligations remain redacted. PSE [filed suit](/ceta#transparency) on April 9, 2026 (PSE v. WUTC, Thurston County Superior Court) to prevent further disclosure.
 
 **Sources:** Washington Secretary of State ([CCFS](https://ccfs.sos.wa.gov/), UBI 605 601 677), SEC EDGAR ([Lazard 8-K](https://www.sec.gov/Archives/edgar/data/1311370/000156459023001312/laz-ex991_6.htm), [BlackRock 8-K](https://www.sec.gov/Archives/edgar/data/1364742/000095017024004107/blk-ex99_4.htm)), [Jupiter Power $286M financing announcement](https://www.prnewswire.com/news-releases/jupiter-power-secures-286-million-construction-financing-to-advance-two-utility-scale-battery-energy-storage-projects-302404512.html), UTC Docket UE-240532.
 

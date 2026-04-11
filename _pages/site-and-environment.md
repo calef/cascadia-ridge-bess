@@ -145,7 +145,7 @@ Jupiter Power has recorded purchase or option agreements on five parcels totalin
 
 Adjacent: PSE transmission corridor (~19.5 ac, parcels 3624079030, 3624079098, 3624079099, 3624079102).
 
-Jupiter Power is using two legal entities for these deals. The main parcel (3624079039) was acquired through **Snoqualmie Energy Storage LLC**, a Delaware LLC whose sole member is Accelergen Development LLC. The surrounding residential parcels were acquired through **Cascadia Ridge Resiliency LLC**, a Delaware LLC registered to 1108 Lavaca St, Austin, TX. Both trace back to Jupiter Power.
+Jupiter Power's project entity is **Cascadia Ridge Resiliency LLC**, a Delaware LLC registered to 1108 Lavaca St, Austin, TX. The entity was originally formed as "Snoqualmie Energy Storage LLC" in December 2023 (with Accelergen Development LLC as sole member) and renamed in June 2025. The 2024 land agreements were recorded under the original name; the 2025 agreements use the current name.
 
 Parcel 3624079093 is notable: it's a 5-acre vacant lot with a transmission line easement, owned by the same Nause LLC that owns the adjacent parcel 3624079100. Jupiter Power secured an option on it the same day they signed the main purchase agreement (March 4, 2024), but it was not listed in the original permit application. It may be intended for access, buffer, or additional infrastructure.
 
