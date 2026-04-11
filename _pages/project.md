@@ -64,15 +64,17 @@ Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si
 
 ## What Jupiter Power has not disclosed
 
-As of March 2026, the following have not been publicly disclosed for the Cascadia Ridge project:
+As of April 2026, the following have not been publicly disclosed for the Cascadia Ridge project:
 
-- **Battery chemistry.** LFP or NMC? This is the single most important safety variable. It determines thermal runaway risk, toxic emission profile, and whether active cooling (and its 24/7 noise) is required. Jupiter Power's 16-page open house handout does not mention lithium-ion once. Staff told attendees the chemistry "hadn't been decided." PSE's RFP categorized every battery storage proposal, including this one, as "Battery Li-ion 4hr." The tolling agreement itself is fully redacted, so the actual contract requirements are unknown.
+- **Battery chemistry.** Jupiter Power has narrowed the field to "lithium ion (LFP) or sodium ion" (April 1, 2026) but has not committed. The choice determines thermal runaway risk, toxic emission profile, cooling requirements, and noise. PSE's [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement.pdf) is fully redacted, so the actual contract requirements are unknown. PSE has confirmed the agreement lists a specific battery brand and model number but includes "or similar technology" language.
+- **Atmospheric dispersion modeling.** No study of toxic gas concentrations at nearby schools, along Snoqualmie Parkway, or in surrounding neighborhoods under valley inversion conditions.
 - **Fire suppression system type.** Water, aerosol, hybrid? The Moss Landing fire began after a suppression system failed.
 - **Setback distances** from property lines and the nearest residences on Snoqualmie Ridge.
 - **Deflagration venting design.** The McMicken explosion in Arizona occurred when flammable gas accumulated in an unvented container.
-- **Emergency response plan.** What mutual aid agreements exist with local fire departments? Has a tabletop exercise been conducted?
+- **Emergency response plan.** What mutual aid agreements exist with local fire departments? Has a tabletop exercise been conducted? Eastside Fire & Rescue has stated it "cannot confirm" preparedness.
 - **Decommissioning plan.** How will batteries be removed and the site restored at end of life?
 - **Environmental monitoring plan.** Will there be permanent air quality monitoring at the fenceline? Soil and water monitoring near Fisher Creek?
+- **Hydrogeologic assessment.** No study of groundwater impacts despite dozens of private wells surrounding the site.
 
 Jupiter Power's project website and [open house handout](/assets/jupiter-power-open-house-handout-2026-03-17.pdf) (16 pages, PDF) focused on general BESS safety statistics and code compliance. The presentation covered industry growth, generic safety layers, and community benefits (tax revenue, park land, construction jobs) but provided no site-specific details on chemistry, noise, setbacks, or environmental risk. The handout does not mention battery chemistry once.
 
@@ -82,7 +84,7 @@ On April 6, 2026, Jupiter Power's VP of Development Hans Detweiler and lead engi
 
 - **Permit cancellation reason:** King County required "issued-for-construction" drawings that Jupiter could not produce within the county's timeline. They plan to file a clearing and grading permit instead, which will also initiate SEPA.
 - **Duration:** Either four or six hours (undecided).
-- **Gen-tie parcel:** Parcel 9030 (PSE-owned) provides the generation tie-line corridor to the substation. This is a sixth parcel subject to the project, in addition to the five BESS parcels.
+- **Gen-tie parcel:** Parcel [9030](/recorded-documents/3624079030) (PSE-owned) provides the generation tie-line corridor to the substation. This parcel is subject to the [PADA](/recorded-documents) use restrictions between PSE and the City of Snoqualmie.
 - **Noise:** Site-specific modeling shows 50 dBA or less at the property lines. The noise study will be included in the SEPA application package.
 - **Water supply:** On-site water storage tanks plus a nearby fire hydrant, described as a "belt-and-suspenders" approach being finalized with Eastside Fire & Rescue.
 - **Chemistry:** Jupiter cited sodium-ion as "not yet proven in utility-scale projects in the United States" as a factor in the decision, despite their own $500M sodium-ion supply agreement with Peak Energy.
