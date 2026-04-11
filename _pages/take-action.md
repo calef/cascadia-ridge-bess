@@ -19,18 +19,18 @@ You don't need to contact everyone. Pick the one or two that matter most to you 
 
 ### Write to King County Councilmember Sarah Perry
 
-King County has jurisdiction over the project site. [Ordinance 19824](/permitting) established the BESS regulatory framework, but the battery industry has changed since it was drafted in 2023. Sodium-ion batteries are now commercially available and eliminate thermal runaway entirely. The ordinance should be updated to reflect that shift. King County is unlikely to amend the ordinance before Jupiter refiles, but the council can shape how conditions are applied to this project and set the standard for future ones.
+King County has jurisdiction over the project site. The site raises questions about toxic gas dispersion, emergency response, seismic risk, and groundwater that a SEPA checklist cannot credibly evaluate. King County should issue a Determination of Significance and require a full Environmental Impact Statement before making a threshold determination on this project.
 
-Email Councilmember Sarah Perry (District 3, sponsor of the ordinance): [sarah.perry@kingcounty.gov](mailto:sarah.perry@kingcounty.gov)
+Email Councilmember Sarah Perry (District 3, sponsor of the [BESS ordinance](/permitting)): [sarah.perry@kingcounty.gov](mailto:sarah.perry@kingcounty.gov)
 
 Email the full council: [clerk.council@kingcounty.gov](mailto:clerk.council@kingcounty.gov)
 
-Ask them to amend the BESS ordinance to:
+Ask them to:
 
-- **Require developers to evaluate safer battery chemistries** before approving one that carries thermal runaway risk. Right now, the ordinance doesn't ask.
+- **Require a full Environmental Impact Statement** for the Cascadia Ridge project, including atmospheric dispersion modeling for toxic gases under valley inversion conditions.
+- **Require an alternatives analysis** covering battery chemistry, site configuration, and alternative locations.
 - **Scale financial responsibility with facility size.** The current requirement is the same $1 million whether the facility is 5 MW or 130 MW adjacent to thousands of homes.
-- **Require air quality monitoring at the property line** for facilities adjacent to residential areas.
-- **Require atmospheric modeling** for sites in constrained valleys like the Snoqualmie Valley, where temperature inversions can trap smoke and toxic gas close to the ground.
+- **Require permanent fenceline air quality monitoring** for facilities adjacent to residential areas.
 - **Require seismic risk assessment** for the Southern Whidbey Island Fault, which is mapped directly through the valley.
 
 ### Write to Puget Sound Energy
@@ -44,7 +44,7 @@ Email: [communityengagement@pse.com](mailto:communityengagement@pse.com)
 Ask them:
 
 - **Why was Mt. Si selected** after PSE's own siting study screened it out? What changed between 2021 and 2024?
-- **Does the contract require lithium-ion**, or could it be met with a safer chemistry like sodium-ion? Jupiter Power already has a [$500M sodium-ion supply agreement](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) with Peak Energy for other projects.
+- **Does PSE support a full Environmental Impact Statement** for this project, given the site constraints their own siting study identified?
 - **Will PSE release** the fire prevention, gas detection, and cooling system plans that their own 2021 RFP required BESS developers to provide?
 
 ### Write to the Snoqualmie City Council
@@ -55,7 +55,7 @@ Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
 
 Ask them to:
 
-- **Pass a moratorium** on utility-scale battery chemistries with thermal runaway risk within city limits, and **send a letter to King County** requesting the same standard for unincorporated areas where this project is sited. Three other King County cities (Covington, Enumclaw, Black Diamond) have already passed total BESS moratoriums.
+- **Send a letter to King County requesting a full Environmental Impact Statement** for the Cascadia Ridge project. Three other King County cities (Covington, Enumclaw, Black Diamond) have already passed BESS moratoriums. A formal EIS request is a measured step that does not prejudge the outcome.
 - **Enforce the existing development agreement restrictions** on the PSE corridor parcels. Construction traffic for the BESS project is not authorized under those agreements, and the city has standing to say so.
 - **Direct staff to formally participate in the SEPA review** when Jupiter Power refiles.
 - **Evaluate whether the city should annex the project parcels.** The [Snoqualmie 2044 Comprehensive Plan](https://snoqualmiewa.gov/1070/Snoqualmie-Comprehensive-Plan-2044) designates this land for business park and mixed use, not industrial battery storage. Annexation would make that designation enforceable.
@@ -71,9 +71,10 @@ Email the school board: [svsdinfo@svsd410.org](mailto:svsdinfo@svsd410.org)
 
 Ask them to:
 
-- **Prepare to participate in the SEPA review** when Jupiter Power refiles. A comment from the school district on student safety carries institutional weight that individual comments cannot.
-- **Evaluate emergency preparedness** for a battery fire during school hours. If hydrogen fluoride is produced, what is the protocol for students and staff? Can school HVAC systems switch to recirculation mode? What are the evacuation options?
-- **Review the Kent School District's response** to a similar proposal near Mattson Middle School. The Kent board passed a formal resolution opposing that project on student safety grounds.
+- **Request a full Environmental Impact Statement** from King County based on student safety concerns. A school district asking for rigorous environmental review carries institutional weight that individual comments cannot.
+- **Prepare to submit formal SEPA comments** when Jupiter Power refiles, focusing on atmospheric dispersion modeling, shelter-in-place feasibility, and evacuation during school hours.
+- **Evaluate emergency preparedness** for a battery fire during school hours. Can school HVAC systems switch to recirculation mode? What are the evacuation options if Snoqualmie Parkway is within a toxic plume?
+- **Review the Kent School District's response** to a similar proposal near Mattson Middle School. The Kent board passed a formal resolution on student safety grounds.
 
 ### Write to Snoqualmie Valley Hospital
 

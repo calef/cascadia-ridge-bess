@@ -2,59 +2,61 @@
 title: "What We're Asking"
 ---
 
-PSE needs grid storage. Washington's [CETA](/ceta) targets require it, and the Mt. Si substation next door makes this a reasonable interconnection point.
+We support Washington's clean energy goals and recognize that battery storage is part of the state's strategy for meeting the [Clean Energy Transformation Act (CETA)](/ceta) requirements. PSE needs grid storage, and the Mt. Si substation next door is a real interconnection point.
 
-These are the questions we think should be answered before this project moves forward.
+But this site has serious problems. From constrained valley topography and seismic hazards to limited evacuation routes, unproven emergency response capacity, and proximity to schools and thousands of homes, the questions about whether a battery storage facility can operate safely here are too significant for a checklist-level environmental review to answer. That is why we are asking King County to issue a **Determination of Significance** and require a **full Environmental Impact Statement (EIS)** before making a threshold determination on this project.
 
-## Battery chemistry
+We are not asking King County to deny the project. We are asking for the level of review that a project of this scale, in this location, requires. An EIS is the process designed to answer these questions. A SEPA checklist is not.
 
-Jupiter Power's own [$500M Peak Energy contract](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) is for sodium-ion batteries. Peak Energy's NFPP chemistry has shown no thermal runaway in abuse testing and would eliminate or significantly reduce:
+## Why a full EIS is necessary
 
-- Thermal runaway, the mechanism behind every major BESS fire
-- Hydrogen fluoride and heavy metal emissions
-- Round-the-clock cooling fan noise (sodium-ion uses passive cooling)
+The proposed facility would be the largest BESS in western Washington, sited in a constrained river valley adjacent to thousands of homes. The site raises questions across multiple environmental categories that a checklist cannot credibly evaluate:
 
-The facility won't be operational until late 2028. Sodium-ion will be commercially available before then. Why isn't it being used here?
+### Toxic gas dispersion in a constrained valley
 
-## Noise
+Battery energy storage systems using lithium-ion and most other commercially available chemistries can undergo thermal runaway, a self-sustaining chemical reaction that produces hydrogen fluoride (HF) and other toxic gases. HF is immediately dangerous to life and health at 30 ppm (NIOSH). [Larsson et al. (2017)](/assets/larsson-2017-hf-emissions.pdf) measured 20-200 mg of HF per Wh of capacity; even a fire involving a small fraction of this facility could produce quantities of HF that exceed IDLH concentrations over a significant area.
 
-Lithium-ion systems require active cooling: fans and HVAC running 24 hours a day, 7 days a week, for the life of the facility. Under K.C.C. 12.86 and WAC 173-60-040, the nighttime noise limit for an industrial source at the nearest residential property line is 50 dBA, reduced to 45 dBA when the pure tone penalty applies (likely with inverters and cooling fans). King County's own [SEPA checklist for Ordinance 19824](https://mkcclegisearch.kingcounty.gov/View.ashx?M=F&ID=13337053&GUID=2C6C44EC-5191-4B69-9E74-7CA9F2A1E06F) cited two California noise studies showing 85-87 dBA at the system boundary for comparable facilities. The Greenwater BESS SEPA checklist in Pierce County reported 87 dBA at 125 feet and 65 dBA at 1,500 feet under worst-case conditions with all HVAC units running. At the approximate distance from Cascadia Ridge to the nearest homes, those numbers far exceed both the nighttime and pure-tone-adjusted limits. Sodium-ion uses passive cooling only, with no fans and no HVAC. No noise study has been submitted. Will this facility comply with King County's nighttime noise limits?
+The Snoqualmie Valley's topography, a ridge-bounded river valley subject to frequent temperature inversions, traps airborne emissions close to the ground rather than dispersing them. No atmospheric dispersion modeling has been conducted for this site. Nobody has studied what toxic gas concentrations would look like at nearby schools, along Snoqualmie Parkway, or in surrounding neighborhoods during a fire event under inversion conditions.
 
-## Evacuation plan
+### School proximity
 
-The City of Snoqualmie's ESF #16 Evacuation Plan (November 2017) does not contemplate an industrial toxic release from an adjacent facility. Its listed trigger events are earthquakes, floods, mudslides, dam failure, and terrorism. The plan acknowledges limited police staffing for large-scale evacuations and dependence on infrastructure the city doesn't control. Snoqualmie Ridge has two primary evacuation routes, and unincorporated residents downhill of the site have even fewer options. A toxic plume trapped by a valley inversion would not stop at municipal boundaries. Has anyone evaluated whether the existing evacuation infrastructure can handle a toxic release from a 130 MW lithium-ion facility in the middle of this valley?
+Cascade View Elementary is approximately half a mile from the proposed facility. District school bus routes on Snoqualmie Parkway pass within 500 feet of the site boundary. PSE's own [2021 siting study](/project#siting-study) flagged schools as making a location "less desirable" for energy storage, and Mt. Si was screened out of that study's recommended locations.
 
-## Why the code matters more than promises
+No BESS-specific emergency preparedness assessment has been conducted for the school district.
 
-At the March 23 council meeting, roughly two-thirds of the concerns raised by speakers were directly tied to lithium-ion chemistry: thermal runaway, hydrogen fluoride exposure, contaminated runoff, noise from active cooling, evacuation from a toxic release, earthquake-to-fire risk, emergency response to a chemical event. All of these go away or are substantially reduced with sodium-ion.
+### Emergency response and evacuation
 
-So why not just ask Jupiter Power to use sodium-ion?
+Eastside Fire & Rescue Chief Will Aho stated in writing on April 6, 2026 that "Eastside Fire & Rescue cannot confirm that we are fully prepared today to mitigate an incident of this type and scale."
 
-Because there is no enforcement mechanism for a voluntary commitment. What a developer says at an open house or writes on a website is not a permit condition. PSE's RFP categorized every battery storage proposal as "Battery Li-ion 4hr," and the tolling agreement is fully redacted, so the actual contract requirements are unknown. Under current regulation, the community has no mechanism to:
+The City of Snoqualmie's ESF #16 Evacuation Plan (November 2017) does not contemplate an industrial toxic release from an adjacent facility. The plan acknowledges that school buses "may not have staffing to operate them" during an evacuation and that "there may be times where there is too little or too late of notice to successfully evacuate all or certain parts of the population." Snoqualmie Ridge has two primary evacuation routes, and unincorporated residents downhill of the site have even fewer options.
 
-- Require a specific battery chemistry
-- Enforce ongoing compliance with voluntary safety standards
-- Compel augmentation with equivalent-safety replacement batteries
-- Prevent chemistry changes over the facility lifetime
-- Mandate independent third-party safety audits
+### Seismic hazard
 
-The developer may reference NFPA 855 or UL 9540A compliance, but these are not mandated under current King County permitting. Compliance is self-reported, not independently audited. And because no regulation constrains the chemistry, the developer could install NMC, NCA, LFP, or any commercially available lithium-ion variant, and change it during augmentation over the facility's 30-year life.
+The Snoqualmie Valley is exposed to the [Southern Whidbey Island Fault](https://washingtondnr.wpcomstaging.com/2009/09/11/southern-whidbey-island-fault-zone-mapped-through-snoqualmie-valley/) (mapped through the valley, M6.5-7.4), the Seattle Fault (M7.0-7.5), and the Cascadia Subduction Zone (M9.0+). [USGS Fact Sheet 2025-3050](https://doi.org/10.3133/fs20253050) puts the 50-year probabilities for the Puget Sound region at 85% for a M6.5+ deep earthquake and 17% for a M6.5+ crustal fault earthquake. Nobody has modeled the full chain: earthquake damages cells, thermal runaway, fire, contaminated runoff into Fisher Creek, all while evacuation routes may be damaged.
 
-Voluntary commitments are not enforceable. Code requirements are. That is why the ordinance amendments below matter: they turn "why aren't you using sodium-ion?" from a question nobody has to answer into a question the permit process requires them to answer.
+### Groundwater and private wells
 
-## Ordinance amendments
+The project site is surrounded by dozens of private domestic wells (31 in the quarter section downhill to the southwest alone). Contaminated firefighting runoff from a battery fire could migrate through soil to groundwater. No hydrogeologic assessment has been submitted.
 
-[Ordinance 19824](/permitting) was a strong first step. It passed 8-1 and established the first BESS regulatory framework in unincorporated King County. But the battery industry has changed since it was drafted in 2023. When the Council passed the ordinance, lithium-ion was effectively the only commercially available option for utility-scale storage. That is no longer the case. The ordinance should be updated to reflect the current state of the technology.
+### Development agreement constraints
 
-**Condition 29** requires an alternatives analysis covering location, demand management, social and economic impacts, environmental impacts, and public involvement. It does not address battery chemistry. For a site adjacent to thousands of homes, the choice between a chemistry that can produce uncontrollable fires and toxic gas and one that cannot is the most consequential design decision. The ordinance should require developers to evaluate non-flammable chemistry alternatives and justify any decision to use a chemistry with thermal runaway risk.
+Parcel 3624079030, confirmed by Jupiter Power as the project's generation tie-line corridor, is explicitly listed in the [Pre-Annexation Development Agreement](/recorded-documents) (PADA) between PSE and the City of Snoqualmie. The PADA limits the PSE corridor parcels to PSE utility infrastructure. A third-party developer's generation tie-line may not be consistent with those restrictions.
 
-**Section 17.B** sets financial responsibility at $1 million for any BESS with thermal runaway risk. That threshold is the same for a 5 MW facility and a 130 MW facility next to a residential community. An earlier draft of the ordinance required financial responsibility "based on a study of maximum potential damages." The adopted version replaced that with a flat $1 million cap. The Moss Landing cleanup required EPA to invoke CERCLA (Superfund) authority and order Vistra to remove approximately 100,000 battery modules, roughly 55% of which were damaged. The total cost has not been disclosed, but the scale of the federal response makes clear it is orders of magnitude above $1 million. The damages-based approach in the original draft was the right one. Financial responsibility should scale with facility capacity and proximity to residential areas.
+### PSE's own siting study screened out this location
 
-**Section 19** requires a study report within three years (~September 2027) evaluating technology changes and whether the financial responsibility levels are adequate. Cascadia Ridge is providing that answer ahead of schedule. The first major project through the ordinance is demonstrating exactly the gaps the study was designed to find.
+PSE's [2021 siting study](/project#siting-study) screened all 382 substations and identified 15 recommended locations for energy storage. Mt. Si was not one of them. It did not even pass initial screening. Four years later, PSE signed a tolling agreement for a 130 MW facility at the location its own consultant rejected on the merits.
 
-The ordinance also has no requirement for **permanent fenceline air quality monitoring**, **terrain-specific dispersion modeling** for constrained valleys where inversions trap emissions, or **seismic risk assessment** that models the full chain from earthquake through thermal runaway to contaminated runoff into adjacent waterways.
+## What we are asking King County to do
 
-## Tree retention
+1. **Issue a Determination of Significance** and require a full Environmental Impact Statement, including atmospheric dispersion modeling for toxic gases under valley inversion conditions with receptor points at Cascade View Elementary and along school bus routes.
 
-Critical area buffers protect the north and east edges. The west side, facing the backyards of homes on Bracken Place SE and SE Center Street, has no buffer protection. The existing trees provide a visual and physical screen between the facility and the neighborhood. Will they be retained?
+2. **Require an alternatives analysis** covering battery chemistry, site configuration, and alternative locations, so the community and permitting authority can evaluate whether public safety can be assured under any project configuration.
+
+3. **Require a site-specific emergency response plan** developed in coordination with the school district, Eastside Fire & Rescue, and the City of Snoqualmie, with provisions for school notification, shelter-in-place activation, and evacuation during school hours.
+
+4. **Scale financial responsibility with facility size.** The current requirement is the same $1 million whether the facility is 5 MW or 130 MW adjacent to thousands of homes. An earlier draft of [Ordinance 19824](/permitting) required financial responsibility "based on a study of maximum potential damages." The Moss Landing cleanup required EPA to invoke CERCLA (Superfund) authority. Financial responsibility should scale with facility capacity and proximity to residential areas.
+
+5. **Require permanent fenceline air quality monitoring** for facilities adjacent to residential areas.
+
+6. **Retain existing trees** on the west side of the site, facing the backyards of homes on Bracken Place SE and SE Center Street, where no critical area buffer protection exists.
 

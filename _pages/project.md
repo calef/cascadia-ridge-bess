@@ -8,7 +8,7 @@ title: "Project Overview"
 | Prior developer | [Accelergen Energy](https://accelergen.com/) ("Snoqualmie Energy Storage") |
 | Project entities | Snoqualmie Energy Storage LLC (main parcel), Cascadia Ridge Resiliency LLC (residential parcels). Both Delaware LLCs, Austin TX. |
 | Landowners | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Nause LLC, Landgraf, Arnold |
-| Type | Lithium-ion battery energy storage (BESS) |
+| Type | Battery energy storage system (BESS). Jupiter Power has stated chemistry is "expected to be lithium ion (LFP) or sodium ion" but has not committed. |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
 | Site | ~45 acres across [5 parcels](/site-and-environment#parcels), unincorporated King County. A sixth parcel, [3624079030](/recorded-documents/3624079030) (PSE-owned, ~5 ac), provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
 | Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
@@ -24,8 +24,8 @@ title: "Project Overview"
 
 ## What the facility would include
 
-- Lithium-ion battery modules housed in prefabricated enclosures (standard utility-scale BESS design)
-- Thermal management / cooling systems (fans, HVAC, running 24/7)
+- Battery modules housed in prefabricated enclosures (standard utility-scale BESS design)
+- Thermal management / cooling systems (type depends on battery chemistry selected)
 - Fire detection and suppression equipment
 - Inverters, transformers, and substation
 - Perimeter fencing and security gates
@@ -88,7 +88,7 @@ On April 6, 2026, Jupiter Power's VP of Development Hans Detweiler and lead engi
 - **Chemistry:** Jupiter cited sodium-ion as "not yet proven in utility-scale projects in the United States" as a factor in the decision, despite their own $500M sodium-ion supply agreement with Peak Energy.
 - **Ownership transfer:** If the project changes hands, the project company (Cascadia Ridge Resiliency LLC) would be sold as an entity, keeping financial responsibility within the project company.
 
-Lithium-ion is the industry's current preferred technology for utility-scale storage, and no existing King County regulation prevents its installation at this site. The BESS ordinance (Ordinance 19824) does not restrict battery chemistry. The [SEPA environmental review](/sepa-comments) is the mechanism that can change this.
+Regardless of which battery chemistry is selected, the site raises questions about toxic gas dispersion, emergency response, seismic risk, and groundwater that a SEPA checklist cannot credibly evaluate. That is why we are asking King County to require a [full Environmental Impact Statement](/what-we-are-asking).
 
 ## Community response
 
