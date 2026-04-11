@@ -20,7 +20,7 @@ title: "Project Overview"
 | Development footprint | ~30 of the 45 acres (per Jupiter Power's March 17 presentation) |
 | Contact | Gage Fuller, [cascadiaridge@jupiterpower.io](mailto:cascadiaridge@jupiterpower.io) |
 
-*Tax revenue estimate depends on pending state legislation [HB 1960 (Ramel)](https://app.leg.wa.gov/billsummary?BillNumber=1960&Year=2025). If the bill does not pass, these numbers do not apply.*
+*Tax revenue estimate is based on [HB 1960 (Ramel)](https://app.leg.wa.gov/billsummary?BillNumber=1960&Year=2025), signed into law April 1, 2026 (Chapter 260, 2026 Laws, effective January 1, 2028). The law replaces personal property tax on qualifying renewable energy and battery storage facilities with a state and local excise tax.*
 
 ## What the facility would include
 
