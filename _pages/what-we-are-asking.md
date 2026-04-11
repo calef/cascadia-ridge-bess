@@ -38,10 +38,6 @@ The Snoqualmie Valley is exposed to the [Southern Whidbey Island Fault](https://
 
 The project site is surrounded by dozens of private domestic wells (31 in the quarter section downhill to the southwest alone). Contaminated firefighting runoff from a battery fire could migrate through soil to groundwater. No hydrogeologic assessment has been submitted.
 
-### Development agreement constraints
-
-Parcel 3624079030, confirmed by Jupiter Power as the project's generation tie-line corridor, is explicitly listed in the [Pre-Annexation Development Agreement](/recorded-documents) (PADA) between PSE and the City of Snoqualmie. The PADA limits the PSE corridor parcels to PSE utility infrastructure. A third-party developer's generation tie-line may not be consistent with those restrictions.
-
 ### PSE's own siting study screened out this location
 
 PSE's [2021 siting study](/project#siting-study) screened all 382 substations and identified 15 recommended locations for energy storage. Mt. Si was not one of them. It did not even pass initial screening. Four years later, PSE signed a tolling agreement for a 130 MW facility at the location its own consultant rejected on the merits.
