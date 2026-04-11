@@ -46,7 +46,7 @@ Every single battery storage proposal was lithium-ion, 4-hour duration. All 47 s
 
 That's because the RFP closed in September 2024, before sodium-ion reached commercial scale. PSE selected from what was offered. They didn't have a chemistry choice.
 
-But the technology landscape has changed since then. Peak Energy [delivered the first US grid-scale sodium-ion system](https://www.prnewswire.com/news-releases/peak-energy-delivers-first-grid-scale-sodium-ion-battery-storage-system-in-the-us-302519228.html) in 2025, CATL is mass-producing sodium-ion cells in 2026, and Jupiter Power has already contracted for 4.75 GWh of Peak Energy sodium-ion for other projects. The Cascadia Ridge tolling agreement was signed in August 2025 and the facility won't come online until late 2028. The contract was based on 2024 options, but the chemistry choice no longer is.
+The technology landscape has changed since the RFP closed. Peak Energy [delivered the first US grid-scale sodium-ion system](https://www.prnewswire.com/news-releases/peak-energy-delivers-first-grid-scale-sodium-ion-battery-storage-system-in-the-us-302519228.html) in 2025, CATL is mass-producing sodium-ion cells in 2026, and Jupiter Power has already contracted for 4.75 GWh of Peak Energy sodium-ion for other projects. A full [EIS alternatives analysis](/what-we-are-asking) would require evaluation of whether commercially available chemistries that eliminate thermal runaway are feasible at this site. Without an EIS, that question never enters the public record.
 
 WA standalone battery proposals ranged from 40 MW to 400 MW. Cascadia Ridge at 130 MW is mid-range. Five gas plant proposals (171-215 MW) were also submitted, the fossil peakers CETA is supposed to replace.
 
@@ -81,7 +81,7 @@ PSE's evaluation literally did not ask what kind of battery would be installed i
 
 ### Transparency
 
-PSE designated the Cascadia Ridge tolling agreement as confidential in its entirety under WAC 480-07-160. The executed agreement filed with the UTC is fully redacted. No pricing, payment terms, technical specifications, or battery chemistry requirements are publicly available. The Dry Falls energy storage tolling agreement, the only other BESS agreement filed from this RFP, is also redacted in its entirety.
+PSE originally filed the Cascadia Ridge [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) with the UTC redacted in its entirety under WAC 480-07-160. A partially redacted version was later secured, but pricing, payment terms, technical specifications, and battery chemistry requirements remain redacted. PSE filed suit on April 9, 2026 (PSE v. WUTC, Thurston County Superior Court) to prevent further disclosure. The Dry Falls energy storage tolling agreement, the only other BESS agreement filed from this RFP, is also redacted in its entirety.
 
 UTC Commission Staff filed [comments on the 2021 RFP process](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=226&year=2021&docketNumber=210220) on March 20, 2025 that directly addressed this pattern. Staff wrote that "some information that PSE redacted in the IE's final report **does not appear to Staff to be commercially sensitive**" and encouraged PSE to be "*judicious in its redactions* to *ensure meaningful transparency* for customers, interested persons, and the public." NIPPC separately noted in its [March 24 comments](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=228&year=2021&docketNumber=210220) that it could not submit extensive comments because it "does not have access to the confidential information."
 
@@ -99,10 +99,10 @@ CETA creates a specific timeline for PSE, but grid storage is being built across
 
 Battery costs have dropped roughly 90% in the last decade. The federal Inflation Reduction Act provides standalone storage tax credits. FERC Order 841 opened wholesale electricity markets to storage. These trends don't depend on CETA.
 
-This matters because the debate isn't whether to build storage. Storage is inevitable. The debate is what chemistry goes in it. That question applies whether the driver is CETA compliance or market economics.
+The debate isn't whether to build storage. Storage is inevitable. The debate is whether a 130 MW facility can operate safely at this particular site, adjacent to thousands of homes in a constrained valley. That question requires the level of analysis only a [full Environmental Impact Statement](/what-we-are-asking) can provide.
 
 ## Our position
 
-We support grid storage. It's needed for CETA compliance, and it makes economic sense. The Mt. Si substation next to the Cascadia Ridge site is a real interconnection point, but PSE's own [siting consultant screened it out](/project#siting-study) on electrical criteria before community factors were even evaluated. The study's "Good Neighbor" test separately flagged residential areas, schools, and hospitals as making a location less desirable. With a chemistry that eliminates thermal runaway and doesn't require active cooling, those concerns shrink. With lithium-ion, they don't. The question isn't whether to build storage. It's what kind of battery to put in the Snoqualmie Valley, adjacent to more than 11,000 residents.
+We support grid storage. It's needed for CETA compliance, and it makes economic sense. The Mt. Si substation next to the Cascadia Ridge site is a real interconnection point. But PSE's own [siting consultant screened it out](/project#siting-study) on electrical criteria before community factors were even evaluated, and the study's "Good Neighbor" test would also flag what surrounds it: residential areas, schools, and limited evacuation routes. The site raises questions about toxic gas dispersion, seismic hazard, emergency response, and groundwater that a SEPA checklist cannot credibly evaluate. We are asking King County to require a [full Environmental Impact Statement](/what-we-are-asking) before permitting this project.
 
 [What we're asking for](/what-we-are-asking) · [Battery technology](/battery-technology)

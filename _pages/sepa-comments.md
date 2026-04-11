@@ -43,7 +43,7 @@ Under WAC 197-11-330, "significant" means "a reasonable likelihood of more than 
 - **(c) Cumulative impacts.** Several individually marginal impacts, considered together, may add up to a significant impact.
 - **(d) Uncertainty.** Where impacts cannot be forecast with precision because variables cannot be predicted or quantified, that uncertainty itself weighs toward a finding of significance.
 
-Factor (d) is important here. Jupiter Power has not disclosed the battery chemistry, the fire suppression system type, the emergency response plan, or the atmospheric dispersion characteristics at this site. When the developer hasn't provided enough information to evaluate impacts, the responsible official cannot responsibly issue a DNS.
+Factor (d) is important here. Jupiter Power has not committed to a battery chemistry (stating it is "expected to be lithium ion (LFP) or sodium ion"), has not disclosed the fire suppression system type, the emergency response plan, or the atmospheric dispersion characteristics at this site. When the developer hasn't provided enough information to evaluate impacts, the responsible official cannot responsibly issue a DNS.
 
 ## What makes a comment effective
 

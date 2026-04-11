@@ -96,7 +96,7 @@ Conditions that were **not** imposed at Hillsboro but are relevant to Cascadia R
 
 ### The lesson
 
-Public comment alone does not stop these projects when the code allows them. The path to a different outcome runs through changing the regulatory framework (ordinance amendments, annexation) and using SEPA to force conditions the project cannot meet in its current form. That's what we're focused on.
+Public comment alone does not stop these projects when the code allows them. The path to a different outcome runs through the SEPA process: building a comment record strong enough to compel a Determination of Significance and [full Environmental Impact Statement](/what-we-are-asking). That's what we're focused on.
 
 ## Oyster Bay, NY — Jupiter Power (withdrawn)
 
@@ -122,7 +122,7 @@ After increasing setbacks from 300 to 500 feet, the city's own suitability analy
 
 The result: lithium-ion is banned, the recommended alternative is impractical, and the only eligible site has already been rejected. That's a de facto ban, not a technology standard.
 
-**Our position is different.** The electrical interconnection at Mt. Si makes sense, but PSE's own siting consultant [screened it out](/project#siting-study) on electrical criteria, and the study's "Good Neighbor" test would also flag what surrounds it. With safer chemistry, the site becomes viable. We're asking Jupiter Power to use the sodium-ion technology they're already investing in. Vacaville shows that chemistry-specific regulation can survive a council vote. What it doesn't show is how to do it in a way that actually allows storage to get built.
+**Our position is different.** We're not asking for a chemistry ban or a moratorium. We're asking King County to require a [full Environmental Impact Statement](/what-we-are-asking) that would evaluate the site-specific risks and require an alternatives analysis, including battery chemistry. Vacaville shows that chemistry-specific regulation can survive a council vote. An EIS alternatives analysis achieves the same scrutiny through the environmental review process rather than through legislation.
 
 Note: multiple BESS projects are advancing through California's AB 205 alternate permitting pathway at the state level, which could override local restrictions. Washington's equivalent is EFSEC.
 
