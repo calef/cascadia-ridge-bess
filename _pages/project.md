@@ -64,7 +64,7 @@ Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si
 
 As of April 2026, the following have not been publicly disclosed for the Cascadia Ridge project:
 
-- **Battery chemistry.** Jupiter Power has narrowed the field to "lithium ion (LFP) or sodium ion" (April 1, 2026) but has not committed. The choice determines thermal runaway risk, toxic emission profile, cooling requirements, and noise. PSE's [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement.pdf) is fully redacted, so the actual contract requirements are unknown. PSE has confirmed the agreement lists a specific battery brand and model number but includes "or similar technology" language.
+- **Battery chemistry.** Jupiter Power has narrowed the field to "lithium ion (LFP) or sodium ion" (April 1, 2026) but has not committed. The choice determines thermal runaway risk, toxic emission profile, cooling requirements, and noise. PSE's [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) is largely redacted, so the actual contract requirements are unknown. PSE has confirmed the agreement lists a specific battery brand and model number but includes "or similar technology" language.
 - **Atmospheric dispersion modeling.** No study of toxic gas concentrations at nearby schools, along Snoqualmie Parkway, or in surrounding neighborhoods under valley inversion conditions.
 - **Fire suppression system type.** Water, aerosol, hybrid? The Moss Landing fire began after a suppression system failed.
 - **Setback distances** from property lines and the nearest residences on Snoqualmie Ridge.

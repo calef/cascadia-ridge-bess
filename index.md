@@ -3,7 +3,7 @@ layout: default
 title: "Cascadia Ridge BESS: Community Research"
 ---
 
-[Jupiter Power LLC](https://jupiterpower.io/) wants to build a 130 MW battery storage facility on about 45 acres in unincorporated King County, on Snoqualmie Ridge. It would connect to PSE's Mt. Si substation via a 115kV tie-line.
+[Jupiter Power LLC](https://jupiterpower.io/) wants to build a 130 MW battery storage facility on about 50 acres across six parcels in unincorporated King County, on Snoqualmie Ridge. It would connect to PSE's Mt. Si substation via a 115kV tie-line.
 
 [![Annotated parcel map showing BESS parcels, PSE corridor, and Mt. Si substation](/assets/parcel-map-annotated.png)](/site-and-environment#parcels)
 

@@ -8,7 +8,7 @@ description: "Recorded documents for parcel 3624079039, the main 25-acre Cascadi
 ## Parcel 3624079039 — Main project site (~25.3 ac) {#parcel-9039}
 
 **Owner:** Snoqualmie 55 LLC (Conner Homes/Burnstead entity)
-**Zoning:** UR (Unincorporated Rural)
+**Zoning:** UR (Urban Reserve)
 **Documents found:** 6
 
 | Recorded | Type | Recording # | Pages | Description | PDF |

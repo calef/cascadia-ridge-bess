@@ -4,7 +4,7 @@ title: "SEPA Outcomes for Washington BESS Projects"
 
 No battery energy storage project in Washington State has ever been required to complete a full Environmental Impact Statement. Every project that reached a SEPA threshold determination received a DNS or MDNS and was approved. The only formal appeal was denied.
 
-That doesn't mean the SEPA process is irrelevant. It means the realistic path runs through MDNS conditions, not project denial. The conditions other projects received show what's possible, and what King County should be held to.
+That doesn't mean the SEPA process is irrelevant. The conditions other projects received show what's achievable through strong public comment records. Cascadia Ridge has site-specific challenges no previous Washington BESS project has shared, which is why we are pushing for the first Determination of Significance and [full EIS](/what-we-are-asking).
 
 ## Summary
 
@@ -142,7 +142,7 @@ Every Washington BESS project that went through SEPA was approved. But Cascadia 
 
 **The developer already has a sodium-ion contract.** Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for sodium-ion batteries. A full EIS alternatives analysis would force that choice onto the record: why is a chemistry with thermal runaway risk being proposed at a site adjacent to thousands of homes when the developer is investing half a billion dollars in an alternative?
 
-**Residential zoning, not industrial.** Mt. Vernon was Heavy Industrial. Arlington was General Industrial. Cascadia Ridge is Urban Reserve, a residential-oriented zone. The hearing examiner in Mt. Vernon said the site was "exactly the right place" for a BESS. No one can say that about a site 1,500 feet from homes.
+**Residential zoning, not industrial.** Mt. Vernon was Heavy Industrial. Arlington was General Industrial. Cascadia Ridge is Urban Reserve, a residential-oriented zone. The hearing examiner in Mt. Vernon said the site was "exactly the right place" for a BESS. No one can say that about a site with homes backing up to the property line.
 
 **School proximity flagged by PSE's own criteria.** PSE's siting study criteria explicitly identify schools within one mile as making a location less desirable. Cascade View Elementary is within that radius.
 

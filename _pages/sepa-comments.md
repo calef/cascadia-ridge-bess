@@ -38,7 +38,7 @@ A DNS with no meaningful conditions, or an MDNS that does not address the site-s
 
 Under WAC 197-11-330, "significant" means "a reasonable likelihood of more than a moderate adverse impact on environmental quality." The responsible official considers several factors:
 
-- **(a) Site-specific context.** The same project may have a significant impact in one location but not another. A 130 MW lithium-ion BESS on open land miles from homes is different from one 1,500 feet from a residential community of 15,000+ people, adjacent to fish-bearing streams connected to a salmon-bearing watershed, in a valley prone to atmospheric inversions.
+- **(a) Site-specific context.** The same project may have a significant impact in one location but not another. A 130 MW BESS on open land miles from homes is different from one adjacent to a residential community of 15,000+ people, with homes backing up to the site boundary, fish-bearing streams connected to a salmon-bearing watershed, and a valley prone to atmospheric inversions.
 - **(b) Absolute effects.** The quantitative scale of impacts matters regardless of the existing environment.
 - **(c) Cumulative impacts.** Several individually marginal impacts, considered together, may add up to a significant impact.
 - **(d) Uncertainty.** Where impacts cannot be forecast with precision because variables cannot be predicted or quantified, that uncertainty itself weighs toward a finding of significance.
