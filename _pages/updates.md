@@ -37,7 +37,7 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 
 ## March 25, 2026
 
-- Updated SEPA comment guide to clarify both paths to victory: a full EIS (Determination of Significance) that forces an alternatives analysis, or an MDNS conditioned on non-thermal-runaway battery chemistry like sodium-ion. Either outcome gets the batteries changed.
+- Updated SEPA comment guide to focus on the case for a full EIS (Determination of Significance). The site's challenges, from valley topography and seismic hazard to school proximity and unconfirmed fire district preparedness, require the depth of analysis only an EIS provides.
 - Published recorded land deal analysis for all 6 project parcels. Jupiter Power is using two legal entities: Snoqualmie Energy Storage LLC for the main parcel and Cascadia Ridge Resiliency LLC for the surrounding residential parcels. A sixth parcel (5 vacant acres with a transmission line easement) has been under option since March 2024 but was not in the original permit application. [Site and environment.](/site-and-environment#parcels)
 - Sent follow-up email to Jupiter Power. Third email, second follow-up. 16 questions across three emails since March 13 with zero response.
 - Recruiting credentialed experts for SEPA comment tracks: environmental engineer (groundwater/contamination), family physician (health/air quality), mechanical engineer (failure analysis), financial advisor (economic impact).

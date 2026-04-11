@@ -20,19 +20,19 @@ Public comments submitted during the 14-day window go directly to the responsibl
 
 ## What a good outcome looks like
 
-The core problem is lithium-ion chemistry at this site. Lithium-ion thermal runaway produces hydrogen fluoride gas, requires active cooling (24/7 noise), and creates contamination risks for Fisher Creek and domestic wells. Sodium-ion batteries do the same job with no thermal runaway, passive cooling, and no toxic emission profile. Jupiter Power has already signed a [$500M sodium-ion contract with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for other projects. The technology exists. The question is whether the permit process requires it here.
+This site has problems that go beyond battery chemistry. The constrained valley topography traps emissions under temperature inversions. Cascade View Elementary is half a mile away, with school bus routes within 500 feet. Eastside Fire & Rescue cannot confirm preparedness. The city's evacuation plan does not address an industrial toxic release. The Southern Whidbey Island Fault is mapped through the valley. Dozens of private wells surround the site. PSE's own siting study screened out Mt. Si on the merits. These are questions a checklist cannot credibly evaluate.
 
-Either of these SEPA outcomes gets the batteries changed:
+**Determination of Significance (DS) / full EIS.** This is what we are asking for. A DS triggers a full Environmental Impact Statement, which requires:
 
-**Determination of Significance (DS) / full EIS.** This is the strongest outcome. A DS triggers a full Environmental Impact Statement, which requires a formal **alternatives analysis** covering alternative technologies, alternative sites, and the no-action alternative. That puts the chemistry choice on the record and forces Jupiter Power to justify using lithium-ion when a non-thermal-runaway alternative is commercially available. A full EIS also means:
-
+- A formal **alternatives analysis** covering alternative technologies, alternative sites, and the no-action alternative
 - Independent analysis of fire risk, toxic emissions, noise, stormwater, habitat, seismic hazard, and cumulative effects
+- **Atmospheric dispersion modeling** for toxic gases under valley inversion conditions
 - Additional public comment periods (scoping, and 30 days for the draft EIS)
-- Disclosure of information Jupiter Power has not provided: battery chemistry, setback distances, fire suppression design, emergency response plan, decommissioning plan, and atmospheric dispersion modeling
+- Disclosure of information Jupiter Power has not provided: setback distances, fire suppression design, emergency response plan, decommissioning plan, and noise study results
 
-**Mitigated DNS (MDNS) with chemistry conditions.** If King County issues an MDNS instead of a DS, the outcome depends on the conditions. An MDNS that requires a non-thermal-runaway chemistry (like sodium-ion) with passive cooling would address the primary risks this community has raised. Most of the concerns voiced at the March 23 council meeting, thermal runaway, hydrogen fluoride exposure, contaminated runoff, noise from active cooling, earthquake-to-fire risk, go away with the right chemistry.
+A full EIS does not kill the project. It forces the questions to be answered before the project is approved, not after. If the project can demonstrate that it operates safely at this location, the EIS will show that. If it cannot, the community deserves to know before a permit is issued.
 
-A DNS with no meaningful conditions, or an MDNS that only nibbles at the margins, leaves lithium-ion in place with all of its associated risks. That is the outcome the SEPA comments are designed to prevent.
+A DNS with no meaningful conditions, or an MDNS that does not address the site-specific risks identified above, is the outcome the SEPA comments are designed to prevent.
 
 ## The legal standard
 
@@ -55,7 +55,7 @@ The responsible official is required to consider your comment, but it needs to g
 
 **Cite evidence.** Published studies, government data, comparable incidents, and professional expertise all strengthen your comment. If you're a credentialed professional (physician, engineer, geologist, ecologist), say so.
 
-**Ask for specific studies or disclosures.** Don't just say the impact is bad. Ask King County to require the developer to produce specific information: a site-specific seismic hazard assessment, atmospheric dispersion modeling for HF under inversion conditions, a noise study demonstrating compliance with K.C.C. 12.86, an alternatives analysis that includes non-flammable battery chemistry.
+**Ask for specific studies or disclosures.** Don't just say the impact is bad. Ask King County to require the developer to produce specific information: a site-specific seismic hazard assessment, atmospheric dispersion modeling for HF under inversion conditions, a noise study demonstrating compliance with K.C.C. 12.86, a hydrogeologic assessment for groundwater impacts, an alternatives analysis covering battery chemistry and alternative sites.
 
 **Explain why mitigation is insufficient.** If you're arguing against a Mitigated DNS, explain why permit conditions can't adequately address the risk. For example: you can mitigate noise with a wall, but you cannot mitigate a hydrogen fluoride plume from a lithium-ion thermal runaway event with any proven technology at this scale.
 
@@ -97,13 +97,13 @@ Fire district capacity: King County Fire Protection District No. 38. No tabletop
 4. The probable adverse impact, stated with as much specificity as you can
 5. Evidence supporting your concern (data, studies, professional credentials)
 6. What you're asking King County to require (specific study, analysis, or disclosure)
-7. Your request: a Determination of Significance and full Environmental Impact Statement, or at minimum an MDNS conditioned on non-thermal-runaway battery chemistry
+7. Your request: a Determination of Significance and full Environmental Impact Statement
 
 ## What NOT to do
 
 - **Don't submit form letters.** Ten identical comments count as one. Write in your own words, even if they're brief.
 - **Don't make claims you can't support.** Our community's position is strongest when it's accurate. See our [fact-check section](/faq#fact-check) for claims that need correction.
-- **Don't undermine the case for grid storage.** Battery storage is essential infrastructure. Solar is the cheapest available generation source, but it only produces power when the sun is shining. Storage makes it available on demand, when people actually need it. Without storage, PSE either overbuilds generation at ratepayer expense or keeps fossil fuel peakers running in violation of Washington's [clean energy law](/ceta). The argument that works in SEPA is not "no BESS anywhere" but "this chemistry at this site has specific, unaddressed environmental risks." If you believe no BESS belongs here regardless of chemistry, say so in your own words. But the comments most likely to influence King County's threshold determination are the ones that identify specific probable impacts the Environmental Checklist fails to address.
+- **Don't undermine the case for grid storage.** Battery storage is essential infrastructure. Solar is the cheapest available generation source, but it only produces power when the sun is shining. Storage makes it available on demand, when people actually need it. Without storage, PSE either overbuilds generation at ratepayer expense or keeps fossil fuel peakers running in violation of Washington's [clean energy law](/ceta). The argument that works in SEPA is not "no BESS anywhere" but "this site has specific, unaddressed environmental risks that require a full EIS before a permit is issued." The comments most likely to influence King County's threshold determination are the ones that identify specific probable impacts the Environmental Checklist fails to address.
 - **Don't send your comment before the window opens.** Comments submitted outside the official comment period are not part of the administrative record. Wait for our alert.
 
 ## When you're ready
