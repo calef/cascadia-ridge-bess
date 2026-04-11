@@ -20,31 +20,15 @@ That's the core problem. The grid connection is real, but so are the siting cons
 
 ## What are the concerns? {#concerns}
 
-Community concerns span multiple categories:
-
-- **Fire and toxic emissions:** Battery energy storage systems using lithium-ion and most other commercially available chemistries can undergo thermal runaway, an uncontrolled, self-sustaining temperature rise that produces hydrogen fluoride (HF) and other toxic gases. EPRI tracks two failure metrics. For a 130 MW facility like Cascadia Ridge, the [30-year compound probability ranges from about 9% to 70%](/fire-risk) depending on which metric you use. Recent incidents at [Moss Landing, CA](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) and [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) required evacuations and EPA-ordered cleanups. [Larsson et al. (2017)](/assets/larsson-2017-hf-emissions.pdf) measured 20-200 mg of HF per Wh of capacity; even a fire involving a small fraction of this facility could produce quantities of HF that exceed IDLH concentrations over a significant area.
-- **Valley topography:** The Snoqualmie Valley is a ridge-bounded river valley subject to frequent temperature inversions that trap airborne emissions close to the ground. No atmospheric dispersion modeling has been conducted for this site.
-- **School proximity:** Cascade View Elementary is half a mile away. School bus routes on Snoqualmie Parkway pass within 500 feet of the site boundary. No BESS-specific emergency preparedness assessment has been done for the school district.
-- **Emergency response:** Eastside Fire & Rescue's chief has stated in writing that the district "cannot confirm" preparedness for an incident of this type and scale. The city's evacuation plan (2017) does not address an industrial toxic release.
-- **Seismic hazard:** The Southern Whidbey Island Fault is mapped through the valley. Nobody has modeled the full chain from earthquake through thermal runaway to contaminated runoff into adjacent waterways.
-- **Groundwater:** Dozens of private wells surround the site. No hydrogeologic assessment has been submitted.
-- **Proximity** to neighborhoods, parks, schools, private wells, and fish-bearing streams connected to the Snoqualmie River salmon watershed.
-- **Land use:** Snoqualmie's Comprehensive Plan designates this land for business park and mixed use, not industrial battery storage.
-- **Noise:** Lithium-ion systems require active cooling: fans and HVAC running around the clock. No noise study has been submitted.
+The site raises questions across toxic gas dispersion, school proximity, emergency response, seismic hazard, groundwater, noise, and land use compatibility. The common thread is that none of these have been adequately studied for this location. See [What We're Asking](/what-we-are-asking#why-a-full-eis-is-necessary) for the full list and the evidence behind each one.
 
 ## Who will decide whether the proposed BESS project will be approved? {#who-decides}
 
-**King County.** The site is in unincorporated King County, so the City of Snoqualmie has no permitting authority even though Snoqualmie Valley residents, including those on Snoqualmie Ridge and in surrounding unincorporated areas, are the most directly affected. Under the site's UR zoning and [King County Ordinance 19824](/permitting), BESS is a permitted use. No Conditional Use Permit and no public hearing are required. The main avenue for public input is the **14-day SEPA comment period** that opens when Jupiter Power files a new permit application.
-
-The City of Snoqualmie has identified this area as a potential annexation area. If annexed, the city's Comprehensive Plan would apply, and it designates this land for business park and mixed use, not industrial battery storage.
+**King County.** The site is in unincorporated King County, so the City of Snoqualmie has no permitting authority even though Snoqualmie Valley residents are the most directly affected. BESS is a permitted use under the site's UR zoning. No public hearing is required. The main avenue for public input is the **14-day SEPA comment period** that opens when Jupiter Power files a new permit application. See [permitting](/permitting) for the full regulatory framework and [how to write a SEPA comment](/sepa-comments) to prepare.
 
 ## What happens to a lithium-ion BESS in an earthquake? {#earthquake}
 
-The Snoqualmie Valley is exposed to the [Southern Whidbey Island Fault](https://washingtondnr.wpcomstaging.com/2009/09/11/southern-whidbey-island-fault-zone-mapped-through-snoqualmie-valley/) (mapped through the valley, M6.5–7.4), the Seattle Fault (M7.0–7.5), and the Cascadia Subduction Zone (M9.0+). [USGS Fact Sheet 2025-3050](https://doi.org/10.3133/fs20253050) (September 2025) puts the 50-year probabilities for the Puget Sound region at 85% for a M6.5+ deep earthquake, 17% for a M6.5+ crustal fault earthquake, and 10-15% for an approximately M9 Cascadia Subduction Zone event. Lab testing shows lithium-ion cells can develop internal short circuits, the initiating event for thermal runaway, from small mechanical deformations.
-
-King County's ordinance requires IEEE 693 seismic qualification, which keeps equipment on its mounts. But nobody has tested whether utility-scale BESS enclosures protect cells the way crash-tested EV packs do. And there's no requirement to model the full chain: earthquake damages cells, thermal runaway, fire, contaminated runoff into Fisher Creek, all while evacuation routes may be damaged. No utility-scale BESS has been tested by a major earthquake. See the [earthquake risk section](/fire-risk#earthquake-risk) of our fire risk analysis.
-
-This is one of the reasons a full Environmental Impact Statement is necessary. A SEPA checklist cannot credibly evaluate a cascading failure scenario that spans seismic, fire, air quality, and water quality impacts simultaneously.
+The Snoqualmie Valley is exposed to three independent earthquake sources, including the [Southern Whidbey Island Fault](https://washingtondnr.wpcomstaging.com/2009/09/11/southern-whidbey-island-fault-zone-mapped-through-snoqualmie-valley/) mapped through the valley. Lab testing shows lithium-ion cells can develop internal short circuits from small mechanical deformations. King County's ordinance requires IEEE 693 seismic qualification, which keeps equipment on its mounts, but nobody has tested whether utility-scale BESS enclosures protect cells during seismic shaking. No utility-scale BESS has been tested by a major earthquake. See the [earthquake risk section](/fire-risk#earthquake-risk) of our fire risk analysis.
 
 ## If lithium-ion batteries are sensitive to vibration, why are they safe in cars and planes? {#ev-vibration}
 
