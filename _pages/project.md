@@ -10,7 +10,7 @@ title: "Project Overview"
 | Landowners | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Nause LLC, Landgraf, Arnold |
 | Type | Battery energy storage system (BESS). Jupiter Power has stated chemistry is "expected to be lithium ion (LFP) or sodium ion" but has not committed. |
 | Capacity | 130 MW / ~520 MWh (4-hour duration) |
-| Site | ~45 acres across [5 parcels](/site-and-environment#parcels), unincorporated King County. A sixth parcel, [3624079030](/recorded-documents/3624079030) (PSE-owned, ~5 ac), provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
+| Site | ~50 acres across [6 parcels](/site-and-environment#parcels), unincorporated King County. Includes parcel [3624079030](/recorded-documents/3624079030) (PSE-owned, ~5 ac), which provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
 | Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
 | Interconnection | 115kV tie-line to PSE Mt. Si substation |
 | PSE agreement | Tolling agreement executed August 22, 2025 |
