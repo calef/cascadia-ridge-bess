@@ -16,7 +16,7 @@ title: "Project Overview"
 | PSE agreement | [Tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) (PDF, partially redacted) executed August 22, 2025. PSE originally filed it with the UTC redacted in its entirety; a partially redacted version was secured through correspondence. [Transparency analysis.](/ceta#transparency) |
 | Operations target | Late 2028 |
 | Fire district | [King County Fire Protection District No. 38](https://district-conditions-report.kingcounty.gov/?PIN=3624079039) |
-| Projected tax revenue | $783,000–$1,130,000/year in years 3–12 (per [HB 1960](https://app.leg.wa.gov/billsummary?BillNumber=1960&Year=2025), signed into law April 1, 2026) |
+| Projected tax revenue | $783,000–$1,130,000/year in years 3–12 (Jupiter Power projection). The site is in unincorporated King County, so this is a King County property tax (with the usual share to the State school levy, Fire District 38, library, and other overlapping taxing districts); the City of Snoqualmie collects none of it unless and until the parcel is annexed. The figure is based on industrial personal-property valuation, which under Washington practice depreciates rapidly to a 15% floor, so the revenue is front-loaded. [HB 1960](https://app.leg.wa.gov/billsummary?BillNumber=1960&Year=2025), signed into law April 1, 2026, may further reduce or eliminate this revenue stream by 2029. |
 | Development footprint | ~30 of the 45 acres (per Jupiter Power's March 17 presentation) |
 | Contact | Gage Fuller, [cascadiaridge@jupiterpower.io](mailto:cascadiaridge@jupiterpower.io) |
 
