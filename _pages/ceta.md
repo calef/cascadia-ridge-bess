@@ -77,7 +77,7 @@ Battery chemistry is not in the rubric. Community safety is not in the rubric. P
 
 There is one criterion worth a single point under Permitting: "Project has not received significant opposition from Tribes, interested parties or impacted local landowners." Opposition is treated as a schedule risk to the developer, not as a signal that the site may be wrong.
 
-PSE's evaluation literally did not ask what kind of battery would be installed in the middle of the Snoqualmie Valley, adjacent to more than 11,000 residents.
+PSE's evaluation literally did not ask what kind of battery would be installed in the middle of the Snoqualmie Valley, adjacent to the City of Snoqualmie (population 14,550 per the Washington State Office of Financial Management's April 1, 2025 official estimate).
 
 ### Transparency
 
