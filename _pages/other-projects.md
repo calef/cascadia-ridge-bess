@@ -6,7 +6,7 @@ Cascadia Ridge is not the only BESS project proposed in unincorporated King Coun
 
 ## Kingfisher Energy Storage (Covington area)
 
-Tenaska, one of the largest privately held energy companies in the US, proposed the Kingfisher Energy Storage Project through its affiliate Goldfinch Energy Storage, LLC. Lithium iron phosphate (LFP) on 14.1 acres in unincorporated King County near Covington, connecting to PSE's Berrydale Substation. King County permit file CDUP23-0003.
+The Kingfisher Energy Storage Project was filed by Goldfinch Energy Storage, LLC, a Copenhagen Infrastructure Partners (CIP) portfolio entity, with Tenaska as the developer of record and point of contact. Lithium iron phosphate (LFP) on 14.1 acres in unincorporated King County near Covington, connecting to PSE's Berrydale Substation. The parcel is privately owned. King County permit file CDUP23-0003, filed February 15, 2023 and canceled September 13, 2023.
 
 The site is adjacent to Mattson Middle School (Kent School District, ~900 students), Soos Creek (salmon habitat with tribal significance), wetlands, and residential neighborhoods. Zoned RA5 (residential/rural).
 
@@ -14,12 +14,15 @@ The site is adjacent to Mattson Middle School (Kent School District, ~900 studen
 
 | Date | Event |
 |---|---|
+| Feb 15, 2023 | Goldfinch files CDUP23-0003 with King County |
 | March 2023 | Change.org petition launched ("Stop the Kingfisher Energy Facility") |
-| 2023 | Goldfinch files CDUP23-0003 with King County |
+| March 29, 2023 | King County marks application incomplete, requests additional information |
+| May 11, 2023 | King County marks application complete |
 | June 2023 | Covington City Council questions Tenaska but acknowledges no jurisdiction (site is unincorporated KC) |
+| June 28, 2023 | Kent School Board unanimously adopts Resolution 1648 opposing the project (5-0) |
 | July 2023 | Councilmember Perry introduces Ordinance 19824 (BESS regulatory framework) |
-| 2023 | Army Corps determines it lacks jurisdiction over wetlands, voiding Tenaska's Section 401 application |
-| 2023-2024 | Kent School District passes resolution opposing the project |
+| Sept 13, 2023 | King County cancels and locks CDUP23-0003 |
+| 2023 | Army Corps determines it lacks jurisdiction over wetlands, voiding the Section 401 application |
 | 2023-2024 | Covington City Council calls the siting "a grave neglect of the life and safety duty owed to King County residents" |
 | May 2024 | Covington adopts moratorium on BESS within city limits |
 | Sept 24, 2024 | KC Council passes [Ordinance 19824](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F) (8-1 vote) |
