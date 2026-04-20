@@ -8,25 +8,25 @@ The files cited below all come from Jupiter Power's withdrawn Commercial Site De
 
 ## The civil plans show 410 MW / 1,640 MWh, not 130 MW
 
-The cover sheet of the 30% civil plan set (Westwood Engineers, October 24, 2025) identifies the project as **410 MW × 4 hr = 1,640 MWh on a 41.6-acre site**. Public communications and the project narrative have consistently described the project as 130 MW on about 25 acres.
+The cover sheet of the 30% civil plan set (Westwood Engineers, October 24, 2025) identifies the project as **410 MW × 4 hr = 1,640 MWh on a 41.6-acre site**. Jupiter Power's public messaging has consistently described the project as **130 MW**, most recently at the March 17, 2026 community open house.
 
-The main transformer on the electrical single-line diagram (90/120/150 MVA, three cooling stages) is right-sized for 130 MW and does not on its own confirm 410 MW. But the cover sheet figure, the megawatt-hour arithmetic (130 MW × 6 hr = 780 MWh vs. 1,640 MWh on the plans), the 41.6-acre footprint, and Keyed Note 4 on the single-line (CCR-E-0001-01) reserving *"a place holder for future augmentation requirements"* all point to a facility designed to grow beyond the initial 130 MW.
+The main transformer on the electrical single-line diagram (90/120/150 MVA, three cooling stages) is right-sized for 130 MW and does not on its own confirm 410 MW. But the cover sheet figure, the megawatt-hour arithmetic (130 MW × 6 hr = 780 MWh vs. 1,640 MWh on the plans), and Keyed Note 4 on the single-line (CCR-E-0001-01) reserving *"a place holder for future augmentation requirements that is not part of the initial build out"* point to a facility engineered to grow well beyond the initial 130 MW interconnection.
 
 *Source: CMST25-0005, Document 05.02 (Civil Plan Set), sheet C001; Document 06 (Electrical Single-Line Diagram).*
 
-SEPA review is scoped to the project as described. If the engineered design is three times larger than the described project, a checklist and a Mitigated Determination of Non-Significance is the wrong instrument for the job.
+SEPA review is scoped to the project as described. If the engineered design is three times larger in power and more than two times larger in energy than the described project, a checklist and a Mitigated Determination of Non-Significance is the wrong instrument for the job.
 
 ## 1,239 trees recommended for removal, zero replacement required
 
-Dudek's arborist report (Jonah Malenfant, ISA-certified arborist) inventoried 1,925 significant trees on the 25-acre Accelergen-era layout. **1,239 of them (64.4%) are recommended for removal.** The standing timber volume is **144,265 board feet**, roughly 28 times the Washington Forest Practices Act threshold of 5,000 board feet.
+Dudek's arborist report (Jonah Malenfant, ISA-certified arborist) inventoried 1,925 significant trees on the original 25-acre layout submitted with CMST25-0005. **1,239 of them (64.4%) are recommended for removal.** The standing timber volume is **144,265 board feet**, roughly 28 times the Washington Forest Practices Act threshold of 5,000 board feet.
 
-The applicant claims zero replacement trees are required, citing the King County Code utility exemption at KCC 16.82.156(A)(6). The inventory covers only 25 acres; the expanded 45-acre site will have more trees under the same exemption argument.
+The applicant claims zero replacement trees are required, citing the King County Code utility exemption at KCC 16.82.156(A)(6). The inventory covers only the 25-acre footprint as originally filed; the expanded 45-acre site Jupiter Power has since described publicly will cover more trees under the same exemption argument.
 
 *Source: CMST25-0005, Document 18 (Arborist Report).*
 
 ## The sound study predicts zero compliance margin at the closest home
 
-Dudek's acoustical analysis (Dana Lodico, PE, INCE) modeled the 25-acre / 130 MW layout (392 Samsung battery containers, 98 SMA power conversion units, 3 transformers) against King County's noise limits.
+Dudek's acoustical analysis (Dana Lodico, PE, INCE) modeled the 25-acre / 130 MW layout as originally filed (392 Samsung battery containers, 98 SMA power conversion units, 3 transformers) against King County's noise limits.
 
 The predicted nighttime sound level at receptor **R5, the closest residential property about 350 feet east of the facility, is 42 dBA**. The applicable nighttime limit with the tonal penalty that applies here (the equipment has prominent tones at 3,150 Hz and 6,300 Hz from the power conversion units) is **42 dBA**. **Zero margin.**
 
