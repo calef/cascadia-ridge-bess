@@ -24,6 +24,16 @@ The applicant claims zero replacement trees are required, citing the King County
 
 *Source: CMST25-0005, Document 18 (Arborist Report).*
 
+### Why the Forest Practices Act matters
+
+RCW 76.09 (Washington's Forest Practices Act) regulates commercial timber harvest on private forestland. The 5,000 board foot threshold is the exemption line: above it, a Forest Practices Application (FPA) is required with the Washington Department of Natural Resources. At 144,265 board feet, this is unambiguously a commercial harvest.
+
+Conversion of forestland to a non-forest use like a BESS is a **Class IV forest practice** under WAC 222-16-050. On land with critical areas (steep slopes, Type F streams, wetland buffers, all mapped at this site by the Critical Areas Designation), a Class IV conversion is typically elevated to **Class IV-Special**, which triggers its own SEPA review with DNR as the responsible official, separate from King County's SEPA process. DNR is a second regulatory agency with jurisdiction over this project.
+
+The arborist report filed with CMST25-0005 notes the 5,000 board foot threshold but does not discuss the FPA process. The Project Description does not address it. The SEPA Environmental Checklist does not address it. The application materials have not engaged DNR at all.
+
+King County's KCC 16.82.156(A)(6) utility exemption answers the replacement-tree question under *county* code only. It does not relieve the applicant from Forest Practices Act requirements with DNR, and it does not substitute for DNR's separate Class IV SEPA review.
+
 ## The sound study predicts zero compliance margin at the closest home
 
 Dudek's acoustical analysis (Dana Lodico, PE, INCE) modeled the 25-acre / 130 MW layout as originally filed (392 Samsung battery containers, 98 SMA power conversion units, 3 transformers) against King County's noise limits.
