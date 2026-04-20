@@ -21,6 +21,8 @@ We support Washington's clean energy goals and the need for grid storage. But th
 
 **Governance.** The site is in unincorporated King County. The City of Snoqualmie has no jurisdiction, even though Snoqualmie Ridge residents are the most affected. BESS is a permitted use under the site's UR zoning, with no public hearing required. PSE's own [siting study](/project#siting-study) screened out Mt. Si. [Permitting details.](/permitting)
 
+**What the records show.** King County Department of Local Services released 730 MB of Jupiter Power's permit application and related communications on April 13, 2026. The civil plans point to a 410 MW / 1,640 MWh facility, not the 130 MW public headline. The sound study predicts zero compliance margin at the closest home. The application grades 28.3 acres on a forested site with zero existing impervious surface. Every fire-safety study is deferred to late 2026. [Read the findings.](/what-the-records-show)
+
 ## Where things stand
 
 No active permit application as of March 2026. Jupiter Power filed a Commercial Site Development permit in December 2025 and canceled it in February 2026. Jupiter Power held a voluntary community open house on March 17 that drew a standing-room-only crowd. There is no community meeting requirement in King County's [BESS ordinance](/permitting). SEPA review is the only formal public input opportunity.

@@ -91,6 +91,8 @@ Eastside Fire deferred jurisdiction to King County Permitting and the Fire Marsh
 
 No tabletop exercise for a BESS fire in the Snoqualmie Valley has been disclosed. No BESS-specific mutual aid agreements have been made public.
 
+Jupiter Power's own fire-safety package is similarly thin. The Hazard Consequences Analysis filed with Commercial Site Development application CMST25-0005 models 20 cells in thermal runaway, which is about 0.001% of the facility, and does not model hydrogen fluoride or a fire scenario. Every NFPA 855 deliverable (Hazard Mitigation Analysis, Consequence/Risk Analysis, Emergency Response Plan, Fire Protection Facility Design, Commissioning Plan, End-of-Life Plan) is deferred to Q4 2026. The defensive water cooling strategy relies on a 32,000-gallon on-site tank and a municipal hydrant connection, and Eastside Fire & Rescue's fire marshal asked for a self-reliant on-site supply that Jupiter declined. See [What King County's Records Show](/what-the-records-show) for source citations.
+
 ## Who bears the risk
 
 The risk distribution is asymmetric. The developer bears financial risk: insured, tax-advantaged, with limited liability structures. The adjacent residential community bears safety risk: uninsured for BESS-specific hazards, with no control over facility operations, chemistry selection, or maintenance practices. Local fire departments bear response risk: BESS fires require specialized protocols and equipment that may not be available.
