@@ -46,13 +46,17 @@ The study used substitute spectral data for three of the four equipment types be
 
 A zero-margin prediction on the smaller layout is not a durable compliance case. The expanded facility adds noise sources.
 
-## 28.3 acres graded on a fully forested site
+## 28.3 acres of forest cleared and graded
 
-The Site Areas Worksheet confirms **1,234,600 square feet (28.3 acres) of total disturbance** and **503,500 square feet (11.56 acres) of new impervious surface** on a site with zero existing impervious. That is 68% of the 41.6-acre site cleared or graded.
+The Site Areas Worksheet confirms **1,234,600 square feet, or 28.3 acres, of total ground disturbance** on a site that today is 100% forest with zero existing pavement. That is roughly **21 football fields of trees cleared** and the ground regraded to a flat industrial pad.
 
-The underlying soils are Tokul gravelly medial loam over Vashon Till. The desktop geotechnical report rates the infiltration capacity below 0.1 inches per hour, which is effectively non-infiltrating. The 30% civil plans show two large detention basins, multiple vegetated swales, and numerous culverts. All stormwater has to be routed and detained, not absorbed.
+The underlying soils are Tokul gravelly medial loam over Vashon Till, rated by Terra-Geo at less than 0.1 inches per hour of infiltration. Water does not drain through the ground here. The forest canopy and understory are what currently slow and absorb the rain. Strip them, add **11.56 acres of new impervious surface**, and the water has to be engineered off the site. The 30% civil plans show two large detention basins, multiple vegetated swales, and numerous culverts, all designed to route stormwater down into Fisher Creek. Fisher Creek joins the Snoqualmie River half a mile away and carries ESA-listed Chinook, steelhead, and bull trout.
 
-*Source: CMST25-0005, Document 07 (Site Areas Worksheet); Document 05.02 (Civil Plan Set); Document 12 (Desktop Geotech).*
+Construction runs in two phases of 20 to 24 months each. For neighbors, that means roughly **two years of trucks on 356th Ave SE, earth-moving vibration, dust, and bare graded ground where mature forest used to stand.** The revegetation plan relies mostly on seeding, not replanted trees, so the mature forest is not coming back.
+
+*Source: CMST25-0005, Document 07 (Site Areas Worksheet); Document 05.02 (Civil Plan Set); Document 12 (Desktop Geotech); Document 22 (Schematic Landscape Plan).*
+
+The SEPA Environmental Checklist describes the habitat impact as "temporary" during construction with "permanent loss in developed areas." That framing understates what 28 acres of mature forest conversion above a salmon-bearing stream, on soils where nothing infiltrates, does to the site's hydrology, habitat function, and buffer against adjacent neighborhoods.
 
 ## King County rejected the first application across all four disciplines
 
