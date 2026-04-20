@@ -60,7 +60,7 @@ The SEPA Environmental Checklist describes the habitat impact as "temporary" dur
 
 ## King County rejected the first application across all four disciplines
 
-Jupiter Power filed CMST25-0005 on November 21, 2025. King County issued a **Notice of Incomplete Application on December 18, 2025**. Jupiter withdrew on February 17, 2026, one day before the 30-day cure deadline expired.
+Jupiter Power filed CMST25-0005 on November 21, 2025. King County issued a **Notice of Incomplete Application on December 18, 2025**. Jupiter withdrew on February 17, 2026, 61 days after the NOIA was issued. The formal NOIA letter stating the cure deadline was not produced in the records release; a follow-up records request has been filed.
 
 Each of the four discipline reviewers raised independent objections:
 
