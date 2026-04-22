@@ -93,9 +93,11 @@ The Hithium reference container used in the HCA holds 4,992 cells. **20 cells is
 
 The HCA also does not model hydrogen fluoride, the characteristic hazardous byproduct of lithium iron phosphate thermal decomposition (AEGL-2 of 12 ppm for 60 minutes). It does not model a fire scenario, only off-gassing. It does not model combustion products. Its "no adverse health effects" conclusion depends entirely on those scenario choices.
 
+The HCA's wind rose reflects the wrong wind regime. Dudek used the Renton ASOS station, which sits on Puget Sound about 25 miles west and roughly 600 feet lower than the project site. Renton's prevailing axis is N-S because Puget Sound runs N-S. The project site is in the Cascade foothills directly above the Snoqualmie Pass / I-90 corridor, in the documented gap-wind zone. The local prevailing axis is closer to E-W: easterly outflow during cold-air gap-wind events, westerly marine push during low-pressure systems. Importing Renton's N-S wind regime into AERMOD for a site in an E-W gap-wind regime rotates the modeled plume axis roughly 90 degrees from the true axis. The "point of maximum impact" the model identifies is unlikely to be the actual point of maximum impact during a real event.
+
 *Source: CMST25-0005, Document 21 (Hazard Consequences Analysis).*
 
-Moss Landing burned 55-80% of the facility in early 2025. The Otay Mesa fire in San Diego County burned for 17 days. The scenarios that drive public concern at this scale are cascading events across many containers. This HCA does not evaluate them.
+Moss Landing burned 55-80% of the facility in early 2025. The Otay Mesa fire in San Diego County burned for 17 days. The Victorian Big Battery (Neoen/Tesla, Moorabool, Australia, July 30, 2021) is the closest field analog for container-to-container propagation: a coolant leak triggered arcing in one Tesla Megapack during commissioning, thermal runaway propagated to an adjacent Megapack, and 2 of 212 Megapacks were destroyed in a fire that burned for approximately four days. The scenarios that drive public concern at this scale are cascading events across many containers. This HCA does not evaluate them.
 
 ## Every NFPA 855 fire safety deliverable is deferred to late 2026
 
