@@ -85,11 +85,11 @@ Six candidate manufacturers are named: **Hithium, Sungrow, Tesla, Fluence, CATL,
 
 Every safety, thermal, and chemistry claim in the application is tied to equipment that has not been procured. A facility permitted against this application could end up using cells from any of the six candidates, and augmented across the 30-year life with successor products that may not exist yet. SEPA review should treat that uncertainty as a significance factor, not assume the reference product.
 
-## The thermal runaway analysis models 20 cells out of roughly 2 million
+## The thermal runaway analysis models 20 cells out of one container
 
 Dudek's Hazard Consequences Analysis uses AERMOD atmospheric dispersion modeling to evaluate off-site consequences of a thermal event. The scenario it models is **20 cells in simultaneous thermal runaway**.
 
-Each Hithium reference container holds roughly 4,992 cells. The 392-container facility contains approximately **1.96 million cells**. The HCA scenario represents about **0.4% of a single container, or 0.001% of the facility**.
+The Hithium reference container used in the HCA holds 4,992 cells. **20 cells is about 0.4% of a single container.** The facility contains many such containers (the acoustical analysis modeled 392 Samsung SBB 2.0 units for the original 25-acre layout; the equivalent count for the Hithium reference would differ because per-container capacity differs by vendor, and Jupiter has not committed to a vendor). At any plausible vendor count, the HCA scenario represents a tiny fraction of the facility's installed cell population.
 
 The HCA also does not model hydrogen fluoride, the characteristic hazardous byproduct of lithium iron phosphate thermal decomposition (AEGL-2 of 12 ppm for 60 minutes). It does not model a fire scenario, only off-gassing. It does not model combustion products. Its "no adverse health effects" conclusion depends entirely on those scenario choices.
 
