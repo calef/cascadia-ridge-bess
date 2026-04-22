@@ -86,7 +86,7 @@ Three fire agencies cover this area. Jupiter Power has confirmed it is coordinat
 
 **King County Fire Marshal** Eric Urban: [eric.urban@kingcounty.gov](mailto:eric.urban@kingcounty.gov)
 
-**Eastside Fire & Rescue** Chief Willie Aho: [waho@esf-r.org](mailto:waho@esf-r.org)
+**Eastside Fire & Rescue** Chief Will Aho: [waho@esf-r.org](mailto:waho@esf-r.org)
 
 **City of Snoqualmie Fire Department** Chief Mike Bailey: [mbailey@snoqualmiewa.gov](mailto:mbailey@snoqualmiewa.gov)
 

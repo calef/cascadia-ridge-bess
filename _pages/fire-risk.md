@@ -81,13 +81,13 @@ No current King County code or state regulation requires a specific battery chem
 
 ## Local fire district: "cannot confirm preparedness"
 
-On April 6, 2026, **Chief Will Aho of Eastside Fire & Rescue** (the district that would respond to a fire at this site) provided a written statement in response to questions about the district's readiness:
+On April 6, 2026, **Chief Will Aho of Eastside Fire & Rescue** (the district that would respond to a fire at this site) provided a [written statement](/assets/efr-chief-aho-response-2026-04-06.pdf) in response to questions about the district's readiness. Chief Aho noted that several critical details "are not yet fully defined," including battery chemistry, site design, fire protection systems, available water supply, and facility-specific emergency planning, and said:
 
-> "Eastside Fire & Rescue cannot confirm that we are fully prepared today to mitigate an incident of this type and scale."
+> "Because those elements are not yet fully defined, Eastside Fire & Rescue cannot confirm that we are fully prepared today to mitigate an incident of this type and scale."
 
-Chief Aho's statement validated water supply, site access, evacuation, and chemistry concerns as "valid and directly relevant to both community safety and environmental protection." He added that "it would be inaccurate to suggest that all fire and life safety questions have been answered."
+Chief Aho called resident concerns about water supply, site access, evacuation challenges, and the implications of final battery chemistry "valid and directly relevant to emergency response planning." He added that "at this stage, it would be inaccurate to suggest that all fire and life safety questions have been answered."
 
-Eastside Fire deferred jurisdiction to King County Permitting and the Fire Marshal's office for site-specific review, but the statement is clear: the fire district that would actually respond to this facility says the safety questions remain open.
+Eastside Fire deferred jurisdiction to King County Permitting and the Fire Marshal's office for site-specific review. The statement is clear: the fire district that would actually respond to this facility says the safety questions remain open, and the information needed to resolve them has not yet been produced.
 
 No tabletop exercise for a BESS fire in the Snoqualmie Valley has been disclosed. No BESS-specific mutual aid agreements have been made public.
 
