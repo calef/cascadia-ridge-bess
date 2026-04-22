@@ -126,6 +126,10 @@ The record does not contain a resolution.
 
 SEPA review of a facility for which every fire safety study is deferred to a date after the public comment window is SEPA review of a design that does not yet exist.
 
+## One pattern runs through all of these
+
+The same theme shows up across the entire application: out-of-state consultants applying regional defaults rather than treating this as a complex-terrain, gap-wind site with dense residential receivers immediately downwind. The HCA used Renton meteorology, rural dispersion, and a 20-cell scenario based on a single lab test. The sound study substituted spectral data from a "similar unit" where the actual selected unit's data was unavailable. The arborist report inventoried only the original 25-acre footprint after the site had been expanded to 45 acres. The fire safety strategy is rated against a battery vendor Jupiter has not selected and defers every NFPA 855 deliverable to the quarter after permit decisions are typically made. Each individual choice clears its own procedural bar. The aggregate is an application that satisfies forms but does not engage the actual site. That is the case for an EIS.
+
 ## More in the record
 
 The 730 MB records drop contains more than what appears above. Additional findings, including internal King County analysis of the critical areas code framework, King County's own documented concerns about threshold-level environmental impacts, and Jupiter's consultant errors caught on site by King County environmental scientists, will be folded into the public SEPA comment letter filed during the 14-day comment window. The comment letter will be published on this site after filing.
