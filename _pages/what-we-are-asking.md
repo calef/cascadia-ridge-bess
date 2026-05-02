@@ -8,6 +8,8 @@ But this site has serious problems. PSE's own [2021 siting study](/project#sitin
 
 We are not asking King County to deny the project. We are asking for the level of review that a project of this scale, in this location, requires. An EIS is the process designed to answer these questions. A SEPA checklist is not.
 
+Two adjacent jurisdictions have now formally joined this request. On April 30, 2026, the City of Snoqualmie posted [two letters](/updates#april-30-2026): a joint letter signed by Mayor Mayhew and the entire seated City Council to PSE and King County, and a separate letter from the mayor to King County Permitting Director Leon Richardson stating "Residents have requested, and I share that request, that a full environmental impact statement be considered." On May 1, 2026, the Snoqualmie Valley School District board adopted **Resolution 901 unanimously** at a special meeting, requesting a Determination of Significance and full EIS based on student and staff safety concerns at Cascade View Elementary, Timber Ridge Elementary, and along Snoqualmie Parkway school bus routes. Eastside Fire & Rescue Chief Will Aho's April 6 statement that EF&R "cannot confirm that we are fully prepared today to mitigate an incident of this type and scale" remains on the record. The institutional surface supporting an EIS is broader than it was even a week ago.
+
 ## Why a full EIS is necessary
 
 The proposed facility would be the largest BESS in western Washington, sited in a constrained river valley adjacent to thousands of homes. The site raises questions across multiple environmental categories that a checklist cannot credibly evaluate:

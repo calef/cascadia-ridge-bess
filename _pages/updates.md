@@ -4,6 +4,10 @@ title: "Updates"
 
 What we've published, who we've contacted, and what's happened. Most recent first.
 
+## May 1, 2026
+
+- **Snoqualmie Valley School District board adopted Resolution 901 unanimously** at a special meeting Friday evening. The resolution requests a Determination of Significance and a full Environmental Impact Statement for the proposed Cascadia Ridge BESS, citing student and staff safety concerns at Cascade View Elementary (the closest school at approximately 2,665 feet from the project boundary), Timber Ridge Elementary, and along the Snoqualmie Parkway school bus routes that pass within roughly 470 feet of the proposed site. Adoption pairs SVSD with the City of Snoqualmie's April 30 Mayor and Council letters: two adjacent jurisdictions are now on record requesting an EIS before King County Permitting issues its threshold determination, alongside the April 6 statement from Eastside Fire & Rescue Chief Will Aho that EF&R "cannot confirm that we are fully prepared today to mitigate an incident of this type and scale."
+
 ## April 30, 2026
 
 - **City of Snoqualmie published two formal letters on the project.** [Newsflash 1837](https://www.snoqualmiewa.gov/m/newsflash/Home/Detail/1837) is a joint letter from Mayor Mayhew and the entire seated City Council (Johnson, Murphy, Wotton, Holloway, Washington, Cotton) addressed to PSE CEO Mary Kipp, King County Executive Girmay Zahilay, and the King County Council. It catalogs resident concerns about proximity to homes, schools, and parks; fire risk, hazardous gas release, and toxic runoff; evacuation and emergency response; habitat, noise, traffic, visual, and cumulative impacts. It encourages PSE and the County to consider "alternative locations within the Puget Sound Energy transmission and distribution system…with greater separation from residential areas and sensitive uses." [Letter PDF.](https://www.snoqualmiewa.gov/DocumentCenter/View/45305)
