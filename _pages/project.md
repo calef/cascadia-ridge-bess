@@ -56,7 +56,7 @@ The study's siting criteria included a "Good Neighbor" test that flagged residen
 - "The public knows their neighbourhood best and can suggest minimum impact alternatives."
 - "Land use should be reasonably consistent with its present use."
 
-The study identified 15 substations across western Washington that passed both qualitative and quantitative screening, with total maximum ESS capacities ranging from 9 to 86 MW. The recommended locations include White River (86 MW), Tono (85 MW), Alderton (76 MW), Midway (56 MW), and Sammamish (46 MW). None are in the Snoqualmie Valley.
+The study identified 14 substations across western Washington that passed both qualitative and quantitative screening (Table 4.3), with Total Maximum ESS capacities ranging from 3 to 86 MW. The recommended locations include White River (86 MW), Tono (85 MW), Alderton (76 MW), S. Bremerton (76 MW), and Midway (56 MW). None are in the Snoqualmie Valley.
 
 Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation its own consultant screened out on the merits.
 
