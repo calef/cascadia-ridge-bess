@@ -135,10 +135,19 @@ As of March 2026, [150+ local governments across 17 states](https://www.globenew
 
 ## BESS moratoriums in King County
 
-Three King County cities have passed moratoriums on BESS within their city limits:
+Four King County cities have passed moratoriums on BESS within their city limits:
 
 - **Covington:** May 2024, extended through May 2026. Planning staff developing permanent BESS code amendments.
 - **Enumclaw:** Year-long moratorium, February 2025.
 - **Black Diamond:** Six-month moratorium, renewed February 2025.
+- **North Bend:** 12-month moratorium adopted May 19, 2026 by unanimous City Council vote (Ordinance AB26-045). The ordinance was amended on the floor to remove language limiting it to BESS paired with renewable energy, broadening its scope to all battery energy storage as a principal or accessory use within North Bend city limits. The work plan directs staff and the Planning Commission to consult with Eastside Fire & Rescue, Puget Sound Clean Air Agency, the King County Sheriff's Office, King County, EFSEC, electricity utility providers, and the Snoqualmie Indian Tribe.
 
 These moratoriums apply only within city limits. They do not affect BESS projects in unincorporated King County, which is where both Kingfisher and Cascadia Ridge are sited.
+
+### North Bend's letter to the WUTC
+
+At the same May 19, 2026 meeting, the North Bend City Council also authorized Mayor Miller to send a letter to the Washington Utilities and Transportation Commission (WUTC) objecting to Jupiter Power's proposed Cascadia Ridge BESS in unincorporated King County within Snoqualmie's Potential Annexation Area. The letter was set for delivery by May 26, 2026.
+
+The Cascadia Ridge site is not in North Bend's city limits. North Bend sits upstream of the proposed site on the Snoqualmie River, in the foothills east of the project. The council's decision to engage the WUTC about a project outside its borders is a regional-impact framing rather than a local-jurisdiction one. The fact that an adjacent city felt compelled to address a state regulator about a project it cannot directly permit is itself a comment on the project's footprint.
+
+The packet for the May 19 meeting did not include a staff memo on the WUTC angle. The letter authorization appears to have originated as a floor motion during deliberation, not a packet-prepared item. The substantive content of the mayor's letter will not be on the public record until it is sent and posted.
