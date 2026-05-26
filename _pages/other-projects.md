@@ -37,7 +37,7 @@ Stalled. The King County application appears inactive. The Army Corps wetland ap
 
 Both projects are in unincorporated King County where the adjacent city has no permitting authority. Both involve waterways connected to salmon-bearing watersheds with tribal significance. Both fall under Councilmember Perry's Ordinance 19824.
 
-Key differences: Kingfisher is adjacent to a middle school with ~900 students. Cascadia Ridge is larger (45 acres / 130 MW vs. 14.1 acres). Covington passed a moratorium within its city limits. Snoqualmie has not. Ordinance 19824 was drafted partly in response to Kingfisher. Cascadia Ridge is one of the first projects to move through it.
+Key differences: Kingfisher is adjacent to a middle school with ~900 students. Cascadia Ridge is larger (45 acres / 130 MW vs. 14.1 acres). Covington passed a moratorium within its city limits early in the Kingfisher fight. Snoqualmie has introduced a moratorium ordinance for its own city limits (referred to committee May 11, 2026) but has not yet adopted one. Ordinance 19824 was drafted partly in response to Kingfisher. Cascadia Ridge is one of the first projects to move through it.
 
 ## Hillsboro, OR — Jupiter Power "Blackberry Grove" (approved despite record opposition)
 
@@ -135,14 +135,20 @@ As of March 2026, [150+ local governments across 17 states](https://www.globenew
 
 ## BESS moratoriums in King County
 
-Four King County cities have passed moratoriums on BESS within their city limits:
+### Adopted
+
+Four King County cities have adopted moratoriums on BESS within their city limits:
 
 - **Covington:** May 2024, extended through May 2026. Planning staff developing permanent BESS code amendments.
 - **Enumclaw:** Year-long moratorium, February 2025.
 - **Black Diamond:** Six-month moratorium, renewed February 2025.
 - **North Bend:** 12-month moratorium adopted May 19, 2026 by unanimous City Council vote (Ordinance AB26-045). The ordinance was amended on the floor to remove language limiting it to BESS paired with renewable energy, broadening its scope to all battery energy storage as a principal or accessory use within North Bend city limits. The work plan directs staff and the Planning Commission to consult with Eastside Fire & Rescue, Puget Sound Clean Air Agency, the King County Sheriff's Office, King County, EFSEC, electricity utility providers, and the Snoqualmie Indian Tribe.
 
-These moratoriums apply only within city limits. They do not affect BESS projects in unincorporated King County, which is where both Kingfisher and Cascadia Ridge are sited.
+### Introduced (pending)
+
+- **Snoqualmie:** Mayor Mayhew introduced a BESS moratorium ordinance on May 11, 2026. After a 20-minute executive session with legal counsel, the City Council waived the 72-hour notification rule, read the ordinance in for the first time, and voted 5-1 to refer it to the Council's Finance and Administration Committee. Councilmember Dan Murphy, on the record: "This is a land use that is emerging. It's one that's created a lot of concern among our residents, and establishing the right policies with respect to this land use within our city limits is squarely something that a city council and a city can do." The lone dissenting vote preferred to act immediately rather than refer. The introduction is part of Snoqualmie's broader institutional posture on this project, which also includes Mayor Mayhew's April 30, 2026 solo letter to King County DLS Permitting Director Richardson endorsing a full Environmental Impact Statement for Cascadia Ridge, and the joint Mayor-and-Council letter to PSE and King County on the same day asking for alternative siting.
+
+These moratoriums apply only within each city's own limits. They do not directly apply to BESS projects in unincorporated King County, which is where both Kingfisher and Cascadia Ridge are sited. Their value is as institutional signal: the four adjacent municipalities most familiar with this class of land use have each decided it warrants substantive review or restriction within their own jurisdictions.
 
 ### North Bend's letter to the WUTC
 
