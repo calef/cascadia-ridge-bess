@@ -4,6 +4,10 @@ title: "Updates"
 
 What we've published, who we've contacted, and what's happened. Most recent first.
 
+## May 19, 2026
+
+- **North Bend City Council unanimously adopted a 12-month BESS moratorium** within North Bend city limits (Ordinance AB26-045). The ordinance was amended on the floor to remove language limiting it to BESS paired with renewable energy, broadening its scope to all battery energy storage as a principal or accessory use. The work plan directs staff and the Planning Commission to consult with Eastside Fire & Rescue, Puget Sound Clean Air Agency, the King County Sheriff's Office, King County, EFSEC, electricity utility providers, and the Snoqualmie Indian Tribe. At the same meeting the Council also authorized Mayor Miller to send a letter to the Washington Utilities and Transportation Commission (WUTC) objecting to Jupiter Power's proposed Cascadia Ridge BESS in unincorporated King County within Snoqualmie's Potential Annexation Area, due by May 26, 2026. The moratorium applies only within North Bend city limits and does not directly reach the Cascadia Ridge project, but with this action North Bend joins Covington, Enumclaw, and Black Diamond as King County cities that have adopted BESS moratoriums. A fifth, Snoqualmie, [introduced one on May 11](#may-11-2026) that is still in committee. [City of North Bend newsflash.](https://northbendwa.gov/m/newsflash/Home/Detail/2666)
+
 ## May 15, 2026
 
 - **PSE v. WUTC dismissed in open court.** Hon. Carol Murphy of Thurston County Superior Court signed the Stipulation and Agreed Order of Dismissal at the 9:00 AM civil motions calendar. The case is closed. The substantive win was the public filing of the less-redacted Cascadia Ridge Tolling Agreement on May 6 in WUTC Docket UE-240532, which made the project's operating parameters (state-of-charge envelope, cycle rate, ambient operating range, ramp rate, cathode-chemistry language, augmentation-outage scheduling, operating procedures, and EMS telemetry terms) part of the public regulatory record for the first time. Those contract terms are now citable in any local proceeding.
