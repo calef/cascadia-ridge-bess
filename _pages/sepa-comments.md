@@ -101,7 +101,7 @@ Fire district capacity: King County Fire Protection District No. 38. No tabletop
 ## What to include in your comment
 
 1. Your name and address (establishes standing as an affected resident)
-2. The project name and permit number (when available)
+2. The project name and permit number: the **Cascadia Ridge Resiliency Project**, King County permit **GRDE26-0036** (the clearing-and-grading application that carries the SEPA review). We'll confirm the exact file reference to cite in our alert when the comment window opens.
 3. The specific SEPA checklist element(s) you're addressing
 4. The probable adverse impact, stated with as much specificity as you can
 5. Evidence supporting your concern (data, studies, professional credentials)
