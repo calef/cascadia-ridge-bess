@@ -35,9 +35,13 @@ Between the steep slopes on the east, the wetland buffer on the northeast, and F
 
 The wildlife picture is incomplete. The CAD report identified two large hollow trees or snags where Vaux's swifts could nest, and noted that western toad may use the site. But Jupiter Power isn't the property owner, so they couldn't get the full sensitive species PHS report from WDFW. The ecologists worked with partial data.
 
-## Visual screening
+## Visual and light impacts {#visual-and-light}
 
 Critical area buffers will preserve vegetation on the north and east sides. But the **west side, facing the backyards of homes on Bracken Place SE and SE Center Street**, has no buffer protection at all. There's nothing in any public document committing Jupiter Power to keeping the existing trees or adding screening on that side.
+
+The applicant's visual simulations model views from Snoqualmie Parkway, not from the ridge residences on the eastern and southeastern edge of Snoqualmie Ridge that look down toward the site. Those are the receivers a visual analysis should model, and they are the ones it leaves out.
+
+Lighting is a separate impact. The site plan specifies 30-foot poles with 12,096-lumen LED fixtures, and the applicant's own east-yard photometric model shows an 84-to-1 ratio between the brightest and dimmest points. No complete light-trespass and photometric analysis has been done at the adjacent residential property lines. A continuously lit industrial facility a few hundred feet from homes changes the night sky those homes sit under, and SEPA's built-environment scope (WAC 197-11-444) covers both the visual and the light-and-glare effects.
 
 ## Wildlife and habitat
 
@@ -58,6 +62,8 @@ Contaminated fire suppression runoff from a lithium-ion BESS fire would drain fr
 ### On-site species
 
 The Critical Areas Designation identified two large hollow trees or snags where [Vaux's swifts](https://wdfw.wa.gov/species-habitats/species/chaetura-vauxi) could nest. Vaux's swift is a WDFW Priority Species whose populations have declined an estimated 50% since the late 1960s, primarily from loss of old-growth nesting habitat. The CAD also noted that western toad may use the site.
+
+The site is roughly 45 acres of mature coniferous forest, about 30 acres of which would be cleared. That is the kind of habitat the **marbled murrelet**, a seabird listed as threatened under the federal Endangered Species Act, uses for nesting, sometimes well inland from the coast. No murrelet survey or habitat-suitability assessment has been done. The applicant's own [tolling agreement with PSE](/ceta#transparency) names marbled murrelet habitat as a concern to be addressed at this site, yet the Critical Areas Report submitted to King County does not mention the species. The absence of a survey is not evidence of absence; a habitat-suitability assessment should be required before 30 acres of forest is cleared.
 
 Both findings came with a caveat: Jupiter Power is not the property owner, so the ecologists could not access the full WDFW Priority Habitats and Species (PHS) report. The wildlife assessment was done with partial data. A full biological assessment has not been conducted.
 
