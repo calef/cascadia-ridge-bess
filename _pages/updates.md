@@ -4,6 +4,34 @@ title: "Updates"
 
 What we've published, who we've contacted, and what's happened. Most recent first.
 
+## July 23, 2026
+
+- **King County completed its intake review of Jupiter Power's clearing-and-grading application (GRDE26-0036).** Jupiter filed the permit on May 6, 2026, the County found the first submittal incomplete on May 28, and Jupiter resubmitted in July. As of July 23, all six County review disciplines (fire, environmental, engineering, planning, grading, and geological) have approved the resubmittal for intake, and the record shows "Triage Complete." Next, the County determines whether the application is complete. When it accepts the application as complete, it publishes a Notice of Application that opens the **14-day SEPA public comment window**, the primary formal opportunity for public input on this project. That window has not opened yet. [Sign up for updates](/subscribe) and we'll email you the day it does, and see [how to write a SEPA comment](/sepa-comments) to prepare.
+
+## June 22, 2026
+
+- **The City of Snoqualmie funded independent review of the project.** The City Council unanimously approved a $450,000 General Fund appropriation for outside legal and expert review of the proposed BESS. The plan directs the funds to outside counsel and to subject-matter experts for a fire and emergency-response review, a wildland-urban-interface assessment, a plume-dispersion analysis, a stormwater and noise analysis, and a City water-resources analysis. [Living Snoqualmie coverage.](https://livingsnoqualmie.com/snoqualmie-city-council-approves-500k-to-fight-large-battery-energy-storage-facility/)
+
+## June 18, 2026
+
+- **King County Fire Protection District 38 formally opposed the siting.** The District's elected Board of Fire Commissioners filed a comment letter with the WUTC stating that the project lies "at least partially within the boundaries of Fire District 38," that the District is "opposed to the siting of this facility within our jurisdiction," and that "Local resources are not adequate in the event of a BESS emergency" and a battery fire "could easily overwhelm the area's emergency resources." Fire District 38 is the fire protection district with jurisdiction over the site; Eastside Fire & Rescue provides its response services. [Read the letter (WUTC docket).](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=1936&year=2026&docketNumber=260005)
+
+## June 3, 2026
+
+- **The City of North Bend filed its comment letter with the WUTC.** Following through on the [May 19 authorization](#may-19-2026), Mayor Mary Miller's letter describes the Snoqualmie Valley as "one ecosystem" whose watershed connects to Seattle's Cedar River drinking-water supply, warns that a BESS fire's air pollution and contaminated runoff could reach that watershed and the wider region, and notes that the Valley's small jurisdictions depend on mutual aid that a battery fire could overwhelm. [Read the letter (WUTC docket).](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=1894&year=2026&docketNumber=260005)
+
+## June 2, 2026
+
+- **Duvall adopted a 12-month BESS moratorium.** The Duvall City Council unanimously adopted Ordinance 1353, an emergency interim zoning control pausing BESS land-use and development-permit applications within city limits for twelve months, with a work plan directing consultation with Eastside Fire & Rescue, the Puget Sound Clean Air Agency, King County, EFSEC, and area Tribes. Duvall joins North Bend as Snoqualmie Valley cities to adopt BESS moratoriums; Snoqualmie has [introduced one](#may-11-2026) that remains in committee. [June 2 City Council minutes.](https://www.duvallwa.gov/AgendaCenter/ViewFile/Minutes/_06022026-1342)
+
+## June 1, 2026
+
+- **The City of Snoqualmie petitioned the WUTC on the project.** In a joint Mayor-and-Council letter (adopted May 29, filed in PSE's 2026 general rate case), the City asked the Commission to decline any present prudence determination on PSE's Cascadia Ridge tolling arrangement and to deny, defer, or condition rate recovery until PSE proves its costs were reasonable on a complete record, and to confirm that no rate-case order pre-judges unresolved local, environmental, emergency-response, or land-use issues. [Read the letter (WUTC docket).](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=1889&year=2026&docketNumber=260005)
+
+## May 28, 2026
+
+- **King County found Jupiter's first submittal incomplete.** The County issued a Notice of Incomplete Application on the GRDE26-0036 clearing-and-grading permit, its first-round review comments requiring more information across several disciplines before the application could be deemed complete. Jupiter resubmitted in July.
+
 ## May 19, 2026
 
 - **North Bend City Council unanimously adopted a 12-month BESS moratorium** within North Bend city limits (Ordinance AB26-045). The ordinance was amended on the floor to remove language limiting it to BESS paired with renewable energy, broadening its scope to all battery energy storage as a principal or accessory use. The work plan directs staff and the Planning Commission to consult with Eastside Fire & Rescue, Puget Sound Clean Air Agency, the King County Sheriff's Office, King County, EFSEC, electricity utility providers, and the Snoqualmie Indian Tribe. At the same meeting the Council also authorized Mayor Miller to send a letter to the Washington Utilities and Transportation Commission (WUTC) objecting to Jupiter Power's proposed Cascadia Ridge BESS in unincorporated King County within Snoqualmie's Potential Annexation Area, due by May 26, 2026. The moratorium applies only within North Bend city limits and does not directly reach the Cascadia Ridge project, but with this action North Bend joins Covington, Enumclaw, and Black Diamond as King County cities that have adopted BESS moratoriums. A fifth, Snoqualmie, [introduced one on May 11](#may-11-2026) that is still in committee. [City of North Bend newsflash.](https://northbendwa.gov/m/newsflash/Home/Detail/2666)
@@ -21,6 +49,10 @@ What we've published, who we've contacted, and what's happened. Most recent firs
 ## May 11, 2026
 
 - **Snoqualmie City Council voted 5 to 1 to introduce a moratorium ordinance on battery storage facilities within Snoqualmie city limits.** After a 20-minute executive session with legal counsel, the Council waived the 72-hour notification rule, read the ordinance in for the first time, and referred it to the Council's Finance and Administration committee. Mayor Mayhew introduced the ordinance. Councilmember Dan Murphy, on the record: "This is a land use that is emerging. It's one that's created a lot of concern among our residents, and establishing the right policies with respect to this land use within our city limits is squarely something that a city council and a city can do." The lone dissenting vote preferred to act on the ordinance immediately rather than refer. The moratorium does not directly apply to the Cascadia Ridge project (which is in unincorporated King County), but it is a clear policy signal from the closest incorporated jurisdiction. It also sits alongside the City's [April 30 Mayor and Council letters](/updates#april-30-2026) endorsing an EIS for Cascadia Ridge. [Full Living Snoqualmie write-up.](https://livingsnoqualmie.com/snoqualmie-city-council-appoints-new-member-advances-bess-moratorium-names-police-chief-finalist/)
+
+## May 6, 2026
+
+- **Jupiter Power filed its clearing-and-grading permit (GRDE26-0036) with King County.** This is the application that initiates SEPA review for the full BESS project, replacing the Commercial Site Development permit Jupiter canceled in February. Jupiter also filed a companion floodplain development permit (FLOD26-0137). The filing puts the project on the County's formal review path toward the Notice of Application and the SEPA comment window. See [Permitting Status](/permitting).
 
 ## May 1, 2026
 
