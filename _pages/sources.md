@@ -56,7 +56,7 @@ This library is expanding. More of the King County and City of Snoqualmie permit
 
 ## Regulatory framework and permitting
 
-- **King County Ordinance 19824 (2024), the BESS regulatory framework** — [King County Legistar](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909). The first BESS framework for unincorporated King County; Cascadia Ridge is one of the first projects through it.
+- **King County Ordinance 19824 (2024), the BESS regulatory framework** — [King County Legistar](https://mkcclegisearch.kingcounty.gov/LegislationDetail.aspx?ID=6294909&GUID=CA2000B8-B2F9-4F69-9055-0C2D381EAF9F). The first BESS framework for unincorporated King County; Cascadia Ridge is one of the first projects through it.
 
 ## Adjacent-jurisdiction actions
 
