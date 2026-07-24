@@ -21,7 +21,7 @@ You don't need to contact everyone. Pick the one or two that matter most to you 
 
 PSE selected this project and this developer. Their [own 2021 siting study](/project#siting-study) screened all 382 substations and identified 14 recommended locations for energy storage. Mt. Si was not one of them. It did not meet the study's initial electrical qualification screen, so it never even made the cut of 36 stations that received detailed analysis, and the study's siting criteria, which explicitly flag residential areas, schools, and hospitals as making a location less desirable, were never applied to it. Four years later, PSE signed a tolling agreement for a 130 MW facility at a location its own study did not recommend.
 
-PSE originally filed the [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) with the UTC redacted in its entirety, and has [sued the UTC](/ceta#transparency) to prevent further disclosure. UTC Commission Staff criticized PSE's redaction pattern in an earlier procurement, writing that some information PSE redacted "does not appear to Staff to be commercially sensitive."
+PSE originally filed the [tolling agreement](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=44&year=2024&docketNumber=240532) with the UTC redacted in its entirety and [sued the UTC](/ceta#transparency) to prevent further disclosure; the suit was dismissed in May 2026 and a substantially less-redacted version is now on the docket. UTC Commission Staff criticized PSE's redaction pattern in an earlier procurement, writing that some information PSE redacted "does not appear to Staff to be commercially sensitive."
 
 Email: [communityengagement@pse.com](mailto:communityengagement@pse.com)
 

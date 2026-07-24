@@ -6,7 +6,7 @@ title: "Battery Technology"
 
 The safety profile of a battery storage facility depends heavily on its chemistry. Lithium-ion cells can undergo thermal runaway, producing hydrogen fluoride and other toxic gases. Sodium-ion cells have shown no thermal runaway in abuse testing. The difference between these chemistries determines the fire risk, toxic emission profile, cooling requirements, and noise of the facility.
 
-Jupiter Power has stated that battery chemistry "has not yet been selected" but is expected to be "lithium ion (LFP) or sodium ion." In practice, PSE's [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) is structured around lithium-ion BESS operations, and [all 47 standalone battery storage proposals](/ceta#transparency) PSE received in its 2024 RFP were lithium-ion. A full [Environmental Impact Statement](/what-we-are-asking) with an alternatives analysis would put the chemistry question on the public record and require evaluation of whether a safer chemistry is feasible at this site.
+Jupiter Power has stated that battery chemistry "has not yet been selected" but is expected to be "lithium ion (LFP) or sodium ion." In practice, PSE's [tolling agreement](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=44&year=2024&docketNumber=240532) is structured around lithium-ion BESS operations and names Samsung SDI as the battery vendor, and [all 47 standalone battery storage proposals](/ceta#transparency) PSE received in its 2024 RFP were lithium-ion. A full [Environmental Impact Statement](/what-we-are-asking) with an alternatives analysis would put the chemistry question on the public record and require evaluation of whether a safer chemistry is feasible at this site.
 
 ## Lithium-ion risks
 
