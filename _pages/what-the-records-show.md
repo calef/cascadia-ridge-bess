@@ -4,7 +4,7 @@ title: "What King County's Records Show"
 
 King County Department of Local Services responded to a public records request on April 13, 2026, producing roughly 730 MB of Jupiter Power's permit application and related communications. Below are eight findings pulled straight from the application materials. The records are public. The analysis here is ours.
 
-The files cited below all come from Jupiter Power's withdrawn Commercial Site Development application, **CMST25-0005**, filed November 21, 2025 and withdrawn February 17, 2026. They are the design documents Jupiter Power has prepared for this site. The forthcoming clearing and grading application is expected to be built on the same design base.
+The files cited below all come from Jupiter Power's withdrawn Commercial Site Development application, **CMST25-0005**, filed November 21, 2025 and withdrawn February 17, 2026. They are the design documents Jupiter Power has prepared for this site. The clearing and grading application Jupiter filed on May 6, 2026 (GRDE26-0036) is built on the same design base.
 
 ## The civil plans show 410 MW / 1,640 MWh, not 130 MW
 
@@ -15,6 +15,8 @@ The main transformer on the electrical single-line diagram (90/120/150 MVA, thre
 *Source: CMST25-0005, Document 05.02 (Civil Plan Set), sheet C001; Document 06 (Electrical Single-Line Diagram).*
 
 SEPA review is scoped to the project as described. If the engineered design is three times larger in power and more than two times larger in energy than the described project, a checklist and a Mitigated Determination of Non-Significance is the wrong instrument for the job.
+
+**Update, July 2026:** Jupiter's resubmitted GRDE26-0036 package describes the project as "approximately 130 MW," no longer carries the 410 MW / 1,640 MWh cover-sheet figure, and states no megawatt-hour rating anywhere, while its Emergency Response Plan still lists 392 battery enclosures. The 410 MW figure is gone; what replaced it is silence on installed energy.
 
 ## 1,239 trees recommended for removal, zero replacement required
 
@@ -38,9 +40,9 @@ King County's KCC 16.82.156(A)(6) utility exemption answers the replacement-tree
 
 Dudek's acoustical analysis (Dana Lodico, PE, INCE) modeled the 25-acre / 130 MW layout as originally filed (392 Samsung battery containers, 98 SMA power conversion units, 3 transformers) against King County's noise limits.
 
-The predicted nighttime sound level at receptor **R5, the closest residential property about 350 feet east of the facility, is 42 dBA**. The applicable nighttime limit with the tonal penalty that applies here (the equipment has prominent tones at 3,150 Hz and 6,300 Hz from the power conversion units) is **42 dBA**. **Zero margin.**
+The predicted nighttime sound level at receptor **R5, the closest residential property about 350 feet east of the facility, is 42 dBA**. Against the stricter commercial-district limit the study itself applied (47 dBA less the 5 dBA tonal penalty for the equipment's prominent tones at 3,150 Hz and 6,300 Hz), that is **exactly at the 42 dBA limit. Zero margin.** Against the industrial-source limit that applies to a facility of this class (50 dBA nighttime, 45 dBA after the tonal penalty), the margin is at most 3 dBA. See our [noise analysis](/noise) for why a prediction this close to the line, on substitute data, cannot demonstrate compliance.
 
-The study used substitute spectral data for three of the four equipment types because the actual 1/3 octave band data was unavailable. It took no nighttime ambient measurements near the eastern residences. It did not model alarm or emergency venting noise. It did not analyze low-frequency transformer hum.
+The study used substitute spectral data for three of the four equipment types because the actual 1/3 octave band data was unavailable. It took no nighttime ambient measurements near the eastern residences. It did not analyze cumulative noise with the adjacent Mt. Si substation's transformer hum.
 
 *Source: CMST25-0005, Document 20 (Sound Study).*
 

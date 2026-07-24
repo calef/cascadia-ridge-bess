@@ -39,7 +39,7 @@ Both projects are in unincorporated King County where the adjacent city has no p
 
 Key differences: Kingfisher is adjacent to a middle school with ~900 students. Cascadia Ridge is larger (45 acres / 130 MW vs. 14.1 acres). Covington passed a moratorium within its city limits early in the Kingfisher fight. Snoqualmie has introduced a moratorium ordinance for its own city limits (referred to committee May 11, 2026) but has not yet adopted one. Ordinance 19824 was drafted partly in response to Kingfisher. Cascadia Ridge is one of the first projects to move through it.
 
-## Hillsboro, OR — Jupiter Power "Blackberry Grove" (approved despite record opposition)
+## Hillsboro, OR: Jupiter Power "Blackberry Grove" (approved despite record opposition)
 
 Same developer as Cascadia Ridge. Jupiter Power proposed a 100 MW BESS on 10 acres of agricultural land in unincorporated Washington County, Oregon, near the West Union substation. The project generated 350+ letters of opposition, making it the most contested land use case in Washington County history. An organized group, [No Batteries In Backyards](https://nobatteriesinbackyards.org/), formed to fight it.
 
@@ -101,27 +101,27 @@ Conditions that were **not** imposed at Hillsboro but are relevant to Cascadia R
 
 Public comment alone does not stop these projects when the code allows them. The path to a different outcome runs through the SEPA process: building a comment record strong enough to compel a Determination of Significance and [full Environmental Impact Statement](/what-we-are-asking). That's what we're focused on.
 
-## Oyster Bay, NY — Jupiter Power (withdrawn)
+## Oyster Bay, NY: Jupiter Power (withdrawn)
 
 Same developer as Cascadia Ridge. Jupiter Power proposed a 275 MW BESS ("Oyster Shore") in Oyster Bay, NY. The town enacted a moratorium in February 2024 and extended it serially, making the permit path unviable. Jupiter Power [withdrew in May 2025](https://www.liherald.com/stories/jupiter-power-pulls-plug-on-oyster-shore-project,215238), citing "no viable permit path." The town subsequently made its BESS ban permanent.
 
 Opposition was led by the Glen Head-Glenwood Civics Council, the Greenvale Civic Association, and the local school district.
 
-## Morro Bay, CA — Vistra 600 MW (withdrawn)
+## Morro Bay, CA: Vistra 600 MW (withdrawn)
 
 Vistra proposed a 600 MW BESS in Morro Bay, CA. Citizens for Estero Bay Preservation organized a ballot initiative that passed ~60-40% in November 2024, removing the city council's zoning jurisdiction over the project. After the [Moss Landing fire](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) in January 2025, the council voted 5-0 for a moratorium. Vistra [formally withdrew](https://esterobaynews.com/featured-stories/vistra-formally-withdraws-battery-project/) in April 2025.
 
-## Gillespie County, TX — 145 MW (court-blocked)
+## Gillespie County, TX: 145 MW (court-blocked)
 
 A [court injunction](https://texasscorecard.com/local/court-order-blocks-battery-storage-system-construction-in-central-texas/) halted construction of a 145 MW BESS less than 2,000 feet from a school with 600+ students and less than 100 feet from the Pedernales River. The county passed a formal resolution opposing the project. Opposition was organized by [Fight BESS Texas](https://fightbesstexas.org/).
 
-## Vacaville, CA — lithium-ion prohibition (adopted March 2026)
+## Vacaville, CA: lithium-ion prohibition (adopted March 2026)
 
 On March 11, 2026, the Vacaville City Council [unanimously adopted a BESS ordinance](https://www.pressdemocrat.com/2026/03/11/vacaville-adopts-battery-energy-storage-systems-ordinance/) that explicitly **prohibits lithium-ion battery chemistry** throughout the city. The ordinance nominally allows non-lithium alternatives such as vanadium redox flow batteries (VRFB) based on a technology assessment by consultants Larsen and Toubroo.
 
 Vacaville is the first U.S. jurisdiction to enact a permanent ordinance restricting battery chemistry rather than banning BESS outright. It proves the concept is legislatively viable. But the implementation is closer to a ban than a standard.
 
-After increasing setbacks from 300 to 500 feet, the city's own suitability analysis found only one parcel in the entire city that qualifies: the former Gibson Canyon Creek Wastewater Treatment Plant. The council had already voted against a BESS project on that same site. The technology assessment recommended vanadium redox flow batteries, which have never been deployed at utility scale in the U.S. and cost roughly twice as much as lithium-ion. Sodium-ion, which is commercially available and eliminates thermal runaway risk, was not evaluated.
+After increasing setbacks from 300 to 500 feet, the city's own suitability analysis found only one parcel in the entire city that qualifies: the former Gibson Canyon Creek Wastewater Treatment Plant. The council had already voted against a BESS project on that same site. The technology assessment recommended vanadium redox flow batteries, a chemistry with only a handful of small (1-2 MW) US grid deployments and roughly twice the cost of lithium-ion. Sodium-ion, which is commercially available and eliminates thermal runaway risk, was not evaluated.
 
 The result: lithium-ion is banned, the recommended alternative is impractical, and the only eligible site has already been rejected. That's a de facto ban, not a technology standard.
 
@@ -137,23 +137,24 @@ As of March 2026, [150+ local governments across 17 states](https://www.globenew
 
 ### Adopted
 
-Four King County cities have adopted moratoriums on BESS within their city limits:
+Five King County cities have adopted moratoriums on BESS within their city limits:
 
-- **Covington:** May 2024, extended through May 2026. Planning staff developing permanent BESS code amendments.
+- **Covington:** May 2024, extended through at least May 2026. Planning staff developing permanent BESS code amendments.
 - **Enumclaw:** Year-long moratorium, February 2025.
 - **Black Diamond:** Six-month moratorium, renewed February 2025.
 - **North Bend:** 12-month moratorium adopted May 19, 2026 by unanimous City Council vote (Ordinance AB26-045). The ordinance was amended on the floor to remove language limiting it to BESS paired with renewable energy, broadening its scope to all battery energy storage as a principal or accessory use within North Bend city limits. The work plan directs staff and the Planning Commission to consult with Eastside Fire & Rescue, Puget Sound Clean Air Agency, the King County Sheriff's Office, King County, EFSEC, electricity utility providers, and the Snoqualmie Indian Tribe.
+- **Duvall:** 12-month moratorium (Ordinance 1353) adopted unanimously June 2, 2026, with a work plan directing consultation with Eastside Fire & Rescue, the Puget Sound Clean Air Agency, King County, EFSEC, and area Tribes.
 
 ### Introduced (pending)
 
 - **Snoqualmie:** Mayor Mayhew introduced a BESS moratorium ordinance on May 11, 2026. After a 20-minute executive session with legal counsel, the City Council waived the 72-hour notification rule, read the ordinance in for the first time, and voted 5-1 to refer it to the Council's Finance and Administration Committee. Councilmember Dan Murphy, on the record: "This is a land use that is emerging. It's one that's created a lot of concern among our residents, and establishing the right policies with respect to this land use within our city limits is squarely something that a city council and a city can do." The lone dissenting vote preferred to act immediately rather than refer. The introduction is part of Snoqualmie's broader institutional posture on this project, which also includes Mayor Mayhew's April 30, 2026 solo letter to King County DLS Permitting Director Richardson endorsing a full Environmental Impact Statement for Cascadia Ridge, and the joint Mayor-and-Council letter to PSE and King County on the same day asking for alternative siting.
 
-These moratoriums apply only within each city's own limits. They do not directly apply to BESS projects in unincorporated King County, which is where both Kingfisher and Cascadia Ridge are sited. Their value is as institutional signal: the four adjacent municipalities most familiar with this class of land use have each decided it warrants substantive review or restriction within their own jurisdictions.
+These moratoriums apply only within each city's own limits. They do not directly apply to BESS projects in unincorporated King County, which is where both Kingfisher and Cascadia Ridge are sited. Their value is as institutional signal: five King County cities have each decided this class of land use warrants substantive review or restriction within their own jurisdictions.
 
 ### North Bend's letter to the WUTC
 
 At the same May 19, 2026 meeting, the North Bend City Council also authorized Mayor Miller to send a letter to the Washington Utilities and Transportation Commission (WUTC) objecting to Jupiter Power's proposed Cascadia Ridge BESS in unincorporated King County within Snoqualmie's Potential Annexation Area. The letter was set for delivery by May 26, 2026.
 
-The Cascadia Ridge site is not in North Bend's city limits. North Bend sits upstream of the proposed site on the Snoqualmie River, in the foothills east of the project. The council's decision to engage the WUTC about a project outside its borders is a regional-impact framing rather than a local-jurisdiction one. The fact that an adjacent city felt compelled to address a state regulator about a project it cannot directly permit is itself a comment on the project's footprint.
+The Cascadia Ridge site is not in North Bend's city limits. North Bend sits upstream of the proposed site on the Snoqualmie River, in the foothills east of the project. The council's decision to engage the WUTC about a project outside its borders is a regional-impact framing rather than a local-jurisdiction one. The fact that a Valley city felt compelled to address a state regulator about a project it cannot directly permit is itself a comment on the project's footprint.
 
-The packet for the May 19 meeting did not include a staff memo on the WUTC angle. The letter authorization appears to have originated as a floor motion during deliberation, not a packet-prepared item. The substantive content of the mayor's letter will not be on the public record until it is sent and posted.
+Mayor Miller's letter was [filed with the WUTC on June 3, 2026](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=1894&year=2026&docketNumber=260005). It describes the Snoqualmie Valley as "one ecosystem" whose watershed connects to Seattle's Cedar River drinking-water supply, and warns that a BESS fire's air pollution and contaminated runoff could reach that watershed and overwhelm the Valley's mutual-aid emergency resources.

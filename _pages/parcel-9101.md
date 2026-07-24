@@ -1,11 +1,11 @@
 ---
-title: "Parcel 3624079101 — Landgraf Property"
+title: "Parcel 3624079101: Landgraf Property"
 description: "Recorded documents for parcel 3624079101, the Landgraf residential property under option to Jupiter Power. PSE eminent domain, BPA corridor."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079101 — Landgraf residential property (~5.0 ac) {#parcel-9101}
+## Parcel 3624079101: Landgraf residential property (~5.0 ac) {#parcel-9101}
 
 **Owner:** Heather Landgraf (single person, as of Jan 2025 divorce transfer)
 **Zoning:** UR

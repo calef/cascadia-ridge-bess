@@ -2,7 +2,7 @@
 title: "SEPA Outcomes for Washington BESS Projects"
 ---
 
-No battery energy storage project in Washington State has ever been required to complete a full Environmental Impact Statement. Every project that reached a SEPA threshold determination received a DNS or MDNS and was approved. The only formal appeal was denied.
+As of mid-2026, no battery energy storage project in Washington State has been required to complete a full Environmental Impact Statement. Every project that reached a SEPA threshold determination received a DNS or MDNS and was approved. The only formal appeal was denied.
 
 That doesn't mean the SEPA process is irrelevant. The conditions other projects received show what's achievable through strong public comment records. Cascadia Ridge has site-specific challenges no previous Washington BESS project has shared, which is why we are pushing for the first Determination of Significance and [full EIS](/what-we-are-asking).
 
@@ -89,7 +89,7 @@ Source: [Sumner MDNS](https://sumnerwa.gov/wp-content/uploads/2024/07/MDNS-SEPA-
 
 ## Arlington SnoPUD (25 MW) {#arlington}
 
-MDNS issued March 2025 by the City of Arlington. **Zero public comments were received.** No one attended the neighborhood meeting. The project sailed through because it checked every box: industrial zoning, existing utility campus, public utility as developer, small scale, no residential within 550 feet, and Arlington already had a comprehensive BESS ordinance (AMC 20.114).
+MDNS issued March 2025 by the City of Arlington. **Zero public comments were received.** No one attended the neighborhood meeting. The project sailed through because it checked every box: industrial zoning, existing utility campus, public utility as developer, small scale, no residential within 550 feet, and Arlington already had a BESS ordinance in place (AMC 20.114).
 
 Key conditions included remote surveillance for thermal runaway detection, secondary containment for battery and transformer contaminants, spill prevention and response plans, noise compliance limits, and notification to the Stillaguamish Tribe for ground disturbance.
 
@@ -138,7 +138,7 @@ The county's 29-page SEPA checklist for the ordinance acknowledges risks that ar
 
 Every Washington BESS project that went through SEPA was approved. But Cascadia Ridge has advantages no previous opposition has had:
 
-**PSE's own consultant screened this site out.** PSE's 2021 Energy Storage System Location Study evaluated substations across their service territory and [did not recommend Mt. Si](/project#siting-study). PSE selected it anyway four years later. No other BESS opposition in Washington has the developer's own utility partner on record saying the site is unsuitable.
+**PSE's own study did not recommend this site.** PSE's 2021 Energy Storage System Location Study screened its substation fleet and [did not recommend Mt. Si](/project#siting-study): the station did not meet the study's electrical qualification screen and was never evaluated against its siting criteria. PSE selected it anyway four years later. As far as we know, no other Washington BESS opposition can point to the utility's own siting study that screened out the site.
 
 **The developer already has a sodium-ion contract.** Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for sodium-ion batteries. A full EIS alternatives analysis would force that choice onto the record: why is a chemistry with thermal runaway risk being proposed at a site adjacent to thousands of homes when the developer is investing half a billion dollars in an alternative?
 
@@ -146,7 +146,7 @@ Every Washington BESS project that went through SEPA was approved. But Cascadia 
 
 **School proximity flagged by PSE's own criteria.** PSE's siting study criteria explicitly identify schools within one mile as making a location less desirable. Cascade View Elementary is within that radius.
 
-**Valley inversion trapping.** The Snoqualmie Valley is ridge-bounded. Temperature inversions in western Washington valleys can trap emissions close to the ground, unlike coastal or open-terrain sites where wind disperses them. No other Washington BESS project shares this atmospheric characteristic.
+**Valley inversion trapping.** The Snoqualmie Valley is ridge-bounded. Temperature inversions in western Washington valleys can trap emissions close to the ground, unlike coastal or open-terrain sites where wind disperses them. None of the Washington BESS sites reviewed on this page shares this atmospheric characteristic.
 
 **King County's own SEPA checklist is on the record.** The county's 29-page non-project checklist puts hydrogen fluoride, water contamination, and 85-87 dBA noise on the record. At project level, they can't walk that back. Demand specific analysis of what those impacts look like at this site.
 

@@ -1,11 +1,11 @@
 ---
-title: "Parcel 3624079039 — Main Project Site"
+title: "Parcel 3624079039: Main Project Site"
 description: "Recorded documents for parcel 3624079039, the main 25-acre Cascadia Ridge BESS project site."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079039 — Main project site (~25.3 ac) {#parcel-9039}
+## Parcel 3624079039: Main project site (~25.3 ac) {#parcel-9039}
 
 **Owner:** Snoqualmie 55 LLC (Conner Homes/Burnstead entity)
 **Zoning:** UR (Urban Reserve)

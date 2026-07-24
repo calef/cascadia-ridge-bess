@@ -46,7 +46,7 @@ Every single battery storage proposal was lithium-ion, 4-hour duration. All 47 s
 
 That's because the RFP closed in September 2024, before sodium-ion reached commercial scale. PSE selected from what was offered. They didn't have a chemistry choice.
 
-The technology landscape has changed since the RFP closed. Peak Energy [delivered the first US grid-scale sodium-ion system](https://www.prnewswire.com/news-releases/peak-energy-delivers-first-grid-scale-sodium-ion-battery-storage-system-in-the-us-302519228.html) in 2025, CATL is mass-producing sodium-ion cells in 2026, and Jupiter Power has already contracted for 4.75 GWh of Peak Energy sodium-ion for other projects. A full [EIS alternatives analysis](/what-we-are-asking) would require evaluation of whether commercially available chemistries that eliminate thermal runaway are feasible at this site. Without an EIS, that question never enters the public record.
+The technology picture has changed since the RFP closed. Peak Energy [delivered the first US grid-scale sodium-ion system](https://www.prnewswire.com/news-releases/peak-energy-delivers-first-grid-scale-sodium-ion-battery-storage-system-in-the-us-302519228.html) in 2025, CATL is mass-producing sodium-ion cells in 2026, and Jupiter Power has already contracted for 4.75 GWh of Peak Energy sodium-ion for other projects. A full [EIS alternatives analysis](/what-we-are-asking) would require evaluation of whether commercially available chemistries that eliminate thermal runaway are feasible at this site. Without an EIS, that question never enters the public record.
 
 WA standalone battery proposals ranged from 40 MW to 400 MW. Cascadia Ridge at 130 MW is mid-range. Five gas plant proposals (171-215 MW) were also submitted, the fossil peakers CETA is supposed to replace.
 
@@ -89,7 +89,7 @@ The community adjacent to this facility cannot see the contract that governs wha
 
 ### Prudence review
 
-The financial lever comes later. When PSE seeks to recover Cascadia Ridge costs in customer rates (in a future general rate case), the UTC will conduct a **prudence review**. Intervenors — including Public Counsel, which represents ratepayers — can challenge whether the agreement was prudent: was it the lowest reasonable cost? Were alternatives adequately considered? Did community opposition, permitting delays, or environmental concerns affect the project's cost or viability?
+The financial lever is now in play. PSE is seeking to recover Cascadia Ridge costs in its 2026 general rate case (WUTC Docket UE-260005), where the UTC conducts a **prudence review**. Intervenors, including Public Counsel (which represents ratepayers), can challenge whether the agreement was prudent: was it the lowest reasonable cost? Were alternatives adequately considered? Did community opposition, permitting delays, or environmental concerns affect the project's cost or viability? The City of Snoqualmie, the City of North Bend, and King County Fire Protection District 38 have each filed letters in that docket asking the Commission to defer or condition any prudence finding on this project. See the [June 2026 updates](/updates#june-1-2026).
 
 If the project faces significant community opposition or permitting complications, those factors could weigh against a finding of prudence.
 

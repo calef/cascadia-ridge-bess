@@ -4,7 +4,7 @@ title: "What State Wildlife Records Add"
 
 Jupiter Power's ecological report for this site was produced by Dudek under contract to the applicant, who is not the property owner. Because the applicant is not the owner, Dudek could not access the full Washington Department of Fish and Wildlife (WDFW) Priority Habitats and Species (PHS) dataset for the parcels. The site-and-environment page covers what Dudek did find. This page covers what the state's own public wildlife records add on top of that.
 
-The data here come from WDFW's publicly released Priority Habitats and Species geodatabase, downloaded April 20, 2026, clipped to a half-mile and one-mile radius around the centroid of the nine Cascadia Ridge project parcels (47.5263 N, -121.8613 W; NW quarter of Section 36, T24N, R7E, King County). Parcel footprints were taken from the King County Parcels service.
+The data here come from WDFW's publicly released Priority Habitats and Species geodatabase, downloaded April 20, 2026, clipped to a half-mile and one-mile radius around the centroid of the nine-parcel footprint used for this analysis (the six project parcels plus three adjacent PSE corridor parcels) (47.5263 N, -121.8613 W; NW quarter of Section 36, T24N, R7E, King County). Parcel footprints were taken from the King County Parcels service.
 
 ## Three items in the state layer that are not in the applicant's ecological report
 
@@ -33,7 +33,7 @@ None of these appear in the non-sensitive layer for this site, which does not me
 
 Jurisdictionally, the WDFW PHS dataset is the state's authoritative wildlife data source. County-level SEPA review commonly relies on it, and it is the layer the applicant's consultant would have reviewed if the applicant owned the property. The presence of a gray wolf township mask overlapping the project parcels, a spotted owl township mask inside the one-mile radius, a documented cutthroat reach adjacent to the site, and sixteen wetland polygons within a half-mile radius, none of which appear in the applicant's ecological report, is a concrete gap in the application's baseline.
 
-For the SEPA comment period on the forthcoming clearing and grading application, this is the factual basis for asking King County DPER to:
+For the SEPA comment period on the clearing and grading application (GRDE26-0036), this is the factual basis for asking King County Permitting to:
 
 1. Obtain the full sensitive-species PHS dataset from WDFW under qualified-requester status before issuing any threshold determination.
 2. Require seasonal species surveys for the gray wolf, spotted owl, Vaux's swift, western toad, bald eagle, and great blue heron, scoped against the full sensitive layer.
@@ -41,4 +41,4 @@ For the SEPA comment period on the forthcoming clearing and grading application,
 
 The full [SEPA comment page](/sepa-comments) explains the procedural path and the timing.
 
-*Source: WDFW Priority Habitats and Species non-sensitive statewide file geodatabase, refreshed monthly by WDFW, downloaded April 20, 2026. Clipping, reprojection, and distance calculations performed in GDAL and Python (shapely/pyproj) against the original source data. Project centroid computed from the King County Parcels service for the nine parcels in the Cascadia Ridge project footprint.*
+*Source: WDFW Priority Habitats and Species non-sensitive statewide file geodatabase, refreshed monthly by WDFW, downloaded April 20, 2026. Clipping, reprojection, and distance calculations performed in GDAL and Python (shapely/pyproj) against the original source data. Project centroid computed from the King County Parcels service for the nine-parcel analysis footprint (six project parcels plus three adjacent PSE corridor parcels).*

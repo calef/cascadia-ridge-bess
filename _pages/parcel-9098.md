@@ -1,16 +1,16 @@
 ---
-title: "Parcel 3624079098 — PSE Corridor (West)"
-description: "Recorded documents for parcel 3624079098, a PSE transmission corridor parcel limited to transmission line construction by the PADA."
+title: "Parcel 3624079098: PSE Corridor (West)"
+description: "Recorded documents for parcel 3624079098, a PSE transmission corridor parcel addressed by the PADA and bound by the City's perpetual covenant."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079098 — PSE corridor, western portion {#parcel-9098}
+## Parcel 3624079098: PSE corridor, western portion {#parcel-9098}
 
 **Owner:** Puget Sound Energy Inc.
 **Documents found:** 5
 
-This parcel is part of the PSE transmission corridor. The PADA (Section 6.10) specifically addresses parcels 9098 and 9099 as sites for transmission line construction, with King County (not the City of Snoqualmie) as the permitting authority since these parcels were not being annexed.
+This parcel is part of the PSE transmission corridor. The PADA (Section 6.10) specifically addressed parcels 9098 and 9099 as sites for transmission line construction, with King County (not the City of Snoqualmie) as the permitting authority since these parcels were not being annexed. The PADA's general term has since expired; the City of Snoqualmie's Covenant and Grant of Easement (below) is perpetual and remains in force.
 
 | Recorded | Type | Recording # | Pages | Description | PDF |
 |---|---|---|---|---|---|

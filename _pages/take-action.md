@@ -9,7 +9,7 @@ If you do one thing, [sign up for updates](/subscribe). We'll alert you when the
 After that, here's the sequence:
 
 1. **Now:** Write to the institutions below. Push them to prepare for the SEPA process and advocate for safety conditions. This is the groundwork.
-2. **When Jupiter refiles:** A 14-day State Environmental Policy Act (SEPA) comment window opens. This is the decisive moment. If an issue isn't raised during that window, it cannot be raised later in an appeal. [Read our SEPA comment guide](/sepa-comments) now so you're ready.
+2. **When the County publishes the Notice of Application:** Jupiter's clearing-and-grading permit (GRDE26-0036) is filed and in County review; once the County accepts it as complete, a 14-day State Environmental Policy Act (SEPA) comment window opens. This is the decisive moment. If an issue isn't raised during that window, it cannot be raised later in an appeal. [Read our SEPA comment guide](/sepa-comments) now so you're ready.
 
 You don't need to contact everyone. Pick the one or two that matter most to you and write a short, specific email. The bullet points below give you exactly what to ask.
 
@@ -19,7 +19,7 @@ You don't need to contact everyone. Pick the one or two that matter most to you 
 
 ### Write to Puget Sound Energy
 
-PSE selected this project and this developer. Their [own 2021 siting study](/project#siting-study) screened all 382 substations and identified 15 recommended locations for energy storage. Mt. Si was not one of them. It didn't even make the initial cut of 36 stations that received detailed analysis. The study's criteria explicitly flag residential areas, schools, and hospitals as making a location less desirable. Four years later, PSE signed a tolling agreement for a 130 MW facility at the location their own consultant rejected.
+PSE selected this project and this developer. Their [own 2021 siting study](/project#siting-study) screened all 382 substations and identified 14 recommended locations for energy storage. Mt. Si was not one of them. It did not meet the study's initial electrical qualification screen, so it never even made the cut of 36 stations that received detailed analysis, and the study's siting criteria, which explicitly flag residential areas, schools, and hospitals as making a location less desirable, were never applied to it. Four years later, PSE signed a tolling agreement for a 130 MW facility at a location its own study did not recommend.
 
 PSE originally filed the [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) with the UTC redacted in its entirety, and has [sued the UTC](/ceta#transparency) to prevent further disclosure. UTC Commission Staff criticized PSE's redaction pattern in an earlier procurement, writing that some information PSE redacted "does not appear to Staff to be commercially sensitive."
 
@@ -33,15 +33,15 @@ Ask them:
 
 ### Write to the Snoqualmie City Council
 
-The site is in unincorporated King County, so the City of Snoqualmie has no permitting authority today. But the city has real leverage. It controls the franchise agreement with PSE. It is a named party to the [development agreements](/recorded-documents) that restrict what the adjacent PSE corridor parcels can be used for. Neither potential [construction access route](/recorded-documents/#access-road) to the project site was designed for industrial traffic, and both have legal constraints the city can enforce. The city can also formally participate in the SEPA review.
+The site is in unincorporated King County, so the City of Snoqualmie has no permitting authority today. But the city has real leverage. It controls the franchise agreement with PSE. It holds a perpetual recorded [covenant](/recorded-documents) protecting wetland, buffer, and vegetation areas on the adjacent PSE corridor parcels. Neither potential [construction access route](/recorded-documents/#access-road) to the project site was designed for industrial traffic, and both have legal constraints the city can enforce. The city can also formally participate in the SEPA review.
 
 Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
 
 Ask them to:
 
-- **Send a letter to King County requesting a full Environmental Impact Statement** for the Cascadia Ridge project. Three other King County cities (Covington, Enumclaw, Black Diamond) have already passed BESS moratoriums. A formal EIS request is a measured step that does not prejudge the outcome.
-- **Enforce the existing development agreement restrictions** on the PSE corridor parcels. Construction traffic for the BESS project is not authorized under those agreements, and the city has standing to say so.
-- **Direct staff to formally participate in the SEPA review** when Jupiter Power refiles.
+- **Send a letter to King County requesting a full Environmental Impact Statement** for the Cascadia Ridge project. Five King County cities (Covington, Enumclaw, Black Diamond, North Bend, and Duvall) have already passed BESS moratoriums. A formal EIS request is a measured step that does not prejudge the outcome.
+- **Enforce the recorded covenant restrictions** on the PSE corridor parcels. The City holds a perpetual Covenant and Grant of Easement (Rec# 20110429001446) whose vegetation maintenance, buffer, and native growth protection areas require prior written City approval for disturbance. BESS construction traffic and gen-tie clearing through those areas would need that approval, and the city has standing to say so.
+- **Direct staff to formally participate in the SEPA review** now that the application is filed.
 - **Update the city's evacuation plan** to address an industrial toxic release scenario. The current plan (November 2017) does not contemplate a chemical fire producing hydrogen fluoride adjacent to Snoqualmie Ridge.
 
 ### Write to the Snoqualmie Valley School District
@@ -55,7 +55,7 @@ Email the school board: [svsdinfo@svsd410.org](mailto:svsdinfo@svsd410.org)
 Ask them to:
 
 - **Request a full Environmental Impact Statement** from King County based on student safety concerns. A school district asking for rigorous environmental review carries institutional weight that individual comments cannot.
-- **Prepare to submit formal SEPA comments** when Jupiter Power refiles, focusing on atmospheric dispersion modeling, shelter-in-place feasibility, and evacuation during school hours.
+- **Prepare to submit formal SEPA comments** when the comment window opens, focusing on atmospheric dispersion modeling, shelter-in-place feasibility, and evacuation during school hours.
 - **Evaluate emergency preparedness** for a battery fire during school hours. Can school HVAC systems switch to recirculation mode? What are the evacuation options if Snoqualmie Parkway is within a toxic plume?
 - **Review the Kent School District's response** to a similar proposal near Mattson Middle School. The Kent board passed a formal resolution on student safety grounds.
 
@@ -68,7 +68,7 @@ Email Ken Rudberg (Director of Quality, Risk & Compliance): [kenr@snoqualmiehosp
 Ask them to:
 
 - **Request a full Environmental Impact Statement** from King County. A comment from the local hospital on patient safety and emergency capacity carries institutional weight that individual comments cannot.
-- **Participate in the SEPA review** when Jupiter Power refiles.
+- **Participate in the SEPA review** when the comment window opens.
 - **Evaluate whether the hospital can treat mass hydrogen fluoride exposure.** HF requires calcium gluconate and specialized decontamination protocols. Does the hospital stock these? How many patients can it handle simultaneously?
 - **Update the hospital's emergency operations plan** to include an industrial toxic release scenario from the adjacent BESS facility.
 
@@ -93,7 +93,7 @@ Three fire agencies cover this area. Jupiter Power has confirmed it is coordinat
 Ask them to:
 
 - **Request a full Environmental Impact Statement** from King County. Eastside Fire & Rescue has already stated it "cannot confirm" preparedness for an incident of this type and scale. A formal EIS request from fire agencies carries significant weight.
-- **Prepare to participate in the SEPA review** when Jupiter Power refiles.
+- **Prepare to participate in the SEPA review** when the comment window opens.
 - **Evaluate whether existing mutual aid agreements** can handle a multi-day battery fire producing hydrogen fluoride adjacent to a residential community.
 - **Assess fire suppression water supply.** The project parcels have no municipal water connection, no fire hydrants, and no water mains.
 
@@ -103,7 +103,7 @@ Ask them to:
 
 ### Submit a SEPA comment
 
-When Jupiter Power refiles their permit, King County will open a 14-day public comment window. The comments submitted during that period form the legal record. If an issue isn't raised during SEPA comments, it cannot be raised later in an appeal. We'll send an alert when the window opens.
+Jupiter Power's clearing-and-grading permit (GRDE26-0036) is filed and under County review. When King County accepts it as complete and publishes the Notice of Application, a 14-day public comment window opens. The comments submitted during that period form the legal record. If an issue isn't raised during SEPA comments, it cannot be raised later in an appeal. We'll send an alert when the window opens.
 
 **[Read our guide on how to write an effective SEPA comment](/sepa-comments).** It covers the legal standard, the checklist elements relevant to this project, what makes a comment effective, and what to avoid. You don't need to cover everything. One well-supported comment on a single topic is more valuable than a vague letter touching all of them. Start reading now so you're ready the day the window opens.
 

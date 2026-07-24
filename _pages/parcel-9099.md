@@ -1,17 +1,17 @@
 ---
-title: "Parcel 3624079099 — PSE Corridor (Baisden)"
+title: "Parcel 3624079099: PSE Corridor (Baisden)"
 description: "Recorded documents for parcel 3624079099, the former Baisden parcel in PSE's transmission corridor."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079099 — PSE corridor, Baisden parcel {#parcel-9099}
+## Parcel 3624079099: PSE corridor, Baisden parcel {#parcel-9099}
 
 **Owner:** Puget Sound Energy Inc.
 **Legal:** N half of NW 1/4 of NW 1/4, Section 36, T24N, R7E (also known as Lot 2 of KC Short Plat 675001)
 **Documents found:** 7
 
-This parcel was originally owned by the Baisden family, sold to Weyerhaeuser Real Estate Co. in 1995, and subsequently acquired by PSE. The PADA addresses this parcel alongside 9098 for transmission line construction.
+This parcel was originally owned by the Baisden family, sold to Weyerhaeuser Real Estate Co. in 1995, and subsequently acquired by PSE. The PADA addressed this parcel alongside 9098 for transmission line construction; the PADA's general term has since expired, and the City's perpetual Covenant and Grant of Easement remains in force on the parcel.
 
 | Recorded | Type | Recording # | Pages | Description | PDF |
 |---|---|---|---|---|---|

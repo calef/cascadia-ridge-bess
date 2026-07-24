@@ -132,7 +132,7 @@ Every study in Jupiter's bibliography shares the same structural gaps:
 - **No complex terrain or valley analysis.** All sites were flat, open terrain. The Snoqualmie Valley regularly traps emissions close to the ground during temperature inversions.
 - **No aquatic life standards applied.** Fisher Creek and the Snoqualmie River support ESA-listed Chinook salmon, steelhead, and bull trout. Aquatic life criteria are more stringent than drinking water MCLs.
 - **No continuous HF monitoring.** HF is the primary toxic product of LFP thermal runaway. Paper strips and excluded instruments are not adequate.
-- **Small-scale fires only.** A 130 MW facility contains dozens of containers. No study addresses multi-container fire propagation.
+- **Small-scale fires only.** A 130 MW facility contains dozens of containers. None of these studies addresses multi-container fire propagation.
 - **No private well groundwater modeling.** Residences adjacent to the Cascadia Ridge site rely on private wells.
 - **No PM2.5/PM10 monitoring.** Particulate matter is the primary health-relevant emission from battery fires and was not measured in any air study.
 
@@ -148,7 +148,7 @@ The National Fire Protection Association's [Standard for the Installation of Sta
 
 ### UL 9540A
 
-Underwriters Laboratories' [test method for evaluating thermal runaway fire propagation](https://www.ul.com/services/ul-9540a-test-method) in BESS. The only consensus standard in the U.S. and Canada explicitly cited in NFPA 855 for large-scale fire testing. Tests progress from individual cell through module, unit, and full installation levels. Jupiter Power says their batteries are "fire safety tested according to strict Underwriters Laboratory protocols" — this likely refers to UL 9540A.
+Underwriters Laboratories' [test method for evaluating thermal runaway fire propagation](https://www.ul.com/services/ul-9540a-test-method) in BESS. The only consensus standard in the U.S. and Canada explicitly cited in NFPA 855 for large-scale fire testing. Tests progress from individual cell through module, unit, and full installation levels. Jupiter Power says their batteries are "fire safety tested according to strict Underwriters Laboratory protocols," which likely refers to UL 9540A.
 
 ### IFC 1207
 
@@ -182,7 +182,7 @@ No federal agency has published isolation or evacuation distance guidance calibr
 
 - **No federal siting standards.** BESS siting is governed by local land use and building codes, which vary enormously. Some jurisdictions have no BESS-specific ordinances.
 - **Inconsistent setbacks.** Ranges from 10 feet (IFC egress minimum) to 150 feet (some county ordinances) with no national consensus for utility-scale facilities near residential areas.
-- **No standard air monitoring requirement.** At Moss Landing, EPA deployed monitoring stations reactively after the fire started. No BESS facility is required to have permanent fenceline air quality monitoring.
+- **No standard air monitoring requirement.** Permanent fenceline air quality monitoring is not a standard permitting requirement for BESS facilities. At Moss Landing, EPA deployed monitoring stations reactively after the fire started.
 - **Post-incident cleanup is reactive.** EPA had to order cleanups at both Gateway and Moss Landing. Whether operators carry adequate financial assurance for worst-case cleanup is unclear.
 
 ## Earthquake risk

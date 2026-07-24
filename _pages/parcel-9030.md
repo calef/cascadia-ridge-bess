@@ -1,17 +1,17 @@
 ---
-title: "Parcel 3624079030 — PSE Property"
+title: "Parcel 3624079030: PSE Property"
 description: "Recorded documents for parcel 3624079030, a 5-acre PSE corridor parcel subject to the PADA and Covenant."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079030 — PSE property (~5.0 ac) {#parcel-9030}
+## Parcel 3624079030: PSE property (~5.0 ac) {#parcel-9030}
 
 **Owner:** Puget Sound Energy Inc.
 **Legal:** Lot 3, KC Short Plat 675002
 **Documents found:** 4
 
-> **April 2026 update:** Jupiter Power confirmed in an April 6, 2026 meeting that parcel 9030 is part of the Cascadia Ridge project, providing the generation tie-line corridor connecting the BESS facility to the Mt. Si substation at parcel 9091. This makes 9030 a sixth parcel in the project footprint, in addition to the five BESS parcels. Parcel 9030 is explicitly listed in the Pre-Annexation Development Agreement (PADA, Rec# 20110202001508) between PSE and the City of Snoqualmie. The PADA limits the PSE corridor parcels, including 9030, to PSE utility infrastructure. A private developer's commercial energy storage gen-tie line is not PSE's own utility infrastructure. The City of Snoqualmie is a party to the PADA and has contractual standing to raise this issue.
+> **April 2026 update:** Jupiter Power confirmed in an April 6, 2026 meeting that parcel 9030 is part of the Cascadia Ridge project, providing the generation tie-line corridor connecting the BESS facility to the Mt. Si substation at parcel 9091. This makes 9030 a sixth parcel in the project footprint, in addition to the five BESS parcels. Parcel 9030 is explicitly listed in the Pre-Annexation Development Agreement (PADA, Rec# 20110202001508) between PSE and the City of Snoqualmie, whose use provisions limited the corridor parcels to PSE utility infrastructure during the agreement's ten-year term (now expired). What remains in force on this parcel is the perpetual Covenant and Grant of Easement (Rec# 20110429001446): its wetland and stream buffer, vegetation maintenance, and native growth protection areas require prior written City approval for disturbance, and the City holds independent enforcement rights. A gen-tie line and clearing through those protected areas would need that approval.
 
 | Recorded | Type | Recording # | Pages | Description | PDF |
 |---|---|---|---|---|---|

@@ -1,11 +1,11 @@
 ---
-title: "Parcel 3624079091 — PSE Substation"
+title: "Parcel 3624079091: PSE Substation"
 description: "Recorded documents for parcel 3624079091, the 19-acre PSE Mt. Si substation parcel. PADA, Covenant, and Developer Extension Agreement."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079091 — PSE substation parcel (~19.4 ac) {#parcel-9091}
+## Parcel 3624079091: PSE substation parcel (~19.4 ac) {#parcel-9091}
 
 **Owner:** Puget Sound Energy Inc.
 **Legal:** N half of SW 1/4 of NW 1/4, Section 36, T24N, R7E (Tax Account 362407-9091-04)

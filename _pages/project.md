@@ -9,10 +9,10 @@ title: "Project Overview"
 | Project entity | Cascadia Ridge Resiliency LLC (Delaware LLC, Austin TX). Originally formed as "Snoqualmie Energy Storage LLC" in December 2023, renamed June 2025. |
 | Landowners | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Nause LLC, Landgraf, Arnold |
 | Type | Battery energy storage system (BESS). Jupiter Power has stated chemistry is "expected to be lithium ion (LFP) or sodium ion" but has not committed. |
-| Capacity | 130 MW / ~520 MWh (4-hour duration) |
-| Site | ~50 acres across [6 parcels](/site-and-environment#parcels), unincorporated King County. Includes parcel [3624079030](/recorded-documents/3624079030) (PSE-owned, ~5 ac), which provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
+| Capacity | 130 MW / 520-780 MWh (4- or 6-hour duration, undecided per Jupiter Power) |
+| Site | ~45 acres across [6 parcels](/site-and-environment#parcels), unincorporated King County. Includes parcel [3624079030](/parcel-9030/) (PSE-owned, ~5 ac), which provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
 | Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
-| Interconnection | 115kV tie-line to PSE Mt. Si substation via parcel [3624079030](/recorded-documents/3624079030) (PSE-owned, subject to [PADA](/recorded-documents) use restrictions) |
+| Interconnection | 115kV tie-line to PSE Mt. Si substation via parcel [3624079030](/parcel-9030/) (PSE-owned, subject to a perpetual City of Snoqualmie [covenant](/recorded-documents) protecting wetland and stream buffer, vegetation, and native growth areas) |
 | PSE agreement | [Tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) (PDF, partially redacted) executed August 22, 2025. PSE originally filed it with the UTC redacted in its entirety; a partially redacted version was secured through correspondence. [Transparency analysis.](/ceta#transparency) |
 | Operations target | Late 2028 |
 | Fire district | [King County Fire Protection District No. 38](https://district-conditions-report.kingcounty.gov/?PIN=3624079039) |
@@ -47,7 +47,7 @@ PSE needs storage to hit its [CETA](/ceta) targets: up to 2.3 million annual MWh
 
 In 2020-2021, PSE hired [Power Systems Consultants](https://www.pscconsulting.com/) (PSC, Kirkland, WA) to conduct a qualitative and quantitative analysis of where to site energy storage across PSE's transmission system. The study screened all ~382 PSE substations and identified the best candidates based on electrical capacity, substation configuration, surrounding land use, and environmental constraints. It was filed as Exhibit I in [UTC Docket UE-210220](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=7&year=2021&docketNumber=210220) (PSE's 2021 All-Source RFP). [Full study (PDF).](/assets/pse-ess-location-study-2021.pdf)
 
-**Mt. Si substation was screened out on the merits.** The substation had been operational since 2012, eight years before the study was conducted. It was not among the 36 candidates that passed initial screening, not among the 20 that received quantitative analysis, and not among the 15 final recommendations. The study required either 230 kV non-radial service or more than 4 lines of 115 kV non-radial service; Mt. Si is 115 kV only and did not qualify. The nearest Snoqualmie-area substation ("SNOQ SW") was evaluated and rated high risk (red), meaning it was unsuitable for ESS interconnection. The Snoqualmie Falls station was called out by name as an example of a location that met electrical requirements "but clearly it is not a desirable location for additional development."
+**Mt. Si substation was screened out at the first gate and never evaluated further.** The substation had been operational since 2012, eight years before the study was conducted. The study's initial screening required either 230 kV non-radial service or more than 4 lines of 115 kV non-radial service; Mt. Si, a 115 kV substation, did not meet that electrical qualification screen. It was therefore not among the 36 stations kept for detailed review, not among the 20 that received quantitative analysis, and not among the 14 final recommendations, and the study's siting and community criteria were never applied to it at all. The nearest Snoqualmie-area substation that was evaluated ("SNOQ SW") was rated high risk (red). The Snoqualmie Falls station was called out by name as an example of a location that met electrical requirements "but clearly it is not a desirable location for additional development."
 
 The study's siting criteria included a "Good Neighbor" test that flagged residential proximity as a problem:
 
@@ -58,19 +58,19 @@ The study's siting criteria included a "Good Neighbor" test that flagged residen
 
 The study identified 14 substations across western Washington that passed both qualitative and quantitative screening (Table 4.3), with Total Maximum ESS capacities ranging from 3 to 86 MW. The recommended locations include White River (86 MW), Tono (85 MW), Alderton (76 MW), S. Bremerton (76 MW), and Midway (56 MW). None are in the Snoqualmie Valley.
 
-Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation its own consultant screened out on the merits.
+Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation that did not meet its own study's qualification screen and was never evaluated against the study's siting criteria. PSE has not explained what changed.
 
 ## What Jupiter Power has not disclosed
 
-As of April 2026, the following have not been publicly disclosed for the Cascadia Ridge project:
+Jupiter Power posted much of its application package publicly on April 30, 2026, and resubmitted to King County in July 2026. The most consequential items remain undisclosed or unresolved:
 
-- **Battery chemistry.** Jupiter Power has narrowed the field to "lithium ion (LFP) or sodium ion" (April 1, 2026) but has not committed. The choice determines thermal runaway risk, toxic emission profile, cooling requirements, and noise. PSE's [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) is largely redacted, so the actual contract requirements are unknown. PSE has confirmed the agreement lists a specific battery brand and model number but includes "or similar technology" language.
+- **Battery chemistry.** Jupiter Power has narrowed the field to "lithium ion (LFP) or sodium ion" (April 1, 2026) but has not committed, and the application names six candidate manufacturers. The choice determines thermal runaway risk, toxic emission profile, cooling requirements, and noise. PSE's [tolling agreement](/assets/ue-240532-cascadia-tolling-agreement-partial.pdf) is largely redacted, so the actual contract requirements are unknown. PSE has confirmed the agreement lists a specific battery brand and model number but includes "or similar technology" language.
+- **Installed energy.** The application describes "approximately 130 MW" but states no megawatt-hour rating anywhere, while its Emergency Response Plan still lists 392 battery enclosures.
 - **Atmospheric dispersion modeling.** No study of toxic gas concentrations at nearby schools, along Snoqualmie Parkway, or in surrounding neighborhoods under valley inversion conditions.
-- **Fire suppression system type.** Water, aerosol, hybrid? The Moss Landing fire began after a suppression system failed.
-- **Setback distances** from property lines and the nearest residences on Snoqualmie Ridge.
+- **Fire suppression design justification.** The posted Fire Safety Approach declares a defensive water-cooling-only strategy with no automatic suppression system; the NFPA 855 analyses that would justify that design are deferred to Q4 2026. The Moss Landing fire began after a suppression system failed.
 - **Deflagration venting design.** The McMicken explosion in Arizona occurred when flammable gas accumulated in an unvented container.
-- **Emergency response plan.** What mutual aid agreements exist with local fire departments? Has a tabletop exercise been conducted? Eastside Fire & Rescue has stated it "cannot confirm" preparedness.
-- **Decommissioning plan.** How will batteries be removed and the site restored at end of life?
+- **Emergency response detail.** An Emergency Response Plan is now public, but mutual aid agreements and a facility-specific tabletop exercise remain undocumented, and Eastside Fire & Rescue has stated it "cannot confirm" preparedness.
+- **Decommissioning plan.** The NFPA 855 End-of-Life Plan is deferred to Q4 2026.
 - **Environmental monitoring plan.** Will there be permanent air quality monitoring at the fenceline? Soil and water monitoring near Fisher Creek?
 - **Hydrogeologic assessment.** No study of groundwater impacts despite dozens of private wells surrounding the site.
 
@@ -80,9 +80,9 @@ Jupiter Power provides a project email address (cascadiaridge@jupiterpower.io). 
 
 On April 6, 2026, Jupiter Power's VP of Development Hans Detweiler and lead engineer Tom Walkinshaw met with a community researcher. Key disclosures from that call:
 
-- **Permit cancellation reason:** King County required "issued-for-construction" drawings that Jupiter could not produce within the county's timeline. They plan to file a clearing and grading permit instead, which will also initiate SEPA.
+- **Permit cancellation reason:** King County required "issued-for-construction" drawings that Jupiter could not produce within the county's timeline. They said they would file a clearing and grading permit instead, which they did on May 6, 2026 (GRDE26-0036); it initiates SEPA review for the full project.
 - **Duration:** Either four or six hours (undecided).
-- **Gen-tie parcel:** Parcel [9030](/recorded-documents/3624079030) (PSE-owned) provides the generation tie-line corridor to the substation. This parcel is subject to the [PADA](/recorded-documents) use restrictions between PSE and the City of Snoqualmie.
+- **Gen-tie parcel:** Parcel [9030](/parcel-9030/) (PSE-owned) provides the generation tie-line corridor to the substation. This parcel is bound by a perpetual City of Snoqualmie [covenant](/recorded-documents) whose wetland and stream buffer, vegetation maintenance, and native growth protection areas require prior written City approval for disturbance.
 - **Noise:** Site-specific modeling shows 50 dBA or less at the property lines. The noise study will be included in the SEPA application package.
 - **Water supply:** On-site water storage tanks plus a nearby fire hydrant, described as a "belt-and-suspenders" approach being finalized with Eastside Fire & Rescue.
 - **Chemistry:** Jupiter cited sodium-ion as "not yet proven in utility-scale projects in the United States" as a factor in the decision, despite their own $500M sodium-ion supply agreement with Peak Energy.
@@ -116,7 +116,7 @@ Snoqualmie's Comprehensive Plan designates this site for "master-planned busines
 
 **April 6, 2026.** Eastside Fire & Rescue Chief Will Aho [provided a written statement](/assets/efr-chief-aho-response-2026-04-06.pdf) that because critical details including battery chemistry, site design, fire protection systems, and available water supply "are not yet fully defined," Eastside Fire & Rescue "cannot confirm that we are fully prepared today to mitigate an incident of this type and scale." He called resident concerns about water supply, site access, evacuation, and final battery chemistry "valid and directly relevant to emergency response planning." [Full analysis.](/fire-risk#local-fire-district-cannot-confirm-preparedness)
 
-**April 8, 2026.** A community researcher notified Mayor Mayhew and the City Council that parcel [3624079030](/recorded-documents/3624079030) (a PSE-owned parcel confirmed by Jupiter Power as the project's generation tie-line corridor) is explicitly listed in the [Pre-Annexation Development Agreement](/recorded-documents) (PADA) between PSE and the City of Snoqualmie. The PADA limits the PSE corridor parcels to PSE utility infrastructure. The city was asked to request a legal review of whether Jupiter Power's gen-tie use of the parcel is consistent with PADA use restrictions.
+**April 8, 2026.** A community researcher notified Mayor Mayhew and the City Council that parcel [3624079030](/parcel-9030/) (a PSE-owned parcel confirmed by Jupiter Power as the project's generation tie-line corridor) is explicitly listed in the [Pre-Annexation Development Agreement](/recorded-documents) (PADA) between PSE and the City of Snoqualmie, whose use provisions limited the corridor parcels to PSE utility infrastructure during its term. The city was asked to request a legal review of whether Jupiter Power's gen-tie use of the parcel is consistent with the recorded instruments; the operative restriction today is the perpetual City covenant on the corridor parcels.
 
 **April 9, 2026.** A community researcher sent a letter to King County Department of Local Services (Director Leon Richardson) asking two procedural questions about SEPA: whether the clearing and grading permit will trigger SEPA review for the full BESS project, and when Condition 29 documentation enters the record. These answers determine whether environmental review covers fire risk, noise, and emissions, or just soil disturbance.
 

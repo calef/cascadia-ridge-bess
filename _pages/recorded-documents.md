@@ -42,7 +42,7 @@ These are the most significant recorded instruments for understanding the BESS p
 
 | Parcel | Description | Owner | Docs | Jupiter Agreement | Details |
 |---|---|---|---|---|---|
-| [3624079039](/parcel-9039/) | Main project site (~25.3 ac) | Snoqualmie 55 LLC | 6 | Purchase agreement (Jan 2024, 5-yr due diligence) | [View documents](/parcel-9039/) |
+| [3624079039](/parcel-9039/) | Main project site (~25.4 ac) | Snoqualmie 55 LLC | 6 | Purchase agreement (Jan 2024, 5-yr due diligence) | [View documents](/parcel-9039/) |
 | [3624079093](/parcel-9093/) | Nause Lot 4 (~5.0 ac, vacant) | Nause LLC | 10 | Option (Aug 2025, 5-yr, supersedes 2024) | [View documents](/parcel-9093/) |
 | [3624079100](/parcel-9100/) | Nause Lot 3 (~5.0 ac) | Nause LLC | 16 | Option (Aug 2025, 5-yr) | [View documents](/parcel-9100/) |
 | [3624079101](/parcel-9101/) | Landgraf residential (~5.0 ac) | Heather Landgraf | 16 | Option (Jul 2025, 5-yr). PSE eminent domain easement. | [View documents](/parcel-9101/) |
@@ -52,12 +52,12 @@ These are the most significant recorded instruments for understanding the BESS p
 
 PSE owns five parcels forming the transmission corridor adjacent to the BESS site, including the Mt. Si substation. The City of Snoqualmie holds perpetual environmental covenants across all of these parcels (see key documents above). No Jupiter Power agreements are recorded on any PSE parcel; access is likely governed by the PSE tolling agreement (UTC Docket UE-240532).
 
-The Pre-Annexation Development Agreement (PADA, Rec# 20110202001508) is the foundational document governing these parcels. It was executed between PSE and the City of Snoqualmie in 2010 to authorize annexation and development of the Mount Si Substation. The full 118-page document includes the agreement text, 14 exhibits (maps, legal descriptions, engineering plans), the Covenant and Grant of Easement, and detailed vegetation management rules. Key provisions:
+The Pre-Annexation Development Agreement (PADA, Rec# 20110202001508) is the foundational document for these parcels. It was executed between PSE and the City of Snoqualmie and recorded February 2, 2011 to authorize annexation and development of the Mount Si Substation. The full 117-page document includes the agreement text, 14 exhibits (maps, legal descriptions, engineering plans), the Covenant and Grant of Easement, and detailed vegetation management rules. **The PADA's general term was ten years and has expired.** What survives it are the perpetual Covenant and Grant of Easement (separately recorded, Rec# 20110429001446) and the parcel 9102 Future Development Area obligations (Section 8.3). The use provisions below are described as recorded; they show what the parties agreed this corridor was for, but the surviving instruments are the ones with current force. Key provisions:
 
-- **The Substation Area is limited to "electrical substation, transmission and distribution lines and related appurtenances. No residential, commercial, or other development."** (Section 4.1)
+- **The Substation Area was limited to "electrical substation, transmission and distribution lines and related appurtenances. No residential, commercial, or other development."** (Section 4.1)
 - **Parcel 9102 is designated a "Future Development Area"** requiring a full-scope Annexation Implementation Plan (AIP) before any utility connections, short plat, subdivision, or other development. This parcel is explicitly NOT vested to PADA-era standards. **These obligations survive the PADA's expiration** (Section 8.3).
-- The PAUE (Public Agency or Utility Exception, SMC 19.12.030C) is required for any development altering wetland or stream buffer areas
-- **Section 6.10 specifically limits parcels 9098 and 9099 to transmission line construction**, with King County as the permitting authority
+- The PAUE (Public Agency or Utility Exception, SMC 19.12.040(B)) is required for any development altering wetland or stream buffer areas
+- **Section 6.10 specifically designated parcels 9098 and 9099 for transmission line construction**, with King County as the permitting authority
 - Infrastructure obligations (SE Douglas Street extension, 12-inch water line, sanitary sewer, trail easement) are conditions of any Future Development Area development
 - A Mitigated Determination of Non-Significance (MDNS) was issued February 12, 2010 for the substation and transmission lines. A BESS was not part of this environmental review.
 - The **Covenant and Grant of Easement** (Exhibit 12, recorded as Rec# 20110429001446) creates perpetual environmental restrictions across all five parcels: a 12.95-acre Vegetation Maintenance Area, a no-disturbance Native Growth Protection Area, 3.85 acres of wetland/stream buffers, and a 5.99-acre Perimeter Buffer (Exhibit C). Amendment requires written consent of both PSE and the City. The covenants run with the land and bind all successors and assigns.
@@ -74,7 +74,7 @@ Neither route was designed for industrial construction traffic. Each has its own
 
 **PSE corridor route:** The existing residential use is lawful; the Covenant's motor vehicle prohibition (Section II) applies only to the 3.85-acre Wetland/Stream Buffer Area, not the road itself. But the PADA and Covenant impose overlapping restrictions on the corridor parcels that would apply to BESS construction traffic:
 
-- **Parcels 9098 and 9099** are limited by the PADA (Section 6.10) to transmission line construction. Heavy equipment and materials transport for a battery storage facility is not transmission line construction.
+- **Parcels 9098 and 9099** were designated in the PADA (Section 6.10) for transmission line construction; the PADA's term has expired, but both parcels remain bound by the perpetual Covenant below.
 - **Parcel 9102** is designated a "Future Development Area" requiring a full-scope Annexation Implementation Plan before any development. No AIP has been completed.
 - **The Vegetation Maintenance Area** (12.95 acres across the corridor) requires prior written city approval for any vegetation alteration (Covenant Section III). Construction vehicle traffic on unpaved or marginally improved road surfaces through this area would damage vegetation.
 - **The Dutczak/Landgraf clause** (Covenant Section III, paragraph 9) extends the Covenant's vegetation and environmental protections to PSE's easement on the Landgraf parcel (9101), which the road also crosses.

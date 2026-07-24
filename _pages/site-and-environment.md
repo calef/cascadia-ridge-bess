@@ -29,7 +29,7 @@ This matters because the Critical Areas Designation for this site was completed 
 
 Fisher Creek is a Type F stream. It has fish. It runs through the northwest portion of the parcel, and the elevation difference between its ordinary high water mark and the proposed development area is less than 10 feet. If there's a fire, runoff contaminated with heavy metals and fluoride compounds goes straight into the creek and from there into the Snoqualmie River watershed.
 
-Jupiter Power also has to file a separate Floodplain Development Application before they can even apply for a development permit. That's a gating requirement they haven't started yet.
+Jupiter Power filed the companion Floodplain Development Permit application (FLOD26-0137) on May 12, 2026. King County's first review found it incomplete on May 29, 2026, declining to accept the applicant's certification that no development is proposed within the floodplain and requiring a full floodplain study before any flood permit issues.
 
 Between the steep slopes on the east, the wetland buffer on the northeast, and Fisher Creek on the northwest, the buildable footprint is a lot smaller than "45 acres" makes it sound.
 
@@ -132,7 +132,7 @@ The Snoqualmie Valley sits in one of the most seismically active regions in the 
 
 These probabilities come from [USGS Fact Sheet 2025-3050](https://doi.org/10.3133/fs20253050) (Wirth et al., "Earthquake Probabilities and Hazards in the U.S. Pacific Northwest," September 2025).
 
-No site-specific seismic hazard assessment has been submitted for the Cascadia Ridge project. No published study exists on how utility-scale BESS facilities perform during seismic events. King County's ordinance requires IEEE 693 seismic qualification for equipment mounting, but that standard does not address the full failure chain: earthquake damages cells, thermal runaway ignites, toxic emissions spread through a valley prone to atmospheric inversions, and contaminated fire suppression runoff drains into Fisher Creek.
+No site-specific seismic hazard assessment has been submitted for the Cascadia Ridge project. We have found no published study on how utility-scale BESS facilities perform during seismic events. King County's ordinance requires IEEE 693 seismic qualification for equipment mounting, but that standard does not address the full failure chain: earthquake damages cells, thermal runaway ignites, toxic emissions spread through a valley prone to atmospheric inversions, and contaminated fire suppression runoff drains into Fisher Creek.
 
 ## Parcels and land deals {#parcels}
 

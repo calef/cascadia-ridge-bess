@@ -1,11 +1,11 @@
 ---
-title: "Parcel 3624079102 — PSE Future Development Area"
+title: "Parcel 3624079102: PSE Future Development Area"
 description: "Recorded documents for parcel 3624079102, PSE's 'Future Development Area' requiring AIP completion before any development."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079102 — PSE "Future Development Area" {#parcel-9102}
+## Parcel 3624079102: PSE "Future Development Area" {#parcel-9102}
 
 **Owner:** Puget Sound Energy Inc.
 **Legal:** Portions of Lots 1 and 2, KC Short Plat 675001, and Lot 2, KC Short Plat 675002

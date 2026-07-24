@@ -1,11 +1,11 @@
 ---
-title: "Parcel 3624079103 — Arnold Property"
+title: "Parcel 3624079103: Arnold Property"
 description: "Recorded documents for parcel 3624079103, the Arnold residential property under option to Jupiter Power."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079103 — Arnold residential property (~5.0 ac) {#parcel-9103}
+## Parcel 3624079103: Arnold residential property (~5.0 ac) {#parcel-9103}
 
 **Owner:** Daniel and Jenny Arnold
 **Zoning:** UR

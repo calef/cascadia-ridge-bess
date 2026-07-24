@@ -1,11 +1,11 @@
 ---
-title: "Parcel 3624079100 — Nause Lot 3"
+title: "Parcel 3624079100: Nause Lot 3"
 description: "Recorded documents for parcel 3624079100, a 5-acre Nause family parcel under option to Jupiter Power."
 ---
 
 [< Back to all recorded documents](/recorded-documents/)
 
-## Parcel 3624079100 — Nause Lot 3 (~5.0 ac) {#parcel-9100}
+## Parcel 3624079100: Nause Lot 3 (~5.0 ac) {#parcel-9100}
 
 **Owner:** Nause LLC (same as parcel 3624079093)
 **Zoning:** UR
