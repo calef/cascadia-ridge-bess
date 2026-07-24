@@ -6,62 +6,54 @@ title: "Take Action"
 
 If you do one thing, [sign up for updates](/subscribe). We'll alert you when the SEPA comment window opens, when new permits are filed, and when community meetings are scheduled.
 
-After that, here's the sequence:
+After that:
 
-1. **Now:** Write to the institutions below. Push them to prepare for the SEPA process and advocate for safety conditions. This is the groundwork.
-2. **When the County publishes the Notice of Application:** Jupiter's clearing-and-grading permit (GRDE26-0036) is filed and in County review; once the County accepts it as complete, a 14-day State Environmental Policy Act (SEPA) comment window opens. This is the decisive moment. If an issue isn't raised during that window, it cannot be raised later in an appeal. [Read our SEPA comment guide](/sepa-comments) now so you're ready.
+1. **Now:** Start preparing your SEPA comment. Jupiter's clearing-and-grading permit (GRDE26-0036) is filed and through intake review; when King County accepts it as complete and publishes the Notice of Application, a 14-day State Environmental Policy Act (SEPA) comment window opens, and it will move fast. [Read our SEPA comment guide](/sepa-comments) and pick the one topic where you have knowledge or standing. The [Sources and Evidence library](/sources) has the primary sources to cite.
+2. **Then:** If you have energy beyond your own comment, the targeted asks below cover the gaps that remain.
 
-You don't need to contact everyone. Pick the one or two that matter most to you and write a short, specific email. The bullet points below give you exactly what to ask.
+## What the institutions have already done
 
----
+The groundwork phase of this effort asked local institutions to engage. They have:
+
+- The **City of Snoqualmie** sent a joint Mayor-and-Council letter to PSE and King County (April 30), the Mayor separately endorsed a full Environmental Impact Statement (EIS) to King County Permitting (April 30), the City petitioned the state utility commission on PSE's rate case (June 1), introduced a BESS moratorium (May 11), and appropriated $450,000 for outside legal and expert review of the project (June 22).
+- The **Snoqualmie Valley School District** board unanimously adopted Resolution 901 (May 1), requesting environmental review sufficient to evaluate student and staff safety.
+- **King County Fire Protection District 38**, the fire district with jurisdiction over the site, went further than anyone asked: its elected Board of Fire Commissioners told the Washington Utilities and Transportation Commission (WUTC) it is "opposed to the siting of this facility within our jurisdiction" and that "local resources are not adequate in the event of a BESS emergency" (June 18). Eastside Fire & Rescue Chief Will Aho's statement that EF&R "cannot confirm" preparedness has been on the record since April 6.
+- **North Bend** (May 19) and **Duvall** (June 2) adopted 12-month BESS moratoriums, and North Bend objected to the project at the WUTC (June 3).
+
+See the [updates timeline](/updates) for all of it. What remains is below.
 
 ## What you can do now
 
-### Write to Puget Sound Energy
+### Comment to the WUTC on PSE's rate case
 
-PSE selected this project and this developer. Their [own 2021 siting study](/project#siting-study) screened all 382 substations and identified 14 recommended locations for energy storage. Mt. Si was not one of them. It did not meet the study's initial electrical qualification screen, so it never even made the cut of 36 stations that received detailed analysis, and the study's siting criteria, which explicitly flag residential areas, schools, and hospitals as making a location less desirable, were never applied to it. Four years later, PSE signed a tolling agreement for a 130 MW facility at a location its own study did not recommend.
+PSE is asking the WUTC to approve cost recovery for the Cascadia Ridge tolling agreement in its 2026 general rate case (Docket UE-260005). The City of Snoqualmie, the City of North Bend, and Fire District 38 have each asked the Commission to defer or condition any finding that this project's costs were prudent until safety, siting, and permitting questions are resolved. Individual ratepayers can file public comments in the same docket.
 
-PSE originally filed the [tolling agreement](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=44&year=2024&docketNumber=240532) with the UTC redacted in its entirety and [sued the UTC](/ceta#transparency) to prevent further disclosure; the suit was dismissed in May 2026 and a substantially less-redacted version is now on the docket. UTC Commission Staff criticized PSE's redaction pattern in an earlier procurement, writing that some information PSE redacted "does not appear to Staff to be commercially sensitive."
-
-Email: [communityengagement@pse.com](mailto:communityengagement@pse.com)
-
-Ask them:
-
-- **Why was Mt. Si selected** after PSE's own siting study screened it out? What changed between 2021 and 2024?
-- **Does PSE support a full Environmental Impact Statement** for this project, given the site constraints their own siting study identified?
-- **Will PSE release** the fire prevention, gas detection, and cooling system plans that their own 2021 RFP required BESS developers to provide?
+Email [comments@utc.wa.gov](mailto:comments@utc.wa.gov) referencing **Docket UE-260005** (the [docket record](https://www.utc.wa.gov/casedocket/2026/260005) shows the letters already filed). Ask the Commission to make no prudence determination on the Cascadia Ridge tolling agreement until the environmental review and local permitting questions are resolved.
 
 ### Write to the Snoqualmie City Council
 
-The site is in unincorporated King County, so the City of Snoqualmie has no permitting authority today. But the city has real leverage. It controls the franchise agreement with PSE. It holds a perpetual recorded [covenant](/recorded-documents) protecting wetland, buffer, and vegetation areas on the adjacent PSE corridor parcels. Neither potential [construction access route](/recorded-documents/#access-road) to the project site was designed for industrial traffic, and both have legal constraints the city can enforce. The city can also formally participate in the SEPA review.
+The City has done the heavy lifting. Three asks remain:
+
+- **Ask the City to carry its funded expert review into the SEPA record.** The City's outside consultants are reviewing fire and emergency response, plume dispersion, stormwater, noise, and water resources. Those findings matter most as formal SEPA comments filed during the County's comment window, where they become part of the legal record.
+- **Enforce the recorded covenant restrictions** on the PSE corridor parcels. The City holds a perpetual Covenant and Grant of Easement (Rec# 20110429001446) whose vegetation maintenance, buffer, and native growth protection areas require prior written City approval for disturbance. BESS construction traffic and gen-tie clearing through those areas would need that approval, and the city has standing to say so.
+- **Update the city's evacuation plan** to address an industrial toxic release scenario. The current plan (November 2017) does not contemplate a chemical fire producing hydrogen fluoride adjacent to Snoqualmie Ridge.
 
 Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
 
-Ask them to:
-
-- **Send a letter to King County requesting a full Environmental Impact Statement** for the Cascadia Ridge project. Five King County cities (Covington, Enumclaw, Black Diamond, North Bend, and Duvall) have already passed BESS moratoriums. A formal EIS request is a measured step that does not prejudge the outcome.
-- **Enforce the recorded covenant restrictions** on the PSE corridor parcels. The City holds a perpetual Covenant and Grant of Easement (Rec# 20110429001446) whose vegetation maintenance, buffer, and native growth protection areas require prior written City approval for disturbance. BESS construction traffic and gen-tie clearing through those areas would need that approval, and the city has standing to say so.
-- **Direct staff to formally participate in the SEPA review** now that the application is filed.
-- **Update the city's evacuation plan** to address an industrial toxic release scenario. The current plan (November 2017) does not contemplate a chemical fire producing hydrogen fluoride adjacent to Snoqualmie Ridge.
-
 ### Write to the Snoqualmie Valley School District
 
-Cascade View Elementary is approximately half a mile from the proposed facility. School bus routes on Snoqualmie Parkway pass within 0.1 miles. PSE's own siting study flagged schools as making a location less desirable for energy storage. The district has standing to comment on impacts to student safety during the SEPA review.
+The board adopted Resolution 901 unanimously. Two asks remain:
+
+- **Submit formal SEPA comments** when the comment window opens, focusing on atmospheric dispersion modeling at Cascade View Elementary, shelter-in-place feasibility, and evacuation during school hours.
+- **Evaluate emergency preparedness** for a battery fire during school hours. Can school HVAC systems switch to recirculation mode? What are the evacuation options if Snoqualmie Parkway is within a toxic plume?
 
 Email Superintendent Dan Schlotfeldt: [schlotfeldtd@svsd410.org](mailto:schlotfeldtd@svsd410.org)
 
 Email the school board: [svsdinfo@svsd410.org](mailto:svsdinfo@svsd410.org)
 
-Ask them to:
-
-- **Request a full Environmental Impact Statement** from King County based on student safety concerns. A school district asking for rigorous environmental review carries institutional weight that individual comments cannot.
-- **Prepare to submit formal SEPA comments** when the comment window opens, focusing on atmospheric dispersion modeling, shelter-in-place feasibility, and evacuation during school hours.
-- **Evaluate emergency preparedness** for a battery fire during school hours. Can school HVAC systems switch to recirculation mode? What are the evacuation options if Snoqualmie Parkway is within a toxic plume?
-- **Review the Kent School District's response** to a similar proposal near Mattson Middle School. The Kent board passed a formal resolution on student safety grounds.
-
 ### Write to Snoqualmie Valley Hospital
 
-Snoqualmie Valley Hospital is the closest emergency facility to the project site. Hydrogen fluoride exposure causes deep tissue burns and pulmonary edema that require specialized treatment. The hospital would receive casualties from an HF release event.
+Snoqualmie Valley Hospital is the closest emergency facility to the project site. Hydrogen fluoride exposure causes deep tissue burns and pulmonary edema that require specialized treatment. The hospital would receive casualties from an HF release event. It has not yet taken a public position.
 
 Email Ken Rudberg (Director of Quality, Risk & Compliance): [kenr@snoqualmiehospital.org](mailto:kenr@snoqualmiehospital.org)
 
@@ -82,20 +74,17 @@ When the SEPA comment window opens, submit a comment identifying your well and a
 
 ### Write to local fire agencies
 
-Three fire agencies cover this area. Jupiter Power has confirmed it is coordinating with all three on emergency response planning. These agencies can formally participate in the SEPA process and advocate for safety conditions.
+The fire authorities are already on the record: Fire District 38's elected board opposes the siting, and Chief Aho has stated EF&R "cannot confirm" preparedness. The remaining work is converting those positions into the County's decision record:
+
+- **Submit the District's opposition and preparedness assessment as formal SEPA comments** when the County opens the comment window. Statements filed with the WUTC do not automatically reach King County's SEPA record.
+- **Evaluate whether existing mutual aid agreements** can handle a multi-day battery fire producing hydrogen fluoride adjacent to a residential community.
+- **Assess fire suppression water supply.** The project parcels have no municipal water connection, no fire hydrants, and no water mains.
 
 **King County Fire Marshal** Eric Urban: [eric.urban@kingcounty.gov](mailto:eric.urban@kingcounty.gov)
 
 **Eastside Fire & Rescue** Chief Will Aho: [waho@esf-r.org](mailto:waho@esf-r.org)
 
 **City of Snoqualmie Fire Department** Chief Mike Bailey: [mbailey@snoqualmiewa.gov](mailto:mbailey@snoqualmiewa.gov)
-
-Ask them to:
-
-- **Request a full Environmental Impact Statement** from King County. Eastside Fire & Rescue has already stated it "cannot confirm" preparedness for an incident of this type and scale. A formal EIS request from fire agencies carries significant weight.
-- **Prepare to participate in the SEPA review** when the comment window opens.
-- **Evaluate whether existing mutual aid agreements** can handle a multi-day battery fire producing hydrogen fluoride adjacent to a residential community.
-- **Assess fire suppression water supply.** The project parcels have no municipal water connection, no fire hydrants, and no water mains.
 
 ---
 
@@ -109,7 +98,7 @@ Jupiter Power's clearing-and-grading permit (GRDE26-0036) is filed and under Cou
 
 ### Push the institutions above to submit formal comments
 
-If you've already written to the city council, school district, or fire agencies, follow up during the SEPA window and ask if they plan to submit a formal comment. Institutional comments on the record carry more weight than individual letters. The more agencies that participate, the stronger the case for meaningful permit conditions.
+The City, the school district, and the fire agencies have all taken public positions. During the SEPA window, follow up and ask each to put those positions into a formal comment to King County. Institutional comments on the record carry more weight than individual letters, and positions stated elsewhere (a WUTC filing, a board resolution, a press statement) do not reach the County's SEPA record unless someone files them there.
 
 ---
 
