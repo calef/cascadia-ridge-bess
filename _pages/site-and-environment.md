@@ -96,7 +96,7 @@ Adjacent property owner Deborah Bellam (8620 356th Ave SE) is on private wells w
 
 ### Why this matters
 
-Contaminated runoff from a lithium-ion battery fire (heavy metals, fluoride compounds, electrolyte) could migrate through soil to groundwater. At Moss Landing, researchers estimated 55,000 pounds of toxic metals entered surrounding wetlands, with nickel concentrations in nearby soil spiking to 15 times pre-fire levels. Groundwater contamination from fire suppression water is a documented pathway at BESS fire sites.
+Contaminated runoff from a lithium-ion battery fire (heavy metals, fluoride compounds, electrolyte) could migrate through soil to groundwater. At Moss Landing, [researchers estimated 55,000 pounds of toxic metals entered surrounding wetlands](https://doi.org/10.1038/s41598-025-25972-8), with nickel concentrations in nearby soil spiking to 15 times pre-fire levels. Groundwater contamination from fire suppression water is a documented pathway at BESS fire sites.
 
 No hydrogeologic assessment has been submitted for the Cascadia Ridge project. Groundwater flow direction, aquifer connectivity, and contaminant migration pathways to the surrounding domestic wells are unknown.
 

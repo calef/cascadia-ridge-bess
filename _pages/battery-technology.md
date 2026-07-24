@@ -24,7 +24,7 @@ Thermal runaway is an uncontrolled temperature rise inside a battery cell that f
 ### What comes out of a lithium-ion battery fire
 
 - **Hydrogen fluoride (HF):** 20–200 mg per Wh of capacity. Causes deep tissue burns and pulmonary edema.
-- **Heavy metals:** After the Moss Landing fire, researchers at San Jose State's Moss Landing Marine Labs estimated 55,000 pounds of toxic metals entered surrounding wetlands. Nickel concentrations in nearby soil spiked to 15 times pre-fire levels. The EPA invoked Superfund authority to order the cleanup.
+- **Heavy metals:** After the Moss Landing fire, researchers at San Jose State's Moss Landing Marine Labs [estimated 55,000 pounds of toxic metals entered surrounding wetlands](https://doi.org/10.1038/s41598-025-25972-8). Nickel concentrations in nearby soil spiked to 15 times pre-fire levels. The EPA invoked Superfund authority to order the cleanup.
 - **PFAS:** A 2025 study found per- and polyfluoroalkyl substances in lithium-ion battery fire soot.
 - Carbon monoxide, hydrogen cyanide, sulfur dioxide, and various volatile organic compounds.
 

@@ -6,7 +6,7 @@ The site sits in the ancestral territory of the Snoqualmie Indian Tribe, within 
 
 ## PSE's own due diligence found the cultural review deficient
 
-Before its board approved the tolling agreement for this project, PSE conducted due diligence and put the results in the record of its 2026 rate case. PSE's own report says, verbatim, that the developer's cultural resources review:
+Before its board approved the tolling agreement for this project, PSE conducted due diligence and put the results in the [record of its 2026 rate case](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=1400&year=2026&docketNumber=260005). PSE's own report says, verbatim, that the developer's cultural resources review:
 
 > "was not completed by a professional archaeologist; it lacks archaeological data accessible in the statewide database (WISAARD) and other sources that archaeologists generally use to complete desktop reviews. The report fails to identify Snoqualmie Falls as a Traditional Cultural Property ('TCP') ... Further cultural resource studies are needed to appropriately determine potential impacts to cultural resources prior to any ground disturbance."
 

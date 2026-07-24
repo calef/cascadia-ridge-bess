@@ -73,7 +73,7 @@ The evaluation rubric ([Exhibit A.1](https://www.utc.wa.gov/casedocket/2024/2405
 | Interconnection Service | 10% | Is the project in the interconnection queue? |
 | Transmission Service | 20% | Is firm transmission secured? |
 
-Battery chemistry is not in the rubric. Community safety is not in the rubric. Proximity to residential areas, schools, or hospitals is not in the rubric. Consistency with PSE's own [ESS Location Study](/project#siting-study) is not in the rubric.
+Battery chemistry is not in [the 2024 RFP evaluation rubric](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=7&year=2024&docketNumber=240532). Community safety is not in the rubric. Proximity to residential areas, schools, or hospitals is not in the rubric. Consistency with PSE's own [ESS Location Study](/project#siting-study) is not in the rubric.
 
 There is one criterion worth a single point under Permitting: "Project has not received significant opposition from Tribes, interested parties or impacted local landowners." Opposition is treated as a schedule risk to the developer, not as a signal that the site may be wrong.
 
