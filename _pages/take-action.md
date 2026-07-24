@@ -16,7 +16,7 @@ After that:
 The groundwork phase of this effort asked local institutions to engage. They have:
 
 - The **City of Snoqualmie** sent a joint Mayor-and-Council letter to PSE and King County (April 30), the Mayor separately endorsed a full Environmental Impact Statement (EIS) to King County Permitting (April 30), the City petitioned the state utility commission on PSE's rate case (June 1), introduced a BESS moratorium (May 11), and appropriated $450,000 for outside legal and expert review of the project (June 22).
-- The **Snoqualmie Valley School District** board unanimously adopted Resolution 901 (May 1), requesting environmental review sufficient to evaluate student and staff safety.
+- The **Snoqualmie Valley School District** board unanimously adopted Resolution 901 (May 1), requesting environmental review sufficient to evaluate student and staff safety and asking to be a notified agency throughout the SEPA and permitting processes.
 - **King County Fire Protection District 38**, the fire district with jurisdiction over the site, went further than anyone asked: its elected Board of Fire Commissioners told the Washington Utilities and Transportation Commission (WUTC) it is "opposed to the siting of this facility within our jurisdiction" and that "local resources are not adequate in the event of a BESS emergency" (June 18). Eastside Fire & Rescue Chief Will Aho's statement that EF&R "cannot confirm" preparedness has been on the record since April 6.
 - **North Bend** (May 19) and **Duvall** (June 2) adopted 12-month BESS moratoriums, and North Bend objected to the project at the WUTC (June 3).
 
@@ -39,17 +39,6 @@ The City has done the heavy lifting. Three asks remain:
 - **Update the city's evacuation plan** to address an industrial toxic release scenario. The current plan (November 2017) does not contemplate a chemical fire producing hydrogen fluoride adjacent to Snoqualmie Ridge.
 
 Email: [councilmembers@snoqualmiewa.gov](mailto:councilmembers@snoqualmiewa.gov)
-
-### Write to the Snoqualmie Valley School District
-
-The board adopted Resolution 901 unanimously. Two asks remain:
-
-- **Submit formal SEPA comments** when the comment window opens, focusing on atmospheric dispersion modeling at Cascade View Elementary, shelter-in-place feasibility, and evacuation during school hours.
-- **Evaluate emergency preparedness** for a battery fire during school hours. Can school HVAC systems switch to recirculation mode? What are the evacuation options if Snoqualmie Parkway is within a toxic plume?
-
-Email Superintendent Dan Schlotfeldt: [schlotfeldtd@svsd410.org](mailto:schlotfeldtd@svsd410.org)
-
-Email the school board: [svsdinfo@svsd410.org](mailto:svsdinfo@svsd410.org)
 
 ### Write to Snoqualmie Valley Hospital
 
