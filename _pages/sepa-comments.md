@@ -53,7 +53,7 @@ The responsible official is required to consider your comment, but it needs to g
 
 **Reference the SEPA checklist element.** The Environmental Checklist (WAC 197-11-960, Section B) is organized into categories. Tying your comment to a specific element makes it harder to dismiss. The relevant elements for this project are listed below.
 
-**Cite evidence.** Published studies, government data, comparable incidents, and professional expertise all strengthen your comment. If you're a credentialed professional (physician, engineer, geologist, ecologist), say so.
+**Cite evidence.** Published studies, government data, comparable incidents, and professional expertise all strengthen your comment. Our [Sources and Evidence](/sources) page collects the primary sources behind this site's claims, with links to the originals. If you're a credentialed professional (physician, engineer, geologist, ecologist), say so.
 
 **Ask for specific studies or disclosures.** Don't just say the impact is bad. Ask King County to require the developer to produce specific information: a site-specific seismic hazard assessment, atmospheric dispersion modeling for HF under inversion conditions, a noise study demonstrating compliance with K.C.C. 12.86, a hydrogeologic assessment for groundwater impacts, an alternatives analysis covering battery chemistry and alternative sites.
 
