@@ -60,7 +60,7 @@ The study's siting criteria included a "Good Neighbor" test that flagged residen
 
 The study identified 14 substations across western Washington that passed both qualitative and quantitative screening (Table 4.3), with Total Maximum ESS capacities ranging from 3 to 86 MW. The recommended locations include White River (86 MW), Tono (85 MW), Alderton (76 MW), S. Bremerton (76 MW), and Midway (56 MW). None are in the Snoqualmie Valley.
 
-Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation that did not meet its own study's qualification screen and was never evaluated against the study's siting criteria. PSE has not explained what changed.
+Four years later, PSE signed a tolling agreement for a 130 MW facility at Mt. Si, a substation that did not meet its own study's qualification screen and was never evaluated against the study's siting criteria. Asked directly why, PSE responded on June 8, 2026 that the 2021 study was meant as "a guide for potential developers" and "not a decision document, set of rules, selection criteria or evaluation tool," and that PSE "has no role in, and no influence over, local land use planning, environmental review, or permitting decisions." The response did not identify the recommended candidate sites or address why this location was selected over them; CEO Mary Kipp's May 6, 2026 letter to the City of Snoqualmie likewise did not address the study.
 
 ## What Jupiter Power has not disclosed
 
