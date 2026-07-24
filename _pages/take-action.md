@@ -28,7 +28,7 @@ See the [updates timeline](/updates) for all of it. What remains is below.
 
 PSE is asking the WUTC to approve cost recovery for the Cascadia Ridge tolling agreement in its 2026 general rate case (Docket UE-260005). The City of Snoqualmie, the City of North Bend, and Fire District 38 have each asked the Commission to defer or condition any finding that this project's costs were prudent until safety, siting, and permitting questions are resolved. Individual ratepayers can file public comments in the same docket.
 
-Email [comments@utc.wa.gov](mailto:comments@utc.wa.gov) referencing **Docket UE-260005** (the [docket record](https://www.utc.wa.gov/casedocket/2026/260005) shows the letters already filed). Ask the Commission to make no prudence determination on the Cascadia Ridge tolling agreement until the environmental review and local permitting questions are resolved.
+The comment window is open now: the Commission's review runs through late 2026, with new rates taking effect in early 2027 if approved, so comments filed today are timely. Use the [UTC's comment form](https://www.utc.wa.gov/get-help-utility-or-transportation-service/submit-comment) or email [comments@utc.wa.gov](mailto:comments@utc.wa.gov), referencing **Docket UE-260005** (the [docket record](https://www.utc.wa.gov/casedocket/2026/260005) shows the letters already filed). Ask the Commission to make no prudence determination on the Cascadia Ridge tolling agreement until the environmental review and local permitting questions are resolved.
 
 ### Write to the Snoqualmie City Council
 
