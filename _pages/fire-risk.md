@@ -109,7 +109,7 @@ This is why we are asking King County to require a [full Environmental Impact St
 
 ## For this site
 
-This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to fish-bearing streams that feed into the Snoqualmie River where ESA-listed Chinook salmon, steelhead, and bull trout are present, in a ridge-bounded valley where inversions trap smoke close to the ground.
+This facility would be adjacent to thousands of homes in the Snoqualmie Valley, next to a fish-bearing stream that drains to the Snoqualmie River just above Snoqualmie Falls, with ESA-listed Chinook, steelhead, and bull trout documented in the reaches below the Falls, in a ridge-bounded valley where inversions trap smoke close to the ground.
 
 No atmospheric dispersion modeling, hydrogeologic assessment, or seismic risk analysis has been conducted for this site. The fire risk estimates above, the [HF quantities modeled below](#how-much-hf), the [earthquake-to-fire chain](#earthquake-risk), and the [fire district's statement](#local-fire-district-cannot-confirm-preparedness) that it "cannot confirm preparedness" all point to the same conclusion: a SEPA checklist cannot credibly evaluate these risks. A [full Environmental Impact Statement](/what-we-are-asking) is the process designed to answer them.
 
@@ -130,7 +130,7 @@ On April 6, 2026, Jupiter Power provided a four-study bibliography titled "Batte
 Every study in Jupiter's bibliography shares the same structural gaps:
 
 - **No complex terrain or valley analysis.** All sites were flat, open terrain. The Snoqualmie Valley regularly traps emissions close to the ground during temperature inversions.
-- **No aquatic life standards applied.** Fisher Creek and the Snoqualmie River support ESA-listed Chinook salmon, steelhead, and bull trout. Aquatic life criteria are more stringent than drinking water MCLs.
+- **No aquatic life standards applied.** Fisher Creek holds resident coastal cutthroat trout, and the Snoqualmie River below the Falls carries ESA-listed Chinook, steelhead, and bull trout. Aquatic life criteria are more stringent than drinking water MCLs.
 - **No continuous HF monitoring.** HF is the primary toxic product of LFP thermal runaway. Paper strips and excluded instruments are not adequate.
 - **Small-scale fires only.** A 130 MW facility contains dozens of containers. None of these studies addresses multi-container fire propagation.
 - **No private well groundwater modeling.** Residences adjacent to the Cascadia Ridge site rely on private wells.

@@ -4,7 +4,7 @@ title: "Battery Technology"
 
 ## Why battery chemistry matters for this site
 
-The safety profile of a battery storage facility depends heavily on its chemistry. Lithium-ion cells can undergo thermal runaway, producing hydrogen fluoride and other toxic gases. Sodium-ion cells have shown no thermal runaway in abuse testing. The difference between these chemistries determines the fire risk, toxic emission profile, cooling requirements, and noise of the facility.
+The safety profile of a battery storage facility depends heavily on its chemistry. Lithium-ion cells can undergo thermal runaway, producing hydrogen fluoride and other toxic gases. Sodium-ion cells in the NFPP formulation have shown markedly lower thermal-runaway potential in controlled abuse testing, though sodium-ion is a family of chemistries and not all of them behave the same way. The difference between these chemistries determines the fire risk, toxic emission profile, cooling requirements, and noise of the facility.
 
 Jupiter Power has stated that battery chemistry "has not yet been selected" but is expected to be "lithium ion (LFP) or sodium ion." In practice, PSE's [tolling agreement](https://apiproxy.utc.wa.gov/cases/GetDocument?docID=44&year=2024&docketNumber=240532) is structured around lithium-ion BESS operations and names Samsung SDI as the battery vendor, and [all 47 standalone battery storage proposals](/ceta#transparency) PSE received in its 2024 RFP were lithium-ion. A full [Environmental Impact Statement](/what-we-are-asking) with an alternatives analysis would put the chemistry question on the public record and require evaluation of whether a safer chemistry is feasible at this site.
 
@@ -50,20 +50,20 @@ The comparison below reflects Peak Energy's NFPP chemistry, which is what Jupite
 |---|---|---|---|---|
 | Lithium-ion (NMC) | High | High (HF, heavy metals) | High (active cooling 24/7) | Yes |
 | Lithium-ion (LFP) | Moderate | Moderate (HF still produced) | High (active cooling 24/7) | Yes |
-| Sodium-ion (NFPP) | Very low | Low (no heavy metals, much less HF) | Low (passive cooling) | Yes (first US grid-scale system delivered Sept 2025) |
+| Sodium-ion (NFPP) | Very low in abuse testing | Low (no heavy metals, much less HF) | Low (passive cooling) | Not at this scale. Peak Energy's first utility-scale NFPP system, delivered September 2025, is a 3.5 MWh pilot. Cascadia Ridge would be 520 MWh or more |
 
 ### Abuse testing {#abuse-testing}
 
-Peak Energy's sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire, and they don't ignite:
+Sodium-ion cells have been tested under the same mechanical abuse conditions that cause lithium-ion cells to catch fire. The results below are encouraging, but note which company and which cathode each one comes from: CATL's demonstrations use an NFM layered-oxide cathode and Natron's use Prussian blue analogues, neither of which is Peak Energy's NFPP. A bare "sodium-ion" commitment is not the same as an NFPP commitment.
 
 - **Nail penetration and mechanical abuse:** CATL publicly demonstrated nail penetration, drill, and metal saw tests on sodium-ion packs without ignition. Cells also remain stable under crush testing. In comparative testing (CATARC), sodium-ion showed a 0% ignition rate vs. 23% for lithium-ion, where 85% of cells exceeded 200°C.
-- **UL 9540A:** [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) was the first sodium-ion company to publish full UL 9540A results. Cells passed without needing additional safety controls.
+- **UL 9540A:** [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) was the first sodium-ion company to publish full UL 9540A results, and its cells required no additional safety controls. UL 9540A is a test method rather than a certification: it produces a report characterizing thermal-runaway behavior and carries no pass or fail. Peak Energy has published no UL 9540A results for its NFPP cells.
 
 ### Peak Energy
 
-Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyrophosphate) with a non-flammable electrolyte. They've passed nail penetration, overcharge, and crush testing without thermal runaway. No cobalt, nickel, or manganese. Passive cooling only: no fans, no HVAC, no 24/7 noise. Peak Energy [delivered the first grid-scale sodium-ion battery storage system in the US](https://www.prnewswire.com/news-releases/peak-energy-delivers-first-grid-scale-sodium-ion-battery-storage-system-in-the-us-302519228.html) in September 2025 and is building its first domestic giga-scale manufacturing facility.
+Peak Energy's sodium-ion cells use an NFPP cathode (sodium iron phosphate pyrophosphate) with a non-flammable electrolyte. They've passed nail penetration, overcharge, and crush testing without thermal runaway. No cobalt, nickel, or manganese. Passive cooling only: no fans, no HVAC, no 24/7 noise. Peak Energy [delivered its first US sodium-ion storage system](https://www.prnewswire.com/news-releases/peak-energy-delivers-first-grid-scale-sodium-ion-battery-storage-system-in-the-us-302519228.html) in September 2025, a 3.5 MWh pilot, and is building its first domestic giga-scale manufacturing facility.
 
-Jupiter Power signed a [$500M / 4.75 GWh deal with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) for this technology. Their CTO called it a "potential game changer." Jupiter Power will receive ~720 MWh of Peak Energy sodium-ion systems in 2027, with 4.75 GWh through 2030. Cascadia Ridge isn't scheduled to come online until late 2028.
+Jupiter Power announced a [sodium-ion supply agreement with Peak Energy](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) on November 12, 2025, which the parties said could be worth more than $500 million. Their CTO called it a "potential game changer." The agreement covers a firm 720 MWh for delivery in 2027 plus a reservation of up to 4 GWh through 2030. Cascadia Ridge isn't scheduled to come online until late 2028.
 
 A full EIS alternatives analysis would require Jupiter Power to evaluate whether sodium-ion is feasible at this site, given the proximity to thousands of homes, a school, limited evacuation routes, and a fire district that [cannot confirm preparedness](/fire-risk#local-fire-district-cannot-confirm-preparedness) for a lithium-ion fire. Without an alternatives analysis, the chemistry question never enters the public record.
 
@@ -77,7 +77,7 @@ What changed is stationary grid storage. A BESS sits on the ground. Nobody cares
 
 ## Is sodium-ion unproven? {#sodium-ion-proven}
 
-Sodium-ion doesn't have a long operational track record at grid scale. But as of 2025, it's no longer hypothetical. Peak Energy delivered the first US grid-scale sodium-ion system in September 2025. CATL began mass production of its Naxtra sodium-ion line in April 2025 and is deploying across energy storage in 2026. BYD commissioned a sodium-ion mass production line in July 2025. The technology is in production and on the grid.
+Sodium-ion does not have an operational track record at grid scale, and that gap is real. As of 2025 it is no longer hypothetical, but the deployed base is small. Peak Energy delivered the first US grid-scale sodium-ion system in September 2025. CATL began mass production of its Naxtra sodium-ion line in April 2025 and is deploying across energy storage in 2026. BYD commissioned a sodium-ion mass production line in July 2025. The technology is in production and on the grid.
 
 The safety case for sodium-ion is also fundamentally different from lithium-ion's.
 
@@ -85,7 +85,9 @@ Lithium-ion's risk comes from thermal runaway, and you can only learn how often 
 
 Sodium-ion's safety case comes from the fact that the cells don't thermally run away in the first place. That's testable in a lab, and it's been tested. Peak Energy's NFPP cells have been through the same abuse testing protocols used for lithium-ion (nail penetration, crush, overcharge, saw) with a 0% ignition rate vs. 23% for lithium-ion. [Natron Energy](https://natron.energy/files/resources/natron-ul-9540a-module-report-revised-july-8-2020-final.pdf) published full UL 9540A results for sodium-ion before any commercial deployment, which is more pre-deployment safety data than lithium-ion BESS had when the industry started deploying it at scale.
 
-The operational unknowns for sodium-ion are real: cycle degradation at scale, long-term maintenance costs, supply chain reliability. Those are commercial risks, not safety risks. A sodium-ion cell that degrades loses capacity. A lithium-ion cell that degrades can catch fire.
+The operational unknowns for sodium-ion are real: cycle degradation at scale, long-term maintenance costs, supply chain reliability. Some of that is commercial risk. But an absent operational record is also a safety-record gap, and it is why we are not asking the County to approve this project with a different chemistry. NIST's March 2026 assessment (Technical Note 2365) found that lithium-ion fire reporting substantially underestimates real incidence, which is a reminder that a chemistry's field record is built by running facilities and counting what happens. Sodium-ion has not yet accumulated one at this scale.
+
+This is the second half of the problem. Lithium-ion at this site carries impacts the record has not evaluated. A first-of-its-kind NFPP deployment at 520 MWh or more would carry impacts nobody has evaluated anywhere. **Neither path supports approval on the current record.** That is why the ask is a full Environmental Impact Statement rather than a chemistry swap.
 
 ## Further reading {#further-reading}
 

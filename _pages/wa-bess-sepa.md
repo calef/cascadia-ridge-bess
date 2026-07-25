@@ -4,7 +4,7 @@ title: "SEPA Outcomes for Washington BESS Projects"
 
 As of mid-2026, no battery energy storage project in Washington State has been required to complete a full Environmental Impact Statement. Every project that reached a SEPA threshold determination received a DNS or MDNS and was approved. The only formal appeal was denied.
 
-That doesn't mean the SEPA process is irrelevant. The conditions other projects received show what's achievable through strong public comment records. Cascadia Ridge has site-specific challenges no previous Washington BESS project has shared, which is why we are pushing for the first Determination of Significance and [full EIS](/what-we-are-asking).
+That doesn't mean the SEPA process is irrelevant. The conditions other projects received show what's achievable through strong public comment records. Cascadia Ridge has a combination of site-specific challenges we have not found in any previous Washington BESS project, which is why we are pushing for the first Determination of Significance and [full EIS](/what-we-are-asking).
 
 ## Summary
 
@@ -53,7 +53,7 @@ The lesson is blunt: if the evidence isn't in the SEPA comment record, it can't 
 
 Mt. Vernon was zoned **Heavy Industrial**. The hearing examiner said it was exactly the right place for this use. Cascadia Ridge is zoned **UR (Urban Reserve)**, a residential-oriented zone. The zoning argument is much stronger here.
 
-Mt. Vernon's opponents had no expert evidence. We have PSE's own 2021 siting study, which screened out Mt. Si. We have [EPRI failure rate data](/fire-risk). We have the [Larsson HF study](/assets/larsson-2017-hf-emissions.pdf). And we have the fact that [Jupiter Power already signed a $500M sodium-ion contract](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) with Peak Energy for other projects.
+Mt. Vernon's opponents had no expert evidence. We have PSE's own 2021 siting study, which recommended 14 sites and never evaluated Mt. Si against its siting criteria. We have [EPRI failure rate data](/fire-risk). We have the [Larsson HF study](/assets/larsson-2017-hf-emissions.pdf). And we have the fact that [Jupiter Power already has a sodium-ion supply agreement](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) with Peak Energy for other projects.
 
 Source: [Hearing Examiner Decision](https://skagitcounty.net/OfficeOfLandUseHearings/Documents/12202024/Decision_SUP_Nextrea.Battery.pdf) (PDF, 26 pages)
 
@@ -81,7 +81,7 @@ The city explicitly stated that even a driveway within the sanitary control area
 
 ### Why the water conditions matter for Cascadia Ridge
 
-A specific, documented environmental resource generates the most aggressive conditions. For Sumner, that was the Dieringer Well. For Cascadia Ridge, it's [Fisher Creek](/site-and-environment): a Type F (fish-bearing) stream running through the northwest portion of the primary parcel, less than 10 vertical feet below the development area, draining into the Snoqualmie River watershed where ESA-listed Chinook salmon, steelhead, and bull trout are present.
+A specific, documented environmental resource generates the most aggressive conditions. For Sumner, that was the Dieringer Well. For Cascadia Ridge, it's [Fisher Creek](/site-and-environment): a Type F (fish-bearing) stream running through the northwest portion of the primary parcel, less than 10 vertical feet below the development area, draining via Kimball Creek into the Snoqualmie River just above Snoqualmie Falls, with ESA-listed Chinook, steelhead, and bull trout documented in the reaches below the Falls.
 
 The well protection conditions (deeding land to the city, hydrogeologic assessment, secondary containment with raised curbs) are a model for what Fisher Creek protections should look like.
 

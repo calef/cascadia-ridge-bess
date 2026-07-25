@@ -9,7 +9,7 @@ title: "Project Overview"
 | Project entity | Cascadia Ridge Resiliency LLC (Delaware LLC, Austin TX). Originally formed as "Snoqualmie Energy Storage LLC" in December 2023, renamed June 2025. |
 | Landowners | [Snoqualmie 55 LLC](https://opencorporates.com/companies/us_wa/604973888), Nause LLC, Landgraf, Arnold |
 | Type | Battery energy storage system (BESS). Jupiter Power has stated chemistry is "expected to be lithium ion (LFP) or sodium ion" but has not committed. |
-| Capacity | 130 MW / 520-780 MWh (4- or 6-hour duration, undecided per Jupiter Power) |
+| Capacity | Approximately 130 MW. No megawatt-hour rating appears anywhere in the July 2026 resubmittal. The filing implies 520-780 MWh at 4-to-6-hour duration, while the applicant's own enclosure count implies roughly 1,960 MWh. [Capacity is unresolved.](/what-the-records-show) |
 | Site | ~45 acres across [6 parcels](/site-and-environment#parcels), unincorporated King County. Includes parcel [3624079030](/parcel-9030/) (PSE-owned, ~5 ac), which provides the generation tie-line corridor to the substation. Confirmed by Jupiter Power, April 6, 2026. |
 | Zoning | UR (Urban Reserve). BESS is a permitted use, no Conditional Use Permit (CUP) required |
 | Interconnection | 115kV tie-line to PSE Mt. Si substation via parcel [3624079030](/parcel-9030/) (PSE-owned, subject to a perpetual City of Snoqualmie [covenant](/recorded-documents) protecting wetland and stream buffer, vegetation, and native growth areas) |

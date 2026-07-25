@@ -2,7 +2,7 @@
 title: "Cultural Resources and Tribal Consultation"
 ---
 
-The site sits in the ancestral territory of the Snoqualmie Indian Tribe, within about six miles of the Tribe's Reservation and less than a mile from Snoqualmie Falls, a Traditional Cultural Property listed on the National Register of Historic Places. The Tribe owns a parcel in the same section as the project. SEPA requires the environmental review to address impacts on historic and cultural resources. On the current record, that review has not been done adequately, and the applicant's own contracting partner says so.
+The site sits in the ancestral territory of the Snoqualmie Indian Tribe, within about 0.75 miles of the Snoqualmie Reservation and less than a mile from Snoqualmie Falls, a Traditional Cultural Property listed on the National Register of Historic Places. The Tribe owns a parcel in the same section as the project. SEPA requires the environmental review to address impacts on historic and cultural resources. On the current record, that review has not been done adequately, and the applicant's own contracting partner says so.
 
 ## PSE's own due diligence found the cultural review deficient
 

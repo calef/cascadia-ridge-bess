@@ -121,7 +121,7 @@ On March 11, 2026, the Vacaville City Council [unanimously adopted a BESS ordina
 
 Vacaville is the first U.S. jurisdiction to enact a permanent ordinance restricting battery chemistry rather than banning BESS outright. It proves the concept is legislatively viable. But the implementation is closer to a ban than a standard.
 
-After increasing setbacks from 300 to 500 feet, the city's own suitability analysis found only one parcel in the entire city that qualifies: the former Gibson Canyon Creek Wastewater Treatment Plant. The council had already voted against a BESS project on that same site. The technology assessment recommended vanadium redox flow batteries, a chemistry with only a handful of small (1-2 MW) US grid deployments and roughly twice the cost of lithium-ion. Sodium-ion, which is commercially available and eliminates thermal runaway risk, was not evaluated.
+After increasing setbacks from 300 to 500 feet, the city's own suitability analysis found only one parcel in the entire city that qualifies: the former Gibson Canyon Creek Wastewater Treatment Plant. The council had already voted against a BESS project on that same site. The technology assessment recommended vanadium redox flow batteries, a chemistry with only a handful of small (1-2 MW) US grid deployments and roughly twice the cost of lithium-ion. Sodium-ion, which is commercially available and sharply reduces thermal-runaway potential risk, was not evaluated.
 
 The result: lithium-ion is banned, the recommended alternative is impractical, and the only eligible site has already been rejected. That's a de facto ban, not a technology standard.
 
