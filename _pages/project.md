@@ -35,7 +35,7 @@ Founded 2017, acquired by [BlackRock](https://www.blackrock.com/) (Diversified I
 
 They're also behind the [Blackberry Grove project](https://blackberrygroveenergy.com/) (100 MW) near Hillsboro, Oregon, the most contested land use case in Washington County history, opposed by the [No Batteries In Backyards](https://nobatteriesinbackyards.org/) group.
 
-In 2025, Jupiter Power signed a [**$500 million / 4.75 GWh supply agreement with Peak Energy for sodium-ion batteries**](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html), a chemistry that has shown no thermal runaway in abuse testing, with reduced toxic emissions and passive cooling. CTO Mike Geier called it a "potential game changer." The company proposing lithium-ion for Snoqualmie Ridge is spending half a billion dollars on the technology that would fix the problems Snoqualmie Ridge is worried about.
+On November 12, 2025, Jupiter Power announced a [**sodium-ion supply agreement with Peak Energy**](https://www.prnewswire.com/news-releases/peak-energy-signs-4-75-gwh-contract-with-jupiter-power-for-industry-leading-sodium-ion-battery-storage-systems-302612467.html) covering a firm 720 MWh for 2027 delivery plus a reservation of up to 4 GWh through 2030, up to 4.75 GWh in total, which the parties said could be worth more than $500 million. Sodium-ion has shown markedly lower thermal-runaway potential in controlled abuse testing, with reduced toxic emissions and passive cooling. CTO Mike Geier called it a "potential game changer." The company proposing lithium-ion for Snoqualmie Ridge has contracted at scale for the technology that would reduce the risks Snoqualmie Ridge is worried about.
 
 ## PSE tolling agreement
 
@@ -87,7 +87,7 @@ On April 6, 2026, Jupiter Power's VP of Development Hans Detweiler and lead engi
 - **Gen-tie parcel:** Parcel [9030](/parcel-9030/) (PSE-owned) provides the generation tie-line corridor to the substation. This parcel is bound by a perpetual City of Snoqualmie [covenant](/recorded-documents) whose wetland and stream buffer, vegetation maintenance, and native growth protection areas require prior written City approval for disturbance.
 - **Noise:** Site-specific modeling shows 50 dBA or less at the property lines. The noise study will be included in the SEPA application package.
 - **Water supply:** On-site water storage tanks plus a nearby fire hydrant, described as a "belt-and-suspenders" approach being finalized with Eastside Fire & Rescue.
-- **Chemistry:** Jupiter cited sodium-ion as "not yet proven in utility-scale projects in the United States" as a factor in the decision, despite their own $500M sodium-ion supply agreement with Peak Energy.
+- **Chemistry:** Jupiter cited sodium-ion as "not yet proven in utility-scale projects in the United States" as a factor in the decision, despite their own November 2025 sodium-ion supply agreement with Peak Energy.
 - **Ownership transfer:** If the project changes hands, the project company (Cascadia Ridge Resiliency LLC) would be sold as an entity, keeping financial responsibility within the project company.
 
 Regardless of which battery chemistry is selected, the site raises questions about toxic gas dispersion, emergency response, seismic risk, and groundwater that a SEPA checklist cannot credibly evaluate. That is why we are asking King County to require a [full Environmental Impact Statement](/what-we-are-asking).
