@@ -79,6 +79,18 @@ The fire authorities are already on the record: Fire District 38's elected board
 
 ## When the SEPA comment window opens
 
+### How to watch for the comment window yourself {#watch}
+
+The 14-day comment window opens the day King County publishes the Notice of Application for GRDE26-0036. You do not have to wait for anyone to tell you. There are three ways to know, and the third one puts the County's own email in your inbox.
+
+**1. Ask King County to add you as a party of record.** This is the most reliable option and it takes one email. Write to [PermitQuestions@kingcounty.gov](mailto:PermitQuestions@kingcounty.gov), copy [AskLocalServices@kingcounty.gov](mailto:AskLocalServices@kingcounty.gov), and ask them to add you as a party of record for permit **GRDE26-0036** and to place you on the notification list for the Notice of Application. Include your name, mailing address, and email. It helps to name the parcels: 3624079030, 3624079039, 3624079093, 3624079100, 3624079101, and 3624079103. King County confirmed this works — it granted the same request in under an hour when we filed ours.
+
+**2. Watch the County's public notices page.** The Notice of Application posts at [King County's public notices page](https://kingcounty.gov/en/dept/local-services/buildings-property/public-notices-permit-records-search/public-notices). No account needed.
+
+**3. Watch the permit record.** The grading permit is **GRDE26-0036** in King County's permit portal, linked from our [permitting page](/permitting). Watch for the status to move past intake and for a public notice to appear.
+
+If you see the Notice of Application post, tell other people. Do not assume someone else already has.
+
 ### Submit a SEPA comment
 
 Jupiter Power's clearing-and-grading permit (GRDE26-0036) is filed and under County review. When King County accepts it as complete and publishes the Notice of Application, a 14-day public comment window opens. The comments submitted during that period form the legal record. If an issue isn't raised during SEPA comments, it cannot be raised later in an appeal. We'll send an alert when the window opens.
