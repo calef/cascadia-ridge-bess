@@ -3,6 +3,8 @@ title: "Recorded Documents"
 description: "All recorded instruments on parcels associated with the Cascadia Ridge BESS project, retrieved from the King County Recorder's Office."
 ---
 
+Looking for the records we obtained through Public Records Act requests to King County and the City of Snoqualmie (permit files, County-applicant correspondence, internal review records)? See the [Public Records Requests](/public-records) page.
+
 Every document listed here was retrieved from the [King County Recorder's Office](https://recordsearch.kingcounty.gov/LandmarkWeb/search/index?theme=.blue&section=searchCriteriaParcelId&quickSearchSelection=) (LandmarkWeb) in March 2026. Documents recorded before approximately 1991 are not available through LandmarkWeb and have not yet been retrieved; these are noted where we know they exist from references in later documents. If you have access to any of these older records, please [contact us](mailto:chris@crickertech.com).
 
 ## Key documents {#key-documents}
