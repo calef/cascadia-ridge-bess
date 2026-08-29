@@ -22,7 +22,7 @@ King County released the full CMST25-0005 application package and related commun
 
 Before this ordinance, BESS fell under the generic "Utility Facility" category in King County Code, which was a permitted use in all zones with no BESS-specific development conditions or safety standards. Facilities could be placed up to the property line. The ordinance added setbacks, fire code requirements, financial responsibility, fire district coordination, and other conditions that would not otherwise have applied.
 
-Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input. That framework governed the applications Jupiter withdrew. It still matters: EFSEC weighs a proposed facility against local land-use plans and zoning, so Ordinance 19824 and the rest of King County Code become the yardstick the project is measured against rather than the permit it has to obtain.
+Under the site's **UR zoning**, BESS is a permitted use. No Conditional Use Permit, no public hearing, limited formal public input. That framework governed the applications Jupiter withdrew. It still matters. EFSEC weighs a proposed facility against local land-use plans and zoning, so Ordinance 19824 and the rest of King County Code remain the standard this project gets measured against, and EFSEC can carry specific local requirements into a certification as binding conditions. What changes is who enforces them and whether falling short stops the project.
 
 ## What's in the ordinance
 
@@ -63,7 +63,7 @@ What the change means:
 
 - **King County permitting is preempted.** If the state certifies the project, that certification takes the place of local zoning and permitting, city and county alike.
 - **The final decision goes to the Governor.** EFSEC makes a recommendation; the Governor approves or rejects it.
-- **Ordinance 19824's requirements no longer apply as binding permit conditions.** Local codes become a consistency standard EFSEC weighs rather than a set of approvals the project must obtain.
+- **Ordinance 19824 stops being a permit the project has to obtain and becomes a standard it gets measured against.** EFSEC holds a hearing on whether the site is consistent with local land-use plans and zoning. A finding of inconsistency is not a veto; the Council can recommend approval anyway. But the reverse is also true: EFSEC can write local requirements into the certification as binding conditions, and local governments take part in the proceeding. The county's standards are weighed rather than enforced by the county, not erased.
 - **There is still public process, at the state level.** It includes comment opportunities, an early public hearing on whether the project is consistent with local land-use plans and zoning, and a formal proceeding in which affected people and organizations can seek party status to participate directly.
 
 Two things preemption does not do: it does not erase recorded property rights, such as the covenants and easements on the corridor parcels, and it does not compel the City of Snoqualmie to provide water service.
