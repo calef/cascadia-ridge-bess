@@ -79,10 +79,6 @@ The fire authorities are already on the record: Fire District 38's elected board
 
 Jupiter has said it is going to the state. It has not filed yet. **We check EFSEC's records daily and will email the list the day a filing appears.** [Sign up for updates](/subscribe) and you don't have to track it yourself.
 
-### The county party-of-record route is closed
-
-This page used to walk through asking King County to add you as a party of record on GRDE26-0036 and FLOD26-0137. Both permits are withdrawn, so those requests no longer do anything, and we have removed the instructions rather than leave people filing them. If you already submitted one, you do not need to do anything; there is no county proceeding left for the notice to attach to. EFSEC participation works differently, through comment and through formal party status in the proceeding, and we will publish specific instructions once the application is filed and the schedule is known.
-
 ### Prepare your comment now
 
 The venue changed. The substance did not. The site conditions, the fire and emissions questions, the water supply problem, the groundwater and stream issues, and the proximity to homes and schools are all the same facts, and they will be argued to EFSEC instead of to King County.
