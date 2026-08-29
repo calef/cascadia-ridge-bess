@@ -12,9 +12,8 @@ If you do one thing, [sign up for updates](/subscribe). We'll alert you when Jup
 
 After that:
 
-1. **Now:** Comment to the state utility commission on PSE's rate case. That window is open today, unlike the state siting process, and it is described first below.
-2. **Also now:** Start preparing your comment on the project itself. EFSEC runs its own comment opportunities once an application is filed, and the substance of a good comment does not change with the venue. [Read our comment guide](/sepa-comments) and pick the one topic where you have knowledge or standing. The [Sources and Evidence library](/sources) has the primary sources to cite.
-3. **Then:** If you have energy beyond your own comment, the targeted asks below cover the gaps that remain.
+1. **Now:** Start preparing your comment on the project itself. EFSEC runs its own comment opportunities once an application is filed, and the substance of a good comment does not change with the venue. [Read our comment guide](/sepa-comments) and pick the one topic where you have knowledge or standing. The [Sources and Evidence library](/sources) has the primary sources to cite.
+2. **Then:** If you have energy beyond your own comment, the targeted asks below cover the gaps that remain.
 
 ## What the institutions have already done
 
@@ -28,12 +27,6 @@ The groundwork phase of this effort asked local institutions to engage. They hav
 See the [updates timeline](/updates) for all of it. What remains is below.
 
 ## What you can do now
-
-### Comment to the WUTC on PSE's rate case
-
-PSE is asking the WUTC to approve cost recovery for the Cascadia Ridge tolling agreement in its 2026 general rate case (Docket UE-260005). The City of Snoqualmie, the City of North Bend, and Fire District 38 have each asked the Commission to defer or condition any finding that this project's costs were prudent until safety, siting, and permitting questions are resolved. Individual ratepayers can file public comments in the same docket.
-
-The comment window is open now: the Commission's review runs through late 2026, with new rates taking effect in early 2027 if approved, so comments filed today are timely. Use the [UTC's comment form](https://www.utc.wa.gov/get-help-utility-or-transportation-service/submit-comment) or email [comments@utc.wa.gov](mailto:comments@utc.wa.gov), referencing **Docket UE-260005** (the [docket record](https://www.utc.wa.gov/casedocket/2026/260005) shows the letters already filed). Ask the Commission to make no prudence determination on the Cascadia Ridge tolling agreement until the environmental review and local permitting questions are resolved.
 
 ### Write to the Snoqualmie City Council
 
