@@ -4,12 +4,17 @@ title: "Take Action"
 
 ## Where to start
 
-If you do one thing, [sign up for updates](/subscribe). We'll alert you when the SEPA comment window opens, when new permits are filed, and when community meetings are scheduled.
+<div class="callout" markdown="1">
+**What changed in August 2026.** Jupiter Power withdrew both of its King County permits and will seek approval from the state instead, through the Energy Facility Site Evaluation Council (EFSEC). The 14-day county comment window this page used to prepare people for will not open. No state application has been filed yet. The work below is still worth doing, and some of it matters more now, not less. See [the EFSEC process](/permitting#efsec-opt-in) for what the change means.
+</div>
+
+If you do one thing, [sign up for updates](/subscribe). We'll alert you when Jupiter files with the state, when comment opportunities open, and when community meetings are scheduled.
 
 After that:
 
-1. **Now:** Start preparing your SEPA comment. Jupiter's clearing-and-grading permit (GRDE26-0036) is filed and through intake review; when King County accepts it as complete and publishes the Notice of Application, a 14-day State Environmental Policy Act (SEPA) comment window opens, and it will move fast. [Read our SEPA comment guide](/sepa-comments) and pick the one topic where you have knowledge or standing. The [Sources and Evidence library](/sources) has the primary sources to cite.
-2. **Then:** If you have energy beyond your own comment, the targeted asks below cover the gaps that remain.
+1. **Now:** Comment to the state utility commission on PSE's rate case. That window is open today, unlike the state siting process, and it is described first below.
+2. **Also now:** Start preparing your comment on the project itself. EFSEC runs its own comment opportunities once an application is filed, and the substance of a good comment does not change with the venue. [Read our comment guide](/sepa-comments) and pick the one topic where you have knowledge or standing. The [Sources and Evidence library](/sources) has the primary sources to cite.
+3. **Then:** If you have energy beyond your own comment, the targeted asks below cover the gaps that remain.
 
 ## What the institutions have already done
 
@@ -34,7 +39,7 @@ The comment window is open now: the Commission's review runs through late 2026, 
 
 The City has done the heavy lifting. Three asks remain:
 
-- **Ask the City to carry its funded expert review into the SEPA record.** The City's outside consultants are reviewing fire and emergency response, plume dispersion, stormwater, noise, and water resources. Those findings matter most as formal SEPA comments filed during the County's comment window, where they become part of the legal record.
+- **Ask the City to carry its funded expert review into the SEPA record.** The City's outside consultants are reviewing fire and emergency response, plume dispersion, stormwater, noise, and water resources. Those findings matter most as formal comments filed into the state proceeding, where they become part of the record EFSEC decides on.
 - **Enforce the recorded covenant restrictions** on the PSE corridor parcels. The City holds a perpetual Covenant and Grant of Easement (Rec# 20110429001446) whose vegetation maintenance, buffer, and native growth protection areas require prior written City approval for disturbance. BESS construction traffic and gen-tie clearing through those areas would need that approval, and the city has standing to say so.
 - **Update the city's evacuation plan** to address an industrial toxic release scenario. The current plan (November 2017) does not contemplate a chemical fire producing hydrogen fluoride adjacent to Snoqualmie Ridge.
 
@@ -48,8 +53,8 @@ Email Ken Rudberg (Director of Quality, Risk & Compliance): [kenr@snoqualmiehosp
 
 Ask them to:
 
-- **Request a full Environmental Impact Statement** from King County. A comment from the local hospital on patient safety and emergency capacity carries institutional weight that individual comments cannot.
-- **Participate in the SEPA review** when the comment window opens.
+- **Request a full Environmental Impact Statement.** A comment from the local hospital on patient safety and emergency capacity carries institutional weight that individual comments cannot. The request now goes to EFSEC rather than to King County.
+- **Participate in the state environmental review** when EFSEC opens comment.
 - **Evaluate whether the hospital can treat mass hydrogen fluoride exposure.** HF requires calcium gluconate and specialized decontamination protocols. Does the hospital stock these? How many patients can it handle simultaneously?
 - **Update the hospital's emergency operations plan** to include an industrial toxic release scenario from the adjacent BESS facility.
 
@@ -57,15 +62,15 @@ Ask them to:
 
 The project site is surrounded by dozens of private domestic wells, with the highest concentration in the unincorporated residential area downhill to the southwest (31 water wells in that quarter section alone). The City of Snoqualmie also draws its municipal water from valley groundwater wells. Contaminated firefighting runoff from a lithium-ion battery fire (heavy metals, fluoride compounds, electrolyte) could migrate through soil to groundwater. No hydrogeologic assessment has been submitted for this project.
 
-If you're on a private well near the project site, you have a direct stake in the SEPA review. Your comment about groundwater risk carries weight that a general safety concern does not. See our [groundwater analysis](/site-and-environment#groundwater) for the data, including well locations, depth ranges, and the Sumner precedent where a public water well on a BESS project parcel triggered the strongest groundwater conditions in any Washington BESS project.
+If you're on a private well near the project site, you have a direct stake in the environmental review. Your comment about groundwater risk carries weight that a general safety concern does not. See our [groundwater analysis](/site-and-environment#groundwater) for the data, including well locations, depth ranges, and the Sumner precedent where a public water well on a BESS project parcel triggered the strongest groundwater conditions in any Washington BESS project.
 
-When the SEPA comment window opens, submit a comment identifying your well and asking King County to require a hydrogeologic assessment before issuing a development permit.
+When the comment window opens, submit a comment identifying your well and asking that a hydrogeologic assessment be required before the project is certified.
 
 ### Write to local fire agencies
 
-The fire authorities are already on the record: Fire District 38's elected board opposes the siting, and Chief Aho has stated EF&R "cannot confirm" preparedness. The remaining work is converting those positions into the County's decision record:
+The fire authorities are already on the record: Fire District 38's elected board opposes the siting, and Chief Aho has stated EF&R "cannot confirm" preparedness. The remaining work is converting those positions into the state's decision record:
 
-- **Submit the District's opposition and preparedness assessment as formal SEPA comments** when the County opens the comment window. Statements filed with the WUTC do not automatically reach King County's SEPA record.
+- **Submit the District's opposition and preparedness assessment as formal comments** when EFSEC opens its comment window. Statements filed with the WUTC do not automatically reach the state siting record.
 - **Evaluate whether existing mutual aid agreements** can handle a multi-day battery fire producing hydrogen fluoride adjacent to a residential community.
 - **Assess fire suppression water supply.** The project parcels have no municipal water connection, no fire hydrants, and no water mains.
 
@@ -77,41 +82,35 @@ The fire authorities are already on the record: Fire District 38's elected board
 
 ---
 
-## When the SEPA comment window opens
+## When the state process opens
 
-### How to watch for the comment window yourself {#watch}
+### How to watch for the EFSEC filing yourself {#watch}
 
-The 14-day comment window opens the day King County publishes the Notice of Application for GRDE26-0036. You do not have to wait for anyone to tell you. There are three ways to know, and the third one puts the County's own email in your inbox.
+Jupiter has said it is going to the state. It has not filed yet. When it does, the filing is public, and you do not have to wait for anyone to tell you.
 
-**1. Ask King County to add you as a party of record.** This takes one email. Write to [PermitQuestions@kingcounty.gov](mailto:PermitQuestions@kingcounty.gov), copy [AskLocalServices@kingcounty.gov](mailto:AskLocalServices@kingcounty.gov), and ask for both of the County's two open permits on this project: **GRDE26-0036** (clearing and grading) and **FLOD26-0137** (floodplain development). It helps to name the parcels: 3624079030, 3624079039, 3624079093, 3624079100, 3624079101, and 3624079103.
+**1. Watch EFSEC's own pages.** New projects appear on EFSEC's [energy facilities list](https://efsec.wa.gov/energy-facilities) and in the council's [meeting agendas](https://efsec.wa.gov/hearings-and-meetings), often as an agenda item before anything else is posted. EFSEC's [BESS page](https://efsec.wa.gov/battery-energy-storage-system-bess) explains the process generally. No account needed for any of it.
 
-**Include your full mailing address, not just your email.** The County's [SEPA Process page](https://kingcounty.gov/en/dept/local-services/buildings-property/public-notices-permit-records-search/sepa-process) states that requests "need to include the file name and file number of the proposal, along with the name and complete mailing address of the requester." A request without a mailing address gives them something to bounce on. If you would rather phone it in, Permitting Customer Services is 206-296-6600.
+**2. Watch the state environmental register.** Washington's [SEPA register](https://apps.ecology.wa.gov/separegister/) lists environmental determinations statewide and is searchable by county. It will show a determination on this project regardless of what the project ends up being called.
 
-**Use wording like this, and don't skip the last sentence:**
+**3. Let us do it.** We check EFSEC's records daily and will email the list the day a filing appears. [Sign up for updates](/subscribe).
 
-> Please add me as a party of record for permits GRDE26-0036 and FLOD26-0137 and place me on the notification list for the Notice of Application. I am a member of the public asking to be notified, under the definition of party of record at King County Code 21A.06.865. I am not requesting delegate or agent access to the applicant's permit file.
+A note on names: the project may not be filed as "Cascadia Ridge." It has already gone by several names across different agencies. Search for Jupiter Power and for Snoqualmie as well.
 
-That last sentence matters. Two different things at King County are both called a "party." One is a party of record, meaning a member of the public who asks to be notified. The other is a party on the permit itself, meaning the applicant's contractor or agent, who gets access to the application inside the County's software. Adding that second kind does require the applicant's permission. Requests that don't make the distinction clear have been answered as though they were the second kind.
+If you see a filing before we do, tell other people. Do not assume someone else already has.
 
-**If you're told you need the applicant's consent, that answer is wrong. Reply, don't give up.** King County Code 21A.06.865 defines a party of record as a person who "has submitted written comments, testified, **asked to be notified** or is the sponsor of a petition entered as part of the official county record on a specific development proposal." Asking to be notified is enough on its own. Nothing in the code makes it depend on the applicant's consent, and KCC 20.20.090.C.4 requires notice of the decision to go to any person who asked for notice beforehand. The County's own [SEPA Process page](https://kingcounty.gov/en/dept/local-services/buildings-property/public-notices-permit-records-search/sepa-process) tells the public to do exactly this: "Any person interested in receiving information related to the environmental reviews of development proposals, such as notice information of SEPA appeals, should contact Permitting Customer Services and ask to be made a 'Party of Record.'" That same page gives Permitting Customer Services as 206-296-6600 and PermitQuestions@kingcounty.gov. No applicant consent, no party type. And King County granted this same request on GRDE26-0036, in thirty-one minutes and with no applicant involved, when we filed ours by email on May 21, 2026. Quote those back and ask them to reclassify your request.
+### The county party-of-record route is closed
 
-GRDE26-0036 is the permit that carries the SEPA review and the one whose Notice of Application opens the comment window. The County has said the two permits are being reviewed concurrently, so asking for both costs nothing and makes sure you are not left off a notice issued under the other.
+This page used to walk through asking King County to add you as a party of record on GRDE26-0036 and FLOD26-0137. Both permits are withdrawn, so those requests no longer do anything, and we have removed the instructions rather than leave people filing them. If you already submitted one, you do not need to do anything; there is no county proceeding left for the notice to attach to. EFSEC participation works differently, through comment and through formal party status in the proceeding, and we will publish specific instructions once the application is filed and the schedule is known.
 
-**2. Watch the County's public notices page.** The Notice of Application posts at [King County's public notices page](https://kingcounty.gov/en/dept/local-services/buildings-property/public-notices-permit-records-search/public-notices). No account needed.
+### Prepare your comment now
 
-**3. Watch the permit records.** The grading permit is **GRDE26-0036** and the floodplain permit is **FLOD26-0137**, both in King County's permit portal and linked from our [permitting page](/permitting). Watch for the status to move past intake and for a public notice to appear.
+The venue changed. The substance did not. The site conditions, the fire and emissions questions, the water supply problem, the groundwater and stream issues, and the proximity to homes and schools are all the same facts, and they will be argued to EFSEC instead of to King County.
 
-If you see the Notice of Application post, tell other people. Do not assume someone else already has.
+**[Read our guide on how to write an effective comment](/sepa-comments).** It covers the legal standard, the checklist elements relevant to this project, what makes a comment effective, and what to avoid. You don't need to cover everything. One well-supported comment on a single topic is more valuable than a vague letter touching all of them. Start now so you are ready when the window opens rather than starting from scratch inside it.
 
-### Submit a SEPA comment
+### Push the institutions above to participate
 
-Jupiter Power's clearing-and-grading permit (GRDE26-0036) is filed and under County review. When King County accepts it as complete and publishes the Notice of Application, a 14-day public comment window opens. The comments submitted during that period form the legal record. If an issue isn't raised during SEPA comments, it cannot be raised later in an appeal. We'll send an alert when the window opens.
-
-**[Read our guide on how to write an effective SEPA comment](/sepa-comments).** It covers the legal standard, the checklist elements relevant to this project, what makes a comment effective, and what to avoid. You don't need to cover everything. One well-supported comment on a single topic is more valuable than a vague letter touching all of them. Start reading now so you're ready the day the window opens.
-
-### Push the institutions above to submit formal comments
-
-The City, the school district, and the fire agencies have all taken public positions. During the SEPA window, follow up and ask each to put those positions into a formal comment to King County. Institutional comments on the record carry more weight than individual letters, and positions stated elsewhere (a WUTC filing, a board resolution, a press statement) do not reach the County's SEPA record unless someone files them there.
+The City, the school district, and the fire agencies have all taken public positions. Those positions were built for a county proceeding that no longer exists, and they do not carry over on their own. Ask each to bring what it has already said into the state process, through comment, through the consistency hearing on local land-use codes, or through formal party status. Institutional participation carries weight that individual letters cannot, and a position stated elsewhere (a WUTC filing, a board resolution, a press statement) reaches the state record only if someone puts it there.
 
 ---
 
