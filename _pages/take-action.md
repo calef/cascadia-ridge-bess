@@ -77,19 +77,7 @@ The fire authorities are already on the record: Fire District 38's elected board
 
 ## When the state process opens
 
-### How to watch for the EFSEC filing yourself {#watch}
-
-Jupiter has said it is going to the state. It has not filed yet. When it does, the filing is public, and you do not have to wait for anyone to tell you.
-
-**1. Watch EFSEC's own pages.** New projects appear on EFSEC's [energy facilities list](https://efsec.wa.gov/energy-facilities) and in the council's [meeting agendas](https://efsec.wa.gov/hearings-and-meetings), often as an agenda item before anything else is posted. EFSEC's [BESS page](https://efsec.wa.gov/battery-energy-storage-system-bess) explains the process generally. No account needed for any of it.
-
-**2. Watch the state environmental register.** Washington's [SEPA register](https://apps.ecology.wa.gov/separegister/) lists environmental determinations statewide and is searchable by county. It will show a determination on this project regardless of what the project ends up being called.
-
-**3. Let us do it.** We check EFSEC's records daily and will email the list the day a filing appears. [Sign up for updates](/subscribe).
-
-A note on names: the project may not be filed as "Cascadia Ridge." It has already gone by several names across different agencies. Search for Jupiter Power and for Snoqualmie as well.
-
-If you see a filing before we do, tell other people. Do not assume someone else already has.
+Jupiter has said it is going to the state. It has not filed yet. **We check EFSEC's records daily and will email the list the day a filing appears.** [Sign up for updates](/subscribe) and you don't have to track it yourself.
 
 ### The county party-of-record route is closed
 
