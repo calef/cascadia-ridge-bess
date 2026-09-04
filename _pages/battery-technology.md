@@ -18,7 +18,7 @@ Thermal runaway is an uncontrolled temperature rise inside a battery cell that f
 |---|---|---|---|
 | 2017–2019 | [South Korea (23+ sites)](https://www.pv-magazine.com/2023/07/04/whats-behind-south-koreas-battery-fire-accidents/) | Various | 23+ fires, $32M+ losses, 522 ESS units shut down nationwide. Root causes: insufficient battery protection, poor installation, BMS integration gaps |
 | Apr 2019 | [McMicken, AZ](https://www.utilitydive.com/news/aps-says-runaway-thermal-event-caused-2019-battery-explosion-outlines-4-st/582475/) | 2 MW | Explosion injured 4 firefighters seriously, 8+ first responders total |
-| May 2024 | [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) | 250 MW | Burned 11 days, EPA-ordered cleanup |
+| May 2024 | [Gateway, San Diego](https://www.epa.gov/newsreleases/epa-orders-cleanup-following-battery-fire-gateway-energy-storage-facility-san-diego) | 250 MW | Ignited May 15, flare-ups to May 28 (13 days), EPA-ordered cleanup |
 | Jan 2025 | [Moss Landing, CA](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) | 300 MW | 1,200–1,500 evacuated, largest EPA lithium-ion cleanup in history |
 
 ### What comes out of a lithium-ion battery fire
@@ -30,7 +30,7 @@ Thermal runaway is an uncontrolled temperature rise inside a battery cell that f
 
 ### Reignition
 
-These fires come back. Undamaged cells in a partially burned facility still hold energy, and that energy can reignite days or weeks later. Gateway reignited repeatedly over 11 days.
+These fires come back. Undamaged cells in a partially burned facility still hold energy, and that energy can reignite days or weeks later. Gateway ignited on May 15, 2024 and kept flaring up until May 28, thirteen days later.
 
 ### Why this site is different
 
